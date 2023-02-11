@@ -1,5 +1,6 @@
 # ciencia-de-proteinas-basada-en-IA
 Material didactico para aprender ciencia de proteinas basada en Inteligencia Artificial (en Español)
+
 Nota: texto sin acentos
 
 
