@@ -20,6 +20,21 @@ Nota: texto sin acentos
 | [hefeda/design_tools](https://github.com/hefeda/design_tools) | Listado de herramientas para analisis de proteinas basado en IA  |
 | [duerrsimon/folding_tools](https://github.com/duerrsimon/folding_tools/) | Listado de herramientas para analisis de proteinas basado en IA  |
 
+# Herramientas recomendadas
+| Repo | Descripcion | 
+|-----------|-----------| 
+| [SeqKit](https://bioinf.shenwei.me/seqkit/) | Manipulacion de secuencias genomicas |
+| [bio_embeddings](https://github.com/sacdallago/bio_embeddings) | Implementacion de varios lenguajes de proteinas  |
+| [TRILL ](https://github.com/martinez-zacharya/TRILL) | Implementacion de varios lenguajes de proteinas  |
+| [FoldSeek](https://github.com/steineggerlab/foldseek) | Blasteo estructural |
+| [Graph-Part](https://github.com/graph-part/graph-part) |  Preparacion de datasets de secuencias de proteinas  |
+| [FoldSeek](https://github.com/steineggerlab/foldseek) | Blasteo estructural |
+| [Graphein](https://github.com/a-r-j/graphein) | Codificacion de proteinas con teoria de grafos |
+| [ProtLearn ](https://github.com/tadorfer/protlearn) | Codificacion de proteinas en vectores para el entrenamiento de algoritmos de machine learning |
+| [Pfeature](https://github.com/raghavagps/Pfeature) |Codificacion de proteinas en vectores para el entrenamiento de algoritmos de machine learning  |
+| [LazyPredict](https://github.com/shankarpandala/lazypredict) | Comparacion automatica de varios algoritmos de clasificacion y regresion |
+
+
 # Webservers basados en IA  
 | Repo | Descripcion | 
 |-----------|-----------| 
