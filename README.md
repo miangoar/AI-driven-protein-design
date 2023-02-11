@@ -29,7 +29,8 @@ Nota: texto sin acentos
 | [FoldSeek](https://github.com/steineggerlab/foldseek) | Blasteo estructural |
 | [Graph-Part](https://github.com/graph-part/graph-part) |  Preparacion de datasets de secuencias de proteinas  |
 | [FoldSeek](https://github.com/steineggerlab/foldseek) | Blasteo estructural |
-| [Graphein](https://github.com/a-r-j/graphein) | Codificacion de proteinas con teoria de grafos |
+| [Graphein](https://github.com/a-r-j/graphein) | Codificacion de estructuras de proteinas con teoria de grafos |
+| [PyUUL](https://pyuul.readthedocs.io/index.html) | Codificacion de estructuras de proteinas con algoritmos de analisis 3D |
 | [ProtLearn ](https://github.com/tadorfer/protlearn) | Codificacion de proteinas en vectores para el entrenamiento de algoritmos de machine learning |
 | [Pfeature](https://github.com/raghavagps/Pfeature) |Codificacion de proteinas en vectores para el entrenamiento de algoritmos de machine learning  |
 | [LazyPredict](https://github.com/shankarpandala/lazypredict) | Comparacion automatica de varios algoritmos de clasificacion y regresion |
