@@ -6,9 +6,12 @@ Nota: texto sin acentos
 
 # Tutoriales
 
-| Notebook | Descripcion | 
-|-----------|-----------| 
-| [Analisis_estructrual_ESMAtlas](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/analisis_estructural_ESMAtlas.ipynb) | En este cuaderno aprenderas como explorar la base de datos ESMAtlas, descargar los resultados, procesarlos y agrupar estructuras de proteinas. |
+
+
+| Notebook | Descripcion | Link a Google Colab|
+|-----------|-----------|-----------|  
+| [Analisis_estructrual_ESMAtlas](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/analisis_estructural_ESMAtlas.ipynb) | En este cuaderno aprenderas como explorar la base de datos ESMAtlas, descargar los resultados, procesarlos y agrupar estructuras de proteinas | [Link](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/analisis_estructural_ESMAtlas.ipynb)|
+
 
 # Repositorios utiles  
 | Repo | Descripcion | 
