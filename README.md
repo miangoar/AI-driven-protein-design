@@ -10,15 +10,15 @@ Nota: texto sin acentos
 
 | Notebook | Descripcion | Link a Google Colab|
 |-----------|-----------|-----------|  
-| [Analisis_estructrual_ESMAtlas](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/analisis_estructural_ESMAtlas.ipynb) | En este cuaderno aprenderas como explorar la base de datos ESMAtlas, descargar los resultados, procesarlos y agrupar estructuras de proteinas | [Link](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/analisis_estructural_ESMAtlas.ipynb)|
+| [Analisis_estructrual_ESMAtlas](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/analisis_estructural_ESMAtlas.ipynb) | En este cuaderno aprenderas como explorar la base de datos ESMAtlas, descargar los resultados, procesarlos y agrupar estructuras de proteinas | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/analisis_estructural_ESMAtlas.ipynb) |
 
 
 # Repositorios utiles  
 | Repo | Descripcion | 
 |-----------|-----------| 
-| [folding_tools](https://github.com/biolists/folding_tools) | xxx |
-| [design_tools](https://github.com/hefeda/design_tools) | xxx |
-| [folding_tools](https://github.com/duerrsimon/folding_tools/) | xxx |
+| [biolists/folding_tools](https://github.com/biolists/folding_tools) | Listado de herramientas para analisis de proteinas basado en IA |
+| [hefeda/design_tools](https://github.com/hefeda/design_tools) | Listado de herramientas para analisis de proteinas basado en IA  |
+| [duerrsimon/folding_tools](https://github.com/duerrsimon/folding_tools/) | Listado de herramientas para analisis de proteinas basado en IA  |
 
 # Webservers basados en IA  
 | Repo | Descripcion | 
