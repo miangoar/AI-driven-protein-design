@@ -20,9 +20,9 @@ Nota: texto sin acentos
 # Webservers basados en IA  
 | Repo | Descripcion | 
 |-----------|-----------| 
-| [ProteInfer]([https://github.com/biolists/folding_tools](https://google-research.github.io/proteinfer/)) | predicting the functional properties of a protein from its amino acid sequence using neural networks |
-| [GoPredSim]([https://github.com/hefeda/design_tools](https://embed.protein.properties/)) | Predict protein properties from embeddings |
-| [DeepFRI]([https://github.com/duerrsimon/folding_tools/](https://beta.deepfri.flatironinstitute.org/)) | structure-based protein function prediction (and functional residue identification) method using Graph Convolutional Networks with Language Model features |
+| [ProteInfer](https://google-research.github.io/proteinfer/) | predicting the functional properties of a protein from its amino acid sequence using neural networks |
+| [GoPredSim](https://embed.protein.properties/) | Predict protein properties from embeddings |
+| [DeepFRI](https://beta.deepfri.flatironinstitute.org/) | structure-based protein function prediction (and functional residue identification) method using Graph Convolutional Networks with Language Model features |
 
 
 # Paginas web para aprender sobre las bases de machine learning   
