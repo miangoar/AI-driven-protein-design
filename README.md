@@ -37,7 +37,7 @@ Nota: texto sin acentos
 
 
 # Webservers basados en IA  
-| Repo | Descripcion | 
+| Web | Descripcion | 
 |-----------|-----------| 
 | [ProteInfer](https://google-research.github.io/proteinfer/) | predicting the functional properties of a protein from its amino acid sequence using neural networks |
 | [GoPredSim](https://embed.protein.properties/) | Predict protein properties from embeddings |
@@ -45,7 +45,7 @@ Nota: texto sin acentos
 
 
 # Paginas web para aprender sobre las bases de machine learning   
-| Repo | Descripcion | 
+| Web | Descripcion | 
 |-----------|-----------| 
 | [MLU-EXPLAIN](https://mlu-explain.github.io/) | Visual explanations of core machine learning concepts |
 | [Seeing-Theory](https://seeing-theory.brown.edu/) | Una introduccion a probabilidad y estadistica con animaciones didacticas  |
