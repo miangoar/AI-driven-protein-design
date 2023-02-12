@@ -8,9 +8,6 @@ Nota: texto sin acentos
 
 
 # Tutoriales
-
-
-
 | Notebook | Descripcion | Link a Google Colab|
 |-----------|-----------|-----------|  
 | [Analisis_estructural_ESMAtlas](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/analisis_estructural_ESMAtlas.ipynb) | En este cuaderno aprenderas como explorar la base de datos ESMAtlas, descargar los resultados, procesarlos y agrupar estructuras de proteinas | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/analisis_estructural_ESMAtlas.ipynb) |
@@ -24,6 +21,8 @@ Nota: texto sin acentos
 | [hefeda/design_tools](https://github.com/hefeda/design_tools) | Listado de herramientas para analisis de proteinas basado en IA  |
 | [duerrsimon/folding_tools](https://github.com/duerrsimon/folding_tools/) | Listado de herramientas para analisis de proteinas basado en IA  |
 | [AlphaFold2 rapido](https://twitter.com/sokrypton/status/1535857255647690753) | Una version optimizada de AF2 para correr en segundos las predicciones a costa de perder un poco de calidad (se recomienda usarlo solo para fines de aprendisaje del plegamiento de las proteinas) |
+| [ColabFold](https://github.com/sokrypton/ColabFold) | Implementacion de AF2 en la nube de Google colab  |
+
 
 # Herramientas recomendadas
 | Repo | Descripcion | 
