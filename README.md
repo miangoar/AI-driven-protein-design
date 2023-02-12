@@ -20,7 +20,7 @@ Nota: texto sin acentos
 | [biolists/folding_tools](https://github.com/biolists/folding_tools) | Listado de herramientas para analisis de proteinas basado en IA |
 | [hefeda/design_tools](https://github.com/hefeda/design_tools) | Listado de herramientas para analisis de proteinas basado en IA  |
 | [duerrsimon/folding_tools](https://github.com/duerrsimon/folding_tools/) | Listado de herramientas para analisis de proteinas basado en IA  |
-| [AlphaFold2 rapido](https://twitter.com/sokrypton/status/1535857255647690753) | Una version optimizada de AF2 para correr en segundos las predicciones a costa de perder un poco de calidad (se recomienda usarlo solo para fines de aprendisaje del plegamiento de las proteinas) |
+| [AlphaFold2 rapido](https://twitter.com/sokrypton/status/1535857255647690753) | Una version optimizada de AF2 para correr en segundos las predicciones a costa de perder un poco de calidad (se recomienda usarlo solo para fines de aprendizaje del plegamiento de las proteinas) |
 | [ColabFold](https://github.com/sokrypton/ColabFold) | Implementacion de AF2 en la nube de Google colab  |
 
 
@@ -55,11 +55,11 @@ Nota: texto sin acentos
 # Paginas web para aprender sobre las bases de machine learning   
 | Web | Descripcion | 
 |-----------|-----------| 
-| [MLU-EXPLAIN](https://mlu-explain.github.io/) | Visual explanations of core machine learning concepts |
+| [MLU-EXPLAIN](https://mlu-explain.github.io/) | Blogs interactivos de conceptos y algortimos base de machine learning |
 | [Seeing-Theory](https://seeing-theory.brown.edu/) | Una introduccion a probabilidad y estadistica con animaciones didacticas  |
 | [Distill publications](https://distill.pub/) | Blogs interactivos sobre algoritmos de machine y deep learning |
 | [Neural Network SandBox](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.05854&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) | Blog para comprender las bases del funcionamiento de las redes neuronales |
-| [Stats illustrations](https://github.com/allisonhorst/stats-illustrations) | Iluestraciones para comprender coneptos base de estadistica |
+| [Stats illustrations](https://github.com/allisonhorst/stats-illustrations) | Ilustraciones para comprender conecptos base de estadistica |
 
 
 # Cursos recomendados
