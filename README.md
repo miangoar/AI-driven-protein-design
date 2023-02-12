@@ -46,9 +46,9 @@ Nota: texto sin acentos
 |-----------|-----------| 
 | [ProteInfer](https://google-research.github.io/proteinfer/) | predicting the functional properties of a protein from its amino acid sequence using neural networks |
 | [GoPredSim](https://embed.protein.properties/) | Predict protein properties from embeddings |
-| [ProteinMPNN]([https://embed.protein.properties/](https://huggingface.co/spaces/simonduerr/ProteinMPNN)) | Fixed backbone design |
+| [ProteinMPNN](https://huggingface.co/spaces/simonduerr/ProteinMPNN) | Fixed backbone design |
 | [DeepFRI](https://beta.deepfri.flatironinstitute.org/) | structure-based protein function prediction (and functional residue identification) method using Graph Convolutional Networks with Language Model features |
-| [Amber relaxation]([https://embed.protein.properties/](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/relax_amber.ipynb)) | Usa AMBER para relajar tus estructruas de proteinas y evitar clashes estericos|
+| [Amber relaxation](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/relax_amber.ipynb) | Usa AMBER para relajar tus estructruas de proteinas y evitar clashes estericos|
 
 
 
