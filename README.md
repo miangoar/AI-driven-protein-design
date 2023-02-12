@@ -66,6 +66,7 @@ Nota: texto sin acentos
 | Tema | Descripcion | 
 |-----------|-----------| 
 | [Ciencia de Datos con Python](https://github.com/GAL-Repository/EDA_Stuff) | Introduccion a python, programacion orientada a objetos y machine learning |
-
+| [Biologia estructural](https://eead-csic-compbio.github.io/bioinformatica_estructural/) | Introduccion a python, programacion orientada a objetos y machine learning|
+| [Bash/Linux](https://vinuesa.github.io/intro2linux/index.html) | Introduccion al interprete de linux, Bash |
 
 
