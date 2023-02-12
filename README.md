@@ -63,6 +63,8 @@ Nota: texto sin acentos
 
 
 # Cursos recomendados
+| Tema | Descripcion | 
+|-----------|-----------| 
 | [Ciencia de Datos con Python](https://github.com/GAL-Repository/EDA_Stuff) | Introduccion a python, programacion orientada a objetos y machine learning |
 
 
