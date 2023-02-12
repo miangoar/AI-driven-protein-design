@@ -20,7 +20,7 @@ Nota: texto sin acentos
 | [biolists/folding_tools](https://github.com/biolists/folding_tools) | Listado de herramientas para analisis de proteinas basado en IA |
 | [hefeda/design_tools](https://github.com/hefeda/design_tools) | Listado de herramientas para analisis de proteinas basado en IA  |
 | [duerrsimon/folding_tools](https://github.com/duerrsimon/folding_tools/) | Listado de herramientas para analisis de proteinas basado en IA  |
-| [AlphaFold2 rapido](https://twitter.com/sokrypton/status/1535857255647690753) | Una version optimizada de AF2 para correr en segundos las predicciones a costa de perder un poco de calidad (se recomienda usarlo solo para fines de aprendizaje del plegamiento de las proteinas) |
+| [AlphaFold2 mini](https://twitter.com/sokrypton/status/1535857255647690753) | Una version optimizada de AF2 para correr en segundos las predicciones a costa de perder un poco de calidad (se recomienda usarlo solo para fines de aprendizaje del plegamiento de las proteinas) |
 | [ColabFold](https://github.com/sokrypton/ColabFold) | Implementacion de AF2 en la nube de Google colab  |
 
 
