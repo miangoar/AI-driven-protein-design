@@ -13,7 +13,7 @@ Nota: texto sin acentos
 
 | Notebook | Descripcion | Link a Google Colab|
 |-----------|-----------|-----------|  
-| [Analisis_estructrual_ESMAtlas](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/analisis_estructural_ESMAtlas.ipynb) | En este cuaderno aprenderas como explorar la base de datos ESMAtlas, descargar los resultados, procesarlos y agrupar estructuras de proteinas | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/analisis_estructural_ESMAtlas.ipynb) |
+| [Analisis_estructural_ESMAtlas](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/analisis_estructural_ESMAtlas.ipynb) | En este cuaderno aprenderas como explorar la base de datos ESMAtlas, descargar los resultados, procesarlos y agrupar estructuras de proteinas | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/analisis_estructural_ESMAtlas.ipynb) |
 
 
 # Repositorios utiles  
@@ -27,6 +27,8 @@ Nota: texto sin acentos
 | Repo | Descripcion | 
 |-----------|-----------| 
 | [SeqKit](https://bioinf.shenwei.me/seqkit/) | Manipulacion de secuencias genomicas |
+| [Diamond2](https://github.com/bbuchfink/diamond) | Blasteo de secuencias de proteinas a escala masiva |
+| [MMseqs2](https://github.com/soedinglab/MMseqs2) | Blasteo de secuencias de proteinas a escala masiva |
 | [bio_embeddings](https://github.com/sacdallago/bio_embeddings) | Implementacion de varios lenguajes de proteinas  |
 | [TRILL ](https://github.com/martinez-zacharya/TRILL) | Implementacion de varios lenguajes de proteinas  |
 | [FoldSeek](https://github.com/steineggerlab/foldseek) | Blasteo estructural |
