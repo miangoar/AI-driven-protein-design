@@ -6,6 +6,12 @@ El objetivo de este repositorio es compartir a la comunidad hispanohablante una 
 
 Nota: texto sin acentos
 
+# Videos
+| Tema | Descripcion | Link a Youtube|
+|-----------|-----------|-----------|  
+|Introduccion a la metagenomica |Reconstruccion de genomas a partir de metagenomas|https://youtu.be/ckIbT93Qhjc| 
+
+
 
 # Tutoriales
 | Notebook | Descripcion | Link a Google Colab|
