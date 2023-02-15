@@ -6,11 +6,14 @@ El objetivo de este repositorio es compartir a la comunidad hispanohablante una 
 
 Nota: texto sin acentos
 
-# Videos
+# Videos recomendados
 | Tema | Descripcion | Link a Youtube|
 |-----------|-----------|-----------|  
 |Introduccion a la metagenomica |Reconstruccion de genomas a partir de metagenomas|https://youtu.be/ckIbT93Qhjc| 
-
+|AlphaFold y el Gran Desafío para resolver el plegamiento de proteínas |Breve revision de los algoritmos implementados en AlphaFold y AlphaFold2|https://youtu.be/nGVFbPKrRWQ| 
+|Schrödinger y la biología: 75 años del libro ¿Qué es la vida? |Reconstruccion de genomas a partir de metagenomas|Parte 1) https://www.youtube.com/live/XSWqcksA5vg?feature=share&t=711 ; Parte 2) https://www.youtube.com/live/x35aQO8ifzM?feature=share&t=675; Parte 3) https://www.youtube.com/live/PgbLyOYHEm4?feature=share&t=751| 
+|Simbiosis y evolución |Reconstruccion de genomas a partir de metagenomas| Parte 1) https://www.youtube.com/watch?v=dF2GXGcTer8&ab_channel=elcolegionacionalmx; Parte 2) https://www.youtube.com/live/PfiZZaa_7BA?feature=share; Parte 3) https://www.youtube.com/watch?v=AZT7rf0KNeo&ab_channel=elcolegionacionalmx| 
+|La evolución de las proteínas |Reconstruccion de genomas a partir de metagenomas|https://youtu.be/HFQqB27Uvbg| 
 
 
 # Tutoriales
