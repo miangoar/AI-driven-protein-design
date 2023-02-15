@@ -87,3 +87,7 @@ Nota: texto sin acentos
 |-----------|-----------|-----------|  
 |Celebrating 50 Years of Journal of Molecular Evolution | Serie de pequeñas revisiones sobre evolucion molecular, su modelado e implementaciones  |https://link.springer.com/journal/239/topicalCollection/AC_ad1951b211df6035aed9ade2172865c4| 
 
+
+## Agradecimientos 
+- A [Lorenzo Segovia](https://www.ibt.unam.mx/perfil/1956/dr-alejandro-angel-garciarubio-granados), [Alejandro Garciarrubio](https://www.ibt.unam.mx/perfil/1956/dr-alejandro-angel-garciarubio-granados) y [Jose A. Farias](https://www.fariaslab.org/)
+- A Xaira Rivera y Alejandro Alarcon 
