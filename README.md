@@ -82,3 +82,8 @@ Nota: texto sin acentos
 | [Bash/Linux](https://vinuesa.github.io/intro2linux/index.html) | Introduccion al interprete de linux, Bash |
 
 
+# Literatura de revision recomendada
+| Tema | Descripcion | Link a Youtube|
+|-----------|-----------|-----------|  
+|Celebrating 50 Years of Journal of Molecular Evolution | Serie de pequeñas revisiones sobre evolucion molecular, su modelado e implementaciones  |https://link.springer.com/journal/239/topicalCollection/AC_ad1951b211df6035aed9ade2172865c4| 
+
