@@ -90,4 +90,4 @@ Nota: texto sin acentos
 
 ## Agradecimientos 
 - A [Lorenzo Segovia](https://www.ibt.unam.mx/perfil/1956/dr-alejandro-angel-garciarubio-granados), [Alejandro Garciarrubio](https://www.ibt.unam.mx/perfil/1956/dr-alejandro-angel-garciarubio-granados) y [Jose A. Farias](https://www.fariaslab.org/)
-- A Xaira Rivera y Alejandro Alarcon 
+- A [Xaira Rivera](https://github.com/xairigu) y Alejandro Alarcon 
