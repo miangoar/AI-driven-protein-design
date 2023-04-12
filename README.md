@@ -77,7 +77,6 @@ Nota: texto sin acentos
 # Cursos recomendados
 | Tema | Descripcion | 
 |-----------|-----------| 
-| [Ciencia de Datos con Python](https://github.com/GAL-Repository/EDA_Stuff) | Introduccion a python, programacion orientada a objetos y machine learning |
 | [Algoritmos en Bioinformática Estructural](https://eead-csic-compbio.github.io/bioinformatica_estructural/) | Biologia estructural|
 | [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202) | Biologia estructural |
 | [Bash/Linux](https://vinuesa.github.io/intro2linux/index.html) | Introduccion al interprete de linux, Bash |
