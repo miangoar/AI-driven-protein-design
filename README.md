@@ -89,5 +89,5 @@ Nota: texto sin acentos
 
 
 ## Agradecimientos 
-- A [Lorenzo Segovia](https://www.ibt.unam.mx/perfil/1956/dr-alejandro-angel-garciarubio-granados), [Alejandro Garciarrubio](https://www.ibt.unam.mx/perfil/1956/dr-alejandro-angel-garciarubio-granados) y [Jose A. Farias](https://www.fariaslab.org/)
+- A [Lorenzo Segovia](https://www.ibt.unam.mx/perfil/3432/dr-lorenzo-patrick-segovia-forcella), [Alejandro Garciarrubio](https://www.ibt.unam.mx/perfil/1956/dr-alejandro-angel-garciarubio-granados) y [Jose A. Farias](https://www.fariaslab.org/)
 - A [Xaira Rivera](https://github.com/xairigu) y Alejandro Alarcon 
