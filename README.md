@@ -81,7 +81,9 @@ Nota: texto sin acentos
 | [Algoritmos en Bioinformática Estructural](https://eead-csic-compbio.github.io/bioinformatica_estructural/) | Biologia estructural|
 | [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202) | Biologia estructural |
 | [Bash/Linux](https://vinuesa.github.io/intro2linux/index.html) | Introduccion al interprete de linux, Bash |
-| [LLM]([https://vinuesa.github.io/intro2linux/index.htm](https://txt.cohere.com/llm-university/)l) | Introduccion a los grandes modelos de lenguaje (Large Language Models; LLM) |
+| [LLM](https://txt.cohere.com/llm-university/) | Introduccion a los grandes modelos de lenguaje (Large Language Models; LLM) |
+
+
 
 # Literatura de revision recomendada
 | Tema | Descripcion | Link a Youtube|
