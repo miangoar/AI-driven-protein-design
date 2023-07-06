@@ -53,6 +53,7 @@ Nota: texto sin acentos
 | [Graph-Part](https://github.com/graph-part/graph-part) |  Preparacion de datasets de secuencias de proteinas  |
 | [LazyPredict](https://github.com/shankarpandala/lazypredict) | Comparacion automatica de varios algoritmos de clasificacion y regresion |
 | [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) | Visualizacion de proteinas con calidad profesional usando Blender |
+| [ProDy](http://prody.csb.pitt.edu/tutorials/) | Suite de herramientas de analisis de proteinas |
 
 
 # Webservers basados en IA  
