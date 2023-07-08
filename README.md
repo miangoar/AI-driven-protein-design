@@ -35,6 +35,8 @@ Nota: texto sin acentos
 | [AlphaFold2 mini](https://twitter.com/sokrypton/status/1535857255647690753) | Una version optimizada de AF2 para correr en segundos las predicciones a costa de perder un poco de calidad (se recomienda usarlo solo para fines de aprendizaje del plegamiento de las proteinas) |
 | [Paper for protein desing with deep learning ](https://github.com/Peldom/papers_for_protein_design_using_DL) | Una lista curada de todos los trabajos de diseño de proteinas basado en aprendisaje profundo  |
 | [ColabFold](https://github.com/sokrypton/ColabFold) | Implementacion de AF2 en la nube de Google colab  |
+| [ColabFold Downloads](https://colabfold.mmseqs.com/) | Bases de datos de proteinas (siendo colabfold_envdb_202108 la mas grande, i.e. pesa 110GB)  |
+
 
 
 # Herramientas recomendadas
