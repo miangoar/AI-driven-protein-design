@@ -15,6 +15,8 @@ Nota: texto sin acentos
 |Simbiosis y evolución | Serie de conferencias sobre los niveles de organizacion en biologia con especial enfasis en la simbiosis | Parte 1) https://www.youtube.com/watch?v=dF2GXGcTer8&ab_channel=elcolegionacionalmx <br> Parte 2) https://www.youtube.com/live/PfiZZaa_7BA?feature=share <br> Parte 3) https://www.youtube.com/watch?v=AZT7rf0KNeo&ab_channel=elcolegionacionalmx| 
 |La evolución de las proteínas | Charla de introduccion respecto a la evolucion de proteinas|https://youtu.be/HFQqB27Uvbg| 
 |Emile Zuckerkandl y el nacimiento de la evolución molecular | Charla de introduccion a la evolucion molecular |[https://youtu.be/ckIbT93Qhjc](https://www.youtube.com/watch?v=qCLgEnSUUmc&ab_channel=elcolegionacionalmx)| 
+|Boston Protein Design and Modeling Club | Serie de seminarios sobre los trabajos mas actuales en ingenieria de proteinas |https://www.bpdmc.org/| 
+|ML Protein Engineering Seminar Series |Serie de seminarios sobre los trabajos mas actuales en ingenieria de proteinas basado en machine learning |https://www.ml4proteinengineering.com/| 
 
 
 # Tutoriales
