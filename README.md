@@ -58,6 +58,7 @@ Nota: texto sin acentos
 | [LazyPredict](https://github.com/shankarpandala/lazypredict) | Comparacion automatica de varios algoritmos de clasificacion y regresion |
 | [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) | Visualizacion de proteinas con calidad profesional usando Blender |
 | [ProDy](http://prody.csb.pitt.edu/tutorials/) | Suite de herramientas de analisis de proteinas |
+| [PyPDB](https://github.com/williamgilpin/pypdb) | API para interactuar con la PDB con python |
 
 
 # Webservers basados en IA  
