@@ -60,7 +60,7 @@ Nota: texto sin acentos
 | [ProDy](http://prody.csb.pitt.edu/tutorials/) | Suite de herramientas de analisis de proteinas |
 | [PyPDB](https://github.com/williamgilpin/pypdb) | API para interactuar con la PDB con python |
 | [pdb-tools](https://github.com/haddocking/pdb-tools) | Herramientas para procesamiento y analisis de archivos .pdb |
-| [pdb-tools](https://github.com/modernatx/seqlike) | Manipulacion y representacion de secuencias de proteinas |
+| [seqlike](https://github.com/modernatx/seqlike) | Manipulacion y representacion de secuencias de proteinas |
 
 
 # Webservers basados en IA  
