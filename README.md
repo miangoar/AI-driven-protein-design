@@ -61,7 +61,7 @@ Nota: texto sin acentos
 | [PyPDB](https://github.com/williamgilpin/pypdb) | API para interactuar con la PDB con python |
 | [pdb-tools](https://github.com/haddocking/pdb-tools) | Herramientas para procesamiento y analisis de archivos .pdb |
 | [seqlike](https://github.com/modernatx/seqlike) | Manipulacion y representacion de secuencias de proteinas |
-
+| [BuiNumpy](https://github.com/bionumpy/bionumpy/) | Manipulacion y representacion de secuencias usando numpy |
 
 # Webservers basados en IA  
 | Web | Descripcion | 
