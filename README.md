@@ -62,6 +62,7 @@ Nota: texto sin acentos
 | [pdb-tools](https://github.com/haddocking/pdb-tools) | Herramientas para procesamiento y analisis de archivos .pdb |
 | [seqlike](https://github.com/modernatx/seqlike) | Manipulacion y representacion de secuencias de proteinas |
 | [BioNumpy](https://github.com/bionumpy/bionumpy/) | Manipulacion y representacion de secuencias usando numpy |
+| [pdbfixer](https://github.com/openmm/pdbfixer) | Correccion de errores en archivos .pdb|
 
 # Webservers basados en IA  
 | Web | Descripcion | 
