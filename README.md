@@ -85,6 +85,7 @@ Nota: texto sin acentos
 | [Stats illustrations](https://github.com/allisonhorst/stats-illustrations) | Ilustraciones para comprender conecptos base de estadistica |
 | [3Blue1Brown ](https://www.youtube.com/@3blue1brown) | Videos con interpretaciones graficas sobre conceptos matematicos |
 | [cpu.land](https://cpu.land/) | Una breve introduccion al computo en CPUs |
+| [tensorflow SandBox](https://playground.tensorflow.org/) | Pagina interactiva para aprender las bases del funcionamiento de las redes neuronales|
 
 
 # Cursos recomendados
