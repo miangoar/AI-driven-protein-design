@@ -35,6 +35,8 @@ Nota: texto sin acentos
 |-----------|-----------| 
 | [biolists/folding_tools](https://github.com/biolists/folding_tools) | Listado de herramientas para analisis de proteinas basado en IA |
 | [hefeda/design_tools](https://github.com/hefeda/design_tools) | Listado de herramientas para analisis de proteinas basado en IA  |
+| [Protein language models](https://github.com/biolists/folding_tools/blob/main/pLM.md) | Listado de modelos de lenguaje de proteinas |
+| [biodiffusion](https://github.com/biolists/biodiffusion) | Listado de modelos de difusion especificos para diseño de proteinas  |
 | [duerrsimon/folding_tools](https://github.com/duerrsimon/folding_tools/) | Listado de herramientas para analisis de proteinas basado en IA  |
 | [AlphaFold2 mini](https://twitter.com/sokrypton/status/1535857255647690753) | Una version optimizada de AF2 para correr en segundos las predicciones a costa de perder un poco de calidad (se recomienda usarlo solo para fines de aprendizaje del plegamiento de las proteinas) |
 | [Paper for protein desing with deep learning ](https://github.com/Peldom/papers_for_protein_design_using_DL) | Una lista curada de todos los trabajos de diseño de proteinas basado en aprendisaje profundo  |
