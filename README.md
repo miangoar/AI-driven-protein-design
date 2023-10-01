@@ -17,6 +17,7 @@ Nota: texto sin acentos
 |Emile Zuckerkandl y el nacimiento de la evolución molecular | Charla de introduccion a la evolucion molecular |[https://youtu.be/ckIbT93Qhjc](https://www.youtube.com/watch?v=qCLgEnSUUmc&ab_channel=elcolegionacionalmx)| 
 |Boston Protein Design and Modeling Club | Serie de seminarios sobre los trabajos mas actuales en ingenieria de proteinas |https://www.bpdmc.org/| 
 |ML Protein Engineering Seminar Series |Serie de seminarios sobre los trabajos mas actuales en ingenieria de proteinas basado en machine learning |https://www.ml4proteinengineering.com/| 
+| Cómo Entender la OCTAVA DIMENSIÓN | Comprender datos de alta dimensionalidad |[https://youtu.be/kAjTrAUFIdQ](https://youtu.be/kAjTrAUFIdQ)| 
 
 
 # Tutoriales
