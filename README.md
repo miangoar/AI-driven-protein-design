@@ -71,6 +71,7 @@ Nota: texto sin acentos
 | [pdbfixer](https://github.com/openmm/pdbfixer) | Correccion de errores en archivos .pdb|
 | [ProteinFlow](https://github.com/adaptyvbio/ProteinFlow) | procesamiento de secuencias y estructruas para tareas de machine learning|
 | [cath DB](https://www.cathdb.info/version/v4_3_0/superfamily/3.40.710.10) | Base de datos de plegamientos proteicos. Ejemplo con la superfamilia de serinbetalactamasas|
+| [proteinshake](https://github.com/BorgwardtLab/proteinshake) | procesamiento de estructruas para tareas de machine learning|
 
 
 
