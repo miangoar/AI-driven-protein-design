@@ -28,6 +28,8 @@ Nota: texto sin acentos
 | [Fine tunning of a protein language model. Notebook por Matthew Carrigan - @carrigmat en Twitter](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/protein_language_modeling_by_Matthew_Carrigan.ipynb) | En este cuaderno aprenderas como  re-entrenar (fine-tunning) un lenguaje de proteinas y usarlos para realizar tareas de prediccion a nivel de secuencia y residuo | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/protein_language_modeling-tf.ipynb) |
 | [ESMFold_batch](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/ESMFold_batch.ipynb) | En este cuaderno aprenderas como predecir estructruas de proteinas por lotes usando ESMFold | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/ESMFold_batch.ipynb) |
 | [Fine tunning of a protein language model usgin LoRA](https://huggingface.co/blog/AmelieSchreiber/esmbind) | En este tutorial aprenderas a como optimizar los pesos de un modelo de lenguajde de proteinas completo usando la tecnica de optimizacion LoRA a | NAN |
+| [ChimeraX](https://dasher.wustl.edu/bio5357/software/chimerax/tutorial.pdf) | En este tutorial aprenderas manipular y visualizar proteinas con ChimeraX | NAN |
+
 
 
 
