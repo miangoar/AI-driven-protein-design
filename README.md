@@ -75,9 +75,10 @@ Nota: texto sin acentos
 | [cath DB](https://www.cathdb.info/version/v4_3_0/superfamily/3.40.710.10) | Base de datos de plegamientos proteicos. Ejemplo con la superfamilia de serinbetalactamasas|
 | [proteinshake](https://github.com/BorgwardtLab/proteinshake) | procesamiento de estructruas para tareas de machine learning|
 | [EvoProtGrad](https://github.com/NREL/EvoProtGrad) | Simular experimentos de evolucion dirigida usando modelos de lenguaje de proteinas|
+| [ConservFold](https://www.rodrigueslab.com/resources) | Mapear los residuos conervados a una estructrua usando AlphaFold2 |
 
-
-
+https://www.rodrigueslab.com/resources
+ConservFold: Conservation and 3D Structure Generator
 # Webservers basados en IA  
 | Web | Descripcion | 
 |-----------|-----------| 
