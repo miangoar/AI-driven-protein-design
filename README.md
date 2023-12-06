@@ -77,8 +77,7 @@ Nota: texto sin acentos
 | [EvoProtGrad](https://github.com/NREL/EvoProtGrad) | Simular experimentos de evolucion dirigida usando modelos de lenguaje de proteinas|
 | [ConservFold](https://www.rodrigueslab.com/resources) | Mapear los residuos conervados a una estructrua usando AlphaFold2 |
 
-https://www.rodrigueslab.com/resources
-ConservFold: Conservation and 3D Structure Generator
+
 # Webservers basados en IA  
 | Web | Descripcion | 
 |-----------|-----------| 
