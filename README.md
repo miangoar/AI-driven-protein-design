@@ -112,6 +112,8 @@ Nota: texto sin acentos
 | [LLM](https://txt.cohere.com/llm-university/) | Introduccion a los grandes modelos de lenguaje (Large Language Models; LLM) |
 | [Guide to undestanding PDB data](https://www.rcsb.org/news/feature/646e671b1d621d75127a7a52) | Una compilacion de informacion capturada por los creadores de la PDB para aprender sobre el formato de los datos |
 | [regexlearn](https://regexlearn.com/es) | Breve curso para aprender el uso de expresiones regulares |
+| [BLAST](https://vinuesa.github.io/TIB-filoinfo/sesion3_BLAST/) | Breve curso para aprender BLAST|
+
 
 
 # Literatura de revision recomendada
