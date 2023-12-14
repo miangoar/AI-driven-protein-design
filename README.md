@@ -31,7 +31,13 @@ Nota: texto sin acentos
 | [ChimeraX](https://dasher.wustl.edu/bio5357/software/chimerax/tutorial.pdf) | En este tutorial aprenderas manipular y visualizar proteinas con ChimeraX | NAN |
 
 
-
+# ChatBots de ayuda
+| Tema | 
+|-----------|
+| [ChatGPT](https://chat.openai.com/) |
+| [Bard](https://bard.google.com/) |
+| [Bing](https://www.bing.com/?cc=es) |
+| [HuggingChat](https://huggingface.co/chat/) |
 
 # Repositorios utiles  
 | Repo | Descripcion | 
