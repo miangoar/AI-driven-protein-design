@@ -84,6 +84,7 @@ Nota: texto sin acentos
 | [ConservFold](https://www.rodrigueslab.com/resources) | Mapear los residuos conervados a una estructrua usando AlphaFold2 |
 | [docktgrid](https://github.com/gmmsb-lncc/docktgrid) | Codificacion de estructuras de proteinas y sus ligandos en vectores usando algoritmos de analisis 3D |
 | [pdbeccdutils](https://pdbeurope.github.io/ccdutils/index.html) y [PDBe Arpeggio](https://github.com/PDBeurope/arpeggio) | Manipulacion de pequeñas moluclas de la PDB asi como su interaccion con proteinas |
+| [PDBminer](https://github.com/ELELAB/PDBminer) | Manipulacion modelos de la PDB y AlphaFold Database  |
 
 
 # Webservers basados en IA  
