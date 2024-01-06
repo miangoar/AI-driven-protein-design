@@ -85,6 +85,7 @@ Nota: texto sin acentos
 | [docktgrid](https://github.com/gmmsb-lncc/docktgrid) | Codificacion de estructuras de proteinas y sus ligandos en vectores usando algoritmos de analisis 3D |
 | [pdbeccdutils](https://pdbeurope.github.io/ccdutils/index.html) y [PDBe Arpeggio](https://github.com/PDBeurope/arpeggio) | Manipulacion de pequeñas moluclas de la PDB asi como su interaccion con proteinas |
 | [PDBminer](https://github.com/ELELAB/PDBminer) | Manipulacion modelos de la PDB y AlphaFold Database  |
+| [pdbe-api-training](https://github.com/glevans/pdbe-api-training) | Tutoriales para aprender a usar la ePDB  |
 
 
 # Webservers basados en IA  
