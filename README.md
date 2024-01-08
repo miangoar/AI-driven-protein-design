@@ -86,6 +86,7 @@ Nota: texto sin acentos
 | [pdbeccdutils](https://pdbeurope.github.io/ccdutils/index.html) y [PDBe Arpeggio](https://github.com/PDBeurope/arpeggio) | Manipulacion de pequeñas moluclas de la PDB asi como su interaccion con proteinas |
 | [PDBminer](https://github.com/ELELAB/PDBminer) | Manipulacion modelos de la PDB y AlphaFold Database  |
 | [pdbe-api-training](https://github.com/glevans/pdbe-api-training) | Tutoriales para aprender a usar la ePDB  |
+| [Prop3D](https://github.com/bouralab/Prop3D) | Herramientas para la preparacion de datasets de proteinas para machine learning  |
 
 
 # Webservers basados en IA  
