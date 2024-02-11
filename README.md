@@ -88,6 +88,7 @@ Nota: texto sin acentos
 | [pdbe-api-training](https://github.com/glevans/pdbe-api-training) | Tutoriales para aprender a usar la ePDB  |
 | [Prop3D](https://github.com/bouralab/Prop3D) | Herramientas para la preparacion de datasets de proteinas para machine learning  |
 | [ProteinMPNN in JAX](https://github.com/sokrypton/ColabDesign/tree/main/mpnn) | Una implementacion optimizada de ProteinMPNN en JAX  |
+| [BioPandas](https://biopandas.github.io/biopandas/) | Una implementacion de pandas para manipular archivos .pdb  |
 
 
 
