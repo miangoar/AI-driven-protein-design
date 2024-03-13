@@ -91,6 +91,7 @@ Nota: texto sin acentos
 | [ProteinMPNN in JAX](https://github.com/sokrypton/ColabDesign/tree/main/mpnn) | Una implementacion optimizada de ProteinMPNN en JAX  |
 | [BioPandas](https://biopandas.github.io/biopandas/) | Una implementacion de pandas para manipular archivos .pdb  |
 | [USalign](https://github.com/pylelab/USalign) | Alineamiento de estructruas monomericas y heterodimeros o en combinacion con acidos nucleicos  |
+| [protkit](https://github.com/silicogenesis/protkit) | Manipulacion y representacion de proteinas |
 
 
 
