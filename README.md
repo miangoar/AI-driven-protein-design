@@ -104,6 +104,7 @@ Nota: texto sin acentos
 | [DeepFRI](https://beta.deepfri.flatironinstitute.org/) | structure-based protein function prediction (and functional residue identification) method using Graph Convolutional Networks with Language Model features |
 | [Amber relaxation](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/relax_amber.ipynb) | Usa AMBER para relajar tus estructruas de proteinas y evitar clashes estericos|
 | [Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage) | Calcula el peso de cualquier modelo almacenado en HuggingFace|
+| [alphafind](https://alphafind.fi.muni.cz/search) | busqueda de estructruas en la AlphaFold database|
 
 
 # Paginas web para aprender sobre las bases de machine learning   
