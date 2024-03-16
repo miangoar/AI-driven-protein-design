@@ -29,7 +29,7 @@ Nota: texto sin acentos
 | [ESMFold_batch](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/ESMFold_batch.ipynb) | En este cuaderno aprenderas como predecir estructruas de proteinas por lotes usando ESMFold | v1 [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/ESMFold_batch.ipynb) v2 [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/drive/16BpP9BvYNeQHx8cBzsiGJmyNpm-PKzSF?authuser=2) |
 | [Fine tunning of a protein language model usgin LoRA](https://huggingface.co/blog/AmelieSchreiber/esmbind) | En este tutorial aprenderas a como optimizar los pesos de un modelo de lenguajde de proteinas completo usando la tecnica de optimizacion LoRA a | NAN |
 | [ChimeraX](https://dasher.wustl.edu/bio5357/software/chimerax/tutorial.pdf)  y [Chimera_X_overview](https://static-bcrf.biochem.wisc.edu/tutorials/chimerax/Chimera_X_overview_document.html)| En estos tutoriales aprenderas manipular y visualizar proteinas con ChimeraX | NAN |
-
+| [xxx](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/generate_esm_embeddings.ipynb) | Genera los embeddings de diferentes modelos de la familia ESM | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/generate_esm_embeddings.ipynb) |
 
 # ChatBots de ayuda
 | Tema | 
