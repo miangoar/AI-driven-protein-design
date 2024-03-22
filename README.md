@@ -30,6 +30,8 @@ Nota: texto sin acentos
 | [Fine tunning of a protein language model usgin LoRA](https://huggingface.co/blog/AmelieSchreiber/esmbind) | En este tutorial aprenderas a como optimizar los pesos de un modelo de lenguajde de proteinas completo usando la tecnica de optimizacion LoRA a | NAN |
 | [ChimeraX](https://dasher.wustl.edu/bio5357/software/chimerax/tutorial.pdf)  y [Chimera_X_overview](https://static-bcrf.biochem.wisc.edu/tutorials/chimerax/Chimera_X_overview_document.html)| En estos tutoriales aprenderas manipular y visualizar proteinas con ChimeraX | NAN |
 | [Genera embeddings](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/generate_esm_embeddings.ipynb) | Genera los embeddings de diferentes modelos de la familia ESM | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/generate_esm_embeddings.ipynb) |
+| [Descarga proteinas de la AFDB](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/download_afdb_data.ipynb) | En este cuaderno aprenderas como decargar estructruas de proteins y sus datos a partir de la AlphaFold database | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/download_afdb_data.ipynb) |
+
 
 # ChatBots de ayuda
 | Tema | 
