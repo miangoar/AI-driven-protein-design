@@ -18,6 +18,7 @@ Nota: texto sin acentos
 |Boston Protein Design and Modeling Club | Serie de seminarios sobre los trabajos mas actuales en ingenieria de proteinas |https://www.bpdmc.org/| 
 |ML Protein Engineering Seminar Series |Serie de seminarios sobre los trabajos mas actuales en ingenieria de proteinas basado en machine learning |https://www.ml4proteinengineering.com/| 
 | Cómo Entender la OCTAVA DIMENSIÓN | Comprender datos de alta dimensionalidad |[https://youtu.be/kAjTrAUFIdQ](https://youtu.be/kAjTrAUFIdQ)| 
+| Algoritmo backpropagation | Comprender el algoritmo base de toda IA moderna |[https://www.youtube.com/watch?v=SmZmBKc7Lrs](https://www.youtube.com/watch?v=SmZmBKc7Lrs)| 
 
 
 # Tutoriales
