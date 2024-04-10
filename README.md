@@ -33,6 +33,11 @@ Nota: texto sin acentos
 | [Genera embeddings](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/generate_esm_embeddings.ipynb) | Genera los embeddings de diferentes modelos de la familia ESM | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/generate_esm_embeddings.ipynb) |
 | [Descarga proteinas de la AFDB](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/download_afdb_data.ipynb) | En este cuaderno aprenderas como decargar estructruas de proteins y sus datos a partir de la AlphaFold database | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/download_afdb_data.ipynb) |
 
+# Canales de Youtube recomendados
+| Tema | 
+|-----------|
+| [CodigoMaquina](https://www.youtube.com/@CodigoMaquina) |
+
 
 # ChatBots de ayuda
 | Tema | 
