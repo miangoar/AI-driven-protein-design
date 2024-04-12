@@ -19,6 +19,7 @@ Nota: texto sin acentos
 |ML Protein Engineering Seminar Series |Serie de seminarios sobre los trabajos mas actuales en ingenieria de proteinas basado en machine learning |https://www.ml4proteinengineering.com/| 
 | Cómo Entender la OCTAVA DIMENSIÓN | Comprender datos de alta dimensionalidad |[https://youtu.be/kAjTrAUFIdQ](https://youtu.be/kAjTrAUFIdQ)| 
 | Algoritmo backpropagation | Comprender el algoritmo base de toda IA moderna |[https://www.youtube.com/watch?v=SmZmBKc7Lrs](https://www.youtube.com/watch?v=SmZmBKc7Lrs)| 
+| Que es un GPT? | Comprender como funciona la arquitectura transformer |[https://www.youtube.com/watch?v=wjZofJX0v4Ms](https://www.youtube.com/watch?v=wjZofJX0v4M)| 
 
 
 # Tutoriales
