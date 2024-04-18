@@ -115,7 +115,7 @@ Nota: texto sin acentos
 | [Amber relaxation](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/relax_amber.ipynb) | Usa AMBER para relajar tus estructruas de proteinas y evitar clashes estericos|
 | [Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage) | Calcula el peso de cualquier modelo almacenado en HuggingFace|
 | [alphafind](https://alphafind.fi.muni.cz/search) | busqueda de estructruas en la AlphaFold database|
-
+| [af2bind](https://colab.research.google.com/github/sokrypton/af2bind/blob/main/af2bind.ipynb) | Prediccion de sitios de union a sustratos pequeños |
 
 # Paginas web para aprender sobre las bases de machine learning   
 | Web | Descripcion | 
