@@ -116,6 +116,9 @@ Nota: texto sin acentos
 | [Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage) | Calcula el peso de cualquier modelo almacenado en HuggingFace|
 | [alphafind](https://alphafind.fi.muni.cz/search) | busqueda de estructruas en la AlphaFold database|
 | [af2bind](https://colab.research.google.com/github/sokrypton/af2bind/blob/main/af2bind.ipynb) | Prediccion de sitios de union a sustratos pequeños |
+| [DiffDock-Web](https://huggingface.co/spaces/reginabarzilaygroup/DiffDock-Web) | Docking de proteinas con ligandos |
+
+
 
 # Paginas web para aprender sobre las bases de machine learning   
 | Web | Descripcion | 
