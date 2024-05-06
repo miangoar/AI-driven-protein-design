@@ -2,16 +2,16 @@
 
 # Tabla de Contenido
 - [Introducción](#introducción)
-- [Videos recomendados](#Videos recomendados)
+- [Videos recomendados](#Videos-recomendados)
 - [Tutoriales](#Tutoriales)
-- [Canales de Youtube recomendados](#Canales de Youtube recomendados)
-- [ChatBots de ayuda](#ChatBots de ayuda)
-- [Repositorios utiles](#Repositorios utiles)
-- [Herramientas recomendadas](#Herramientas recomendadas)
-- [Webservers basados en IA](#Webservers basados en IA)
-- [Paginas web para aprender sobre las bases de machine learning](#Paginas web para aprender sobre las bases de machine learning)
-- [Cursos recomendados](#Cursos recomendados)
-- [Literatura de revision recomendada](#Literatura de revision recomendada)
+- [Canales de Youtube recomendados](#Canales-de-Youtube-recomendados)
+- [ChatBots de ayuda](#ChatBots-de-ayuda)
+- [Repositorios utiles](#Repositorios-utiles)
+- [Herramientas recomendadas](#Herramientas-recomendadas)
+- [Webservers basados en IA](#Webservers-basados-en-IA)
+- [Paginas web para aprender sobre las bases de machine learning](#Paginas-web-para-aprender-sobre-las-bases-de-machine-learning)
+- [Cursos recomendados](#Cursos-recomendados)
+- [Literatura de revision recomendada](#Literatura-de-revision-recomendada)
 
 
 # introducción
