@@ -1,10 +1,24 @@
 # ciencia-de-proteinas-basada-en-IA
 
+# Tabla de Contenido
+- [Introducción](#introducción)
+- [Videos recomendados](#Videos recomendados)
+- [Tutoriales](#Tutoriales)
+- [Canales de Youtube recomendados](#Canales de Youtube recomendados)
+- [ChatBots de ayuda](#ChatBots de ayuda)
+- [Repositorios utiles](#Repositorios utiles)
+- [Herramientas recomendadas](#Herramientas recomendadas)
+- [Webservers basados en IA](#Webservers basados en IA)
+- [Paginas web para aprender sobre las bases de machine learning](#Paginas web para aprender sobre las bases de machine learning)
+- [Cursos recomendados](#Cursos recomendados)
+- [Literatura de revision recomendada](#Literatura de revision recomendada)
+
+
+# introducción
 El objetivo de este repositorio es compartir a la comunidad hispanohablante una serie de recursos que seran de utilidad en el aprendizaje de la ciencia de proteinas basada en inteligencia artificial. Para ello se ofrece una serie de tutoriales que pueden ser ejecutados en la nube de Google Colab, una serie de videos (aun por grabar) con clases para comprender la evolucion de las proteinas y las  bases de como funcionan los algoritmos de inteligencia artificial que estan generando una revolucion en el area. Finalmente, se ofrecen un conjunto de herramientas utiles en la practica junto con otros recursos para continuar aprendiendo del tema.  
-
-
-
 Nota: texto sin acentos
+
+  
 
 # Videos recomendados
 | Tema | Descripcion | Link a Youtube|
