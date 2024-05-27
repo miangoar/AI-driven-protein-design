@@ -148,7 +148,7 @@ Nota: texto sin acentos
 | [cpu.land](https://cpu.land/) | Una breve introduccion al computo en CPUs |
 | [tensorflow SandBox](https://playground.tensorflow.org/) | Pagina interactiva para aprender las bases del funcionamiento de las redes neuronales|
 | [generative-ai](https://ig.ft.com/generative-ai/) | Introduccion a modelos generativos|
-
+| [diffusion](https://andrewkchan.dev/posts/diffusion.html) | Introduccion a modelos de difusion|
 
 # Cursos recomendados
 | Tema | Descripcion | 
