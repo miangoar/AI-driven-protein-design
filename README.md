@@ -34,6 +34,8 @@ Nota: texto sin acentos
 | Cómo Entender la OCTAVA DIMENSIÓN | Comprender datos de alta dimensionalidad |[https://youtu.be/kAjTrAUFIdQ](https://youtu.be/kAjTrAUFIdQ)| 
 | Algoritmo backpropagation | Comprender el algoritmo base de toda IA moderna |[https://www.youtube.com/watch?v=SmZmBKc7Lrs](https://www.youtube.com/watch?v=SmZmBKc7Lrs)| 
 | Que es un GPT? | Comprender como funciona la arquitectura transformer |[https://www.youtube.com/watch?v=wjZofJX0v4Ms](https://www.youtube.com/watch?v=wjZofJX0v4M)| 
+| Watching Neural Networks Learn | Como funcionan las funciones de activacion |[https://youtu.be/TkwXa7Cvfr8?si=VI38wPQhouvCLZdC](https://youtu.be/TkwXa7Cvfr8?si=VI38wPQhouvCLZdC)| 
+
 
 
 # Tutoriales
