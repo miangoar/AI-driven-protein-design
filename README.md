@@ -37,9 +37,9 @@ Nota: texto sin acentos
 | Watching Neural Networks Learn | Como funcionan las funciones de activacion |[https://youtu.be/TkwXa7Cvfr8?si=VI38wPQhouvCLZdC](https://youtu.be/TkwXa7Cvfr8?si=VI38wPQhouvCLZdC)| 
 | What Is AlphaFold?  | Breve resumen sobre la arquitectura de AlphaFold2 |[https://youtu.be/7q8Uw3rmXyE?si=eAaHDPuZw5Cc7gKB](https://youtu.be/7q8Uw3rmXyE?si=eAaHDPuZw5Cc7gKB)| 
 | Origin: Probability of a Single Protein Forming by Chance  | Resumen sobre la evolucion y biofisica de las proteinas |[https://youtu.be/W1_KEVaCyaA?si=kLbw7PH7YqsZK9pG](https://youtu.be/W1_KEVaCyaA?si=kLbw7PH7YqsZK9pG)| 
+| Cómo trabajan las enzimas  | Resumen sobre biocatalisis|[https://youtu.be/yk14dOOvwMk?si=SoIA4IogZ9tgmKCb](https://youtu.be/yk14dOOvwMk?si=SoIA4IogZ9tgmKCb)| 
 
-
-
+https://www.youtube.com/watch?v=yk14dOOvwMk&t=14s&ab_channel=RCSBProteinDataBank
 # Tutoriales
 | Notebook | Descripcion | Link a Google Colab|
 |-----------|-----------|-----------|  
