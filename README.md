@@ -35,6 +35,7 @@ Nota: texto sin acentos
 | Algoritmo backpropagation | Comprender el algoritmo base de toda IA moderna |[https://www.youtube.com/watch?v=SmZmBKc7Lrs](https://www.youtube.com/watch?v=SmZmBKc7Lrs)| 
 | Que es un GPT? | Comprender como funciona la arquitectura transformer |[https://www.youtube.com/watch?v=wjZofJX0v4Ms](https://www.youtube.com/watch?v=wjZofJX0v4M)| 
 | Watching Neural Networks Learn | Como funcionan las funciones de activacion |[https://youtu.be/TkwXa7Cvfr8?si=VI38wPQhouvCLZdC](https://youtu.be/TkwXa7Cvfr8?si=VI38wPQhouvCLZdC)| 
+| What Is AlphaFold?  | Breve resumen sobre la arquitectura de AlphaFold2 |[https://youtu.be/7q8Uw3rmXyE?si=eAaHDPuZw5Cc7gKB](https://youtu.be/7q8Uw3rmXyE?si=eAaHDPuZw5Cc7gKB)| 
 
 
 
