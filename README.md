@@ -36,6 +36,7 @@ Nota: texto sin acentos
 | Que es un GPT? | Comprender como funciona la arquitectura transformer |[https://www.youtube.com/watch?v=wjZofJX0v4Ms](https://www.youtube.com/watch?v=wjZofJX0v4M)| 
 | Watching Neural Networks Learn | Como funcionan las funciones de activacion |[https://youtu.be/TkwXa7Cvfr8?si=VI38wPQhouvCLZdC](https://youtu.be/TkwXa7Cvfr8?si=VI38wPQhouvCLZdC)| 
 | What Is AlphaFold?  | Breve resumen sobre la arquitectura de AlphaFold2 |[https://youtu.be/7q8Uw3rmXyE?si=eAaHDPuZw5Cc7gKB](https://youtu.be/7q8Uw3rmXyE?si=eAaHDPuZw5Cc7gKB)| 
+| Origin: Probability of a Single Protein Forming by Chance  | Resumen sobre la evolucion y biofisica de las proteinas |[https://youtu.be/W1_KEVaCyaA?si=kLbw7PH7YqsZK9pG](https://youtu.be/W1_KEVaCyaA?si=kLbw7PH7YqsZK9pG)| 
 
 
 
