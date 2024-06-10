@@ -137,6 +137,7 @@ https://www.youtube.com/watch?v=yk14dOOvwMk&t=14s&ab_channel=RCSBProteinDataBank
 | [alphafind](https://alphafind.fi.muni.cz/search) | busqueda de estructruas en la AlphaFold database|
 | [af2bind](https://colab.research.google.com/github/sokrypton/af2bind/blob/main/af2bind.ipynb) | Prediccion de sitios de union a sustratos pequeños |
 | [DiffDock-Web](https://huggingface.co/spaces/reginabarzilaygroup/DiffDock-Web) | Docking de proteinas con ligandos |
+| [ligandMPNN](https://colab.research.google.com/github/ullahsamee/ligandMPNN_Colab/blob/main/LigandMPNN_Colab.ipynb) | Notebook para usar LigandMPNN en google colab|
 
 
 
