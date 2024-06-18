@@ -38,6 +38,9 @@ Nota: texto sin acentos
 | What Is AlphaFold?  | Breve resumen sobre la arquitectura de AlphaFold2 |[https://youtu.be/7q8Uw3rmXyE?si=eAaHDPuZw5Cc7gKB](https://youtu.be/7q8Uw3rmXyE?si=eAaHDPuZw5Cc7gKB)| 
 | Origin: Probability of a Single Protein Forming by Chance  | Resumen sobre la evolucion y biofisica de las proteinas |[https://youtu.be/W1_KEVaCyaA?si=kLbw7PH7YqsZK9pG](https://youtu.be/W1_KEVaCyaA?si=kLbw7PH7YqsZK9pG)| 
 | Cómo trabajan las enzimas  | Resumen sobre biocatalisis|[https://youtu.be/yk14dOOvwMk?si=SoIA4IogZ9tgmKCb](https://youtu.be/yk14dOOvwMk?si=SoIA4IogZ9tgmKCb)| 
+| A History of Bioinformatics (in the Year 2039)  | Resumen sobre los logros y retos de la bioinformatica|[https://www.youtube.com/watch?v=uwsjwMO-TEA&ab_channel=NextDayVideo](https://www.youtube.com/watch?v=uwsjwMO-TEA&ab_channel=NextDayVideo)| 
+
+
 
 # Tutoriales
 | Notebook | Descripcion | Link a Google Colab|
