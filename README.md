@@ -39,6 +39,7 @@ Nota: texto sin acentos
 | Origin: Probability of a Single Protein Forming by Chance  | Resumen sobre la evolucion y biofisica de las proteinas |[https://youtu.be/W1_KEVaCyaA?si=kLbw7PH7YqsZK9pG](https://youtu.be/W1_KEVaCyaA?si=kLbw7PH7YqsZK9pG)| 
 | Cómo trabajan las enzimas  | Resumen sobre biocatalisis|[https://youtu.be/yk14dOOvwMk?si=SoIA4IogZ9tgmKCb](https://youtu.be/yk14dOOvwMk?si=SoIA4IogZ9tgmKCb)| 
 | A History of Bioinformatics (in the Year 2039)  | Resumen sobre los logros y retos de la bioinformatica|[https://www.youtube.com/watch?v=uwsjwMO-TEA&ab_channel=NextDayVideo](https://www.youtube.com/watch?v=uwsjwMO-TEA&ab_channel=NextDayVideo)| 
+| Attention is all you need (Transformer) - Model explanation (including math), Inference and Training  | Explicacion paso a paso de la arquitectura transformer |[https://www.youtube.com/watch?v=bCz4OMemCcA&t=925s&ab_channel=UmarJamil](https://www.youtube.com/watch?v=bCz4OMemCcA&t=925s&ab_channel=UmarJamil)| 
 
 
 
