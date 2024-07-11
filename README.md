@@ -129,6 +129,7 @@ Nota: texto sin acentos
 | [foldcomp](https://github.com/steineggerlab/foldcomp) | Algoritmo de compresion de estructruas de proteinas y bases de datos masivas |
 | [cath-tools](https://github.com/UCLOrengoGroup/cath-tools) |  Manipulacion y calculos con estructruas proteicas |
 | [Pyrcsbsearchapi](https://github.com/rcsb/py-rcsbsearchapi) |  API de la PDB |
+| [protestar](https://github.com/refresh-bio/protestar) | Algoritmo de compresion de estructruas de proteinas |
 
 
 # Webservers basados en IA  
