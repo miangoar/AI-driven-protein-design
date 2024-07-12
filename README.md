@@ -88,7 +88,6 @@ Nota: texto sin acentos
 | [biomodes](https://abeebyekeen.com/biomodes-biomolecular-design/) | Una lista de Modelos de IA curados por categoria  |
 
 
-
 # Herramientas recomendadas
 | Repo | Descripcion | 
 |-----------|-----------| 
@@ -161,6 +160,8 @@ Nota: texto sin acentos
 | [tensorflow SandBox](https://playground.tensorflow.org/) | Pagina interactiva para aprender las bases del funcionamiento de las redes neuronales|
 | [generative-ai](https://ig.ft.com/generative-ai/) | Introduccion a modelos generativos|
 | [diffusion](https://andrewkchan.dev/posts/diffusion.html) | Introduccion a modelos de difusion|
+| [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/) | explicacion de la arquitectura de AlphaFold3 |
+
 
 # Cursos recomendados
 | Tema | Descripcion | 
