@@ -176,6 +176,7 @@ Nota: texto sin acentos
 | [IA generativa](https://microsoft.github.io/generative-ai-for-beginners/#//) | Breve curso de microsoft para aprender sobre modelos generativos |
 | [Alice’s Adventures in a differentiable wonderlandPermalink](https://www.sscardapane.it/alice-book) | Introduccion al algebra y calculo usados en deep learning y sus implementaciones actuales |
 | [pandas-cookbook](https://github.com/jvns/pandas-cookbook/) | Breve curso para aprender a manejar datos con Pandas en python|
+| [sandbox BIO](https://sandbox.bio/) | Breves tutoriales de las herramientas mas comunes en bioinformatica|
 
 
 # Literatura de revision recomendada
