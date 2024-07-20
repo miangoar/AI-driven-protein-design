@@ -178,7 +178,7 @@ Nota: texto sin acentos
 | [pandas-cookbook](https://github.com/jvns/pandas-cookbook/) | Breve curso para aprender a manejar datos con Pandas en python|
 | [sandbox BIO](https://sandbox.bio/) | Breves tutoriales de las herramientas mas comunes en bioinformatica|
 | [glittr](https://glittr.org/) | lista curada de varios cursos de bioinformatica |
-
+| [Estefanía Tarifeño](https://www.youtube.com/@prof.estefaniatarifeno1108/playlists) | Cursos de introduccion a bioinformatica y proteinas |
 
 
 # Literatura de revision recomendada
