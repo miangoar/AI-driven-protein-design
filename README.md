@@ -187,7 +187,7 @@ Nota: texto sin acentos
 |Celebrating 50 Years of Journal of Molecular Evolution | Serie de pequeñas revisiones sobre evolucion molecular, su modelado e implementaciones  |https://link.springer.com/journal/239/topicalCollection/AC_ad1951b211df6035aed9ade2172865c4| 
 |Scientific Large Language Models: A Survey on Biological & Chemical Domains | Aplicacion de LLM en las ciencias naturales |https://arxiv.org/abs/2401.14656| 
 |Loss Functions and Metrics in Deep Learning | Listado de multiples loss functions |https://arxiv.org/abs/2307.02694| 
-
+|An Introduction to Sequence Similarity (“Homology”) Searching | Introduccion al algortimo de BLASTp |https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820096/| 
 
 ## Agradecimientos 
 - A [Lorenzo Segovia](https://www.ibt.unam.mx/perfil/3432/dr-lorenzo-patrick-segovia-forcella), [Alejandro Garciarrubio](https://www.ibt.unam.mx/perfil/1956/dr-alejandro-angel-garciarubio-granados) y [Jose A. Farias](https://www.fariaslab.org/)
