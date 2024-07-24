@@ -86,6 +86,8 @@ Nota: texto sin acentos
 | [ColabFold Downloads](https://colabfold.mmseqs.com/) | Bases de datos de proteinas (siendo colabfold_envdb_202108 la mas grande, i.e. pesa 110GB)  |
 | [Articulos curados por categoria](https://github.com/Peldom/papers_for_protein_design_using_DL) | Una lista de articulos de ciencia de proteinas basada en IA  |
 | [biomodes](https://abeebyekeen.com/biomodes-biomolecular-design/) | Una lista de Modelos de IA curados por categoria  |
+| [List of papers about Proteins Design using Deep Learning](https://github.com/Peldom/papers_for_protein_design_using_DL) | Literatura curada |
+
 
 
 # Herramientas recomendadas
