@@ -182,7 +182,7 @@ Nota: texto sin acentos
 | [sandbox BIO](https://sandbox.bio/) | Breves tutoriales de las herramientas mas comunes en bioinformatica|
 | [glittr](https://glittr.org/) | lista curada de varios cursos de bioinformatica |
 | [Estefanía Tarifeño](https://www.youtube.com/@prof.estefaniatarifeno1108/playlists) | Cursos de introduccion a bioinformatica y proteinas |
-
+| [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/) | tal cual hermano |
 
 # Literatura de revision recomendada
 | Tema | Descripcion | Link a Youtube|
