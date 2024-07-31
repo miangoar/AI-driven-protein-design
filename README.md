@@ -184,6 +184,7 @@ Nota: texto sin acentos
 | [glittr](https://glittr.org/) | lista curada de varios cursos de bioinformatica |
 | [Estefanía Tarifeño](https://www.youtube.com/@prof.estefaniatarifeno1108/playlists) | Cursos de introduccion a bioinformatica y proteinas |
 | [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/) | tal cual hermano |
+| [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch) | tal cual hermano |
 
 # Literatura de revision recomendada
 | Tema | Descripcion | Link a Youtube|
