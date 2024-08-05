@@ -88,7 +88,9 @@ Nota: texto sin acentos
 | [biomodes](https://abeebyekeen.com/biomodes-biomolecular-design/) | Una lista de Modelos de IA curados por categoria  |
 | [List of papers about Proteins Design using Deep Learning](https://github.com/Peldom/papers_for_protein_design_using_DL) | Literatura curada |
 | [PDB documentation](https://www.rcsb.org/docs/general-help/organization-of-3d-structures-in-the-protein-data-bank) | Descripcion de todo lo relacionado a la PDB y como se analizan las proteinas |
+| [AFDB foldseek clusters](https://afdb-cluster.steineggerlab.workers.dev) | Datos sobre los ~2.3M clusters de estructuras |
 
+/
 
 # Herramientas recomendadas
 | Repo | Descripcion | 
