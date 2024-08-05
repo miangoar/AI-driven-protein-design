@@ -154,6 +154,7 @@ Nota: texto sin acentos
 | [DiffDock-Web](https://huggingface.co/spaces/reginabarzilaygroup/DiffDock-Web) | Docking de proteinas con ligandos |
 | [ligandMPNN](https://colab.research.google.com/github/ullahsamee/ligandMPNN_Colab/blob/main/LigandMPNN_Colab.ipynb) | Notebook para usar LigandMPNN en google colab|
 | [ESMFold](https://esmatlas.com/resources?action=fold) | Weberver para plegar proteins con ESMFold |
+| [Foldseek clusters](https://cluster.foldseek.com/) | Weberver para identificar clusters de estructuras en la AFDB |
 
 
 
