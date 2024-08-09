@@ -141,6 +141,7 @@ Nota: texto sin acentos
 | [AlphaPulldown](https://www.embl-hamburg.de/AlphaPulldown/) | Complex moedeling with AF-Multimer |
 | [ColabDock](https://github.com/JeffSHF/) | Docking protein-proteina |
 | [ColabDesign](https://github.com/sokrypton/ColabDesign) | inverse ffolding |
+| [LazyAF](https://github.com/ThomasCMcLean/LazyAF) | protein-protein interaction with AF2|
 | [xxx](xxx) | xxx |
 
 
