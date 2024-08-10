@@ -143,6 +143,9 @@ Nota: texto sin acentos
 | [ColabDesign](https://github.com/sokrypton/ColabDesign) | inverse ffolding |
 | [LazyAF](https://github.com/ThomasCMcLean/LazyAF) | protein-protein interaction with AF2|
 | [progres](https://github.com/greener-group/progres) | Fast protein structure searching by structural embeddings |
+| [pLM-BLAST](https://github.com/labstructbioinf/pLM-BLAST) | Remote homology by PLM |
+
+
 | [xxx](xxx) | xxx |
 
 
