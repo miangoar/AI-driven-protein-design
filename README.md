@@ -68,9 +68,13 @@ Nota: texto sin acentos
 | Tema | 
 |-----------|
 | [ChatGPT](https://chat.openai.com/) |
-| [Bard](https://bard.google.com/) |
+| [Gemini](https://gemini.google.com/) |
+| [claude](https://claude.ai/) |
 | [Bing](https://www.bing.com/?cc=es) |
 | [HuggingChat](https://huggingface.co/chat/) |
+| [biologpt](https://biologpt.com/) |
+
+
 
 # Repositorios utiles  
 | Repo | Descripcion | 
