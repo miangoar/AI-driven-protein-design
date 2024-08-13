@@ -74,6 +74,15 @@ Nota: texto sin acentos
 | [HuggingChat](https://huggingface.co/chat/) |
 | [biologpt](https://biologpt.com/) |
 
+# Databases
+| Repo | Descripcion | 
+|-----------|-----------| 
+| [uniprot](https://www.uniprot.org/) | annotated proteins |
+| [gtdb](https://gtdb.ecogenomic.org/) | microbial genomes |
+| [ColabFold Downloads](https://colabfold.mmseqs.com/) | Bases de datos de proteinas (siendo colabfold_envdb_202108 la mas grande, i.e. pesa 110GB)  |
+| [Clustering NCBI's nr database](https://github.com/Arcadia-Science/2023-nr-clustering) | clustered nr at 90% length, 90% identity |
+| [globdb](https://globdb.org/) | Derreplecated and annotated genomes |
+
 
 
 # Repositorios utiles  
@@ -87,7 +96,6 @@ Nota: texto sin acentos
 | [AlphaFold2 mini](https://twitter.com/sokrypton/status/1535857255647690753) | Una version optimizada de AF2 para correr en segundos las predicciones a costa de perder un poco de calidad (se recomienda usarlo solo para fines de aprendizaje del plegamiento de las proteinas) |
 | [Paper for protein desing with deep learning ](https://github.com/Peldom/papers_for_protein_design_using_DL) | Una lista curada de todos los trabajos de diseño de proteinas basado en aprendisaje profundo  |
 | [ColabFold](https://github.com/sokrypton/ColabFold) | Implementacion de AF2 en la nube de Google colab  |
-| [ColabFold Downloads](https://colabfold.mmseqs.com/) | Bases de datos de proteinas (siendo colabfold_envdb_202108 la mas grande, i.e. pesa 110GB)  |
 | [Articulos curados por categoria](https://github.com/Peldom/papers_for_protein_design_using_DL) | Una lista de articulos de ciencia de proteinas basada en IA  |
 | [biomodes](https://abeebyekeen.com/biomodes-biomolecular-design/) | Una lista de Modelos de IA curados por categoria  |
 | [List of papers about Proteins Design using Deep Learning](https://github.com/Peldom/papers_for_protein_design_using_DL) | Literatura curada |
