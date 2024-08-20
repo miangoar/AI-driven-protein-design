@@ -59,6 +59,8 @@ Nota: texto sin acentos
 | [Descarga proteinas de la AFDB](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/download_afdb_data.ipynb) | En este cuaderno aprenderas como decargar estructruas de proteins y sus datos a partir de la AlphaFold database | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/download_afdb_data.ipynb) |
 | [Crea un transformer desde 0](https://github.com/naity/protein-transformer) | En repositorioa aprenderas como entrenar un transformer con proteinas | N/A |
 
+| [Parsing_MSA_conservation](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/ESMFold_batch.ipynb) | En este cuaderno aprenderas como añadir informacion de la conservacion de residuos a una estructura .pdb | v1 [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/Parsing_MSA_conservation.ipynb) v2 [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/drive/1Og5xK7gwSaMjzykLqJnzCZ0rNGMJMIle?usp=sharing#scrollTo=Oaqb4SPmXbvP) |
+
 
 # Canales de Youtube recomendados
 | Tema | 
