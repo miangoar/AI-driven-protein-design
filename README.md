@@ -231,6 +231,7 @@ Nota: texto sin acentos
 | [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/) | tal cual hermano |
 | [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch) | tal cual hermano |
 | [3Blue1Brown - Algebra lineal](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | tal cual hermano |
+| [Protein Modeling and Design with PyRosetta and Machine Learning](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) | tal cual hermano |
 
 
 # Literatura de revision recomendada
