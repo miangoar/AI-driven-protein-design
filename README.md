@@ -70,6 +70,9 @@ Nota: texto sin acentos
 | [CodigoMaquina](https://www.youtube.com/@CodigoMaquina) |
 | [Clockworkbio](https://www.youtube.com/@Clockworkbio) |
 | [Mutual_Information](https://www.youtube.com/@Mutual_Information) |
+| [ArtemKirsanov](https://www.youtube.com/@ArtemKirsanov) |
+| [DotCSV](https://www.youtube.com/@DotCSV) |
+
 
 
 # ChatBots de ayuda
