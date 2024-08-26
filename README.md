@@ -124,6 +124,7 @@ Nota: texto sin acentos
 | Repo | Descripcion | 
 |-----------|-----------| 
 | [SeqKit](https://bioinf.shenwei.me/seqkit/) | Manipulacion de secuencias genomicas |
+| [hh-suite](https://bioinf.shenwei.me/seqkit/) | Busqueda de secuencias homólogas remotas  |
 | [Diamond2](https://github.com/bbuchfink/diamond) | Blasteo de secuencias de proteinas a escala masiva |
 | [MMseqs2](https://github.com/soedinglab/MMseqs2) | Blasteo de secuencias de proteinas a escala masiva |
 | [FoldSeek](https://github.com/steineggerlab/foldseek) | Blasteo estructural de proteinas a escala masiva|
