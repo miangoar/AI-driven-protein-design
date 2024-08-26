@@ -72,7 +72,7 @@ Nota: texto sin acentos
 | [Mutual_Information](https://www.youtube.com/@Mutual_Information) |
 | [ArtemKirsanov](https://www.youtube.com/@ArtemKirsanov) |
 | [DotCSV](https://www.youtube.com/@DotCSV) |
-
+| [codificandobits](https://www.youtube.com/@codificandobits) |
 
 
 # ChatBots de ayuda
