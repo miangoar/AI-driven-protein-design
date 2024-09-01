@@ -213,6 +213,7 @@ Nota: texto sin acentos
 | [diffusion](https://andrewkchan.dev/posts/diffusion.html) | Introduccion a modelos de difusion|
 | [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/) | explicacion de la arquitectura de AlphaFold3 |
 | [Transformer Explainer: Interactive Learning of Text-Generative Models](https://huggingface.co/papers/2408.04619) | version interactiva de la arquitectura de GPT2 |
+| [LLM Visualization](https://bbycroft.net/llm) | version interactiva de la arquitectura base de GPT |
 
 
 # Cursos recomendados
