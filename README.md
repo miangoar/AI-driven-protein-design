@@ -75,6 +75,16 @@ Nota: texto sin acentos
 | [codificandobits](https://www.youtube.com/@codificandobits) |
 
 
+# Data viz
+| Tema | 
+|-----------|
+| [From Data to Viz](https://www.data-to-viz.com/) |
+| [The Python Graph Gallery](https://python-graph-gallery.com/) |
+| [Python Color Palette Finder](https://python-graph-gallery.com/color-palette-finder/) |
+| [dataviz caveats](https://www.data-to-viz.com/caveats.html) |
+
+
+
 # ChatBots de ayuda
 | Tema | 
 |-----------|
