@@ -250,6 +250,8 @@ Nota: texto sin acentos
 
 | [Protein Modeling and Design with PyRosetta and Machine Learning](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) | tal cual hermano |
 | [PyRosetta](https://rosettacommons.github.io/PyRosetta.notebooks/) | tal cual hermano |
+| [ml-engineering](https://github.com/stas00/ml-engineering) | tal cual hermano |
+
 
 
 # Literatura de revision recomendada
