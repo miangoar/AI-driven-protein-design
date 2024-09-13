@@ -82,7 +82,7 @@ Nota: texto sin acentos
 | [The Python Graph Gallery](https://python-graph-gallery.com/) |
 | [Python Color Palette Finder](https://python-graph-gallery.com/color-palette-finder/) |
 | [dataviz caveats](https://www.data-to-viz.com/caveats.html) |
-
+| [molstar](https://molstar.org/me/) |
 
 
 # ChatBots de ayuda
@@ -224,6 +224,7 @@ Nota: texto sin acentos
 | [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/) | explicacion de la arquitectura de AlphaFold3 |
 | [Transformer Explainer: Interactive Learning of Text-Generative Models](https://huggingface.co/papers/2408.04619) | version interactiva de la arquitectura de GPT2 |
 | [LLM Visualization](https://bbycroft.net/llm) | version interactiva de la arquitectura base de GPT |
+
 
 
 # Cursos recomendados
