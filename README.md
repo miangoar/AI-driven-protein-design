@@ -186,6 +186,8 @@ Nota: texto sin acentos
 | [ChimeraX apps](https://cxtoolshed.rbvi.ucsf.edu/apps/all) | chimeraX  extensions |
 | [masif](https://github.com/LPDI-EPFL/masif) | protein desing based on functionl surface patches |
 | [Cfold](https://github.com/patrickbryant1/Cfold) | Structure prediction of alternative protein conformations |
+| ["Alanin-scanning" with Alphafold2](https://colab.research.google.com/github/sokrypton/ColabBio/blob/main/notebooks/replacement_scan.ipynb) | Structure prediction with a fraction of the aa replaced with Ala [Twitter](https://x.com/sokrypton/status/1812769477228200086) |
+
 
 | [xxx](xxx) | xxx |
 
@@ -247,9 +249,11 @@ Nota: texto sin acentos
 | [3Blue1Brown - Algebra lineal](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | tal cual hermano |
 | [3Blue1Brown - Algebra lineal (En español)](https://www.youtube.com/@3blue1brownespanol/playlists) | tal cual hermano |
 | [Protein Modeling and Design with PyRosetta and Machine Learning](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) | tal cual hermano |
-| [PyRosetta](https://rosettacommons.github.io/PyRosetta.notebooks/) | tal cual hermano |
+| [PyRosetta](https://rosettacommons.github.io/PyRosetta.notebooks/) and the [Youtube playlist](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC)| tal cual hermano |
 | [ml-engineering](https://github.com/stas00/ml-engineering) | tal cual hermano |
 | [How to Create a Protein](https://github.com/universvm/how_to_create_a_protein) | tal cual hermano |
+| [rosettaworkshop 2024](https://meilerlab.org/rosetta-workshop-2024/) | tal cual hermano |
+
 
 
 
