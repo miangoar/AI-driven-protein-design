@@ -58,10 +58,9 @@ Nota: texto sin acentos
 | [Genera embeddings](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/generate_esm_embeddings.ipynb) | Genera los embeddings de diferentes modelos de la familia ESM | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/generate_esm_embeddings.ipynb) |
 | [Descarga proteinas de la AFDB](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/download_afdb_data.ipynb) | En este cuaderno aprenderas como decargar estructruas de proteins y sus datos a partir de la AlphaFold database | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/download_afdb_data.ipynb) |
 | [Crea un transformer desde 0](https://github.com/naity/protein-transformer) | En repositorioa aprenderas como entrenar un transformer con proteinas | N/A |
-
-
-
 | [Parsing_MSA_conservation](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/ESMFold_batch.ipynb) | En este cuaderno aprenderas como añadir informacion de la conservacion de residuos a una estructura .pdb | v1 [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/Parsing_MSA_conservation.ipynb) v2 [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/drive/1Og5xK7gwSaMjzykLqJnzCZ0rNGMJMIle?usp=sharing#scrollTo=Oaqb4SPmXbvP) |
+
+
 
 
 # Canales de Youtube recomendados
@@ -247,10 +246,10 @@ Nota: texto sin acentos
 | [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch) | tal cual hermano |
 | [3Blue1Brown - Algebra lineal](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | tal cual hermano |
 | [3Blue1Brown - Algebra lineal (En español)](https://www.youtube.com/@3blue1brownespanol/playlists) | tal cual hermano |
-
 | [Protein Modeling and Design with PyRosetta and Machine Learning](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) | tal cual hermano |
 | [PyRosetta](https://rosettacommons.github.io/PyRosetta.notebooks/) | tal cual hermano |
 | [ml-engineering](https://github.com/stas00/ml-engineering) | tal cual hermano |
+| [How to Create a Protein](https://github.com/universvm/how_to_create_a_protein) | tal cual hermano |
 
 
 
