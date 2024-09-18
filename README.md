@@ -188,7 +188,7 @@ Nota: texto sin acentos
 | [Cfold](https://github.com/patrickbryant1/Cfold) | Structure prediction of alternative protein conformations |
 | ["Alanin-scanning" with Alphafold2](https://colab.research.google.com/github/sokrypton/ColabBio/blob/main/notebooks/replacement_scan.ipynb) | Structure prediction with a fraction of the aa replaced with Ala [Twitter](https://x.com/sokrypton/status/1812769477228200086) |
 | [ColabProTrek](https://colab.research.google.com/drive/1On2xQU0d7351bIBgZpz2T0VUp2gZium0?usp=sharing) and [huggingface server](https://huggingface.co/spaces/westlake-repl/Demo_ProTrek_650M_UniRef50)| Multimodal protein annotation |
-
+| [MolPipeline](https://github.com/basf/MolPipeline) | processing molecules with RDKit in scikit-learn |
 | [xxx](xxx) | xxx |
 
 # Webservers basados en IA  
