@@ -84,6 +84,7 @@ Nota: texto sin acentos
 | [molstar](https://molstar.org/me/) |
 
 
+
 # ChatBots de ayuda
 | Tema | 
 |-----------|
@@ -193,6 +194,7 @@ Nota: texto sin acentos
 | [ColabProTrek](https://colab.research.google.com/drive/1On2xQU0d7351bIBgZpz2T0VUp2gZium0?usp=sharing) and [huggingface server](https://huggingface.co/spaces/westlake-repl/Demo_ProTrek_650M_UniRef50)| Multimodal protein annotation |
 | [MolPipeline](https://github.com/basf/MolPipeline) | processing molecules with RDKit in scikit-learn |
 | [Prop3D](https://github.com/bouralab/Prop3D) | toolkit for protein structure dataset creation and processing |
+| [Colab forms](https://colab.research.google.com/notebooks/forms.ipynb) | convert a colab notebook to an UI |
 | [xxx](xxx) | xxx |
 
 
