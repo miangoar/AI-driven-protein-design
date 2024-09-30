@@ -62,6 +62,7 @@ Nota: texto sin acentos
 
 https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-structures/index.html#/
 
+(see data D2): https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.21860
 
 # Canales de Youtube recomendados
 | Tema | 
