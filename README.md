@@ -105,6 +105,7 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [Clustering NCBI's nr database](https://github.com/Arcadia-Science/2023-nr-clustering) | clustered nr at 90% length, 90% identity |
 | [globdb](https://globdb.org/) | Derreplecated and annotated genomes |
 | [protabank](https://www.protabank.org/) | protein-fitness datasets |
+| [mavedb](https://www.mavedb.org/) | protein-fitness datasets |
 | [revenant](https://revenant.inf.pucp.edu.pe/) | resurrected proteins structures |
 | [alphafold DB](https://alphafold.ebi.ac.uk/) | predicted structures for 200M proteins from the uniprot  |
 | [esmatlas](https://esmatlas.com/) | predicted structures for 600M proteins from MGnify  |
