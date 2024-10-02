@@ -197,6 +197,9 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [MolPipeline](https://github.com/basf/MolPipeline) | processing molecules with RDKit in scikit-learn |
 | [Prop3D](https://github.com/bouralab/Prop3D) | toolkit for protein structure dataset creation and processing |
 | [Colab forms](https://colab.research.google.com/notebooks/forms.ipynb) | convert a colab notebook to an UI |
+| [freesasa](https://github.com/mittinatten/freesasa) | for calculating Solvent Accessible Surface Areas |
+| [xxx](xxx) | xxx |
+| [xxx](xxx) | xxx |
 | [xxx](xxx) | xxx |
 
 
