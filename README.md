@@ -219,6 +219,8 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [ESMFold](https://esmatlas.com/resources?action=fold) | Weberver para plegar proteins con ESMFold |
 | [Foldseek clusters](https://cluster.foldseek.com/) | Weberver para identificar clusters de estructuras en la AFDB |
 | [damietta](https://damietta.de/) | protein design toolkit |
+| [Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage) | calculate how much vRAM is needed to train and perform inference on a model hosted Hugging Face |
+
 
 
 # Paginas web para aprender sobre las bases de machine learning   
