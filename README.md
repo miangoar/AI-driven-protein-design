@@ -199,7 +199,7 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [Colab forms](https://colab.research.google.com/notebooks/forms.ipynb) | convert a colab notebook to an UI |
 | [freesasa](https://github.com/mittinatten/freesasa) | for calculating Solvent Accessible Surface Areas |
 | [protein_scoring](https://github.com/seanrjohnson/protein_scoring) | Generating and scoring novel enzyme sequences with a variety of models and metrics |
-| [xxx](xxx) | xxx |
+| [roshambo](https://github.com/molecularinformatics/roshambo) | molecular shape comparison |
 | [xxx](xxx) | xxx |
 
 
