@@ -264,12 +264,10 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [3Blue1Brown - Algebra lineal (En español)](https://www.youtube.com/@3blue1brownespanol/playlists) | tal cual hermano |
 | [Protein Modeling and Design with PyRosetta and Machine Learning](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) | tal cual hermano |
 | [PyRosetta](https://rosettacommons.github.io/PyRosetta.notebooks/), [Youtube playlist](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) and the [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8813091/)| tal cual hermano |
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8813091/
 | [ml-engineering](https://github.com/stas00/ml-engineering) | tal cual hermano |
 | [How to Create a Protein](https://github.com/universvm/how_to_create_a_protein) | tal cual hermano |
 | [rosettaworkshop 2024](https://meilerlab.org/rosetta-workshop-2024/) | tal cual hermano |
-
+| [Applied Machine Learning in Python: a Hands-on Guide with Code](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) | tal cual hermano |
 
 
 
