@@ -198,7 +198,7 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [Prop3D](https://github.com/bouralab/Prop3D) | toolkit for protein structure dataset creation and processing |
 | [Colab forms](https://colab.research.google.com/notebooks/forms.ipynb) | convert a colab notebook to an UI |
 | [freesasa](https://github.com/mittinatten/freesasa) | for calculating Solvent Accessible Surface Areas |
-| [xxx](xxx) | xxx |
+| [protein_scoring](https://github.com/seanrjohnson/protein_scoring) | Generating and scoring novel enzyme sequences with a variety of models and metrics |
 | [xxx](xxx) | xxx |
 | [xxx](xxx) | xxx |
 
