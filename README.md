@@ -271,7 +271,7 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [How to Create a Protein](https://github.com/universvm/how_to_create_a_protein) | tal cual hermano |
 | [rosettaworkshop 2024](https://meilerlab.org/rosetta-workshop-2024/) | tal cual hermano |
 | [Applied Machine Learning in Python: a Hands-on Guide with Code](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) | tal cual hermano |
-
+| [Large Language Model Course](https://github.com/mlabonne/llm-course) | tal cual hermano |
 
 
 # Literatura de revision recomendada
