@@ -113,7 +113,8 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [PDB](https://www.rcsb.org/stats/) | 200k protein structures |
 | [PDA](https://pragmaticproteindesign.bio.ed.ac.uk/pda/) | ~1400 de novo designed proteins |
 | [M-CSA](https://www.ebi.ac.uk/thornton-srv/m-csa/browse/) | Mechanism and Catalytic Site Atlas |
-| [M-CSA](https://huggingface.co/tasks) | a collection of differente ML task and their respective models on HuggingFace |
+| [huggingface-task](https://huggingface.co/tasks) | a collection of differente ML task and their respective models on HuggingFace |
+| [ProteinDesignLabs](https://github.com/Zuricho/ProteinDesignLabs) | List of computational protein design research labs |
 
 
 
