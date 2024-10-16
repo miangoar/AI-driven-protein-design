@@ -208,6 +208,11 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [roshambo](https://github.com/molecularinformatics/roshambo) | molecular shape comparison |
 | [openstructure](https://openstructure.org/docs/2.8/) | protein structure , complexes and docking comparison |
 | [xxx](xxx) | xxx |
+| [AF_unmasked](https://github.com/clami66/AF_unmasked) | structure prediction for huge protein complexes (up to ~27 chains and ~8400 amino acids) |
+
+
+s (up to 27 chains
+and 8460 amino acids in our experiments
 
 # Webservers basados en IA  
 | Web | Descripcion | 
