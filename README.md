@@ -282,7 +282,10 @@ and 8460 amino acids in our experiments
 | [Large Language Model Course](https://github.com/mlabonne/llm-course) | tal cual hermano |
 | [AlphaFold Decoded](https://www.youtube.com/watch?v=NSvp7RFegEs&list=PLJ0WcPQS7xJVJr6ceIPFSkAGAgrkmw1c9&ab_channel=AlphaFoldDecoded) and the [iGEM proyect](https://2024.igem.wiki/aachen/education)| tal cual hermano |
 | [Python fundamentals](https://www.youtube.com/playlist?list=PLp0BA-8NZ4bheYbcihGJLg60YSgQRWOcL) | tal cual hermano |
-
+| [Introduction to Python](https://carpentries-incubator.github.io/pangenomics-python/) | tal cual hermano |
+| [Generalidades Linux](https://bioinformatica.ciad.mx/generalidades_linux) | tal cual hermano |
+| [A-microbiologist-wants-to-compute](https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute) | tal cual hermano |
+| [xxx](xxxx) | tal cual hermano |
 
 
 # Literatura de revision recomendada
