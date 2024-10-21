@@ -43,8 +43,7 @@ Nota: texto sin acentos
 | Attention is all you need (Transformer) - Model explanation (including math), Inference and Training  | Explicacion paso a paso de la arquitectura transformer |[https://www.youtube.com/watch?v=bCz4OMemCcA&t=925s&ab_channel=UmarJamil](https://www.youtube.com/watch?v=bCz4OMemCcA&t=925s&ab_channel=UmarJamil)| 
 | Special Lectures on Machine Learning and Protein Folding | Discusión sobre ls arquitectura de AlphaFold2 |[https://www.youtube.com/playlist?list=PL0NRmB0fnLJQPDZh-6utVnRpF1-beEr4T](https://www.youtube.com/playlist?list=PL0NRmB0fnLJQPDZh-6utVnRpF1-beEr4T)| 
 | Review and discussion of AlphaFold3 | Discusión sobre las arquitecturas de AlphaFold |[https://www.youtube.com/watch?v=qjFgthkKxcA](https://www.youtube.com/watch?v=qjFgthkKxcA)| 
-
-
+| ¿Qué son y cómo se unen los aminoácidos? Al fin entendí: Biología Molecular | introduccion a la formacion de polimeros |[https://www.youtube.com/watch?v=5Ps3QTqo3cM&ab_channel=Alfinentend%C3%AD](https://www.youtube.com/watch?v=5Ps3QTqo3cM&ab_channel=Alfinentend%C3%AD)|
 
 # Tutoriales
 | Notebook | Descripcion | Link a Google Colab|
