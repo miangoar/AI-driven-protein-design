@@ -233,7 +233,7 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage) and [gpu_poor calculator](https://github.com/RahulSChand/gpu_poor)| calculate how much vRAM is needed to train and perform inference on a model hosted Hugging Face |
 | [AlphaFold Clusters](https://cluster.foldseek.com/) | investigate the Foldseek clustered AlphaFold database |
 | [protrek server](http://search-protrek.com/) | search proteins by seq, structure and funtional annotations |
-
+| [easifa](http://easifa.iddd.group/) | active and binding site annotations for enzymes |
 
 
 
