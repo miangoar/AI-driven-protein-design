@@ -86,7 +86,7 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [dataviz caveats](https://www.data-to-viz.com/caveats.html) |
 | [molstar](https://molstar.org/me/) |
 | [Biological Sequence Models in the Context of the AI Directives](https://epochai.org/blog/biological-sequence-models-in-the-context-of-the-ai-directives) |
-
+| [Interactive Map of All Pandas Operations](https://blog.dailydoseofds.com/p/interactive-mind-map-of-all-pandas?=) |
 
 
 # ChatBots de ayuda
