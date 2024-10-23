@@ -117,7 +117,7 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [M-CSA](https://www.ebi.ac.uk/thornton-srv/m-csa/browse/) | Mechanism and Catalytic Site Atlas |
 | [huggingface-task](https://huggingface.co/tasks) | a collection of differente ML task and their respective models on HuggingFace |
 | [ProteinDesignLabs](https://github.com/Zuricho/ProteinDesignLabs) | List of computational protein design research labs |
-
+| [lukprot](https://zenodo.org/records/13829058) |  eukaryotic predicted proteins based on EukProtDB |
 
 
 
