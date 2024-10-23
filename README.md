@@ -208,8 +208,8 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [openstructure](https://openstructure.org/docs/2.8/) | protein structure , complexes and docking comparison |
 | [AF_unmasked](https://github.com/clami66/AF_unmasked) | structure prediction for huge protein complexes (up to ~27 chains and ~8400 amino acids) |
 | [opendock](https://github.com/guyuehuo/opendock)| Protein-Ligand Docking and Modeling |
-| [xxx](xxx) | xxx |
-| [xxx](xxx) | xxx |
+| [pyScoMotif](https://github.com/3BioCompBio/pyScoMotif) | protein motif search |
+| [folddisco](https://github.com/steineggerlab/folddisco) | protein motif search |
 | [xxx](xxx) | xxx |
 
 
