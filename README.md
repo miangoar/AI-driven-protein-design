@@ -213,9 +213,11 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [opendock](https://github.com/guyuehuo/opendock)| Protein-Ligand Docking and Modeling |
 | [pyScoMotif](https://github.com/3BioCompBio/pyScoMotif) | protein motif search |
 | [folddisco](https://github.com/steineggerlab/folddisco) | protein motif search |
+| [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures |
+| [pyRMSD](https://github.com/salilab/pyRMSD) | RMSD calculations of large sets of structures |
 | [xxx](xxx) | xxx |
-
-
+| [xxx](xxx) | xxx |
+| [xxx](xxx) | xxx |
 
 # Webservers basados en IA  
 | Web | Descripcion | 
