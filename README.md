@@ -215,7 +215,7 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [folddisco](https://github.com/steineggerlab/folddisco) | protein motif search |
 | [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures |
 | [pyRMSD](https://github.com/salilab/pyRMSD) | RMSD calculations of large sets of structures |
-| [xxx](xxx) | xxx |
+| [PLMSearch](https://github.com/maovshao/PLMSearch) | accurate and fast homologous protein search with PLMs |
 | [xxx](xxx) | xxx |
 | [xxx](xxx) | xxx |
 
