@@ -216,7 +216,7 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures |
 | [pyRMSD](https://github.com/salilab/pyRMSD) | RMSD calculations of large sets of structures |
 | [PLMSearch](https://github.com/maovshao/PLMSearch) | accurate and fast homologous protein search with PLMs |
-| [xxx](xxx) | xxx |
+| [iSeq](https://github.com/BioOmics/iSeq) | Download (meta)data from GSA, SRA, ENA, and DDBJ |
 | [xxx](xxx) | xxx |
 
 # Webservers basados en IA  
