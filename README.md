@@ -78,6 +78,7 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [ArtemKirsanov](https://www.youtube.com/@ArtemKirsanov) |
 | [DotCSV](https://www.youtube.com/@DotCSV) |
 | [codificandobits](https://www.youtube.com/@codificandobits) |
+| [phylumchannel](https://www.youtube.com/@phylumchannel) |
 
 
 # Data viz
