@@ -219,7 +219,7 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [PLMSearch](https://github.com/maovshao/PLMSearch) | accurate and fast homologous protein search with PLMs |
 | [iSeq](https://github.com/BioOmics/iSeq) | Download (meta)data from GSA, SRA, ENA, and DDBJ |
 | [SaProt](https://github.com/westlake-repl/SaProt) | Protein Language Model with Structural Alphabet (AA+3Di) |
-| [xxx](xxx) | xxx |
+| [ProstT5](https://github.com/mheinzinger/ProstT5) and [Foldseek adaptation](https://github.com/steineggerlab/foldseek?tab=readme-ov-file#structure-search-from-fasta-input)| Bilingual Language Model for Protein Sequence and Structure |
 | [xxx](xxx) | xxx |
 | [xxx](xxx) | xxx |
 | [xxx](xxx) | xxx |
