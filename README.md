@@ -220,7 +220,7 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [iSeq](https://github.com/BioOmics/iSeq) | Download (meta)data from GSA, SRA, ENA, and DDBJ |
 | [SaProt](https://github.com/westlake-repl/SaProt) | Protein Language Model with Structural Alphabet (AA+3Di) |
 | [ProstT5](https://github.com/mheinzinger/ProstT5) and [Foldseek adaptation](https://github.com/steineggerlab/foldseek?tab=readme-ov-file#structure-search-from-fasta-input)| Bilingual Language Model for Protein Sequence and Structure |
-| [xxx](xxx) | xxx |
+| [Muscle-3D](https://github.com/rcedgar/muscle?tab=readme-ov-file#multiple-structure-alignment) | scalable multiple protein structure alignment |
 | [xxx](xxx) | xxx |
 | [xxx](xxx) | xxx |
 
