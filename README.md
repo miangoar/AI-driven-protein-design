@@ -79,6 +79,9 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [DotCSV](https://www.youtube.com/@DotCSV) |
 | [codificandobits](https://www.youtube.com/@codificandobits) |
 | [phylumchannel](https://www.youtube.com/@phylumchannel) |
+| [valencelabs](https://portal.valencelabs.com/logg) |
+
+
 
 
 # Data viz
