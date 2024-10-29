@@ -267,6 +267,7 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/) | explicacion de la arquitectura de AlphaFold3 |
 | [Transformer Explainer: Interactive Learning of Text-Generative Models](https://huggingface.co/papers/2408.04619) | version interactiva de la arquitectura de GPT2 |
 | [LLM Visualization](https://bbycroft.net/llm) | version interactiva de la arquitectura base de GPT |
+| [Developer Roadmaps](https://roadmap.sh/) | roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings |
 
 
 
