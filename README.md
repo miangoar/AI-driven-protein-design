@@ -313,6 +313,9 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 |Scientific Large Language Models: A Survey on Biological & Chemical Domains | Aplicacion de LLM en las ciencias naturales |https://arxiv.org/abs/2401.14656| 
 |Loss Functions and Metrics in Deep Learning | Listado de multiples loss functions |https://arxiv.org/abs/2307.02694| 
 |An Introduction to Sequence Similarity (“Homology”) Searching | Introduccion al algortimo de BLASTp |https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820096/| 
+|[Protein engineers turned evolutionists](https://www.nature.com/articles/nmeth1207-991) & [Protein engineers turned evolutionists—the quest for the optimal starting point](https://www.sciencedirect.com/science/article/abs/pii/S095816691830209X)| xxx |xxxx| 
+|xxx | xxx |xxxx| 
+|xxx | xxx |xxxx| 
 
 ## Agradecimientos 
 - A [Lorenzo Segovia](https://www.ibt.unam.mx/perfil/3432/dr-lorenzo-patrick-segovia-forcella), [Alejandro Garciarrubio](https://www.ibt.unam.mx/perfil/1956/dr-alejandro-angel-garciarubio-granados) y [Jose A. Farias](https://www.fariaslab.org/)
