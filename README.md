@@ -232,7 +232,7 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [ProstT5](https://github.com/mheinzinger/ProstT5) and [Foldseek adaptation](https://github.com/steineggerlab/foldseek?tab=readme-ov-file#structure-search-from-fasta-input)| Bilingual Language Model for Protein Sequence and Structure |
 | [Muscle-3D](https://github.com/rcedgar/muscle?tab=readme-ov-file#multiple-structure-alignment) | scalable multiple protein structure alignment |
 | [molli](https://github.com/SEDenmarkLab/molli) | general purpose molecule library generation and handling  |
-| [pdb-redo.eu](https://pdb-redo.eu/) | automated procedure to refine, rebuild and validate your model |
+| [pdb-redo.eu](https://pdb-redo.eu/) & [video explanation](https://www.youtube.com/watch?v=CqgR_HgqRWY&ab_channel=CCP4)| automated procedure to refine, rebuild and validate your model |
 | [xxx](xxx) | xxx |
 | [xxx](xxx) | xxx |
 | [xxx](xxx) | xxx |
