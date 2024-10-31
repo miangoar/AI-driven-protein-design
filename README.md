@@ -66,6 +66,7 @@ Nota: texto sin acentos
 | [Parsing_MSA_conservation](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/ESMFold_batch.ipynb) | En este cuaderno aprenderas como añadir informacion de la conservacion de residuos a una estructura .pdb | v1 [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/Parsing_MSA_conservation.ipynb) v2 [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/drive/1Og5xK7gwSaMjzykLqJnzCZ0rNGMJMIle?usp=sharing#scrollTo=Oaqb4SPmXbvP) |
 | [Easy and accurate protein structure prediction using ColabFold](https://www.nature.com/articles/s41596-024-01060-5) | how to predict mono-, multi-mers and conformations with the ColabFold-AlphaFold2 protocol | N/A |
 | [Moving Beyond Memorization](https://github.com/plinder-org/moving_beyond_memorisation) | compare prote structures with plinder | N/A |
+| [alphafoldingn](https://colab.research.google.com/drive/1m8mMC4fBg3oSE2PeDjeWGUSqDyCPkf80) | watch the proces of "protein folding" by AF2 | N/A |
 
 
 https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-structures/index.html#/
@@ -83,8 +84,9 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [codificandobits](https://www.youtube.com/@codificandobits) |
 | [phylumchannel](https://www.youtube.com/@phylumchannel) |
 | [valencelabs](https://portal.valencelabs.com/logg) |
+| [Nanorooms](https://www.youtube.com/@Nanorooms) |
 
-
+Nanorooms
 
 
 # Data viz
