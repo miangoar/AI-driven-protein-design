@@ -1,5 +1,8 @@
 # ciencia-de-proteinas-basada-en-IA
 
+⚠️ **Warning: repo under construction** ⚠️
+
+
 # Tabla de Contenido
 - [Introducción](#introducción)
 - [Videos recomendados](#Videos-recomendados)
@@ -307,8 +310,13 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [Introduction to Python](https://carpentries-incubator.github.io/pangenomics-python/) | tal cual hermano |
 | [Generalidades Linux](https://bioinformatica.ciad.mx/generalidades_linux) | tal cual hermano |
 | [A-microbiologist-wants-to-compute](https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute) | tal cual hermano |
+| [Fundamentos de ciencia de datos](https://github.com/thatcsharpguy/df) | tal cual hermano |
 | [xxx](xxxx) | tal cual hermano |
-
+| [xxx](xxxx) | tal cual hermano |
+| [xxx](xxxx) | tal cual hermano |
+| [xxx](xxxx) | tal cual hermano |
+| [xxx](xxxx) | tal cual hermano |
+| [xxx](xxxx) | tal cual hermano |
 
 # Literatura de revision recomendada
 | Tema | Descripcion | Link a Youtube|
