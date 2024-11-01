@@ -132,7 +132,7 @@ Nanorooms
 | [ProteinDesignLabs](https://github.com/Zuricho/ProteinDesignLabs) | List of computational protein design research labs |
 | [lukprot](https://zenodo.org/records/13829058) |  eukaryotic predicted proteins based on EukProtDB |
 | [RepeatsDB](https://repeatsdb.org/home) |  annotation and classification of structural tandem repeat proteins  |
-| [xxxx](xxx) |  xxx |
+| [bfvd](https://bfvd.steineggerlab.workers.dev/) |  DB of protein structures from viruses |
 | [xxxx](xxx) |  xxx |
 | [xxxx](xxx) |  xxx |
 | [xxxx](xxx) |  xxx |
