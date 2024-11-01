@@ -318,7 +318,7 @@ Nanorooms
 | [Generalidades Linux](https://bioinformatica.ciad.mx/generalidades_linux) | tal cual hermano |
 | [A-microbiologist-wants-to-compute](https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute) | tal cual hermano |
 | [Fundamentos de ciencia de datos](https://github.com/thatcsharpguy/df) | tal cual hermano |
-| [xxx](xxxx) | tal cual hermano |
+| [AlphaFold. A practical guide](https://www.ebi.ac.uk/training/online/courses/alphafold/) | tal cual hermano |
 | [xxx](xxxx) | tal cual hermano |
 | [xxx](xxxx) | tal cual hermano |
 | [xxx](xxxx) | tal cual hermano |
