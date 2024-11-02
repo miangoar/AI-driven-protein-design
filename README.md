@@ -85,8 +85,9 @@ https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-str
 | [phylumchannel](https://www.youtube.com/@phylumchannel) |
 | [valencelabs](https://portal.valencelabs.com/logg) |
 | [Nanorooms](https://www.youtube.com/@Nanorooms) |
+| [Mutual_Information](https://www.youtube.com/@Mutual_Information) |
 
-Nanorooms
+
 
 
 # Data viz
