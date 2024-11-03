@@ -94,3 +94,26 @@
 | Name | Descripcion | 
 |-----------|-----------| 
 | [xxx](xxx) | xxx |
+
+
+
+# Webservers 
+| Web | Descripcion | 
+|-----------|-----------| 
+| [ProteInfer](https://google-research.github.io/proteinfer/) | predicting the functional properties of a protein from its amino acid sequence using neural networks |
+| [GoPredSim](https://embed.protein.properties/) | Predict protein properties from embeddings |
+| [ProteinMPNN](https://huggingface.co/spaces/simonduerr/ProteinMPNN) | Fixed backbone design |
+| [DeepFRI](https://beta.deepfri.flatironinstitute.org/) | structure-based protein function prediction (and functional residue identification) method using Graph Convolutional Networks with Language Model features |
+| [Amber relaxation](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/relax_amber.ipynb) | Usa AMBER para relajar tus estructruas de proteinas y evitar clashes estericos|
+| [Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage) | Calcula el peso de cualquier modelo almacenado en HuggingFace|
+| [alphafind](https://alphafind.fi.muni.cz/search) | busqueda de estructruas en la AlphaFold database|
+| [af2bind](https://colab.research.google.com/github/sokrypton/af2bind/blob/main/af2bind.ipynb) | Prediccion de sitios de union a sustratos pequeños |
+| [DiffDock-Web](https://huggingface.co/spaces/reginabarzilaygroup/DiffDock-Web) | Docking de proteinas con ligandos |
+| [ligandMPNN](https://colab.research.google.com/github/ullahsamee/ligandMPNN_Colab/blob/main/LigandMPNN_Colab.ipynb) | Notebook para usar LigandMPNN en google colab|
+| [ESMFold](https://esmatlas.com/resources?action=fold) | Weberver para plegar proteins con ESMFold |
+| [Foldseek clusters](https://cluster.foldseek.com/) | Weberver para identificar clusters de estructuras en la AFDB |
+| [damietta](https://damietta.de/) | protein design toolkit |
+| [Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage) and [gpu_poor calculator](https://github.com/RahulSChand/gpu_poor)| calculate how much vRAM is needed to train and perform inference on a model hosted Hugging Face |
+| [AlphaFold Clusters](https://cluster.foldseek.com/) | investigate the Foldseek clustered AlphaFold database |
+| [protrek server](http://search-protrek.com/) | search proteins by seq, structure and funtional annotations |
+| [easifa](http://easifa.iddd.group/) | active and binding site annotations for enzymes |
