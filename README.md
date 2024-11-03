@@ -1,4 +1,5 @@
 # Awesome AI based protein science
+![robot](https://miangoar.github.io/images/robot_ml.png)
 
 ⚠️ **Warning: repo under construction** ⚠️
 
