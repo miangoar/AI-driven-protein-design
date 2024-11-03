@@ -22,3 +22,21 @@
 | [xxxx](xxx) |  xxx |
 | [xxxx](xxx) |  xxx |
 | [xxxx](xxx) |  xxx |
+
+
+# Repositorios utiles  
+| Repo | Descripcion | 
+|-----------|-----------| 
+| [biolists/folding_tools](https://github.com/biolists/folding_tools) | Listado de herramientas para analisis de proteinas basado en IA |
+| [hefeda/design_tools](https://github.com/hefeda/design_tools) | Listado de herramientas para analisis de proteinas basado en IA  |
+| [Protein language models](https://github.com/biolists/folding_tools/blob/main/pLM.md) | Listado de modelos de lenguaje de proteinas |
+| [biodiffusion](https://github.com/biolists/biodiffusion) | Listado de modelos de difusion especificos para diseño de proteinas  |
+| [duerrsimon/folding_tools](https://github.com/duerrsimon/folding_tools/) | Listado de herramientas para analisis de proteinas basado en IA  |
+| [AlphaFold2 mini](https://twitter.com/sokrypton/status/1535857255647690753) | Una version optimizada de AF2 para correr en segundos las predicciones a costa de perder un poco de calidad (se recomienda usarlo solo para fines de aprendizaje del plegamiento de las proteinas) |
+| [Paper for protein desing with deep learning ](https://github.com/Peldom/papers_for_protein_design_using_DL) | Una lista curada de todos los trabajos de diseño de proteinas basado en aprendisaje profundo  |
+| [ColabFold](https://github.com/sokrypton/ColabFold) | Implementacion de AF2 en la nube de Google colab  |
+| [Articulos curados por categoria](https://github.com/Peldom/papers_for_protein_design_using_DL) | Una lista de articulos de ciencia de proteinas basada en IA  |
+| [biomodes](https://abeebyekeen.com/biomodes-biomolecular-design/) | Una lista de Modelos de IA curados por categoria  |
+| [List of papers about Proteins Design using Deep Learning](https://github.com/Peldom/papers_for_protein_design_using_DL) | Literatura curada |
+| [PDB documentation](https://www.rcsb.org/docs/general-help/organization-of-3d-structures-in-the-protein-data-bank) | Descripcion de todo lo relacionado a la PDB y como se analizan las proteinas |
+| [AFDB foldseek clusters](https://afdb-cluster.steineggerlab.workers.dev) | Datos sobre los ~2.3M clusters de estructuras |
