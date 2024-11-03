@@ -1,4 +1,4 @@
-# ciencia-de-proteinas-basada-en-IA
+# Awesome AI based protein science
 
 ⚠️ **Warning: repo under construction** ⚠️
 
