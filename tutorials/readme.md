@@ -14,3 +14,5 @@
 | [Easy and accurate protein structure prediction using ColabFold](https://www.nature.com/articles/s41596-024-01060-5) | how to predict mono-, multi-mers and conformations with the ColabFold-AlphaFold2 protocol | N/A |
 | [Moving Beyond Memorization](https://github.com/plinder-org/moving_beyond_memorisation) | compare prote structures with plinder | N/A |
 | [alphafoldingn](https://colab.research.google.com/drive/1m8mMC4fBg3oSE2PeDjeWGUSqDyCPkf80) | watch the proces of "protein folding" by AF2 | N/A |
+
+https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-structures/index.html#/ (see data D2): https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.21860
