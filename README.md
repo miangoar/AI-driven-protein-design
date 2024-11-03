@@ -1,7 +1,7 @@
 # Awesome AI based protein science
 ⚠️ **Warning: repo under construction** ⚠️
 
-<img src="https://miangoar.github.io/images/robot_ml.png" alt="Descripción de la imagen" width="400" height="auto">
+<img src="https://miangoar.github.io/images/robot_ml.png" alt="Descripción de la imagen" width="300" height="auto">
 
 
 # Content list
