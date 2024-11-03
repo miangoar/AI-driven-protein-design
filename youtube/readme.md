@@ -1,5 +1,6 @@
+
 # Youtube channels for Machine/Deep learning 
-|-----------|
+
 | [CodigoMaquina](https://www.youtube.com/@CodigoMaquina) |
 | [Clockworkbio](https://www.youtube.com/@Clockworkbio) |
 | [Mutual_Information](https://www.youtube.com/@Mutual_Information) |
@@ -14,7 +15,7 @@
 
 
 # Youtube channels for biology
-|-----------|
+
 | [CodigoMaquina](https://www.youtube.com/@CodigoMaquina) |
 | [Clockworkbio](https://www.youtube.com/@Clockworkbio) |
 | [Mutual_Information](https://www.youtube.com/@Mutual_Information) |
