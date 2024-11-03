@@ -19,7 +19,7 @@
 | [lukprot](https://zenodo.org/records/13829058) |  eukaryotic predicted proteins based on EukProtDB |
 | [RepeatsDB](https://repeatsdb.org/home) |  annotation and classification of structural tandem repeat proteins  |
 | [bfvd](https://bfvd.steineggerlab.workers.dev/) |  DB of protein structures from viruses |
-| [xxxx](xxx) |  xxx |
+| [uniclust](https://gwdu111.gwdg.de/%7Ecompbiol/uniclust/2023_02/) | clustered uniprot - [paper](https://academic.oup.com/nar/article/45/D1/D170/2605730) |
 | [xxxx](xxx) |  xxx |
 | [xxxx](xxx) |  xxx |
 
