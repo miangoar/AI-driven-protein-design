@@ -57,3 +57,15 @@
 | [xxx](xxxx) | tal cual hermano |
 | [xxx](xxxx) | tal cual hermano |
 | [xxx](xxxx) | tal cual hermano |
+
+# Data viz
+| Tema | 
+|-----------|
+| [From Data to Viz](https://www.data-to-viz.com/) |
+| [The Python Graph Gallery](https://python-graph-gallery.com/) |
+| [Python Color Palette Finder](https://python-graph-gallery.com/color-palette-finder/) |
+| [dataviz caveats](https://www.data-to-viz.com/caveats.html) |
+| [molstar](https://molstar.org/me/) |
+| [Biological Sequence Models in the Context of the AI Directives](https://epochai.org/blog/biological-sequence-models-in-the-context-of-the-ai-directives) |
+| [Interactive Map of All Pandas Operations](https://blog.dailydoseofds.com/p/interactive-mind-map-of-all-pandas?=) |
+| [NN-SVG]https://github.com/alexlenail/NN-SVG) |
