@@ -95,6 +95,11 @@
 |-----------|-----------| 
 | [xxx](xxx) | xxx |
 
+# For machine learning
+| Name | Descripcion | 
+|-----------|-----------| 
+| [cuml](https://github.com/rapidsai/cuml) | GPU-based implementations of comon machine learning algorithms that are 10-50x faster than their CPU equivalents |
+| [xxx](xxx) | xxx |
 
 
 # Webservers 
