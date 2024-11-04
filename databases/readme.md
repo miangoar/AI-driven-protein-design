@@ -20,7 +20,7 @@
 | [RepeatsDB](https://repeatsdb.org/home) |  annotation and classification of structural tandem repeat proteins  |
 | [bfvd](https://bfvd.steineggerlab.workers.dev/) |  DB of protein structures from viruses |
 | [uniclust](https://gwdu111.gwdg.de/%7Ecompbiol/uniclust/2023_02/) | clustered uniprot - [paper](https://academic.oup.com/nar/article/45/D1/D170/2605730) |
-| [xxxx](xxx) |  xxx |
+| [AllTheBacteria](https://github.com/AllTheBacteria/AllTheBacteria) |  All WGS isolate bacterial INSDC data to August 2024 uniformly assembled, QC-ed, annotated, searchable |
 | [xxxx](xxx) |  xxx |
 
 
