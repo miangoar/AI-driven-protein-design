@@ -52,7 +52,7 @@
 | [A-microbiologist-wants-to-compute](https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute) | tal cual hermano |
 | [Fundamentos de ciencia de datos](https://github.com/thatcsharpguy/df) | tal cual hermano |
 | [AlphaFold. A practical guide](https://www.ebi.ac.uk/training/online/courses/alphafold/) | tal cual hermano |
-| [xxx](xxxx) | tal cual hermano |
+| [A Complete Guide to Protein Folding Prediction with RoseTTAFold](https://alchemybio.substack.com/p/a-complete-guide-to-protein-folding) | tal cual hermano |
 | [xxx](xxxx) | tal cual hermano |
 | [xxx](xxxx) | tal cual hermano |
 | [xxx](xxxx) | tal cual hermano |
