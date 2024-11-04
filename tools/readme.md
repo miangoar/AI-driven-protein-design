@@ -77,7 +77,7 @@
 | [Muscle-3D](https://github.com/rcedgar/muscle?tab=readme-ov-file#multiple-structure-alignment) | scalable multiple protein structure alignment |
 | [molli](https://github.com/SEDenmarkLab/molli) | general purpose molecule library generation and handling  |
 | [pdb-redo.eu](https://pdb-redo.eu/) & [video explanation](https://www.youtube.com/watch?v=CqgR_HgqRWY&ab_channel=CCP4)| automated procedure to refine, rebuild and validate your model |
-| [xxx](xxx) | xxx |
+| [LexicMap](https://github.com/shenwei356/LexicMap) | a nucleotide sequence alignment tool for efficiently querying gene, plasmid, viral, or long-read sequences against up to millions of prokaryotic genomes |
 | [xxx](xxx) | xxx |
 | [xxx](xxx) | xxx |
 | [xxx](xxx) | xxx |
