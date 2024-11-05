@@ -69,3 +69,14 @@
 | [Biological Sequence Models in the Context of the AI Directives](https://epochai.org/blog/biological-sequence-models-in-the-context-of-the-ai-directives) |
 | [Interactive Map of All Pandas Operations](https://blog.dailydoseofds.com/p/interactive-mind-map-of-all-pandas?=) |
 | [NN-SVG]https://github.com/alexlenail/NN-SVG) |
+
+
+# Blogs 
+| Tema | 
+|-----------| 
+| [ddelalamo](https://publish.obsidian.md/ddelalamo/Sorted_notes/Dashboard) |
+| [liambai](https://liambai.com/) |
+| [xxx]() |
+| [xxx]() |
+| [xxx]() |
+| [xxx]() |
