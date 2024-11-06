@@ -87,8 +87,10 @@
 # For protein structures
 | Name | Descripcion | 
 |-----------|-----------| 
+| [afpdb](https://github.com/data2code/afpdb) | Efficient manipulation of protein structures in Python |
 | [xxx](xxx) | xxx |
-
+| [xxx](xxx) | xxx |
+| [xxx](xxx) | xxx |
 
 # For chemical molecules
 | Name | Descripcion | 
