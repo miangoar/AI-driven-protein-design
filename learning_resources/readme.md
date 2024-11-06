@@ -76,7 +76,7 @@
 |-----------| 
 | [ddelalamo](https://publish.obsidian.md/ddelalamo/Sorted_notes/Dashboard) |
 | [liambai](https://liambai.com/) |
-| [xxx]() |
+| [owlposting](https://www.owlposting.com/) |
 | [xxx]() |
 | [xxx]() |
 | [xxx]() |
