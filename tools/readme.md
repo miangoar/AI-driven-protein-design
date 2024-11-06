@@ -124,6 +124,8 @@
 | [AlphaFold Clusters](https://cluster.foldseek.com/) | investigate the Foldseek clustered AlphaFold database |
 | [protrek server](http://search-protrek.com/) | search proteins by seq, structure and funtional annotations |
 | [easifa](http://easifa.iddd.group/) | active and binding site annotations for enzymes |
+| [InterProt](https://interprot.com/#/) |  interpretability of features derived from protein language models using sparse autoencoders |
+
 
 # Data Viz
 | Name | Descripcion | 
