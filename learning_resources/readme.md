@@ -77,6 +77,6 @@
 | [ddelalamo](https://publish.obsidian.md/ddelalamo/Sorted_notes/Dashboard) |
 | [liambai](https://liambai.com/) |
 | [owlposting](https://www.owlposting.com/) |
-| [xxx]() |
+| [epochai](https://epochai.org/blog) |
 | [xxx]() |
 | [xxx]() |
