@@ -1,6 +1,7 @@
 
 # Youtube channels for Machine/Deep learning 
-
+| Video |
+|-----------|
 | [CodigoMaquina](https://www.youtube.com/@CodigoMaquina) |
 | [Clockworkbio](https://www.youtube.com/@Clockworkbio) |
 | [Mutual_Information](https://www.youtube.com/@Mutual_Information) |
@@ -15,7 +16,8 @@
 
 
 # Youtube channels for biology
-
+| Video |
+|-----------|
 | [CodigoMaquina](https://www.youtube.com/@CodigoMaquina) |
 | [Clockworkbio](https://www.youtube.com/@Clockworkbio) |
 | [Mutual_Information](https://www.youtube.com/@Mutual_Information) |
@@ -55,3 +57,5 @@
 | ¿Qué son y cómo se unen los aminoácidos? Al fin entendí: Biología Molecular | introduccion a la formacion de polimeros |[https://www.youtube.com/watch?v=5Ps3QTqo3cM&ab_channel=Alfinentend%C3%AD](https://www.youtube.com/watch?v=5Ps3QTqo3cM&ab_channel=Alfinentend%C3%AD)|
 | How do Graphics Cards Work? Exploring GPU Architecture | Como funcionan las GPUs |[https://www.youtube.com/watch?v=h9Z4oGN89MU&ab_channel=BranchEducation](https://www.youtube.com/watch?v=h9Z4oGN89MU&ab_channel=BranchEducation
 )| 
+| Venga va... ¿Qué es un TENSOR? | intro a tensores|https://www.youtube.com/watch?v=s4USUVBuFi0&ab_channel=MatesMike| 
+
