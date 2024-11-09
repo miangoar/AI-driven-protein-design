@@ -40,7 +40,8 @@
 |Emile Zuckerkandl y el nacimiento de la evolución molecular | Charla de introduccion a la evolucion molecular |[https://youtu.be/ckIbT93Qhjc](https://www.youtube.com/watch?v=qCLgEnSUUmc&ab_channel=elcolegionacionalmx)| 
 |Boston Protein Design and Modeling Club | Serie de seminarios sobre los trabajos mas actuales en ingenieria de proteinas |https://www.bpdmc.org/| 
 |ML Protein Engineering Seminar Series |Serie de seminarios sobre los trabajos mas actuales en ingenieria de proteinas basado en machine learning |https://www.ml4proteinengineering.com/| 
-| Cómo Entender la OCTAVA DIMENSIÓN | Comprender datos de alta dimensionalidad |[https://youtu.be/kAjTrAUFIdQ](https://youtu.be/kAjTrAUFIdQ)| 
+| Cómo Entender cualquier DIMENSIÓN | Comprender datos de alta dimensionalidad |[https://youtu.be/kAjTrAUFIdQ](https://youtu.be/kAjTrAUFIdQ)| 
+|¿Qué es tener INFINITAS DIMENSIONES? | Comprender datos de alta dimensionalidad |[https://www.youtube.com/watch?v=yCX8rW-8X2I&ab_channel=MatesMike)| 
 | Algoritmo backpropagation | Comprender el algoritmo base de toda IA moderna |[https://www.youtube.com/watch?v=SmZmBKc7Lrs](https://www.youtube.com/watch?v=SmZmBKc7Lrs)| 
 | Que es un GPT? | Comprender como funciona la arquitectura transformer |[https://www.youtube.com/watch?v=wjZofJX0v4Ms](https://www.youtube.com/watch?v=wjZofJX0v4M)| 
 | Watching Neural Networks Learn | Como funcionan las funciones de activacion |[https://youtu.be/TkwXa7Cvfr8?si=VI38wPQhouvCLZdC](https://youtu.be/TkwXa7Cvfr8?si=VI38wPQhouvCLZdC)| 
