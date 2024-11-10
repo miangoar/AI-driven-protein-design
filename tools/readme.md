@@ -10,7 +10,7 @@
 | [BioNumpy](https://github.com/bionumpy/bionumpy/) | array programming on biological datasets |
 | [pLM-BLAST](https://github.com/labstructbioinf/pLM-BLAST) | detection of remote homology by protein language models |  
 | [PLMSearch](https://github.com/maovshao/PLMSearch) | homologous protein search with protein language models |
-| [iSeq](https://github.com/BioOmics/iSeq) | download (meta)data from sequence databases like GSA, SRA, ENA, and DDBJ |
+| [iSeq](https://github.com/BioOmics/iSeq) | download data from sequence databases like GSA, SRA, ENA, and DDBJ |
 | [LexicMap](https://github.com/shenwei356/LexicMap) | sequence alignment against millions of genomes |
 | [NCBI datasets](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/download-and-install/) | download data from NCBI databases |
 | [ncbi-genome-download](https://github.com/kblin/ncbi-genome-download) | scripts to download genomes from the NCBI FTP servers |
@@ -44,62 +44,62 @@
 | [pyScoMotif](https://github.com/3BioCompBio/pyScoMotif) | protein motif search |
 | [pyRMSD](https://github.com/salilab/pyRMSD) | RMSD calculations of large sets of structures |
 | [Muscle-3D](https://github.com/rcedgar/muscle) | multiple protein structure alignment |
-| [pdb-redo.eu](https://pdb-redo.eu/)| automated procedure to refine, rebuild and validate your model |
+| [pdb-redo](https://pdb-redo.eu/)| automated procedure to refine, rebuild and validate your model |
+| [proteinshake](https://github.com/BorgwardtLab/proteinshake) | preprocessed and cleaned protein 3D structure datasets |
 | [xxx](xxx) | xxx |
 
 
 
 
 # Representation learning for proteins
-| Name | Descripcion | 
+| Name | Description | 
 |-----------|-----------|
 | [ProtLearn](https://github.com/tadorfer/protlearn) | extracting protein sequence features |
 | [Pfeature](https://github.com/raghavagps/Pfeature) | computing features of peptides and proteins |
-| [bio_embeddings](https://github.com/sacdallago/bio_embeddings) | Get protein embeddings from protein sequences |
-| [TRILL](https://github.com/martinez-zacharya/TRILL) | GraphPart, a data partitioning method for ML on biological sequences |
-| [Graph-Part](https://github.com/graph-part/graph-part) |  Preparacion de datasets de secuencias de proteinas  |
-| [ProteinFlow](https://github.com/adaptyvbio/ProteinFlow) | procesamiento de secuencias y estructruas para tareas de machine learning|
-| [proteinshake](https://github.com/BorgwardtLab/proteinshake) | procesamiento de estructruas para tareas de machine learning|
-| [docktgrid](https://github.com/gmmsb-lncc/docktgrid) | Codificacion de estructuras de proteinas y sus ligandos en vectores usando algoritmos de analisis 3D |
+| [bio_embeddings](https://github.com/sacdallago/bio_embeddings) | compute protein embeddings from sequences |
+| [Graph-Part](https://github.com/graph-part/graph-part) | data partitioning method for ML |
+| [ProteinFlow](https://github.com/adaptyvbio/ProteinFlow) | data processing pipeline fo ML |
+| [docktgrid](https://github.com/gmmsb-lncc/docktgrid) | Create customized voxel representations of protein-ligand complexes |
 | [Prop3D](https://github.com/bouralab/Prop3D) | toolkit for protein structure dataset creation and processing  |
-| [protkit](https://github.com/silicogenesis/protkit) | Manipulacion y representacion de proteinas |
 | [SaProt](https://github.com/westlake-repl/SaProt) | Protein Language Model with Structural Alphabet (AA+3Di) |
-| [ProstT5](https://github.com/mheinzinger/ProstT5) and [Foldseek adaptation](https://github.com/steineggerlab/foldseek?tab=readme-ov-file#structure-search-from-fasta-input)| Bilingual Language Model for Protein Sequence and Structure |
-| [Graphein](https://github.com/a-r-j/graphein) | Codificacion de estructuras de proteinas en vectores usando  teoria de grafos |
-| [PyUUL](https://pyuul.readthedocs.io/index.html) | Codificacion de estructuras de proteinas en vectores usando algoritmos de analisis 3D |
+| [ProstT5](https://github.com/mheinzinger/ProstT5) | Bilingual Language Model for Protein Sequence and Structure (see the [Foldseek adaptation](https://github.com/steineggerlab/foldseek?tab=readme-ov-file#structure-search-from-fasta-input)) |
+| [Graphein](https://github.com/a-r-j/graphein) | geometric representations of biomolecules and interaction networks |
+| [PyUUL](https://pyuul.readthedocs.io/index.html) | encode structures into differentiable data structures |
 | [colav](https://github.com/Hekstra-Lab/colav) | feature extraction methods like dihedral angles, CA pairwise distances, and strain analysis |
-
+| [ProTrek](https://github.com/westlake-repl/ProTrek) <br> [webserver](http://search-protrek.com/)| multimodal (sequence-structure-function) protein representations and annotations |
+| [masif](https://github.com/LPDI-EPFL/masif) | molecular surface interaction fingerprints |
+| [xxx](xxx) | xxx |
 
 
 # Protein engineering
-| Name | Descripcion | 
+| Name | Description | 
 |-----------|-----------|
-| [ProteinMPNN in JAX](https://github.com/sokrypton/ColabDesign/tree/main/mpnn) | Una implementacion optimizada de ProteinMPNN en JAX  |
-| [EvoProtGrad](https://github.com/NREL/EvoProtGrad) | Simular experimentos de evolucion dirigida usando modelos de lenguaje de proteinas|
-| [ConservFold](https://www.rodrigueslab.com/resources) | Mapear los residuos conervados a una estructrua usando AlphaFold2 |
-| [consurf](https://consurf.tau.ac.il/consurf_index.php) | Identification de regiones conervadas de proteinas |
+| [protkit](https://github.com/silicogenesis/protkit) | Unified Approach to Protein Engineering |
+| [ProteinMPNN in JAX](https://github.com/sokrypton/ColabDesign/tree/main/mpnn) | Fast implementation of ProteinMPNN |
+| [EvoProtGrad](https://github.com/NREL/EvoProtGrad) | directed evolution with MCMC and protein language models |
+| [ConservFold](https://www.rodrigueslab.com/resources) | map amino acid conservation intro structures with the AF2 pipeline |
+| [consurf](https://consurf.tau.ac.il/consurf_index.php) |identification of functionally important regions in proteins |
 | [AlphaPulldown](https://www.embl-hamburg.de/AlphaPulldown/) | Complex moedeling with AF-Multimer |
-| [ColabDock](https://github.com/JeffSHF/) | Docking protein-proteina |
-| [ColabDesign](https://github.com/sokrypton/ColabDesign) | inverse ffolding |
+| [ColabDock](https://github.com/JeffSHF/) | protein-protein docking |
+| [ColabDesign](https://github.com/sokrypton/ColabDesign) | protein design pipelines |
 | [LazyAF](https://github.com/ThomasCMcLean/LazyAF) | protein-protein interaction with AF2|
-| [CombFold](https://github.com/dina-lab3D/CombFold) | structure of large protein complexes |
-| [masif](https://github.com/LPDI-EPFL/masif) | protein desing based on functionl surface patches |
-| [Cfold](https://github.com/patrickbryant1/Cfold) | Structure prediction of alternative protein conformations |
-| ["Alanin-scanning" with Alphafold2](https://colab.research.google.com/github/sokrypton/ColabBio/blob/main/notebooks/replacement_scan.ipynb) | Structure prediction with a fraction of the aa replaced with Ala [Twitter](https://x.com/sokrypton/status/1812769477228200086) |
-| [ColabProTrek](https://colab.research.google.com/drive/1On2xQU0d7351bIBgZpz2T0VUp2gZium0?usp=sharing) and [huggingface server](https://huggingface.co/spaces/westlake-repl/Demo_ProTrek_650M_UniRef50)| Multimodal protein annotation |
-| [protein_scoring](https://github.com/seanrjohnson/protein_scoring) | Generating and scoring novel enzyme sequences with a variety of models and metrics |
-| [AF_unmasked](https://github.com/clami66/AF_unmasked) | structure prediction for huge protein complexes (up to ~27 chains and ~8400 amino acids) |
-| [AncFlow](https://github.com/rrouz/AncFlow) | pipeline para reconstruccion ancestral |
+| [CombFold](https://github.com/dina-lab3D/CombFold) | structure predictions of large complexes |
+| [Cfold](https://github.com/patrickbryant1/Cfold) | structure prediction of alternative protein conformations |
+| [Replacement Scan](https://colab.research.google.com/github/sokrypton/ColabBio/blob/main/notebooks/replacement_scan.ipynb) | find how many amino acid replacements your protein can tolerate [tw](https://x.com/sokrypton/status/1812769477228200086) |
+| [protein_scoring](https://github.com/seanrjohnson/protein_scoring) | generating and scoring novel enzyme sequences  |
+| [AF_unmasked](https://github.com/clami66/AF_unmasked) | structure prediction for huge protein complexes (~27 chains and ~8400aa) |
+| [AncFlow](https://github.com/rrouz/AncFlow) | pipeline for the ancestral sequence reconstruction of clustered phylogenetic subtrees |
+| [TRILL](https://github.com/martinez-zacharya/TRILL) | Sandbox for Deep-Learning based Computational Protein Design |
 | [xxx](xxx) | xxx |
 
 
 
 
 # For molecules
-| Name | Descripcion | 
+| Name | Description | 
 |-----------|-----------| 
 | [PDBe CCDUtils](https://pdbeurope.github.io/ccdutils/index.html)  | tools to deal with PDB chemical components and visualization|
-| [PDBe Arpeggio](https://github.com/PDBeurope/arpeggio) |  Calculation of interatomic interactions in molecular structures|
+| [PDBe Arpeggio](https://github.com/PDBeurope/arpeggio) |  calculation of interatomic interactions in molecular structures|
 | [PDBe RelLig](https://github.com/PDBeurope/rellig) | classifies ligands based on their functional role| 
 | [MolPipeline](https://github.com/basf/MolPipeline) | processing molecules with RDKit in scikit-learn |
 | [roshambo](https://github.com/molecularinformatics/roshambo) | molecular shape comparison |
@@ -110,22 +110,25 @@
 
 
 # For machine learning
-| Name | Descripcion | 
+| Name | Description | 
 |-----------|-----------| 
-| [Colab forms](https://colab.research.google.com/notebooks/forms.ipynb) | convert a colab notebook to an UI |
-| [cuml](https://github.com/rapidsai/cuml) | GPU-based implementations of comon machine learning algorithms that are 10-50x faster than their CPU equivalents |
-| [LazyPredict](https://github.com/shankarpandala/lazypredict) | Comparacion automatica de varios algoritmos de clasificacion y regresion |
+| [Colab forms](https://colab.research.google.com/notebooks/forms.ipynb) | how to convert a colab notebook to a user interface |
+| [cuml](https://github.com/rapidsai/cuml) | GPU-based implementations of common machine learning algorithms |
+| [LazyPredict](https://github.com/shankarpandala/lazypredict) | build a lot of basic models without much code |
 | [xxx](xxx) | xxx |
 
+
+
 # Data viz for bio
-| Name | Descripcion | 
+| Name | Description | 
 |-----------|-----------| 
-| [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) | Visualizacion de proteinas con calidad profesional usando Blender |
+| [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) | Toolbox for molecular animations in Blender |
 | [ChimeraX apps](https://cxtoolshed.rbvi.ucsf.edu/apps/all) | chimeraX  extensions |
 
 
+
 # Webservers 
-| Web | Descripcion | 
+| Web | Description | 
 |-----------|-----------| 
 | [ProteInfer](https://google-research.github.io/proteinfer/) | predicting the functional properties of a protein from its amino acid sequence using neural networks |
 | [GoPredSim](https://embed.protein.properties/) | Predict protein properties from embeddings |
@@ -148,7 +151,7 @@
 
 
 # Data Viz
-| Name | Descripcion | 
+| Name | Description | 
 |-----------|-----------| 
 | [datamapplot](https://github.com/TutteInstitute/datamapplot) | creating beautiful, interactive and massive scatterplots |
 | [xxx](xxx) | xxx |
