@@ -23,6 +23,7 @@
 | [AllTheBacteria](https://github.com/AllTheBacteria/AllTheBacteria) |  All WGS isolate bacterial INSDC data to August 2024 uniformly assembled, QC-ed, annotated, searchable |
 | [bakrep](https://bakrep.computational.bio/) |  661,402 bacterial genomes consistently processed & characterized, enriched with metadata |
 | [ted](https://ted.cathdb.info/) |  The Encyclopedia of Domains |
+| [cath DB](https://www.cathdb.info/version/v4_3_0/superfamily/3.40.710.10) | Base de datos de plegamientos proteicos. Ejemplo con la superfamilia de serinbetalactamasas|
 | [xxxx](xxx) |  xxx |
 | [xxxx](xxx) |  xxx |
 | [xxxx](xxx) |  xxx |
