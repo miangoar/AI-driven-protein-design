@@ -79,8 +79,8 @@
 | [pdb-redo.eu](https://pdb-redo.eu/) & [video explanation](https://www.youtube.com/watch?v=CqgR_HgqRWY&ab_channel=CCP4)| automated procedure to refine, rebuild and validate your model |
 | [LexicMap](https://github.com/shenwei356/LexicMap) | a nucleotide sequence alignment tool for efficiently querying gene, plasmid, viral, or long-read sequences against up to millions of prokaryotic genomes |
 | [NCBI datasets ](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/download-and-install/) | query and download biological sequence data across all domains of life from NCBI databases |
-| [xxx](xxx) | xxx |
-| [xxx](xxx) | xxx |
+| [ncbi-genome-download](https://github.com/kblin/ncbi-genome-download) | Scripts to download genomes from the NCBI FTP servers |
+| [ncbi-acc-download](https://github.com/kblin/ncbi-acc-download) | Download files from NCBI Entrez by accession |
 | [xxx](xxx) | xxx |
 
 
