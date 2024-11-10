@@ -1,45 +1,16 @@
 # For sequences
-| Name | Descripcion | 
+| Name | Description | 
 |-----------|-----------| 
-| [SeqKit](https://bioinf.shenwei.me/seqkit/) & [short tutorial](https://sandbox.bio/tutorials/seqkit-intro)| Manipulacion de secuencias genomicas |
-| [hh-suite](https://bioinf.shenwei.me/seqkit/) | Busqueda de secuencias homólogas remotas  |
-| [Diamond2](https://github.com/bbuchfink/diamond) | Blasteo de secuencias de proteinas a escala masiva |
-| [MMseqs2](https://github.com/soedinglab/MMseqs2) | Blasteo de secuencias de proteinas a escala masiva |
-| [FoldSeek](https://github.com/steineggerlab/foldseek) | Blasteo estructural de proteinas a escala masiva|
-| [ProtLearn ](https://github.com/tadorfer/protlearn) | Codificacion de secuencias de proteinas en vectores para el entrenamiento de algoritmos de machine learning |
-| [Pfeature](https://github.com/raghavagps/Pfeature) |Codificacion de secuencias de proteinas en vectores para el entrenamiento de algoritmos de machine learning  |
-| [Graphein](https://github.com/a-r-j/graphein) | Codificacion de estructuras de proteinas en vectores usando  teoria de grafos |
-| [PyUUL](https://pyuul.readthedocs.io/index.html) | Codificacion de estructuras de proteinas en vectores usando algoritmos de analisis 3D |
-| [bio_embeddings](https://github.com/sacdallago/bio_embeddings) | Implementacion de varios lenguajes de proteinas  |
-| [TRILL ](https://github.com/martinez-zacharya/TRILL) | Implementacion de varios lenguajes de proteinas  |
-| [Graph-Part](https://github.com/graph-part/graph-part) |  Preparacion de datasets de secuencias de proteinas  |
-| [LazyPredict](https://github.com/shankarpandala/lazypredict) | Comparacion automatica de varios algoritmos de clasificacion y regresion |
-| [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) | Visualizacion de proteinas con calidad profesional usando Blender |
-| [ProDy](http://prody.csb.pitt.edu/tutorials/) | Suite de herramientas de analisis de proteinas |
-| [PyPDB](https://github.com/williamgilpin/pypdb) | API para interactuar con la PDB con python |
-| [LocalPDB](https://github.com/labstructbioinf/localpdb) | API para interactuar con la PDB con python |
-| [pdb-tools](https://github.com/haddocking/pdb-tools) | Herramientas para procesamiento y analisis de archivos .pdb |
-| [seqlike](https://github.com/modernatx/seqlike) | Manipulacion y representacion de secuencias de proteinas |
-| [BioNumpy](https://github.com/bionumpy/bionumpy/) | Manipulacion y representacion de secuencias usando numpy |
-| [pdbfixer](https://github.com/openmm/pdbfixer) | Correccion de errores en archivos .pdb|
-| [ProteinFlow](https://github.com/adaptyvbio/ProteinFlow) | procesamiento de secuencias y estructruas para tareas de machine learning|
-| [cath DB](https://www.cathdb.info/version/v4_3_0/superfamily/3.40.710.10) | Base de datos de plegamientos proteicos. Ejemplo con la superfamilia de serinbetalactamasas|
-| [proteinshake](https://github.com/BorgwardtLab/proteinshake) | procesamiento de estructruas para tareas de machine learning|
-| [EvoProtGrad](https://github.com/NREL/EvoProtGrad) | Simular experimentos de evolucion dirigida usando modelos de lenguaje de proteinas|
-| [ConservFold](https://www.rodrigueslab.com/resources) | Mapear los residuos conervados a una estructrua usando AlphaFold2 |
-| [docktgrid](https://github.com/gmmsb-lncc/docktgrid) | Codificacion de estructuras de proteinas y sus ligandos en vectores usando algoritmos de analisis 3D |
-| [pdbeccdutils](https://pdbeurope.github.io/ccdutils/index.html) <br> [PDBe Arpeggio](https://github.com/PDBeurope/arpeggio) <br> [PDBe RelLig](https://github.com/PDBeurope/rellig) | Manipulacion de pequeñas moluclas de la PDB asi como su interaccion con proteinas |
-| [PDBminer](https://github.com/ELELAB/PDBminer) | Manipulacion modelos de la PDB y AlphaFold Database  |
-| [pdbe-api-training](https://github.com/glevans/pdbe-api-training) | Tutoriales para aprender a usar la ePDB  |
-| [Prop3D](https://github.com/bouralab/Prop3D) | Herramientas para la preparacion de datasets de proteinas para machine learning  |
-| [ProteinMPNN in JAX](https://github.com/sokrypton/ColabDesign/tree/main/mpnn) | Una implementacion optimizada de ProteinMPNN en JAX  |
-| [BioPandas](https://biopandas.github.io/biopandas/) | Una implementacion de pandas para manipular archivos .pdb  |
-| [USalign](https://github.com/pylelab/USalign) | Alineamiento de estructruas monomericas y heterodimeros o en combinacion con acidos nucleicos  |
-| [protkit](https://github.com/silicogenesis/protkit) | Manipulacion y representacion de proteinas |
-| [foldcomp](https://github.com/steineggerlab/foldcomp) | Algoritmo de compresion de estructruas de proteinas y bases de datos masivas |
-| [cath-tools](https://github.com/UCLOrengoGroup/cath-tools) |  Manipulacion y calculos con estructruas proteicas |
-| [Pyrcsbsearchapi](https://github.com/rcsb/py-rcsbsearchapi) |  API de la PDB |
-| [protestar](https://github.com/refresh-bio/protestar) | Algoritmo de compresion de estructruas de proteinas |
+| [SeqKit](https://bioinf.shenwei.me/seqkit/) <br> [tutorial](https://sandbox.bio/tutorials/seqkit-intro)| ultrafast toolkit for FASTA/Q file manipulation |
+| [hh-suite](https://bioinf.shenwei.me/seqkit/) | Remote protein homology detection suite |
+| [Diamond2](https://github.com/bbuchfink/diamond) | Accelerated BLAST compatible local sequence aligner |
+| [MMseqs2](https://github.com/soedinglab/MMseqs2) | ultra fast and sensitive search and clustering suite |
+| [ProDy](http://prody.csb.pitt.edu/tutorials/) | protein structure, dynamics, and sequence analysis |
+| [seqlike](https://github.com/modernatx/seqlike) |  Unified biological sequence manipulation |
+| [BioNumpy](https://github.com/bionumpy/bionumpy/) | array programming on biological datasets |
+
+
+
 | [consurf](https://consurf.tau.ac.il/consurf_index.php) | Identification de regiones conervadas de proteinas |
 | [colav](https://github.com/Hekstra-Lab/colav) | analisis de ensambles conformacionales |
 | [AncFlow](https://github.com/rrouz/AncFlow) | pipeline para reconstruccion ancestral |
@@ -87,21 +58,70 @@
 # For protein structures
 | Name | Descripcion | 
 |-----------|-----------| 
+| [BioPandas](https://biopandas.github.io/biopandas/) | Una implementacion de pandas para manipular archivos .pdb  |
+| [FoldSeek](https://github.com/steineggerlab/foldseek) | Blasteo estructural de proteinas a escala masiva|
+| [Graphein](https://github.com/a-r-j/graphein) | Codificacion de estructuras de proteinas en vectores usando  teoria de grafos |
+| [PyUUL](https://pyuul.readthedocs.io/index.html) | Codificacion de estructuras de proteinas en vectores usando algoritmos de analisis 3D |
+| [PyPDB](https://github.com/williamgilpin/pypdb) | API para interactuar con la PDB con python |
 | [afpdb](https://github.com/data2code/afpdb) | Efficient manipulation of protein structures in Python |
+| [LocalPDB](https://github.com/labstructbioinf/localpdb) | API para interactuar con la PDB con python |
+| [pdb-tools](https://github.com/haddocking/pdb-tools) | Herramientas para procesamiento y analisis de archivos .pdb |
+| [pdbfixer](https://github.com/openmm/pdbfixer) | Correccion de errores en archivos .pdb|
+| [PDBminer](https://github.com/ELELAB/PDBminer) | Manipulacion modelos de la PDB y AlphaFold Database  |
+| [pdbe-api-training](https://github.com/glevans/pdbe-api-training) | Tutoriales para aprender a usar la ePDB  |
+| [USalign](https://github.com/pylelab/USalign) | Alineamiento de estructruas monomericas y heterodimeros o en combinacion con acidos nucleicos  |
+| [foldcomp](https://github.com/steineggerlab/foldcomp) | Algoritmo de compresion de estructruas de proteinas y bases de datos masivas |
+| [cath-tools](https://github.com/UCLOrengoGroup/cath-tools) |  Manipulacion y calculos con estructruas proteicas |
+| [Pyrcsbsearchapi](https://github.com/rcsb/py-rcsbsearchapi) |  API de la PDB |
+| [protestar](https://github.com/refresh-bio/protestar) | Algoritmo de compresion de estructruas de proteinas |
 | [xxx](xxx) | xxx |
 | [xxx](xxx) | xxx |
 | [xxx](xxx) | xxx |
 
-# For chemical molecules
+
+# Representation learning for bio
+| Name | Descripcion | 
+|-----------|-----------|
+| [ProtLearn](https://github.com/tadorfer/protlearn) | extracting protein sequence features |
+| [Pfeature](https://github.com/raghavagps/Pfeature) | computing features of peptides and proteins |
+| [bio_embeddings](https://github.com/sacdallago/bio_embeddings) | Get protein embeddings from protein sequences |
+| [TRILL](https://github.com/martinez-zacharya/TRILL) | GraphPart, a data partitioning method for ML on biological sequences |
+| [Graph-Part](https://github.com/graph-part/graph-part) |  Preparacion de datasets de secuencias de proteinas  |
+| [ProteinFlow](https://github.com/adaptyvbio/ProteinFlow) | procesamiento de secuencias y estructruas para tareas de machine learning|
+| [proteinshake](https://github.com/BorgwardtLab/proteinshake) | procesamiento de estructruas para tareas de machine learning|
+| [docktgrid](https://github.com/gmmsb-lncc/docktgrid) | Codificacion de estructuras de proteinas y sus ligandos en vectores usando algoritmos de analisis 3D |
+| [Prop3D](https://github.com/bouralab/Prop3D) | Herramientas para la preparacion de datasets de proteinas para machine learning  |
+| [protkit](https://github.com/silicogenesis/protkit) | Manipulacion y representacion de proteinas |
+
+
+# Protein engineering
+| Name | Descripcion | 
+|-----------|-----------|
+| [ProteinMPNN in JAX](https://github.com/sokrypton/ColabDesign/tree/main/mpnn) | Una implementacion optimizada de ProteinMPNN en JAX  |
+| [EvoProtGrad](https://github.com/NREL/EvoProtGrad) | Simular experimentos de evolucion dirigida usando modelos de lenguaje de proteinas|
+| [ConservFold](https://www.rodrigueslab.com/resources) | Mapear los residuos conervados a una estructrua usando AlphaFold2 |
+| [xxx](xxx) | xxx |
+
+# For molecules
 | Name | Descripcion | 
 |-----------|-----------| 
+| [PDBe CCDUtils](https://pdbeurope.github.io/ccdutils/index.html)  | tools to deal with PDB chemical components and visualization|
+| [PDBe Arpeggio](https://github.com/PDBeurope/arpeggio) |  Calculation of interatomic interactions in molecular structures|
+| [PDBe RelLig](https://github.com/PDBeurope/rellig) | classifies ligands based on their functional role| 
 | [xxx](xxx) | xxx |
 
 # For machine learning
 | Name | Descripcion | 
 |-----------|-----------| 
 | [cuml](https://github.com/rapidsai/cuml) | GPU-based implementations of comon machine learning algorithms that are 10-50x faster than their CPU equivalents |
+| [LazyPredict](https://github.com/shankarpandala/lazypredict) | Comparacion automatica de varios algoritmos de clasificacion y regresion |
 | [xxx](xxx) | xxx |
+
+# Data viz for bio
+| Name | Descripcion | 
+|-----------|-----------| 
+| [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) | Visualizacion de proteinas con calidad profesional usando Blender |
+
 
 
 # Webservers 
