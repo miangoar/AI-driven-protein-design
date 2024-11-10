@@ -78,7 +78,7 @@
 | [molli](https://github.com/SEDenmarkLab/molli) | general purpose molecule library generation and handling  |
 | [pdb-redo.eu](https://pdb-redo.eu/) & [video explanation](https://www.youtube.com/watch?v=CqgR_HgqRWY&ab_channel=CCP4)| automated procedure to refine, rebuild and validate your model |
 | [LexicMap](https://github.com/shenwei356/LexicMap) | a nucleotide sequence alignment tool for efficiently querying gene, plasmid, viral, or long-read sequences against up to millions of prokaryotic genomes |
-| [xxx](xxx) | xxx |
+| [NCBI datasets ](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/download-and-install/) | query and download biological sequence data across all domains of life from NCBI databases |
 | [xxx](xxx) | xxx |
 | [xxx](xxx) | xxx |
 | [xxx](xxx) | xxx |
