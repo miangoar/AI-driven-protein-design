@@ -78,5 +78,5 @@
 | [liambai](https://liambai.com/) |
 | [owlposting](https://www.owlposting.com/) |
 | [epochai](https://epochai.org/blog) |
-| [xxx]() |
+| [lilianweng](https://lilianweng.github.io/) |
 | [xxx]() |
