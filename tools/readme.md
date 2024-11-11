@@ -46,8 +46,8 @@
 | [Muscle-3D](https://github.com/rcedgar/muscle) | multiple protein structure alignment |
 | [pdb-redo](https://pdb-redo.eu/)| automated procedure to refine, rebuild and validate your model |
 | [proteinshake](https://github.com/BorgwardtLab/proteinshake) | preprocessed and cleaned protein 3D structure datasets |
-| [xxx](xxx) | xxx |
-
+| [profet](https://github.com/alan-turing-institute/profet) | Retrieves the cif or pdb files from either thePDB (using pypdb) or Alphafold using the Uniprot ID |
+| []() |  |
 
 
 
@@ -94,7 +94,10 @@
 | [AF2BIND](https://github.com/sokrypton/af2bind) | Predicting ligand-binding sites based on AF2 |
 | [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) | Fixed backbone design ([see webserver](https://huggingface.co/spaces/simonduerr/ProteinMPNN))|
 | [ligandMPNN](https://github.com/dauparas/LigandMPNN) | Fixed backbone design sensible to ligands ([see colab notebook](https://github.com/ullahsamee/ligandMPNN_Colab))|
-| [xxx](xxx) | xxx |
+| [PyPEF](https://github.com/Protein-Engineering-Framework/PyPEF) | sequence-based machine learning-assisted protein engineering |
+| [DeepProtein](https://github.com/jiaqingxie/DeepProtein) | protein Property Prediction |
+| [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures  |
+| []() |  |
 
 
 
