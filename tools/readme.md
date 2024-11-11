@@ -102,7 +102,7 @@
 # For molecules
 | Name | Description | 
 |-----------|-----------| 
-| [PDBe CCDUtils](https://pdbeurope.github.io/ccdutils/index.html)  | tools to deal with PDB chemical components and visualization|
+| [PDBe CCDUtils](https://pdbeurope.github.io/ccdutils/index.html)  | tools to deal with PDB chemical components and visualization ([see also](https://github.com/PDBeurope/pdbe-notebooks/tree/main/pdbe_ligands_tutorials))|
 | [PDBe Arpeggio](https://github.com/PDBeurope/arpeggio) |  calculation of interatomic interactions in molecular structures|
 | [PDBe RelLig](https://github.com/PDBeurope/rellig) | classifies ligands based on their functional role| 
 | [MolPipeline](https://github.com/basf/MolPipeline) | processing molecules with RDKit in scikit-learn |
