@@ -71,6 +71,7 @@
 | [xxx](xxx) | xxx |
 
 
+
 # Protein engineering
 | Name | Description | 
 |-----------|-----------|
@@ -85,11 +86,14 @@
 | [LazyAF](https://github.com/ThomasCMcLean/LazyAF) | protein-protein interaction with AF2|
 | [CombFold](https://github.com/dina-lab3D/CombFold) | structure predictions of large complexes |
 | [Cfold](https://github.com/patrickbryant1/Cfold) | structure prediction of alternative protein conformations |
-| [Replacement Scan](https://colab.research.google.com/github/sokrypton/ColabBio/blob/main/notebooks/replacement_scan.ipynb) | find how many amino acid replacements your protein can tolerate [tw](https://x.com/sokrypton/status/1812769477228200086) |
+| [Replacement Scan](https://colab.research.google.com/github/sokrypton/ColabBio/blob/main/notebooks/replacement_scan.ipynb) | find how many amino acid replacements your protein can tolerate [see tw](https://x.com/sokrypton/status/1812769477228200086) |
 | [protein_scoring](https://github.com/seanrjohnson/protein_scoring) | generating and scoring novel enzyme sequences  |
 | [AF_unmasked](https://github.com/clami66/AF_unmasked) | structure prediction for huge protein complexes (~27 chains and ~8400aa) |
 | [AncFlow](https://github.com/rrouz/AncFlow) | pipeline for the ancestral sequence reconstruction of clustered phylogenetic subtrees |
 | [TRILL](https://github.com/martinez-zacharya/TRILL) | Sandbox for Deep-Learning based Computational Protein Design |
+| [AF2BIND](https://github.com/sokrypton/af2bind) | Predicting ligand-binding sites based on AF2 |
+| [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) | Fixed backbone design ([see webserver](https://huggingface.co/spaces/simonduerr/ProteinMPNN))|
+| [ligandMPNN](https://github.com/dauparas/LigandMPNN) | Fixed backbone design sensible to ligands ([see colab notebook](https://github.com/ullahsamee/ligandMPNN_Colab))|
 | [xxx](xxx) | xxx |
 
 
@@ -123,6 +127,7 @@
 | Name | Description | 
 |-----------|-----------| 
 | [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) | Toolbox for molecular animations in Blender |
+| [CellScape](https://github.com/jordisr/cellscape) | Vector graphics cartoons from protein structure |
 | [ChimeraX apps](https://cxtoolshed.rbvi.ucsf.edu/apps/all) | chimeraX  extensions |
 
 
@@ -130,22 +135,16 @@
 # Webservers 
 | Web | Description | 
 |-----------|-----------| 
-| [ProteInfer](https://google-research.github.io/proteinfer/) | predicting the functional properties of a protein from its amino acid sequence using neural networks |
+| [ProteInfer](https://google-research.github.io/proteinfer/) | predicting functional properties from sequences |
 | [GoPredSim](https://embed.protein.properties/) | Predict protein properties from embeddings |
-| [ProteinMPNN](https://huggingface.co/spaces/simonduerr/ProteinMPNN) | Fixed backbone design |
-| [DeepFRI](https://beta.deepfri.flatironinstitute.org/) | structure-based protein function prediction (and functional residue identification) method using Graph Convolutional Networks with Language Model features |
-| [Amber relaxation](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/relax_amber.ipynb) | Usa AMBER para relajar tus estructruas de proteinas y evitar clashes estericos|
-| [Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage) | Calcula el peso de cualquier modelo almacenado en HuggingFace|
-| [alphafind](https://alphafind.fi.muni.cz/search) | busqueda de estructruas en la AlphaFold database|
-| [af2bind](https://colab.research.google.com/github/sokrypton/af2bind/blob/main/af2bind.ipynb) | Prediccion de sitios de union a sustratos pequeños |
-| [DiffDock-Web](https://huggingface.co/spaces/reginabarzilaygroup/DiffDock-Web) | Docking de proteinas con ligandos |
-| [ligandMPNN](https://colab.research.google.com/github/ullahsamee/ligandMPNN_Colab/blob/main/LigandMPNN_Colab.ipynb) | Notebook para usar LigandMPNN en google colab|
-| [ESMFold](https://esmatlas.com/resources?action=fold) | Weberver para plegar proteins con ESMFold |
-| [Foldseek clusters](https://cluster.foldseek.com/) | Weberver para identificar clusters de estructuras en la AFDB |
+| [DeepFRI](https://beta.deepfri.flatironinstitute.org/) | structure-based protein function prediction and functional residue identification |
+| [protein structure relaxation](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/relax_amber.ipynb) | Relax your structure using OpenMM/Amber |
+| [Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage) | calculate how much vRAM is needed to train and perform inference on a model hosted on Hugging Face (see also [gpu_poor calculator](https://github.com/RahulSChand/gpu_poor)) |
+| [alphafind](https://alphafind.fi.muni.cz/search) | structure-based search |
+| [DiffDock-Web](https://huggingface.co/spaces/reginabarzilaygroup/DiffDock-Web) | molecular docking with ligands |
+| [ESMFold](https://esmatlas.com/resources?action=fold) | structure prediction with ESMFold |
+| [Foldseek clusters](https://cluster.foldseek.com/) | search for sctructural clusters in AFDB |
 | [damietta](https://damietta.de/) | protein design toolkit |
-| [Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage) and [gpu_poor calculator](https://github.com/RahulSChand/gpu_poor)| calculate how much vRAM is needed to train and perform inference on a model hosted Hugging Face |
-| [AlphaFold Clusters](https://cluster.foldseek.com/) | investigate the Foldseek clustered AlphaFold database |
-| [protrek server](http://search-protrek.com/) | search proteins by seq, structure and funtional annotations |
 | [easifa](http://easifa.iddd.group/) | active and binding site annotations for enzymes |
 | [InterProt](https://interprot.com/#/) |  interpretability of features derived from protein language models using sparse autoencoders |
 
@@ -155,10 +154,9 @@
 |-----------|-----------| 
 | [datamapplot](https://github.com/TutteInstitute/datamapplot) | creating beautiful, interactive and massive scatterplots |
 | [xxx](xxx) | xxx |
-| [xxx](xxx) | xxx |
 
 
-# ChatBots de ayuda
+# ChatBots 
 | Tema | 
 |-----------|
 | [ChatGPT](https://chat.openai.com/) |
