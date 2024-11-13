@@ -113,7 +113,7 @@
 | [roshambo](https://github.com/molecularinformatics/roshambo) | molecular shape comparison |
 | [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures |
 | [molli](https://github.com/SEDenmarkLab/molli) | general purpose molecule library generation and handling  |
-| [xxx](xxx) | xxx |
+| [openTSNE](https://opentsne.readthedocs.io/en/stable/) | faster implementation of t-SNE that includes other optimizations |
 
 
 
@@ -121,10 +121,10 @@
 | Name | Description | 
 |-----------|-----------| 
 | [Colab forms](https://colab.research.google.com/notebooks/forms.ipynb) | how to convert a colab notebook to a user interface |
-| [cuml](https://github.com/rapidsai/cuml) | GPU-based implementations of common machine learning algorithms |
+| [cuml](https://github.com/rapidsai/cuml) | GPU-based implementations of common machine learning algorithms ([more info for umap optimization](https://developer.nvidia.com/blog/even-faster-and-more-scalable-umap-on-the-gpu-with-rapids-cuml/))|
 | [LazyPredict](https://github.com/shankarpandala/lazypredict) | build a lot of basic models without much code |
-| [xxx](xxx) | xxx |
-
+| [TorchDR](https://github.com/TorchDR/TorchDR) | PyTorch Dimensionality Reduction |
+| []() |  |
 
 
 # Data viz for bio
