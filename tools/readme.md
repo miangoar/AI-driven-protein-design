@@ -75,7 +75,7 @@
 # Protein engineering
 | Name | Description | 
 |-----------|-----------|
-| [](https://www.biotite-python.org/latest/) | sequence and structure manipulation and analysis |
+| [biotite](https://www.biotite-python.org/latest/) | sequence and structure manipulation and analysis |
 | [protkit](https://github.com/silicogenesis/protkit) | Unified Approach to Protein Engineering |
 | [ProteinMPNN in JAX](https://github.com/sokrypton/ColabDesign/tree/main/mpnn) | Fast implementation of ProteinMPNN |
 | [EvoProtGrad](https://github.com/NREL/EvoProtGrad) | directed evolution with MCMC and protein language models |
