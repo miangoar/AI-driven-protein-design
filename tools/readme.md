@@ -124,8 +124,8 @@
 | [cuml](https://github.com/rapidsai/cuml) | GPU-based implementations of common machine learning algorithms ([more info for umap optimization](https://developer.nvidia.com/blog/even-faster-and-more-scalable-umap-on-the-gpu-with-rapids-cuml/))|
 | [LazyPredict](https://github.com/shankarpandala/lazypredict) | build a lot of basic models without much code |
 | [TorchDR](https://github.com/TorchDR/TorchDR) | PyTorch Dimensionality Reduction |
+| [Kerasify](https://github.com/moof2k/kerasify) | running trained Keras models from a C++ application |
 | []() |  |
-
 
 # Data viz for bio
 | Name | Description | 
