@@ -159,7 +159,7 @@
 | Name | Description | 
 |-----------|-----------| 
 | [datamapplot](https://github.com/TutteInstitute/datamapplot) | creating beautiful, interactive and massive scatterplots |
-| [xxx](xxx) | xxx |
+| []() |  |
 
 
 # ChatBots 
@@ -171,3 +171,7 @@
 | [Bing](https://www.bing.com/?cc=es) |
 | [HuggingChat](https://huggingface.co/chat/) |
 | [biologpt](https://biologpt.com/) |
+| [consensus](https://consensus.app/) |  |
+| []() |  |
+
+
