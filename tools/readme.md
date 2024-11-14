@@ -4,7 +4,7 @@
 | [SeqKit](https://bioinf.shenwei.me/seqkit/) ([tutorial](https://sandbox.bio/tutorials/seqkit-intro)) | ultrafast toolkit for FASTA/Q file manipulation |
 | [hh-suite](https://bioinf.shenwei.me/seqkit/) | remote protein homology detection suite |
 | [Diamond2](https://github.com/bbuchfink/diamond) | Accelerated BLAST compatible local sequence aligner |
-| [MMseqs2](https://github.com/soedinglab/MMseqs2) | ultra fast and sensitive search and clustering suite |
+| [MMseqs2](https://github.com/soedinglab/MMseqs2) | ultra fast and sensitive search and clustering suite (see also the [gpu-support](https://github.com/soedinglab/MMseqs2/wiki#compile-from-source-for-linux-with-gpu-support)) |
 | [ProDy](http://prody.csb.pitt.edu/tutorials/) | protein structure, dynamics, and sequence analysis |
 | [seqlike](https://github.com/modernatx/seqlike) |  Unified biological sequence manipulation |
 | [BioNumpy](https://github.com/bionumpy/bionumpy/) | array programming on biological datasets |
