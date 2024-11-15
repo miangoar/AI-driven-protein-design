@@ -125,7 +125,10 @@
 | [LazyPredict](https://github.com/shankarpandala/lazypredict) | build a lot of basic models without much code |
 | [TorchDR](https://github.com/TorchDR/TorchDR) | PyTorch Dimensionality Reduction |
 | [Kerasify](https://github.com/moof2k/kerasify) | running trained Keras models from a C++ application |
+| [pca](https://erdogant.github.io/pca/pages/html/index.html) | perform PCA and create insightful plots |
 | []() |  |
+
+
 
 # Data viz for bio
 | Name | Description | 
