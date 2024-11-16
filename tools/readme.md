@@ -174,7 +174,8 @@
 | [Bing](https://www.bing.com/?cc=es) |
 | [HuggingChat](https://huggingface.co/chat/) |
 | [biologpt](https://biologpt.com/) |
-| [consensus](https://consensus.app/) |  |
-| []() |  |
+| [consensus](https://consensus.app/) |  
+| [typeset](https://typeset.io/) |  
+| []() |  
 
 
