@@ -24,7 +24,7 @@
 | [bakrep](https://bakrep.computational.bio/) |  661,402 bacterial genomes consistently processed & characterized, enriched with metadata |
 | [ted](https://ted.cathdb.info/) |  The Encyclopedia of Domains |
 | [cath DB](https://www.cathdb.info/version/v4_3_0/superfamily/3.40.710.10) | Base de datos de plegamientos proteicos. Ejemplo con la superfamilia de serinbetalactamasas|
-| [xxxx](xxx) |  xxx |
+| [Pfam](https://www.ebi.ac.uk/interpro/entry/pfam/#table) | protein families sequence calssification (see also the [FTP host](https://ftp.ebi.ac.uk/pub/databases/Pfam/releases/) & [training resources](https://pfam-docs.readthedocs.io/en/latest/training.html)) |
 | [xxxx](xxx) |  xxx |
 | [xxxx](xxx) |  xxx |
 | [xxxx](xxx) |  xxx |
