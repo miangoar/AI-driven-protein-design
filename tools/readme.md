@@ -47,9 +47,8 @@
 | [pdb-redo](https://pdb-redo.eu/)| automated procedure to refine, rebuild and validate your model |
 | [proteinshake](https://github.com/BorgwardtLab/proteinshake) | preprocessed and cleaned protein 3D structure datasets |
 | [profet](https://github.com/alan-turing-institute/profet) | Retrieves the cif or pdb files from either thePDB (using pypdb) or Alphafold using the Uniprot ID |
+| [mini3di](https://github.com/althonos/mini3di) | NumPy port of the foldseek code for encoding protein structures to 3di |
 | []() |  |
-
-
 
 # Representation learning for proteins
 | Name | Description | 
