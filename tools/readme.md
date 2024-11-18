@@ -125,9 +125,8 @@
 | [TorchDR](https://github.com/TorchDR/TorchDR) | PyTorch Dimensionality Reduction |
 | [Kerasify](https://github.com/moof2k/kerasify) | running trained Keras models from a C++ application |
 | [pca](https://erdogant.github.io/pca/pages/html/index.html) | perform PCA and create insightful plots |
+| [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) | creating graphics with details from statistical tests included in the information-rich plots themselves |
 | []() |  |
-
-
 
 # Data viz for bio
 | Name | Description | 
