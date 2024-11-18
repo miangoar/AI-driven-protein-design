@@ -79,4 +79,7 @@
 | [owlposting](https://www.owlposting.com/) |
 | [epochai](https://epochai.org/blog) |
 | [lilianweng](https://lilianweng.github.io/) |
-| [xxx]() |
+| [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/) |
+| []() |
+
+
