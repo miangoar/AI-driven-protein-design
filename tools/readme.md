@@ -175,6 +175,6 @@
 | [biologpt](https://biologpt.com/) |
 | [consensus](https://consensus.app/) |  
 | [typeset](https://typeset.io/) |  
-| []() |  
-
+| [mistral-chat](https://mistral.ai/news/mistral-chat/) |  
+| []() | 
 
