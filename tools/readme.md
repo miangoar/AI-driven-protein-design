@@ -15,6 +15,7 @@
 | [NCBI datasets](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/download-and-install/) | download data from NCBI databases |
 | [ncbi-genome-download](https://github.com/kblin/ncbi-genome-download) | scripts to download genomes from the NCBI FTP servers |
 | [ncbi-acc-download](https://github.com/kblin/ncbi-acc-download) | download files from NCBI Entrez by accession |
+| [ProtNLM](https://www.uniprot.org/help/ProtNLM) | UniProt's Automatic Annotation pipeline for protein sequences (see the [Colab notebook](https://colab.research.google.com/github/google-research/google-research/blob/master/protnlm/protnlm_use_model_for_inference_uniprot_2022_04.ipynb)) |
 | []() |  |
 
 
