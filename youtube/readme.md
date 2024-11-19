@@ -32,7 +32,9 @@
 | [Nanorooms](https://www.youtube.com/@Nanorooms) |
 | [Mutual_Information](https://www.youtube.com/@Mutual_Information) |
 | [vcubingx](https://www.youtube.com/@vcubingx) |
+| [Machine Learning in Computational Biology](https://www.youtube.com/@mlcbconf/featured) |
 | []() |
+
 
 # Videos recomendados
 | Tema | Descripcion | Link a Youtube|
