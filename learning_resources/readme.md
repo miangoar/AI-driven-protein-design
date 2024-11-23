@@ -81,5 +81,6 @@
 | [lilianweng](https://lilianweng.github.io/) |
 | [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/) |
 | [epoch (for bio models)](https://epoch.ai/blog/biological-sequence-models-in-the-context-of-the-ai-directives) |
-
+| [Oxford Protein Informatics Group](https://www.blopig.com/blog/) |
+| []() |
 
