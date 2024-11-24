@@ -113,7 +113,7 @@
 | [roshambo](https://github.com/molecularinformatics/roshambo) | molecular shape comparison |
 | [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures |
 | [molli](https://github.com/SEDenmarkLab/molli) | general purpose molecule library generation and handling  |
-| [openTSNE](https://opentsne.readthedocs.io/en/stable/) | faster implementation of t-SNE that includes other optimizations |
+| [useful_rdkit_utils](https://github.com/PatWalters/useful_rdkit_utils) | A collection of useful RDKit and sci-kit learn functions |
 | []() |  |
 
 
@@ -126,8 +126,19 @@
 | [TorchDR](https://github.com/TorchDR/TorchDR) | PyTorch Dimensionality Reduction |
 | [Kerasify](https://github.com/moof2k/kerasify) | running trained Keras models from a C++ application |
 | [pca](https://erdogant.github.io/pca/pages/html/index.html) | perform PCA and create insightful plots |
-| [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) | creating graphics with details from statistical tests included in the information-rich plots themselves |
+| [openTSNE](https://opentsne.readthedocs.io/en/stable/) | faster implementation of t-SNE that includes other optimizations |
 | []() |  |
+
+
+# statistics
+| Name | Description | 
+|-----------|-----------| 
+| [scikit-posthocs](https://scikit-posthocs.readthedocs.io/en/latest/) |  post hoc tests for pairwise multiple comparisons |
+| [statannotations](https://github.com/trevismd/statannotations) | add statistical significance annotations on seaborn plots |
+| [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) | creating graphics with details from statistical tests included in the information-rich plots themselves |
+| [statsmodels](https://www.statsmodels.org/stable/index.html) | classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration |
+| []() |  |
+
 
 # Data viz for bio
 | Name | Description | 
