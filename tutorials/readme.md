@@ -16,3 +16,6 @@
 | [alphafoldingn](https://colab.research.google.com/drive/1m8mMC4fBg3oSE2PeDjeWGUSqDyCPkf80) | watch the proces of "protein folding" by AF2 | N/A |
 
 https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-structures/index.html#/ (see data D2): https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.21860
+
+
+https://practicalcheminformatics.blogspot.com/2024/11/some-thoughts-on-splitting-chemical.html
