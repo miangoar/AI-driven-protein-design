@@ -166,8 +166,10 @@
 | [InterProt](https://interprot.com/#/) |  interpretability of features derived from protein language models using sparse autoencoders |
 | [MPI Bioinformatics Toolkit!](https://toolkit.tuebingen.mpg.de/) | multiple bioinformatics tools |
 | [moleculatio](https://moleculatio.yamlab.app) | chemoinformatics, quantum chemistry and molecular dynamics simulations or small molecules |
+| [AI in Biology Demos]( https://huggingface.co/collections/hf4h/ai-in-biology-demos-65007d936a230e55a66cd31e) | applications of AI in biology and biochemistry |
 | []() |  |
- 
+
+
 # Data Viz
 | Name | Description | 
 |-----------|-----------| 
