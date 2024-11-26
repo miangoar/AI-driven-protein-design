@@ -14,7 +14,7 @@
 | [Easy and accurate protein structure prediction using ColabFold](https://www.nature.com/articles/s41596-024-01060-5) | how to predict mono-, multi-mers and conformations with the ColabFold-AlphaFold2 protocol | N/A |
 | [Moving Beyond Memorization](https://github.com/plinder-org/moving_beyond_memorisation) | compare prote structures with plinder | N/A |
 | [olding process](https://colab.research.google.com/drive/1m8mMC4fBg3oSE2PeDjeWGUSqDyCPkf80) | watch the proces of "protein folding" by AF2 | N/A |
-| [colab-db](https://colab-db.github.io/) | watch the proces of "protein folding" by AF2 | Public notebooks hosted on Binder, Colab or Huggingface |
+| [colab-db](https://colab-db.github.io/) | Public notebooks hosted on Binder, Colab or Huggingface | N/A  |
 
 
 https://colab-db.github.io/
