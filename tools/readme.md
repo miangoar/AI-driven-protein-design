@@ -63,7 +63,7 @@
 | [ProteinFlow](https://github.com/adaptyvbio/ProteinFlow) | data processing pipeline fo ML |
 | [docktgrid](https://github.com/gmmsb-lncc/docktgrid) | Create customized voxel representations of protein-ligand complexes |
 | [Prop3D](https://github.com/bouralab/Prop3D) | toolkit for protein structure dataset creation and processing  |
-| [SaProt](https://github.com/westlake-repl/SaProt) | Protein Language Model with Structural Alphabet (AA+3Di) |
+| [SaProt](https://github.com/westlake-repl/SaProt) | Protein Language Model with Structural Alphabet (AA+3Di) (See also [ColabSaprot](https://colab.research.google.com/github/westlake-repl/SaprotHub/blob/main/colab/SaprotHub_v2.ipynb)) |
 | [ProstT5](https://github.com/mheinzinger/ProstT5) | Bilingual Language Model for Protein Sequence and Structure (see the [Foldseek adaptation](https://github.com/steineggerlab/foldseek?tab=readme-ov-file#structure-search-from-fasta-input)) |
 | [Graphein](https://github.com/a-r-j/graphein) | geometric representations of biomolecules and interaction networks |
 | [PyUUL](https://pyuul.readthedocs.io/index.html) | encode structures into differentiable data structures |
@@ -101,7 +101,6 @@
 | [DeepProtein](https://github.com/jiaqingxie/DeepProtein) | protein Property Prediction |
 | [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures  |
 | []() |  |
-
 
 
 
