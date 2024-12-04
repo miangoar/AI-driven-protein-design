@@ -55,6 +55,7 @@
 # Representation learning for proteins
 | Name | Description | 
 |-----------|-----------|
+| [FAESM](https://github.com/pengzhangzhi/faesm) | A Drop-in Efficient Pytorch Implementation of ESM | 
 | [ProtLearn](https://github.com/tadorfer/protlearn) | extracting protein sequence features |
 | [Pfeature](https://github.com/raghavagps/Pfeature) | computing features of peptides and proteins |
 | [bio_embeddings](https://github.com/sacdallago/bio_embeddings) | compute protein embeddings from sequences |
@@ -69,7 +70,7 @@
 | [colav](https://github.com/Hekstra-Lab/colav) | feature extraction methods like dihedral angles, CA pairwise distances, and strain analysis |
 | [ProTrek](https://github.com/westlake-repl/ProTrek) <br> [webserver](http://search-protrek.com/)| multimodal (sequence-structure-function) protein representations and annotations |
 | [masif](https://github.com/LPDI-EPFL/masif) | molecular surface interaction fingerprints |
-| [xxx](xxx) | xxx |
+| []() |  |
 
 
 
