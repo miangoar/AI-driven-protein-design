@@ -18,7 +18,7 @@
 | [ProtNLM](https://www.uniprot.org/help/ProtNLM) | UniProt's Automatic Annotation pipeline for protein sequences (see the [Colab notebook](https://colab.research.google.com/github/google-research/google-research/blob/master/protnlm/protnlm_evidencer_uniprot_2023_01.ipynb)) |
 | [pyfastx](https://github.com/lmdu/pyfastx) | fast random access to sequences from plain and gzipped FASTA/Q files |
 | [DeepMSA](https://zhanggroup.org/DeepMSA/) |  a hierarchical approach to create high-quality multiple sequence alignments |
-| [NEFFy](https://github.com/Maryam-Haghani/NEFFy) | for calculating the Normalized Effective Number of Sequences for MSAs of protein, RNA, and DNA. Also for for format conversion |
+| [NEFFy](https://github.com/Maryam-Haghani/NEFFy) | calculating the Normalized Effective Number of Sequences (neff) for protein/nt MSAs. Also for format conversion |
 | []() |  |
 
 
