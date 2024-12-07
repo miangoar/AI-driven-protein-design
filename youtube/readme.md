@@ -62,6 +62,6 @@
 | ¿Qué son y cómo se unen los aminoácidos? Al fin entendí: Biología Molecular | introduccion a la formacion de polimeros |[https://www.youtube.com/watch?v=5Ps3QTqo3cM&ab_channel=Alfinentend%C3%AD](https://www.youtube.com/watch?v=5Ps3QTqo3cM&ab_channel=Alfinentend%C3%AD)|
 | How do Graphics Cards Work? Exploring GPU Architecture | Como funcionan las GPUs |[https://www.youtube.com/watch?v=h9Z4oGN89MU&ab_channel=BranchEducation](https://www.youtube.com/watch?v=h9Z4oGN89MU&ab_channel=BranchEducation)| 
 | Venga va... ¿Qué es un TENSOR? | intro a tensores|https://www.youtube.com/watch?v=s4USUVBuFi0&ab_channel=MatesMike| 
-| Transformers - Lucas Beyer |  a good introduction to the transformer architecture  | <https://www.youtube.com/watch?v=bMXqnLiVgLk> | 
+| Transformers - Lucas Beyer |  a good introduction to the transformer architecture [(see also the slides)]( http://lucasb.eyer.be/transformer) | <https://www.youtube.com/watch?v=bMXqnLiVgLk> | 
 |  |    |  | 
 https://www.youtube.com/watch?v=bMXqnLiVgLk
