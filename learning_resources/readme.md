@@ -15,7 +15,8 @@
 | [Transformer Explainer: Interactive Learning of Text-Generative Models](https://huggingface.co/papers/2408.04619) | version interactiva de la arquitectura de GPT2 |
 | [LLM Visualization](https://bbycroft.net/llm) | version interactiva de la arquitectura base de GPT |
 | [Developer Roadmaps](https://roadmap.sh/) | roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings |
-
+| [ML Code Challenges](https://www.deep-ml.com/) | code practices about machine and deep learning |
+| [ ]() |  |
 
 
 # Cursos recomendados
