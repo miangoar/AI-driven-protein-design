@@ -56,7 +56,7 @@
 | [AlphaFold 3 Overview](https://alphafoldserver.com/guides) | tal cual hermano |
 | [A Complete Guide to Protein Folding Prediction with RoseTTAFold](https://alchemybio.substack.com/p/a-complete-guide-to-protein-folding) | tal cual hermano |
 | [Pandas Fundamentals](https://www.youtube.com/playlist?list=PLp0BA-8NZ4bgNDMxQojvn6eg71jaaRaYZ) | tal cual hermano |
-| [xxx](xxxx) | tal cual hermano |
+| [PDBx/mmCIF Dictionary Resources](https://mmcif.wwpdb.org/) | tal cual hermano |
 | [xxx](xxxx) | tal cual hermano |
 
 # Data viz
