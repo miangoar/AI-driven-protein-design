@@ -141,8 +141,8 @@
 | [statannotations](https://github.com/trevismd/statannotations) | add statistical significance annotations on seaborn plots |
 | [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) | creating graphics with details from statistical tests included in the information-rich plots themselves |
 | [statsmodels](https://www.statsmodels.org/stable/index.html) | classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration |
+| [pingouin](https://pingouin-stats.org/build/html/index.html#) | Statistical package |
 | []() |  |
-
 
 # Data viz for bio
 | Name | Description | 
