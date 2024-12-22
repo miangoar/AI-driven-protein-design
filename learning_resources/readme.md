@@ -19,10 +19,6 @@
 | [ ]() |  |
 
 
-
-
-
-
 # Bioinformatics courses
 | Name | Description | 
 |-----------|-----------| 
@@ -56,6 +52,7 @@
 | [Alice’s Adventures in a differentiable wonderlandPermalink](https://www.sscardapane.it/alice-book) | |
 | [IA generativa](https://microsoft.github.io/generative-ai-for-beginners/#//) | | 
 | [LLM](https://txt.cohere.com/llm-university/) | |
+| [Introduction to Machine Learning for chemists](https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry) | |
 | | |
 
 # Python and programming
