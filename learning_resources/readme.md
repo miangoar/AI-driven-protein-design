@@ -19,48 +19,61 @@
 | [ ]() |  |
 
 
-# Cursos recomendados
-| Tema | Descripcion | 
+
+
+
+
+# Bioinformatics courses
+| Name | Description | 
 |-----------|-----------| 
-| [Algoritmos en Bioinformática Estructural](https://eead-csic-compbio.github.io/bioinformatica_estructural/) | Biologia estructural|
-| [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202) | Biologia estructural |
-| [Bash/Linux](https://vinuesa.github.io/intro2linux/index.html) | Introduccion al interprete de linux, Bash |
-| [LLM](https://txt.cohere.com/llm-university/) | Introduccion a los grandes modelos de lenguaje (Large Language Models; LLM) |
-| [Guide to undestanding PDB data](https://www.rcsb.org/news/feature/646e671b1d621d75127a7a52) | Una compilacion de informacion capturada por los creadores de la PDB para aprender sobre el formato de los datos |
-| [regexlearn](https://regexlearn.com/es) | Breve curso para aprender el uso de expresiones regulares |
-| [BLAST](https://vinuesa.github.io/TIB-filoinfo/sesion3_BLAST/) | Breve curso para aprender BLAST|
-| [IA generativa](https://microsoft.github.io/generative-ai-for-beginners/#//) | Breve curso de microsoft para aprender sobre modelos generativos |
-| [Alice’s Adventures in a differentiable wonderlandPermalink](https://www.sscardapane.it/alice-book) | Introduccion al algebra y calculo usados en deep learning y sus implementaciones actuales |
-| [pandas-cookbook](https://github.com/jvns/pandas-cookbook/) | Breve curso para aprender a manejar datos con Pandas en python|
-| [sandbox BIO](https://sandbox.bio/) | Breves tutoriales de las herramientas mas comunes en bioinformatica|
-| [glittr](https://glittr.org/) | lista curada de varios cursos de bioinformatica |
-| [Estefanía Tarifeño](https://www.youtube.com/@prof.estefaniatarifeno1108/playlists) | Cursos de introduccion a bioinformatica y proteinas |
-| [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/) | tal cual hermano |
-| [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch) | tal cual hermano |
-| [3Blue1Brown - Algebra lineal](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | tal cual hermano |
-| [3Blue1Brown - Algebra lineal (En español)](https://www.youtube.com/@3blue1brownespanol/playlists) | tal cual hermano |
-| [Protein Modeling and Design with PyRosetta and Machine Learning](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) | tal cual hermano |
-| [PyRosetta](https://rosettacommons.github.io/PyRosetta.notebooks/), [Youtube playlist](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) and the [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8813091/)| tal cual hermano |
-| [ml-engineering](https://github.com/stas00/ml-engineering) | tal cual hermano |
-| [How to Create a Protein](https://github.com/universvm/how_to_create_a_protein) | tal cual hermano |
-| [rosettaworkshop 2024](https://meilerlab.org/rosetta-workshop-2024/) | tal cual hermano |
-| [Applied Machine Learning in Python: a Hands-on Guide with Code](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) | tal cual hermano |
-| [Large Language Model Course](https://github.com/mlabonne/llm-course) | tal cual hermano |
-| [AlphaFold Decoded](https://www.youtube.com/watch?v=NSvp7RFegEs&list=PLJ0WcPQS7xJVJr6ceIPFSkAGAgrkmw1c9&ab_channel=AlphaFoldDecoded) and the [iGEM proyect](https://2024.igem.wiki/aachen/education)| tal cual hermano |
-| [Python fundamentals](https://www.youtube.com/playlist?list=PLp0BA-8NZ4bheYbcihGJLg60YSgQRWOcL) | tal cual hermano |
-| [Introduction to Python](https://carpentries-incubator.github.io/pangenomics-python/) | tal cual hermano |
-| [Generalidades Linux](https://bioinformatica.ciad.mx/generalidades_linux) | tal cual hermano |
-| [A-microbiologist-wants-to-compute](https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute) | tal cual hermano |
-| [Fundamentos de ciencia de datos](https://github.com/thatcsharpguy/df) | tal cual hermano |
-| [AlphaFold. A practical guide](https://www.ebi.ac.uk/training/online/courses/alphafold/) | tal cual hermano |
-| [AlphaFold 3 Overview](https://alphafoldserver.com/guides) | tal cual hermano |
-| [A Complete Guide to Protein Folding Prediction with RoseTTAFold](https://alchemybio.substack.com/p/a-complete-guide-to-protein-folding) | tal cual hermano |
-| [Pandas Fundamentals](https://www.youtube.com/playlist?list=PLp0BA-8NZ4bgNDMxQojvn6eg71jaaRaYZ) | tal cual hermano |
-| [PDBx/mmCIF Dictionary Resources](https://mmcif.wwpdb.org/) | tal cual hermano |
-| [huggingface NLP course](https://huggingface.co/learn/nlp-course/en/chapter1/1) | tal cual hermano |
-| [xxx](xxxx) | tal cual hermano |
+| [DL4Proteins Workshops](https://github.com/Graylab/DL4Proteins-notebooks) | Notebooks covering deep learning tools for biomolecular structure prediction and design |
+| [PDBx/mmCIF Dictionary Resources](https://mmcif.wwpdb.org/)| | 
+| [A Complete Guide to Protein Folding Prediction with RoseTTAFold](https://alchemybio.substack.com/p/a-complete-guide-to-protein-folding) | |
+| [AlphaFold 3 Overview](https://alphafoldserver.com/guides) | |
+| [AlphaFold. A practical guide](https://www.ebi.ac.uk/training/online/courses/alphafold/) | | 
+| [AlphaFold Decoded](https://www.youtube.com/watch?v=NSvp7RFegEs&list=PLJ0WcPQS7xJVJr6ceIPFSkAGAgrkmw1c9&ab_channel=AlphaFoldDecoded) and the [iGEM proyect](https://2024.igem.wiki/aachen/education) | |
+| [rosettaworkshop 2024](https://meilerlab.org/rosetta-workshop-2024/) | |
+| [How to Create a Protein](https://github.com/universvm/how_to_create_a_protein) | | 
+| [PyRosetta](https://rosettacommons.github.io/PyRosetta.notebooks/), [Youtube playlist](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) and the [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8813091/) | |
+| [Protein Modeling and Design with PyRosetta and Machine Learning](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) | |
+| [Estefanía Tarifeño](https://www.youtube.com/@prof.estefaniatarifeno1108/playlists) | |
+| [glittr](https://glittr.org/) | |
+| [sandbox BIO](https://sandbox.bio/) | |
+| [BLAST](https://vinuesa.github.io/TIB-filoinfo/sesion3_BLAST/) | |
+| [Guide to undestanding PDB data](https://www.rcsb.org/news/feature/646e671b1d621d75127a7a52) | |
+| [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202) | |
+| [Algoritmos en Bioinformática Estructural](https://eead-csic-compbio.github.io/bioinformatica_estructural/) | |
+| | |
 
+# Machine/deep learning courses
+| Name | Description | 
+|-----------|-----------| 
+| [huggingface NLP course](https://huggingface.co/learn/nlp-course/en/chapter1/1) | | 
+| [Large Language Model Course](https://github.com/mlabonne/llm-course) | |
+| [Applied Machine Learning in Python: a Hands-on Guide with Code](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) | |
+| [ml-engineering](https://github.com/stas00/ml-engineering) | | 
+| [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch) | |
+| [Alice’s Adventures in a differentiable wonderlandPermalink](https://www.sscardapane.it/alice-book) | |
+| [IA generativa](https://microsoft.github.io/generative-ai-for-beginners/#//) | | 
+| [LLM](https://txt.cohere.com/llm-university/) | |
+| | |
 
+# Python and programming
+| Name | Description | 
+|-----------|-----------| 
+| [Pandas Fundamentals](https://www.youtube.com/playlist?list=PLp0BA-8NZ4bgNDMxQojvn6eg71jaaRaYZ) | | 
+| [Fundamentos de ciencia de datos](https://github.com/thatcsharpguy/df) | |
+| [A-microbiologist-wants-to-compute](https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute) | |
+| [Generalidades Linux](https://bioinformatica.ciad.mx/generalidades_linux)  | |
+| [Introduction to Python](https://carpentries-incubator.github.io/pangenomics-python/) | |
+| [Python fundamentals](https://www.youtube.com/playlist?list=PLp0BA-8NZ4bheYbcihGJLg60YSgQRWOcL) | |
+| [3Blue1Brown - Algebra lineal (En español)](https://www.youtube.com/@3blue1brownespanol/playlists) | |
+| [3Blue1Brown - Algebra lineal](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | |
+| [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/)  | |
+| [pandas-cookbook](https://github.com/jvns/pandas-cookbook/) | |
+| [regexlearn](https://regexlearn.com/es) | |
+| [Bash/Linux](https://vinuesa.github.io/intro2linux/index.html) | |
+| | |
 
 # Data viz
 | Tema | 
