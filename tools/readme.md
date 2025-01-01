@@ -53,6 +53,7 @@
 | [profet](https://github.com/alan-turing-institute/profet) | Retrieves the cif or pdb files from either thePDB (using pypdb) or Alphafold using the Uniprot ID |
 | [mini3di](https://github.com/althonos/mini3di) | NumPy port of the foldseek code for encoding protein structures to 3di |
 | [GEMMI](https://github.com/project-gemmi/gemmi) | macromolecular crystallography library and utilities |
+| [fpocket](https://github.com/Discngine/fpocket) | protein pocket detection based on Voronoi tessellation |
 | []() |  |
 
 # Representation learning for proteins
