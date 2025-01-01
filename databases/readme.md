@@ -30,8 +30,8 @@
 | [TechBio Company Database](https://harrisbio.substack.com/p/the-techbio-company-database) |  companies in the TechBio |
 | [MD Repo](https://mdrepo.org/) | MD simulations for proteins, with or without ligands  |
 | [viro3d](https://viro3d.cvr.gla.ac.uk/) | 85k structural models from more >4.4k human and animal viruses  |
+| [CAZyme3D  ](https://pro.unl.edu/CAZyme3D/) | 870k AlphaFold predicted 3D structures  |
 | []() |   |
-
 
 
 https://harrisbio.substack.com/p/the-techbio-company-database
