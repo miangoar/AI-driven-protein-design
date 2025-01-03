@@ -14,8 +14,8 @@
 | [Mutual_Information](https://www.youtube.com/@Mutual_Information) |
 | [vcubingx](https://www.youtube.com/@vcubingx) |
 | [underfitted](https://www.youtube.com/@underfitted) |
+| [WelchLabs](https://www.youtube.com/@WelchLabsVideo) |
 | []() |
-
 
 
 # Youtube channels for biology
