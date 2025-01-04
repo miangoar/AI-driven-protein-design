@@ -63,5 +63,6 @@
 | How do Graphics Cards Work? Exploring GPU Architecture | Como funcionan las GPUs |[https://www.youtube.com/watch?v=h9Z4oGN89MU&ab_channel=BranchEducation](https://www.youtube.com/watch?v=h9Z4oGN89MU&ab_channel=BranchEducation)| 
 | Venga va... ¿Qué es un TENSOR? | intro a tensores|https://www.youtube.com/watch?v=s4USUVBuFi0&ab_channel=MatesMike| 
 | Transformers - Lucas Beyer |  a good introduction to the transformer architecture [(see also the slides)]( http://lucasb.eyer.be/transformer) | <https://www.youtube.com/watch?v=bMXqnLiVgLk> | 
+| Let's build GPT: from scratch, in code, spelled out | introduction to GPT models   | https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy | 
 |  |    |  | 
 https://www.youtube.com/watch?v=bMXqnLiVgLk
