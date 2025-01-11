@@ -70,7 +70,9 @@
 | [pandas-cookbook](https://github.com/jvns/pandas-cookbook/) | |
 | [regexlearn](https://regexlearn.com/es) | |
 | [Bash/Linux](https://vinuesa.github.io/intro2linux/index.html) | |
-| | |
+| [Python for Data Analysis](https://wesmckinney.com/book/)| Data Wrangling with pandas, NumPy, and Jupyter |
+| []()| |
+
 
 # Data viz
 | Tema | 
