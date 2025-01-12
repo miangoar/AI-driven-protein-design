@@ -74,9 +74,8 @@
 | [colav](https://github.com/Hekstra-Lab/colav) | feature extraction methods like dihedral angles, CA pairwise distances, and strain analysis |
 | [ProTrek](https://github.com/westlake-repl/ProTrek) <br> [webserver](http://search-protrek.com/)| multimodal (sequence-structure-function) protein representations and annotations |
 | [masif](https://github.com/LPDI-EPFL/masif) | molecular surface interaction fingerprints |
+| [peptidy](https://github.com/molML/peptidy) | vectorize proteins for machine learning applications |
 | []() |  |
-
-
 
 # Protein engineering
 | Name | Description | 
