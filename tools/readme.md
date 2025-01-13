@@ -151,6 +151,7 @@
 | [CellScape](https://github.com/jordisr/cellscape) | Vector graphics cartoons from protein structure |
 | [ChimeraX apps](https://cxtoolshed.rbvi.ucsf.edu/apps/all) | chimeraX  extensions |
 | [SSDraw](https://github.com/ncbi/SSDraw) | generates secondary structure diagrams from 3D protein structures |
+| [bioalphabet](https://github.com/davidhoksza/bioalphabet/) | convertor of texts to bio-domain alphabetss |
 | []() |  |
 
 
