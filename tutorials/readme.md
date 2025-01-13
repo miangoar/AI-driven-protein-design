@@ -15,6 +15,7 @@
 | [Moving Beyond Memorization](https://github.com/plinder-org/moving_beyond_memorisation) | compare prote structures with plinder | N/A |
 | [olding process](https://colab.research.google.com/drive/1m8mMC4fBg3oSE2PeDjeWGUSqDyCPkf80) | watch the proces of "protein folding" by AF2 | N/A |
 | [colab-db](https://colab-db.github.io/) | Public notebooks hosted on Binder, Colab or Huggingface | N/A  |
+| [peptidy tutorials](https://github.com/molML/peptidy/tree/main/examples) | classification and generation examples using xgboost, keras, and pytorch | N/A  |
 
 
 https://colab-db.github.io/
