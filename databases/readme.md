@@ -31,6 +31,7 @@
 | [MD Repo](https://mdrepo.org/) | MD simulations for proteins, with or without ligands  |
 | [viro3d](https://viro3d.cvr.gla.ac.uk/) | 85k structural models from more >4.4k human and animal viruses  |
 | [CAZyme3D  ](https://pro.unl.edu/CAZyme3D/) | 870k AlphaFold predicted 3D structures  |
+| [plinder](https://www.plinder.sh/#home) |  training and evaluation of protein-ligand docking algorithms |
 | []() |   |
 
 
