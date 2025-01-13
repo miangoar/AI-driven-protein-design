@@ -195,6 +195,6 @@
 | [typeset](https://typeset.io/) |  
 | [mistral-chat](https://mistral.ai/news/mistral-chat/) |  
 | [aistudio by Google](https://aistudio.google.com/) |
+| [hasanyone](https://hasanyone.com/) | 
 | []() | 
-
 
