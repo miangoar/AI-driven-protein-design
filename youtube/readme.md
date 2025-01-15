@@ -17,6 +17,12 @@
 | [WelchLabs](https://www.youtube.com/@WelchLabsVideo) |
 | []() |
 
+# Youtube channels for Mathematics 
+| Video |
+|-----------|
+| [dibeos](https://www.youtube.com/@dibeos) |
+| []() |
+
 
 # Youtube channels for biology
 | Video |
