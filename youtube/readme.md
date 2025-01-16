@@ -15,7 +15,7 @@
 | [vcubingx](https://www.youtube.com/@vcubingx) |
 | [underfitted](https://www.youtube.com/@underfitted) |
 | [WelchLabs](https://www.youtube.com/@WelchLabsVideo) |
-| []() |
+| [jbhuang0604](https://www.youtube.com/@jbhuang0604) |
 
 # Youtube channels for Mathematics 
 | Video |
