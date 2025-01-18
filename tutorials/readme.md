@@ -16,7 +16,9 @@
 | [olding process](https://colab.research.google.com/drive/1m8mMC4fBg3oSE2PeDjeWGUSqDyCPkf80) | watch the proces of "protein folding" by AF2 | N/A |
 | [colab-db](https://colab-db.github.io/) | Public notebooks hosted on Binder, Colab or Huggingface | N/A  |
 | [peptidy tutorials](https://github.com/molML/peptidy/tree/main/examples) | classification and generation examples using xgboost, keras, and pytorch | N/A  |
-
+| [finetune-esm  ](https://github.com/naity/finetune-esm) | Finetuning with Distributed Learning and Advanced Training Techniques |  NA |
+| [Amelie Schreiber Articles](https://huggingface.co/AmelieSchreiber) | use language models and difussion models to analyze proteins |   |
+| []() | |   |
 
 https://colab-db.github.io/
 https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-structures/index.html#/ (see data D2): https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.21860
