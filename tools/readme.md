@@ -154,6 +154,7 @@
 | [ChimeraX apps](https://cxtoolshed.rbvi.ucsf.edu/apps/all) | chimeraX  extensions |
 | [SSDraw](https://github.com/ncbi/SSDraw) | generates secondary structure diagrams from 3D protein structures |
 | [bioalphabet](https://github.com/davidhoksza/bioalphabet/) | convertor of texts to bio-domain alphabetss |
+| [](https://github.com/ChatMol/ChatMol) | a PyMOL ChatGPT Plugin that allow to interact with PyMOL using natural language  |
 | []() |  |
 
 
