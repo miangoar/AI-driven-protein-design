@@ -54,12 +54,14 @@
 | [mini3di](https://github.com/althonos/mini3di) | NumPy port of the foldseek code for encoding protein structures to 3di |
 | [GEMMI](https://github.com/project-gemmi/gemmi) | macromolecular crystallography library and utilities |
 | [fpocket](https://github.com/Discngine/fpocket) | protein pocket detection based on Voronoi tessellation |
+| [PyDSSP](https://github.com/ShintaroMinami/PyDSSP) | implementation of DSSP (i.e. secondary structure annotation) algorithm for PyTorch |
 | []() |  |
 
 # Representation learning for proteins
 | Name | Description | 
 |-----------|-----------|
 | [FAESM](https://github.com/pengzhangzhi/faesm) | A Drop-in Efficient Pytorch Implementation of ESM | 
+| [ESM-Efficient](https://github.com/uci-cbcl/esm-efficient) | Efficient implementatin of ESM family | 
 | [ProtLearn](https://github.com/tadorfer/protlearn) | extracting protein sequence features |
 | [Pfeature](https://github.com/raghavagps/Pfeature) | computing features of peptides and proteins |
 | [bio_embeddings](https://github.com/sacdallago/bio_embeddings) | compute protein embeddings from sequences |
