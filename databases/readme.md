@@ -32,8 +32,9 @@
 | [viro3d](https://viro3d.cvr.gla.ac.uk/) | 85k structural models from more >4.4k human and animal viruses  |
 | [CAZyme3D  ](https://pro.unl.edu/CAZyme3D/) | 870k AlphaFold predicted 3D structures  |
 | [plinder](https://www.plinder.sh/#home) |  training and evaluation of protein-ligand docking algorithms |
+| [Protein Dimension DB](https://github.com/pentalpha/protein_dimension_db) | Datasets with PLM embeddings, GO annotations and taxonomy representations for all proteins in Uniprot/Swiss-Prot  |
+| [Protein Embeddings](https://www.uniprot.org/help/embeddings) | per-protein and per-residue embeddings using the ProtT5 model for UniProtKB/Swiss-Prot |
 | []() |   |
-
 
 https://harrisbio.substack.com/p/the-techbio-company-database
 # Repositorios utiles  
