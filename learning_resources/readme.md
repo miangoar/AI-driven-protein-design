@@ -39,6 +39,7 @@
 | [Guide to undestanding PDB data](https://www.rcsb.org/news/feature/646e671b1d621d75127a7a52) | |
 | [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202) | |
 | [Algoritmos en Bioinformática Estructural](https://eead-csic-compbio.github.io/bioinformatica_estructural/) | |
+| [MSAs, and pHMM](https://vinuesa.github.io/TIB-filoinfo/sesion4_alineamientos/)| build and calibrate HMMs, run & parse HMMER3 programs & output efficiently on the Linux command line using AWK, Bash, and R |
 | | |
 
 # Machine/deep learning courses
