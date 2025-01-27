@@ -18,7 +18,9 @@
 | [peptidy tutorials](https://github.com/molML/peptidy/tree/main/examples) | classification and generation examples using xgboost, keras, and pytorch | N/A  |
 | [finetune-esm  ](https://github.com/naity/finetune-esm) | Finetuning with Distributed Learning and Advanced Training Techniques |  NA |
 | [Amelie Schreiber Articles](https://huggingface.co/AmelieSchreiber) | use language models and difussion models to analyze proteins |   |
+| [autodock-vina tutorials](https://autodock-vina.readthedocs.io/en/latest/colab_examples.html) | how to run Autodock Vina, and the associated protein and ligand setup utilities on Google Colab |   |
 | []() | |   |
+
 
 https://colab-db.github.io/
 https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-structures/index.html#/ (see data D2): https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.21860
