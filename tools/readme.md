@@ -56,7 +56,9 @@
 | [GEMMI](https://github.com/project-gemmi/gemmi) | macromolecular crystallography library and utilities |
 | [fpocket](https://github.com/Discngine/fpocket) | protein pocket detection based on Voronoi tessellation |
 | [PyDSSP](https://github.com/ShintaroMinami/PyDSSP) | implementation of DSSP (i.e. secondary structure annotation) algorithm for PyTorch |
+| [flashfold](https://github.com/chayan7/flashfold) | command-line tool for faster protein structure prediction |
 | []() |  |
+
 
 # Representation learning for proteins
 | Name | Description | 
