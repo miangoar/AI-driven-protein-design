@@ -25,6 +25,7 @@
 # For protein structures
 | Name | Description | 
 |-----------|-----------| 
+| [localcolabfold](https://github.com/YoshitakaMo/localcolabfold) | ColabFold on your local PC | 
 | [BioPandas](https://biopandas.github.io/biopandas/) | working with molecular structures in pandas |
 | [FoldSeek](https://github.com/steineggerlab/foldseek) | fast and sensitive comparisons of large structure sets|
 | [foldcomp](https://github.com/steineggerlab/foldcomp) | Compressing protein structures |
