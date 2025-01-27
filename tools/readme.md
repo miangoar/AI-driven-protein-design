@@ -138,7 +138,9 @@
 | [openTSNE](https://opentsne.readthedocs.io/en/stable/) | faster implementation of t-SNE that includes other optimizations |
 | [TabPFN](https://github.com/PriorLabs/TabPFN) | model for tabular data that outperforms traditional methods while being dramatically faster |
 | [setfit](https://github.com/huggingface/setfit) | Efficient few-shot learning with Sentence Transformers |
+| [skrub](https://github.com/skrub-data/skrub) | preprocessing and feature engineering for tabular machine learning |
 | []() |  |
+
 
 # statistics
 | Name | Description | 
