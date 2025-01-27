@@ -108,8 +108,8 @@
 | [PyPEF](https://github.com/Protein-Engineering-Framework/PyPEF) | sequence-based machine learning-assisted protein engineering |
 | [DeepProtein](https://github.com/jiaqingxie/DeepProtein) | protein Property Prediction |
 | [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures  |
+| [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | text-guided protein design |
 | []() |  |
-
 
 
 # For molecules
