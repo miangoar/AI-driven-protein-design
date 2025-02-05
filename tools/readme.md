@@ -208,6 +208,7 @@
 | [claude](https://claude.ai/) |
 | [Bing](https://www.bing.com/?cc=es) |
 | [HuggingChat](https://huggingface.co/chat/) |
+| [huggingface spaces](https://huggingface.co/spaces) | 
 | [biologpt](https://biologpt.com/) |
 | [consensus](https://consensus.app/) |  
 | [typeset](https://typeset.io/) |  
