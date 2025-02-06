@@ -200,7 +200,7 @@
 | []() |  |
 
 
-# ChatBots 
+# ChatBots and others
 | Tema | 
 |-----------|
 | [ChatGPT](https://chat.openai.com/) |
@@ -215,5 +215,6 @@
 | [mistral-chat](https://mistral.ai/news/mistral-chat/) |  
 | [aistudio by Google](https://aistudio.google.com/) |
 | [hasanyone](https://hasanyone.com/) | 
+| [AI Python Libraries](https://www.aipythonlibraries.com/libraries/) | 
 | []() | 
 
