@@ -16,6 +16,8 @@
 | [underfitted](https://www.youtube.com/@underfitted) |
 | [WelchLabs](https://www.youtube.com/@WelchLabsVideo) |
 | [jbhuang0604](https://www.youtube.com/@jbhuang0604) |
+| [umarjamilai](https://www.youtube.com/@umarjamilai) |
+
 
 # Youtube channels for Mathematics 
 | Video |
