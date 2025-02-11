@@ -86,7 +86,7 @@
 | Name | Description | 
 |-----------|-----------|
 | [PAE Viewer](https://gitlab.gwdg.de/general-microbiology/pae-viewer) |  view the PAE (predicted aligned error) of multimers, and integrates visualization of crosslink data (use the [webserver](https://subtiwiki.uni-goettingen.de/v4/paeViewerDemo)) |
-| []() |  |
+| [PyMOLfold](https://github.com/colbyford/PyMOLfold) | Plugin for folding sequences directly in PyMOL |
 
 
 # Protein engineering
