@@ -73,7 +73,7 @@
 | [regexlearn](https://regexlearn.com/es) | |
 | [Bash/Linux](https://vinuesa.github.io/intro2linux/index.html) | |
 | [Python for Data Analysis](https://wesmckinney.com/book/)| Data Wrangling with pandas, NumPy, and Jupyter |
-| []()| |
+| [algorithmica](https://en.algorithmica.org/)| introduction to high performance computing |
 
 
 # Data viz
