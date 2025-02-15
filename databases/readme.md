@@ -36,6 +36,13 @@
 | [Protein Embeddings](https://www.uniprot.org/help/embeddings) | per-protein and per-residue embeddings using the ProtT5 model for UniProtKB/Swiss-Prot |
 | []() |   |
 
+# Benchmarks
+| Repo | Descripcion | 
+|-----------|-----------| 
+| [PoseBench](https://github.com/BioinfoMachineLearning/PoseBench) | protein-ligand structure prediction methods |
+| []() |   |
+
+
 https://harrisbio.substack.com/p/the-techbio-company-database
 # Repositorios utiles  
 | Repo | Descripcion | 
