@@ -40,10 +40,13 @@
 | Repo | Descripcion | 
 |-----------|-----------| 
 | [PoseBench](https://github.com/BioinfoMachineLearning/PoseBench) | protein-ligand structure prediction methods |
+| [plinder](https://www.plinder.sh/) |  protein-ligand interactions |
+| [pinder](https://www.pinder.sh/) | protein-protein interactions   |
 | []() |   |
 
 
 https://harrisbio.substack.com/p/the-techbio-company-database
+
 # Repositorios utiles  
 | Repo | Descripcion | 
 |-----------|-----------| 
