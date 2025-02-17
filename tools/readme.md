@@ -58,7 +58,9 @@
 | [PyDSSP](https://github.com/ShintaroMinami/PyDSSP) | implementation of DSSP (i.e. secondary structure annotation) algorithm for PyTorch |
 | [flashfold](https://github.com/chayan7/flashfold) | command-line tool for faster protein structure prediction |
 | [ActSeek](https://github.com/vttresearch/ActSeek) | enzyme mining in the Alphafold database based on the position of few amino acids |
+| [p2rank](https://github.com/rdk/p2rank) | Protein-ligand binding site prediction from protein structure |
 | []() |  |
+
 
 # Representation learning for proteins
 | Name | Description | 
