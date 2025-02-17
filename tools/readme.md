@@ -154,8 +154,8 @@
 | [Best-of Machine Learning](https://github.com/ml-tooling/best-of-ml-python) | list of awesome machine learning Python libraries |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 100+ PyTorch metrics implementations |
 | [DADApy](https://github.com/sissa-data-science/DADApy) | characterization of manifolds in high-dimensional spaces |
+| [PySR](https://github.com/MilesCranmer/PySR) | High-Performance Symbolic Regression |
 | []() |  |
-
 
 
 # statistics
