@@ -118,7 +118,9 @@
 | [DeepProtein](https://github.com/jiaqingxie/DeepProtein) | protein Property Prediction |
 | [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures  |
 | [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | text-guided protein design |
+| [ByProt (LM-Design)](https://github.com/bytedprotein/ByProt) | reprogramming pretrained protein LMs as generative models |
 | []() |  |
+
 
 
 # For molecules
