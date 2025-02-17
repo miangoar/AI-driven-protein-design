@@ -90,6 +90,8 @@
 | [Interactive Map of All Pandas Operations](https://blog.dailydoseofds.com/p/interactive-mind-map-of-all-pandas?=) |
 | [NN-SVG]https://github.com/alexlenail/NN-SVG) |
 | [15 Ways to Visualize Regression Results](https://rpubs.com/timothyfraser/tutorial_15_ways_to_visualize_regression_results)| |
+| [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) |
+| []() |
 
 
 # Blogs 
