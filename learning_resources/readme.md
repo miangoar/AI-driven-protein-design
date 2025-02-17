@@ -88,7 +88,7 @@
 | [molstar](https://molstar.org/me/) |
 | [Biological Sequence Models in the Context of the AI Directives](https://epochai.org/blog/biological-sequence-models-in-the-context-of-the-ai-directives) |
 | [Interactive Map of All Pandas Operations](https://blog.dailydoseofds.com/p/interactive-mind-map-of-all-pandas?=) |
-| [NN-SVG]https://github.com/alexlenail/NN-SVG) |
+| [NN-SVG](https://github.com/alexlenail/NN-SVG) |
 | [15 Ways to Visualize Regression Results](https://rpubs.com/timothyfraser/tutorial_15_ways_to_visualize_regression_results)| |
 | [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) |
 | []() |
