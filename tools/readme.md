@@ -59,8 +59,8 @@
 | [flashfold](https://github.com/chayan7/flashfold) | command-line tool for faster protein structure prediction |
 | [ActSeek](https://github.com/vttresearch/ActSeek) | enzyme mining in the Alphafold database based on the position of few amino acids |
 | [p2rank](https://github.com/rdk/p2rank) | Protein-ligand binding site prediction from protein structure |
+| [PLACER](https://github.com/baker-laboratory/PLACER) |  local prediction of protein-ligand conformational ensembles |
 | []() |  |
-
 
 # Representation learning for proteins
 | Name | Description | 
