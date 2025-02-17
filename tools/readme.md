@@ -164,9 +164,12 @@
 | [scikit-posthocs](https://scikit-posthocs.readthedocs.io/en/latest/) |  post hoc tests for pairwise multiple comparisons |
 | [statannotations](https://github.com/trevismd/statannotations) | add statistical significance annotations on seaborn plots |
 | [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) | creating graphics with details from statistical tests included in the information-rich plots themselves |
+| [ggbetweenstats](https://indrajeetpatil.github.io/ggstatsplot/articles/web_only/ggbetweenstats.html) | making publication-ready plots with relevant statistical details |
 | [statsmodels](https://www.statsmodels.org/stable/index.html) | classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration |
 | [pingouin](https://pingouin-stats.org/build/html/index.html#) | Statistical package |
 | []() |  |
+
+
 
 # Data viz for bio
 | Name | Description | 
