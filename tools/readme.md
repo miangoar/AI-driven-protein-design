@@ -150,8 +150,8 @@
 | [skrub](https://github.com/skrub-data/skrub) | preprocessing and feature engineering for tabular machine learning |
 | [cupy](https://github.com/cupy/cupy) |NumPy & SciPy for GPU|
 | [Best-of Machine Learning](https://github.com/ml-tooling/best-of-ml-python) | list of awesome machine learning Python libraries |
+| [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 100+ PyTorch metrics implementations |
 | []() |  |
-
 
 # statistics
 | Name | Description | 
