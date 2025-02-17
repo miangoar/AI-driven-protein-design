@@ -19,6 +19,8 @@
 | [ The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) | tal cual |
 
 
+
+
 # Bioinformatics courses
 | Name | Description | 
 |-----------|-----------| 
@@ -41,8 +43,8 @@
 | [Algoritmos en Bioinformática Estructural](https://eead-csic-compbio.github.io/bioinformatica_estructural/) | |
 | [MSAs, and pHMM](https://vinuesa.github.io/TIB-filoinfo/sesion4_alineamientos/)| build and calibrate HMMs, run & parse HMMER3 programs & output efficiently on the Linux command line using AWK, Bash, and R |
 | [BLAST tutorial](https://vinuesa.github.io/TIB-filoinfo/sesion3_BLAST/)| Running and parsing BLAST+ using the Linux command line |
+| [Guide to Spherical Equivariant Graph Transformers](https://alchemybio.substack.com/p/spherical-equivariant-graph-transformer)| spherical equivariant graph neural network and SE(3)-Transformer |
 | []()| |
-
 
 # Machine/deep learning courses
 | Name | Description | 
