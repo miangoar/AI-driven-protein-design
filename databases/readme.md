@@ -43,7 +43,9 @@
 | [plinder](https://www.plinder.sh/) |  protein-ligand interactions |
 | [pinder](https://www.pinder.sh/) | protein-protein interactions   |
 | [Runs N' Poses](https://github.com/plinder-org/runs-n-poses) | protein-ligand co-folding prediction  |
+| [proteingym](https://proteingym.org/) | comparing the ability of models to predict the effects of protein mutations  |
 | []() |   |
+
 
 https://harrisbio.substack.com/p/the-techbio-company-database
 
