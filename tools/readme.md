@@ -182,7 +182,9 @@
 | [ChatMol](https://github.com/ChatMol/ChatMol) | a PyMOL ChatGPT Plugin that allow to interact with PyMOL using natural language  |
 | [plot_phylo](https://github.com/KatyBrown/plot_phylo) | plot a phylogenetic tree on an existing matplotlib axis |
 | [prettymol](https://github.com/zachcp/prettymol) | automatic protein structure plots with MolecularNodes  |
+| [VMD-2](https://www.ks.uiuc.edu/Research/vmd/vmd2intro/index.html) | Visual Molecular Dynamics |
 | []() |  |
+
 
 # Webservers 
 | Web | Description | 
