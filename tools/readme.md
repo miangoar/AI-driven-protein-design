@@ -60,7 +60,9 @@
 | [ActSeek](https://github.com/vttresearch/ActSeek) | enzyme mining in the Alphafold database based on the position of few amino acids |
 | [p2rank](https://github.com/rdk/p2rank) | Protein-ligand binding site prediction from protein structure |
 | [PLACER](https://github.com/baker-laboratory/PLACER) |  local prediction of protein-ligand conformational ensembles |
+| [PDBCleanV2](https://github.com/fatipardo/PDBCleanV2) | create a curated ensemble of molecular structures |
 | []() |  |
+
 
 # Representation learning for proteins
 | Name | Description | 
