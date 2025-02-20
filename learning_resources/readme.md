@@ -59,7 +59,9 @@
 | [LLM](https://txt.cohere.com/llm-university/) | |
 | [Introduction to Machine Learning for chemists](https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry) | |
 | [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)| scaling language models on TPUs, principles and math can be adapted to GPUs too |
+| [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)| how to train LLMs on GPU Clusters|
 | []()| |
+
 
 # Python and programming
 | Name | Description | 
