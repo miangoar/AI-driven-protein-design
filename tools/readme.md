@@ -99,6 +99,8 @@
 | [biotite](https://www.biotite-python.org/latest/) | sequence and structure manipulation and analysis |
 | [protkit](https://github.com/silicogenesis/protkit) | Unified Approach to Protein Engineering |
 | [ProteinMPNN in JAX](https://github.com/sokrypton/ColabDesign/tree/main/mpnn) | Fast implementation of ProteinMPNN |
+| [fampnn](https://github.com/richardshuai/fampnn) | full-atom version of ProteinMPNN |
+| [ligandMPNN](https://github.com/dauparas/LigandMPNN) | Fixed backbone design sensible to ligands ([see colab notebook](https://github.com/ullahsamee/ligandMPNN_Colab))|
 | [EvoProtGrad](https://github.com/NREL/EvoProtGrad) | directed evolution with MCMC and protein language models |
 | [ConservFold](https://www.rodrigueslab.com/resources) | map amino acid conservation intro structures with the AF2 pipeline |
 | [consurf](https://consurf.tau.ac.il/consurf_index.php) |identification of functionally important regions in proteins |
@@ -115,7 +117,6 @@
 | [TRILL](https://github.com/martinez-zacharya/TRILL) | Sandbox for Deep-Learning based Computational Protein Design |
 | [AF2BIND](https://github.com/sokrypton/af2bind) | Predicting ligand-binding sites based on AF2 |
 | [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) | Fixed backbone design ([see webserver](https://huggingface.co/spaces/simonduerr/ProteinMPNN))|
-| [ligandMPNN](https://github.com/dauparas/LigandMPNN) | Fixed backbone design sensible to ligands ([see colab notebook](https://github.com/ullahsamee/ligandMPNN_Colab))|
 | [PyPEF](https://github.com/Protein-Engineering-Framework/PyPEF) | sequence-based machine learning-assisted protein engineering |
 | [DeepProtein](https://github.com/jiaqingxie/DeepProtein) | protein Property Prediction |
 | [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures  |
