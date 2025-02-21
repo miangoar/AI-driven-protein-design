@@ -61,6 +61,7 @@
 | [p2rank](https://github.com/rdk/p2rank) | Protein-ligand binding site prediction from protein structure |
 | [PLACER](https://github.com/baker-laboratory/PLACER) |  local prediction of protein-ligand conformational ensembles |
 | [PDBCleanV2](https://github.com/fatipardo/PDBCleanV2) | create a curated ensemble of molecular structures |
+| [bioemu](https://github.com/microsoft/bioemu) |  emulation of protein equilibrium ensembles |
 | []() |  |
 
 
