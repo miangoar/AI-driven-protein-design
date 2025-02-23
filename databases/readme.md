@@ -1,37 +1,63 @@
-# Databases
+# Sequence Databases
 | Repo | Descripcion | 
 |-----------|-----------| 
 | [uniprot](https://www.uniprot.org/) | annotated proteins |
+| [interpro](https://www.ebi.ac.uk/interpro/) |   functional analysis of proteins by classifying them into families and predicting domains and important sites |
+| [uniclust](https://gwdu111.gwdg.de/%7Ecompbiol/uniclust/2023_02/) | clustered uniprot - [paper](https://academic.oup.com/nar/article/45/D1/D170/2605730) |
 | [gtdb](https://gtdb.ecogenomic.org/) | microbial genomes |
-| [ColabFold Downloads](https://colabfold.mmseqs.com/) | Bases de datos de proteinas (siendo colabfold_envdb_202108 la mas grande, i.e. pesa 110GB)  |
 | [Clustering NCBI's nr database](https://github.com/Arcadia-Science/2023-nr-clustering) | clustered nr at 90% length, 90% identity |
 | [globdb](https://globdb.org/) | Derreplecated and annotated genomes |
 | [protabank](https://www.protabank.org/) | protein-fitness datasets |
 | [mavedb](https://www.mavedb.org/) | protein-fitness datasets |
-| [revenant](https://revenant.inf.pucp.edu.pe/) | resurrected proteins structures |
+| [huggingface-task](https://huggingface.co/tasks) | a collection of differente ML task and their respective models on HuggingFace |
+| [ProteinDesignLabs](https://github.com/Zuricho/ProteinDesignLabs) | List of computational protein design research labs |
+| [lukprot](https://zenodo.org/records/13829058) |  eukaryotic predicted proteins based on EukProtDB |
+| [AllTheBacteria](https://github.com/AllTheBacteria/AllTheBacteria) |  All WGS isolate bacterial INSDC data to August 2024 uniformly assembled, QC-ed, annotated, searchable |
+| [bakrep](https://bakrep.computational.bio/) |  661,402 bacterial genomes consistently processed & characterized, enriched with metadata |
+| [TechBio Company Database](https://harrisbio.substack.com/p/the-techbio-company-database) |  companies in the TechBio |
+| [MD Repo](https://mdrepo.org/) | MD simulations for proteins, with or without ligands  |
+| []() |   |
+
+
+# Structural Databases
+| Repo | Descripcion | 
+|-----------|-----------| 
 | [alphafold DB](https://alphafold.ebi.ac.uk/) | predicted structures for 200M proteins from the uniprot  |
 | [esmatlas](https://esmatlas.com/) | predicted structures for 600M proteins from MGnify  |
 | [PDB](https://www.rcsb.org/stats/) | 200k protein structures |
 | [PDA](https://pragmaticproteindesign.bio.ed.ac.uk/pda/) | ~1400 de novo designed proteins |
-| [M-CSA](https://www.ebi.ac.uk/thornton-srv/m-csa/browse/) | Mechanism and Catalytic Site Atlas |
-| [huggingface-task](https://huggingface.co/tasks) | a collection of differente ML task and their respective models on HuggingFace |
-| [ProteinDesignLabs](https://github.com/Zuricho/ProteinDesignLabs) | List of computational protein design research labs |
-| [lukprot](https://zenodo.org/records/13829058) |  eukaryotic predicted proteins based on EukProtDB |
-| [RepeatsDB](https://repeatsdb.org/home) |  annotation and classification of structural tandem repeat proteins  |
-| [bfvd](https://bfvd.steineggerlab.workers.dev/) |  DB of protein structures from viruses |
-| [uniclust](https://gwdu111.gwdg.de/%7Ecompbiol/uniclust/2023_02/) | clustered uniprot - [paper](https://academic.oup.com/nar/article/45/D1/D170/2605730) |
-| [AllTheBacteria](https://github.com/AllTheBacteria/AllTheBacteria) |  All WGS isolate bacterial INSDC data to August 2024 uniformly assembled, QC-ed, annotated, searchable |
-| [bakrep](https://bakrep.computational.bio/) |  661,402 bacterial genomes consistently processed & characterized, enriched with metadata |
-| [ted](https://ted.cathdb.info/) |  The Encyclopedia of Domains |
-| [cath DB](https://www.cathdb.info/version/v4_3_0/superfamily/3.40.710.10) | Base de datos de plegamientos proteicos. Ejemplo con la superfamilia de serinbetalactamasas|
-| [Pfam](https://www.ebi.ac.uk/interpro/entry/pfam/#table) | protein families sequence calssification (see also the [FTP host](https://ftp.ebi.ac.uk/pub/databases/Pfam/releases/) & [training resources](https://pfam-docs.readthedocs.io/en/latest/training.html)) |
-| [ECOD](http://prodata.swmed.edu/ecod/) | a hierarchical classification of protein domains according to their evolutionary relationship |
-| [interpro](https://www.ebi.ac.uk/interpro/) |   functional analysis of proteins by classifying them into families and predicting domains and important sites |
-| [TechBio Company Database](https://harrisbio.substack.com/p/the-techbio-company-database) |  companies in the TechBio |
-| [MD Repo](https://mdrepo.org/) | MD simulations for proteins, with or without ligands  |
+| [ModelArchive](https://modelarchive.org/) | ~620k structure models that are not based on experimental data  |
 | [viro3d](https://viro3d.cvr.gla.ac.uk/) | 85k structural models from more >4.4k human and animal viruses  |
 | [CAZyme3D  ](https://pro.unl.edu/CAZyme3D/) | 870k AlphaFold predicted 3D structures  |
-| [plinder](https://www.plinder.sh/#home) |  training and evaluation of protein-ligand docking algorithms |
+| [ted](https://ted.cathdb.info/) |  The Encyclopedia of Domains |
+| [ColabFold Downloads](https://colabfold.mmseqs.com/) | Bases de datos de proteinas (siendo colabfold_envdb_202108 la mas grande, i.e. pesa 110GB)  |
+| [RepeatsDB](https://repeatsdb.org/home) |  annotation and classification of structural tandem repeat proteins  |
+| [bfvd](https://bfvd.steineggerlab.workers.dev/) |  DB of protein structures from viruses |
+| [revenant](https://revenant.inf.pucp.edu.pe/) | resurrected proteins structures |
+| []() |   |
+
+# Sequence classiication 
+| Repo | Descripcion | 
+|-----------|-----------|
+| [Pfam](https://www.ebi.ac.uk/interpro/entry/pfam/#table) | protein families sequence calssification (see also the [FTP host](https://ftp.ebi.ac.uk/pub/databases/Pfam/releases/) & [training resources](https://pfam-docs.readthedocs.io/en/latest/training.html)) |
+| []() |   |
+
+# Structural classiication 
+| Repo | Descripcion | 
+|-----------|-----------|
+| [ECOD](http://prodata.swmed.edu/ecod/) | a hierarchical classification of protein domains according to their evolutionary relationship |
+| [cath DB](https://www.cathdb.info/version/v4_3_0/superfamily/3.40.710.10) | Base de datos de plegamientos proteicos. Ejemplo con la superfamilia de serinbetalactamasas|
+| []() |   |
+
+# Functional Databases
+| Repo | Descripcion | 
+|-----------|-----------|
+| [M-CSA](https://www.ebi.ac.uk/thornton-srv/m-csa/browse/) | Mechanism and Catalytic Site Atlas |
+| []() |   |
+
+# Embedding Databases
+| Repo | Descripcion | 
+|-----------|-----------|
 | [Protein Dimension DB](https://github.com/pentalpha/protein_dimension_db) | Datasets with PLM embeddings, GO annotations and taxonomy representations for all proteins in Uniprot/Swiss-Prot  |
 | [Protein Embeddings](https://www.uniprot.org/help/embeddings) | per-protein and per-residue embeddings using the ProtT5 model for UniProtKB/Swiss-Prot |
 | []() |   |
