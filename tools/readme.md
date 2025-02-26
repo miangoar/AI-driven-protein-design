@@ -215,6 +215,8 @@
 | Name | Description | 
 |-----------|-----------| 
 | [datamapplot](https://github.com/TutteInstitute/datamapplot) | creating beautiful, interactive and massive scatterplots |
+| [pypalettes](https://github.com/JosephBARBIERDARNAL/pypalettes) | +2500 color maps  |
+| [distinctipy ](https://github.com/alan-turing-institute/distinctipy) |  generating visually distinct colours |
 | []() |  |
 
 
