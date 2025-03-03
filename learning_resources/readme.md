@@ -62,6 +62,12 @@
 | [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)| how to train LLMs on GPU Clusters|
 | []()| |
 
+# Math courses
+| Name | Description | 
+|-----------|-----------| 
+| [immersive linear algebra](https://immersivemath.com/ila/index.html)| book with fully interactive figures |
+| []()| |
+
 
 # Python and programming
 | Name | Description | 
