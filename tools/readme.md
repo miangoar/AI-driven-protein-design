@@ -187,6 +187,7 @@
 | [plot_phylo](https://github.com/KatyBrown/plot_phylo) | plot a phylogenetic tree on an existing matplotlib axis |
 | [prettymol](https://github.com/zachcp/prettymol) | automatic protein structure plots with MolecularNodes  |
 | [VMD-2](https://www.ks.uiuc.edu/Research/vmd/vmd2intro/index.html) | Visual Molecular Dynamics |
+| [gromacs_copilot](https://github.com/ChatMol/gromacs_copilot) | AI-powered assistant for Molecular Dynamics  simulations |
 | []() |  |
 
 
