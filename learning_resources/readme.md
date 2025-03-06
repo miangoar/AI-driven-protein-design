@@ -68,6 +68,7 @@
 | Name | Description | 
 |-----------|-----------| 
 | [immersive linear algebra](https://immersivemath.com/ila/index.html)| book with fully interactive figures |
+| [Interactive Linear Algebra](https://personal.math.ubc.ca/~tbjw/ila/index.html)| Interactive Linear Algebra |
 | []()| |
 
 
