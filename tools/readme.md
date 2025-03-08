@@ -220,7 +220,9 @@
 | [datamapplot](https://github.com/TutteInstitute/datamapplot) | creating beautiful, interactive and massive scatterplots |
 | [pypalettes](https://github.com/JosephBARBIERDARNAL/pypalettes) | +2500 color maps  |
 | [distinctipy ](https://github.com/alan-turing-institute/distinctipy) |  generating visually distinct colours |
+| [Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) | set of tools (like [NN-SVG](https://alexlenail.me/NN-SVG/LeNet.html)) to plot neural nets |
 | []() |  |
+
 
 
 # ChatBots and others
