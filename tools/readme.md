@@ -200,7 +200,7 @@
 | [GoPredSim](https://embed.protein.properties/) | Predict protein properties from embeddings |
 | [DeepFRI](https://beta.deepfri.flatironinstitute.org/) | structure-based protein function prediction and functional residue identification |
 | [protein structure relaxation](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/relax_amber.ipynb) | Relax your structure using OpenMM/Amber |
-| [Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage) | calculate how much vRAM is needed to train and perform inference on a model hosted on Hugging Face (see also [gpu_poor calculator](https://github.com/RahulSChand/gpu_poor)) |
+| [Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage) | calculate how much vRAM is needed to train and perform inference on a model hosted on Hugging Face (see also [gpu_poor calculator](https://github.com/RahulSChand/gpu_poor) or [this ecuation](https://www.substratus.ai/blog/calculating-gpu-memory-for-llm)) |
 | [alphafind](https://alphafind.fi.muni.cz/search) | structure-based search |
 | [DiffDock-Web](https://huggingface.co/spaces/reginabarzilaygroup/DiffDock-Web) | molecular docking with ligands |
 | [ESMFold](https://esmatlas.com/resources?action=fold) | structure prediction with ESMFold |
