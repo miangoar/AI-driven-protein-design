@@ -71,8 +71,8 @@
 | [Runs N' Poses](https://github.com/plinder-org/runs-n-poses) | protein-ligand co-folding prediction  |
 | [proteingym](https://proteingym.org/) | comparing the ability of models to predict the effects of protein mutations  |
 | [MotifBench](https://github.com/blt2114/MotifBench) | motif-scaffolding problems  |
+| [posebusters](https://github.com/maabuu/posebusters) |  checks for generated molecule poses |
 | []() |   |
-
 
 https://harrisbio.substack.com/p/the-techbio-company-database
 
