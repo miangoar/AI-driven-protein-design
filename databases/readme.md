@@ -29,7 +29,7 @@
 | [ModelArchive](https://modelarchive.org/) | ~620k structure models that are not based on experimental data  |
 | [viro3d](https://viro3d.cvr.gla.ac.uk/) | 85k structural models from more >4.4k human and animal viruses  |
 | [CAZyme3D  ](https://pro.unl.edu/CAZyme3D/) | 870k AlphaFold predicted 3D structures  |
-| [ted](https://ted.cathdb.info/) |  The Encyclopedia of Domains |
+| [ted](https://ted.cathdb.info/) |  The Encyclopedia of Domains [see also how was implemented in the AFDB](https://www.ebi.ac.uk/about/news/updates-from-data-resources/alphafold-database-ted/)|
 | [ColabFold Downloads](https://colabfold.mmseqs.com/) | Bases de datos de proteinas (siendo colabfold_envdb_202108 la mas grande, i.e. pesa 110GB)  |
 | [RepeatsDB](https://repeatsdb.org/home) |  annotation and classification of structural tandem repeat proteins  |
 | [bfvd](https://bfvd.steineggerlab.workers.dev/) |  DB of protein structures from viruses |
