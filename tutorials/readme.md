@@ -19,6 +19,7 @@
 | [finetune-esm  ](https://github.com/naity/finetune-esm) | Finetuning with Distributed Learning and Advanced Training Techniques |  NA |
 | [Amelie Schreiber Articles](https://huggingface.co/AmelieSchreiber) | use language models and difussion models to analyze proteins |   |
 | [autodock-vina tutorials](https://autodock-vina.readthedocs.io/en/latest/colab_examples.html) | how to run Autodock Vina, and the associated protein and ligand setup utilities on Google Colab |   |
+| [ColabFold protocol](https://github.com/steineggerlab/colabfold-protocol) | predicting protein mono-, multi-mer structures and conformations using ColabFold | NA  |
 | []() | |   |
 
 
