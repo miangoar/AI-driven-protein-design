@@ -63,6 +63,7 @@
 | [PDBCleanV2](https://github.com/fatipardo/PDBCleanV2) | create a curated ensemble of molecular structures |
 | [bioemu](https://github.com/microsoft/bioemu) |  emulation of protein equilibrium ensembles |
 | [ProLIF](https://github.com/chemosim-lab/ProLIF) | Interaction Fingerprints for protein-ligand complexes and more |
+| [plip](https://github.com/pharmai/plip) | Analyze and visualize non-covalent protein-ligand and protein-protein interactions |
 | []() |  |
 
 
