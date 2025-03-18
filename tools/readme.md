@@ -99,6 +99,15 @@
 | [AFsample2](https://github.com/iamysk/AFsample2/) |  induce significant conformational diversity for a given protein |
 
 
+# Generative AI with difussion-based models
+| Name | Description | 
+|-----------|-----------|
+| [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) |  structure generation, with or without conditional information |
+| [chroma](https://github.com/generatebio/chroma) | programmable protein design |
+| [protein_generator](https://github.com/RosettaCommons/protein_generator) | Joint sequence and structure generation with RoseTTAFold sequence space diffusion |
+| []() |  |
+
+
 # Protein engineering
 | Name | Description | 
 |-----------|-----------|
