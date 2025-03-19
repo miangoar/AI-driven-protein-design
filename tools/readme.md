@@ -65,6 +65,7 @@
 | [ProLIF](https://github.com/chemosim-lab/ProLIF) | Interaction Fingerprints for protein-ligand complexes and more |
 | [plip](https://github.com/pharmai/plip) | Analyze and visualize non-covalent protein-ligand and protein-protein interactions |
 | [PyRosetta](https://github.com/RosettaCommons/PyRosetta.notebooks) | Rosetta suite for protein desing ported to python (See also these instructions for an [easy installation in Colab](https://x.com/miangoar/status/1835176497063030798)) |
+| [af_analysis](https://github.com/samuelmurail/af_analysis) | Analysis of alphafold and colabfold results |
 | []() |  |
 
 
