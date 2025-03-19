@@ -108,6 +108,14 @@
 | []() |  |
 
 
+
+# Generative AI with language models
+| Name | Description | 
+|-----------|-----------|
+| [ZymCTRL](https://huggingface.co/AI4PD/ZymCTRL) | conditional language model for the generation of artificial functional enzymes |
+| []() |  |
+
+
 # Protein engineering
 | Name | Description | 
 |-----------|-----------|
