@@ -106,8 +106,8 @@
 | [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) |  structure generation, with or without conditional information |
 | [chroma](https://github.com/generatebio/chroma) | programmable protein design |
 | [protein_generator](https://github.com/RosettaCommons/protein_generator) | Joint sequence and structure generation with RoseTTAFold sequence space diffusion |
+| [RFdiffusion_all_atom](https://github.com/baker-laboratory/rf_diffusion_all_atom) | RFdiffusion with all atom modeling |
 | []() |  |
-
 
 
 # Generative AI with language models
