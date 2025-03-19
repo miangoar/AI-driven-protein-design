@@ -64,6 +64,7 @@
 | [bioemu](https://github.com/microsoft/bioemu) |  emulation of protein equilibrium ensembles |
 | [ProLIF](https://github.com/chemosim-lab/ProLIF) | Interaction Fingerprints for protein-ligand complexes and more |
 | [plip](https://github.com/pharmai/plip) | Analyze and visualize non-covalent protein-ligand and protein-protein interactions |
+| [PyRosetta](https://github.com/RosettaCommons/PyRosetta.notebooks) | Rosetta suite for protein desing ported to python (sea also [this instructictions for an easy instalation in colab](https://x.com/miangoar/status/1835176497063030798)) |
 | []() |  |
 
 
