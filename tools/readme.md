@@ -148,6 +148,7 @@
 | [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures  |
 | [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | text-guided protein design |
 | [ByProt (LM-Design)](https://github.com/bytedprotein/ByProt) | reprogramming pretrained protein LMs as generative models |
+| [scikit-bio](https://github.com/scikit-bio/scikit-bio) | data structures, algorithms and educational resources for bioinformatics |
 | []() |  |
 
 
