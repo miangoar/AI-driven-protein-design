@@ -216,6 +216,8 @@
 | [prettymol](https://github.com/zachcp/prettymol) | automatic protein structure plots with MolecularNodes  |
 | [VMD-2](https://www.ks.uiuc.edu/Research/vmd/vmd2intro/index.html) | Visual Molecular Dynamics |
 | [gromacs_copilot](https://github.com/ChatMol/gromacs_copilot) | AI-powered assistant for Molecular Dynamics  simulations |
+| [NIH bioart](https://bioart.niaid.nih.gov/) | 2,000+ science and medical icons |
+| [bioicons](https://bioicons.com/) | icons for science illustrations in biology and chemistry |
 | []() |  |
 
 
