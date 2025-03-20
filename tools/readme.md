@@ -184,8 +184,10 @@
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 100+ PyTorch metrics implementations |
 | [DADApy](https://github.com/sissa-data-science/DADApy) | characterization of manifolds in high-dimensional spaces |
 | [PySR](https://github.com/MilesCranmer/PySR) | High-Performance Symbolic Regression |
+| [BERTopic](https://github.com/MaartenGr/BERTopic) | create clusters for easily interpretable topics |
+| [KeyBERT](https://github.com/MaartenGr/KeyBERT) | Minimal keyword extraction with BERT |
+| [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) | Fuzzy string matching, grouping, and evaluation. |
 | []() |  |
-
 
 # statistics
 | Name | Description | 
