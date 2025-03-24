@@ -102,6 +102,7 @@
 |-----------|-----------|
 | [making-it-rain](https://github.com/pablo-arantes/making-it-rain) | Cloud-based molecular simulations for everyone |
 | [bioemu](https://github.com/microsoft/bioemu) |  emulation of protein equilibrium ensembles |
+| [orb](https://github.com/orbital-materials/orb-models) | forcefield models from Orbital Materials |
 | []() |  |
 
 
