@@ -61,7 +61,6 @@
 | [p2rank](https://github.com/rdk/p2rank) | Protein-ligand binding site prediction from protein structure |
 | [PLACER](https://github.com/baker-laboratory/PLACER) |  local prediction of protein-ligand conformational ensembles |
 | [PDBCleanV2](https://github.com/fatipardo/PDBCleanV2) | create a curated ensemble of molecular structures |
-| [bioemu](https://github.com/microsoft/bioemu) |  emulation of protein equilibrium ensembles |
 | [ProLIF](https://github.com/chemosim-lab/ProLIF) | Interaction Fingerprints for protein-ligand complexes and more |
 | [plip](https://github.com/pharmai/plip) | Analyze and visualize non-covalent protein-ligand and protein-protein interactions |
 | [PyRosetta](https://github.com/RosettaCommons/PyRosetta.notebooks) | Rosetta suite for protein desing ported to python (See also these instructions for an [easy installation in Colab](https://x.com/miangoar/status/1835176497063030798)) |
@@ -90,6 +89,19 @@
 | [masif](https://github.com/LPDI-EPFL/masif) | molecular surface interaction fingerprints |
 | [peptidy](https://github.com/molML/peptidy) | vectorize proteins for machine learning applications |
 | [pypropel](https://github.com/2003100127/pypropel) | sequence and structural data preprocessing, feature generation, and post-processing for model performance evaluation and visualisation, |
+| []() |  |
+
+# Protein-ligand protein-protein interactions (and docking)
+| Name | Description | 
+|-----------|-----------|
+| []() |  |
+
+
+# Molecular dynamics (related)
+| Name | Description | 
+|-----------|-----------|
+| [making-it-rain](https://github.com/pablo-arantes/making-it-rain) | Cloud-based molecular simulations for everyone |
+| [bioemu](https://github.com/microsoft/bioemu) |  emulation of protein equilibrium ensembles |
 | []() |  |
 
 
