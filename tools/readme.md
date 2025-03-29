@@ -121,7 +121,6 @@
 | [chroma](https://github.com/generatebio/chroma) | programmable protein design |
 | [protein_generator](https://github.com/RosettaCommons/protein_generator) | Joint sequence and structure generation with RoseTTAFold sequence space diffusion |
 | [RFdiffusion_all_atom](https://github.com/baker-laboratory/rf_diffusion_all_atom) | RFdiffusion with all atom modeling |
-| []() |  |
 
 
 # Generative AI with language models
@@ -130,6 +129,8 @@
 | [ZymCTRL](https://huggingface.co/AI4PD/ZymCTRL) | conditional language model for the generation of artificial functional enzymes |
 | [REXzyme_aa](https://huggingface.co/AI4PD/REXzyme_aa) | generate sequences that are predicted to perform their intended reactions |
 | [ProGen2-finetuning](https://github.com/hugohrban/ProGen2-finetuning) | Finetuning ProGen2 for generation of sequences from selected families |
+| [Evolla](https://github.com/westlake-repl/Evolla) | chat interface to talk about a protein using information from it sequence, structure and function (i.e. ChatGPT for proteins)|
+| [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | Text-guided protein design |
 | []() |  |
 
 # Protein engineering
