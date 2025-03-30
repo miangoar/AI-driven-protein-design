@@ -61,7 +61,7 @@
 | [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)| scaling language models on TPUs, principles and math can be adapted to GPUs too |
 | [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)| how to train LLMs on GPU Clusters (see also this [video for introduction](https://youtu.be/1E8GDR8QXKw?si=xA77jYiaxP17sA_t))|
 | [A Comprehensive Guide to Explainable AI: From Classical Models to LLMs](https://arxiv.org/abs/2412.00800)| a comprehensive guide to XAI |
-| []()| |
+| [Mathematical theory of deep learning](https://arxiv.org/abs/2407.18384)| introduction to the mathematical analysis of deep learning |
 
 
 # Math courses
