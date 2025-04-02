@@ -206,6 +206,7 @@
 | [KeyBERT](https://github.com/MaartenGr/KeyBERT) | Minimal keyword extraction with BERT |
 | [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) | Fuzzy string matching, grouping, and evaluation. |
 | [hummingbird](https://github.com/microsoft/hummingbird) | compiles trained ML models into tensor computation for faster inference |
+| [skorch](https://github.com/skorch-dev/skorch) | train PyTorch models in a way similar to Scikit-learn (eg. No need to manually write a training loop, just using fit(), predict(), score()) |
 | []() |  |
 
 
