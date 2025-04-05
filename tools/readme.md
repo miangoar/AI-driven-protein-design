@@ -270,8 +270,11 @@
 | [distinctipy ](https://github.com/alan-turing-institute/distinctipy) |  generating visually distinct colours |
 | [Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) | set of tools (like [NN-SVG](https://alexlenail.me/NN-SVG/LeNet.html)) to plot neural nets |
 | [tidyplots](https://jbengler.github.io/tidyplots/index.html) | creation of publication-ready plots for scientific papers |
+| [pyCirclize](https://github.com/moshi4/pyCirclize) | Circular visualization in Python (Circos Plot, Chord Diagram, Radar Chart)  |
+| [pycircular](https://github.com/albahnsen/pycircular) | circular data analysis |
+| [great-table](https://github.com/posit-dev/great-tables) |  display tables |
+| [plottable](https://github.com/znstrider/plottable) | plotting beautifully customized, presentation ready tables |
 | []() |  |
-
 
 # ChatBots and others
 | Tema | 
