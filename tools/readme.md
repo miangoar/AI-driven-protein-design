@@ -292,5 +292,5 @@
 | [aistudio by Google](https://aistudio.google.com/) |
 | [hasanyone](https://hasanyone.com/) | 
 | [AI Python Libraries](https://www.aipythonlibraries.com/libraries/) | 
-| []() | 
-
+| [paperfinder](https://paperfinder.allen.ai/chat) | 
+| []() |
