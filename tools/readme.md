@@ -104,8 +104,9 @@
 | Name | Description | 
 |-----------|-----------|
 | [making-it-rain](https://github.com/pablo-arantes/making-it-rain) | Cloud-based molecular simulations for everyone |
-| [bioemu](https://github.com/microsoft/bioemu) |  emulation of protein equilibrium ensembles |
+| [bioemu](https://github.com/microsoft/bioemu) |  emulation of protein equilibrium ensembles  (see also this [this notebook](https://colab.research.google.com/github/pablo-arantes/making-it-rain/blob/main/BioEmu_HPACKER.ipynb) from ["Make it rain"](https://github.com/pablo-arantes/making-it-rain) that combines bioemu + [H-Packer](https://github.com/gvisani/hpacker) for side-chain reconstruction)| 
 | [orb](https://github.com/orbital-materials/orb-models) | forcefield models from Orbital Materials |
+| [logMD](https://github.com/log-md/logmd) | visualize MD trajectories in colab |
 | []() |  |
 
 
