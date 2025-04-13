@@ -42,7 +42,7 @@
 | [Pyrcsbsearchapi](https://github.com/rcsb/py-rcsbsearchapi) | Python interface for the RCSB PDB search API |
 | [protestar](https://github.com/refresh-bio/protestar) | compress collections structures |
 | [Merizo-search](https://github.com/psipred/merizo_search) | domain segmentation |
-| [progres](https://github.com/greener-group/progres) | structure searching by structural embeddings |
+| [progres](https://github.com/greener-group/progres) | structure searching by structural embeddings ([see also the webserver](https://progres.mrc-lmb.cam.ac.uk/))|
 | [freesasa](https://github.com/mittinatten/freesasa) | for calculating Solvent Accessible Surface Areas |
 | [openstructure](https://openstructure.org/docs/2.8/) | protein structure, complexes and docking comparison |
 | [opendock](https://github.com/guyuehuo/opendock)| protein-Ligand Docking and Modeling |
