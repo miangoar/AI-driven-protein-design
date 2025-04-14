@@ -118,7 +118,10 @@
 | [AFsample2](https://github.com/iamysk/AFsample2/) |  induce significant conformational diversity for a given protein |
 | [alphafold3 tools](https://github.com/cddlab/alphafold3_tools) | Toolkit for input generation and output analysis |
 | [alphafold3](https://github.com/google-deepmind/alphafold3) | dude ... you can also use the [AF3 weberser](https://alphafoldserver.com/welcome).Se also the [High Throughput Solution to predict up-to 10s thousands of structures](https://github.com/GoogleCloudPlatform/cluster-toolkit/blob/cloudnext25/examples/science/af3-slurm/README.md) using the [google cloud services](https://blog.google/products/google-cloud/scientific-research-tools-ai/?utm_source=x&utm_medium=social&utm_campaign=&utm_content=#aimodels) |
+| [af3cli](https://github.com/SLx64/af3cli) | generating AlphaFold3 input files |
 | []() |  |
+
+
 
 # Generative AI with difussion-based models
 | Name | Description | 
