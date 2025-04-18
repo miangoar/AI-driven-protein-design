@@ -68,8 +68,8 @@
 | [af_analysis](https://github.com/samuelmurail/af_analysis) | Analysis of alphafold and colabfold results |
 | [Uniprot-PDB-mappe](https://github.com/iriziotis/Uniprot-PDB-mapper) | mapping of Uniprot sequences to PDB |
 | [peppr](https://github.com/aivant/peppr) | a package for evaluation of predicted poses like RMSD, TM-score, lDDT, lDDT-PLI, fnat, iRMSD, LRMSD, DockQ  |
+| [InteracTor](https://github.com/Dias-Lab/InteracTor) |  structure analysis and conversion, allowing the extraction of interactions such as hydrogen bonds, van der Waals interactions, hydrophobic contacts, and surface tension |
 | []() |  |
-
 
 
 # Representation learning for proteins
