@@ -56,6 +56,7 @@
 | [GEMMI](https://github.com/project-gemmi/gemmi) | macromolecular crystallography library and utilities |
 | [fpocket](https://github.com/Discngine/fpocket) | protein pocket detection based on Voronoi tessellation |
 | [PyDSSP](https://github.com/ShintaroMinami/PyDSSP) | implementation of DSSP (i.e. secondary structure annotation) algorithm for PyTorch |
+| [dssp 4.5](https://github.com/PDB-REDO/dssp) | assign secondary structure using the eight-letter code (see also [the webserver](https://pdb-redo.eu/dssp)) | 
 | [flashfold](https://github.com/chayan7/flashfold) | command-line tool for faster protein structure prediction |
 | [ActSeek](https://github.com/vttresearch/ActSeek) | enzyme mining in the Alphafold database based on the position of few amino acids |
 | [p2rank](https://github.com/rdk/p2rank) | Protein-ligand binding site prediction from protein structure |
