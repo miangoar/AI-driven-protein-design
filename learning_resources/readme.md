@@ -121,5 +121,6 @@
 | [epoch (for bio models)](https://epoch.ai/blog/biological-sequence-models-in-the-context-of-the-ai-directives) |
 | [Oxford Protein Informatics Group](https://www.blopig.com/blog/) |
 | [Machine Learning in Drug Discovery Resources](https://github.com/PatWalters/resources_2025) |
+| [james lingford](https://www.jameslingford.com/blog/) |
 | []() |
 
