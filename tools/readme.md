@@ -66,7 +66,7 @@
 | [plip](https://github.com/pharmai/plip) | Analyze and visualize non-covalent protein-ligand and protein-protein interactions |
 | [PyRosetta](https://github.com/RosettaCommons/PyRosetta.notebooks) | Rosetta suite for protein desing ported to python (See also these instructions for an [easy installation in Colab](https://x.com/miangoar/status/1835176497063030798)) |
 | [af_analysis](https://github.com/samuelmurail/af_analysis) | Analysis of alphafold and colabfold results |
-| [Uniprot-PDB-mappe](https://github.com/iriziotis/Uniprot-PDB-mapper) | mapping of Uniprot sequences to PDB |
+| [Uniprot-PDB-mapper](https://github.com/iriziotis/Uniprot-PDB-mapper) | mapping of Uniprot sequences to PDB ((see also this option to map IDs between RefSeq and Uniprot by uson the ile `gene_refseq_uniprotkb_collab.gz`)[https://ncbiinsights.ncbi.nlm.nih.gov/2023/11/08/compare-ncbi-refseq-and-uniprot-datasets/])|
 | [peppr](https://github.com/aivant/peppr) | a package for evaluation of predicted poses like RMSD, TM-score, lDDT, lDDT-PLI, fnat, iRMSD, LRMSD, DockQ  |
 | [InteracTor](https://github.com/Dias-Lab/InteracTor) |  structure analysis and conversion, allowing the extraction of interactions such as hydrogen bonds, van der Waals interactions, hydrophobic contacts, and surface tension |
 | []() |  |
