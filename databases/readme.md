@@ -16,8 +16,9 @@
 | [bakrep](https://bakrep.computational.bio/) |  661,402 bacterial genomes consistently processed & characterized, enriched with metadata |
 | [TechBio Company Database](https://harrisbio.substack.com/p/the-techbio-company-database) |  companies in the TechBio |
 | [MD Repo](https://mdrepo.org/) | MD simulations for proteins, with or without ligands  |
+| [OpenProteinSet](https://registry.opendata.aws/openfold/) |  >16 million MSAs with their associated structural homologs from the PDB, and AF2 protein structure predictions |
 | []() |   |
-
+OpenProteinSet
 
 # Structural Databases
 | Repo | Descripcion | 
