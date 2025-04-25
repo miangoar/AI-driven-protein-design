@@ -27,6 +27,7 @@
 | [DL4Proteins Workshops](https://github.com/Graylab/DL4Proteins-notebooks) | Notebooks covering deep learning tools for biomolecular structure prediction and design |
 | [PDBx/mmCIF Dictionary Resources](https://mmcif.wwpdb.org/)| | 
 | [A Complete Guide to Protein Folding Prediction with RoseTTAFold](https://alchemybio.substack.com/p/a-complete-guide-to-protein-folding) | |
+| [alphafold2 explained](https://www.ai4pharm.info/alphafold2)| |
 | [AlphaFold 3 Overview](https://alphafoldserver.com/guides) | |
 | [AlphaFold. A practical guide](https://www.ebi.ac.uk/training/online/courses/alphafold/) | | 
 | [AlphaFold Decoded](https://www.youtube.com/watch?v=NSvp7RFegEs&list=PLJ0WcPQS7xJVJr6ceIPFSkAGAgrkmw1c9&ab_channel=AlphaFoldDecoded) and the [iGEM proyect](https://2024.igem.wiki/aachen/education) | |
