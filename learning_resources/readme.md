@@ -61,10 +61,11 @@
 | [Introduction to Machine Learning for chemists](https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry) | |
 | [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)| scaling language models on TPUs, principles and math can be adapted to GPUs too |
 | [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)| how to train LLMs on GPU Clusters (see also this [video for introduction](https://youtu.be/1E8GDR8QXKw?si=xA77jYiaxP17sA_t))|
+| [Scaling Transformers](https://damek.github.io/STAT-4830/section/12/notes.html)| Parallelism Strategies from the Ultrascale Playbook |
 | [A Comprehensive Guide to Explainable AI: From Classical Models to LLMs](https://arxiv.org/abs/2412.00800)| a comprehensive guide to XAI |
 | [Mathematical theory of deep learning](https://arxiv.org/abs/2407.18384)| introduction to the mathematical analysis of deep learning |
 | [Dive into Deep Learning](https://d2l.ai/index.html)|Interactive deep learning book Implemented with PyTorch, NumPy/MXNet, JAX, and TensorFlow |
-| []()| |
+
 
 
 # Math courses
