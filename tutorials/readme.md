@@ -20,6 +20,8 @@
 | [Amelie Schreiber Articles](https://huggingface.co/AmelieSchreiber) | use language models and difussion models to analyze proteins |   |
 | [autodock-vina tutorials](https://autodock-vina.readthedocs.io/en/latest/colab_examples.html) | how to run Autodock Vina, and the associated protein and ligand setup utilities on Google Colab |   |
 | [ColabFold protocol](https://github.com/steineggerlab/colabfold-protocol) | predicting protein mono-, multi-mer structures and conformations using ColabFold | NA  |
+| [Introductory Tutorials for Simulating Protein Dynamics with GROMACS](https://pubs.acs.org/doi/10.1021/acs.jpcb.4c04901) | Three exercises are detailed, including simulating a single protein, setting up a protein complex, and performing umbrella sampling simulations to model the unfolding of a short polypeptide  | | 
+| []() | |   |
 | []() | |   |
 
 https://qiita.com/Ag_smith/items/0a2cae3e3125e6895a23
