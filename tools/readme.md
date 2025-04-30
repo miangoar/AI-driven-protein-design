@@ -236,6 +236,7 @@
 | [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) | Toolbox for molecular animations in Blender |
 | [CellScape](https://github.com/jordisr/cellscape) | Vector graphics cartoons from protein structure |
 | [ChimeraX apps](https://cxtoolshed.rbvi.ucsf.edu/apps/all) | chimeraX  extensions |
+| [chimerax_viridis](https://github.com/smsaladi/chimerax_viridis) | Colorblind-friendly, perceptually uniform palettes for chimerax |
 | [SSDraw](https://github.com/ncbi/SSDraw) | generates secondary structure diagrams from 3D protein structures |
 | [bioalphabet](https://github.com/davidhoksza/bioalphabet/) | convertor of texts to bio-domain alphabetss |
 | [ChatMol](https://github.com/ChatMol/ChatMol) | a PyMOL ChatGPT Plugin that allow to interact with PyMOL using natural language  |
@@ -247,7 +248,7 @@
 | [bioicons](https://bioicons.com/) | icons for science illustrations in biology and chemistry |
 | [moldraw](https://moldraw.com/) | draw molecules |
 | [Mol* at RCSB/PDB](https://onlinelibrary.wiley.com/doi/10.1002/pro.70093) |  web-based, 3D visualization software suite for examination and analyses of biostructures |
-| []() |  |
+
 
 
 
