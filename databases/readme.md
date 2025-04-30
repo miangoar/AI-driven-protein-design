@@ -17,8 +17,9 @@
 | [TechBio Company Database](https://harrisbio.substack.com/p/the-techbio-company-database) |  companies in the TechBio |
 | [MD Repo](https://mdrepo.org/) | MD simulations for proteins, with or without ligands  |
 | [OpenProteinSet](https://registry.opendata.aws/openfold/) |  >16 million MSAs with their associated structural homologs from the PDB, and AF2 protein structure predictions |
+| [PlasmidScope](https://plasmid.deepomics.org/) |   852,600 plasmid sequences with annotations and structures |
 | []() |   |
-OpenProteinSet
+
 
 # Structural Databases
 | Repo | Descripcion | 
@@ -37,7 +38,7 @@ OpenProteinSet
 | [revenant](https://revenant.inf.pucp.edu.pe/) | resurrected proteins structures |
 | [pdbtm](https://pdbtm.unitmp.org/) | transmembrane protein selection of the PDB  |
 | [afesm](https://afesm.steineggerlab.workers.dev/) |  ~820M structural predictions annotated with biome, taxonomy, domains, etc |
-
+| []() |   |
 
 
 # Sequence classiication 
