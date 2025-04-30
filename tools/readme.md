@@ -236,7 +236,7 @@
 | [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) | Toolbox for molecular animations in Blender |
 | [CellScape](https://github.com/jordisr/cellscape) | Vector graphics cartoons from protein structure |
 | [ChimeraX apps](https://cxtoolshed.rbvi.ucsf.edu/apps/all) | chimeraX  extensions |
-| [chimerax_viridis](https://github.com/smsaladi/chimerax_viridis) | Colorblind-friendly, perceptually uniform palettes for chimerax |
+| [chimerax_viridis](https://github.com/smsaladi/chimerax_viridis) | Colorblind-friendly, perceptually uniform palettes for chimerax (see [this tips](https://bsky.app/profile/jameslingford.bsky.social/post/3lmw5h3xxec2n) tore-create the RFDifussion style in ChimeraX or the [original pyMOL implementation](https://bsky.app/profile/spellock.bsky.social/post/3lnsup5m5ks22))|
 | [SSDraw](https://github.com/ncbi/SSDraw) | generates secondary structure diagrams from 3D protein structures |
 | [bioalphabet](https://github.com/davidhoksza/bioalphabet/) | convertor of texts to bio-domain alphabetss |
 | [ChatMol](https://github.com/ChatMol/ChatMol) | a PyMOL ChatGPT Plugin that allow to interact with PyMOL using natural language  |
