@@ -74,8 +74,9 @@
 | Transformers - Lucas Beyer |  a good introduction to the transformer architecture [(see also the slides)]( http://lucasb.eyer.be/transformer) | <https://www.youtube.com/watch?v=bMXqnLiVgLk> | 
 | Let's build GPT: from scratch, in code, spelled out | introduction to GPT models   | https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy | 
 |  |    |  | 
-https://www.youtube.com/watch?v=bMXqnLiVgLk
 
+https://www.youtube.com/watch?v=bMXqnLiVgLk
+https://nazimbouatta.scholars.harvard.edu/lectures
 https://www.youtube.com/watch?v=e9-0BxyKG10&ab_channel=ProfessorBryce
 https://www.youtube.com/watch?v=9-Jl0dxWQs8&list=PLy6oQaTOlboDq71p3d3OjOByGD-08xLHf&ab_channel=3Blue1Brown
 https://www.youtube.com/watch?v=oMc9StPVzOU&ab_channel=InfiniteCodes
