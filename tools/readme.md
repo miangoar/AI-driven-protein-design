@@ -1,3 +1,13 @@
+# Content list
+- [protein sequences](./tools/protein_sequences)
+- [Tools](./tools)
+- [Databases](./databases)
+- [Selected_papers](./selected_papers)
+- [Learning resources](./learning_resources)
+- [Youtube](./youtube)
+- [Slides](./slides)
+
+
 # For protein sequences
 | Name | Description | 
 |-----------|-----------| 
@@ -308,4 +318,4 @@
 | [hasanyone](https://hasanyone.com/) | 
 | [AI Python Libraries](https://www.aipythonlibraries.com/libraries/) | 
 | [paperfinder](https://paperfinder.allen.ai/chat) | 
-| []() |
+| [AI Scientist agents by futurehouse](https://platform.futurehouse.org/) |
