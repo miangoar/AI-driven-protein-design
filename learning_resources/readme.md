@@ -66,6 +66,7 @@
 | [Mathematical theory of deep learning](https://arxiv.org/abs/2407.18384)| introduction to the mathematical analysis of deep learning |
 | [Dive into Deep Learning](https://d2l.ai/index.html)|Interactive deep learning book Implemented with PyTorch, NumPy/MXNet, JAX, and TensorFlow |
 | [ Flow Matching Guide and Code](https://arxiv.org/abs/2412.06264)| comprehensive and self-contained review of Flow Matching (i.e. the basis for difussion models)|
+| [Dummy's Guide to Modern LLM Sampling](https://rentry.org/samplers)| Tokenizers and LLM inference |
 
 
 
