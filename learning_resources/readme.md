@@ -12,12 +12,13 @@
 | [generative-ai](https://ig.ft.com/generative-ai/) | Introduccion a modelos generativos|
 | [diffusion](https://andrewkchan.dev/posts/diffusion.html) | Introduccion a modelos de difusion|
 | [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/) | explicacion de la arquitectura de AlphaFold3 |
+| [An Opinionated AlphaFold3 Field Guide](https://research.dimensioncap.com/p/an-opinionated-alphafold3-field-guide)| break down every part of AlphaFold3 in simple-to-understand terms |
 | [Transformer Explainer: Interactive Learning of Text-Generative Models](https://huggingface.co/papers/2408.04619) | version interactiva de la arquitectura de GPT2 |
 | [LLM Visualization](https://bbycroft.net/llm) | version interactiva de la arquitectura base de GPT |
 | [Developer Roadmaps](https://roadmap.sh/) | roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings |
 | [ML Code Challenges](https://www.deep-ml.com/) | code practices about machine and deep learning |
 | [ The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) | tal cual |
-
+| []()| |
 
 
 
