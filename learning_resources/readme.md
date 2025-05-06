@@ -29,6 +29,7 @@
 | [PDBx/mmCIF Dictionary Resources](https://mmcif.wwpdb.org/)| | 
 | [A Complete Guide to Protein Folding Prediction with RoseTTAFold](https://alchemybio.substack.com/p/a-complete-guide-to-protein-folding) | |
 | [alphafold2 explained](https://www.ai4pharm.info/alphafold2)| |
+| [AlphaFold3 Explained](https://www.ai4pharm.info/alphafold3)| |
 | [AlphaFold 3 Overview](https://alphafoldserver.com/guides) | |
 | [AlphaFold. A practical guide](https://www.ebi.ac.uk/training/online/courses/alphafold/) | | 
 | [AlphaFold Decoded](https://www.youtube.com/watch?v=NSvp7RFegEs&list=PLJ0WcPQS7xJVJr6ceIPFSkAGAgrkmw1c9&ab_channel=AlphaFoldDecoded) and the [iGEM proyect](https://2024.igem.wiki/aachen/education) | |
@@ -47,6 +48,8 @@
 | [BLAST tutorial](https://vinuesa.github.io/TIB-filoinfo/sesion3_BLAST/)| Running and parsing BLAST+ using the Linux command line |
 | [Guide to Spherical Equivariant Graph Transformers](https://alchemybio.substack.com/p/spherical-equivariant-graph-transformer)| spherical equivariant graph neural network and SE(3)-Transformer |
 | [Structural Bioinformatics Course 2023](https://structural-bioinformatics.netlify.app/)| from ML basics to protein desing based on AI |
+| []()| |
+
 
 # Machine/deep learning courses
 | Name | Description | 
