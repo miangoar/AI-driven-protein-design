@@ -1,10 +1,25 @@
 # Content list
 
-- [protein sequences](#For-protein-sequences)
-- [protein structures](#For-protein-structures)
+Tools for:
+1. [protein sequences](#sequences)
+2. [protein structures](#structures)
+3. [structure prediction](#structure-prediction)
+4. [molecular dynamics](#molecular-dynamics)
+5. [representation learning](#representation-learning)
+6. [protein engineering](#protein-engineering)
+7. [generative AI with difussion models](#generative-AI-with-difussion-models)
+8. [generative AI with LLM](#generative-AI-with-LLM)
+9. [docking (ligands and proteins)](#docking-ligands-and-proteins)
+10. [molecules](#molecules)
+11. [machine learning](#machine-learning)
+12. [statistics](#statistics)
+13. [datavis for bio](#datavis-for-bio)
+14. [datavis](#datavis)
+15. [webservers](#webservers)
+16. [chatbots and agents](#chatbots-and-agents)
 
 
-# For protein sequences
+# sequences
 | Name | Description | 
 |-----------|-----------| 
 | [SeqKit](https://bioinf.shenwei.me/seqkit/) ([tutorial](https://sandbox.bio/tutorials/seqkit-intro)) | ultrafast toolkit for FASTA/Q file manipulation |
@@ -28,7 +43,7 @@
 | []() |  |
 
 
-# For protein structures
+# structures
 | Name | Description | 
 |-----------|-----------| 
 | [localcolabfold](https://github.com/YoshitakaMo/localcolabfold) | ColabFold on your local PC | 
@@ -78,9 +93,28 @@
 | [unicore](https://github.com/steineggerlab/unicore) | core gene phylogeny with Foldseek and ProstT5 (i.e. 3Di alphabet) |
 | []() |  |
 
+# structure prediction
+| Name | Description | 
+|-----------|-----------|
+| [PAE Viewer](https://gitlab.gwdg.de/general-microbiology/pae-viewer) |  view the PAE (predicted aligned error) of multimers, and integrates visualization of crosslink data (use the [webserver](https://subtiwiki.uni-goettingen.de/v4/paeViewerDemo)) |
+| [PyMOLfold](https://github.com/colbyford/PyMOLfold) | Plugin for folding sequences directly in PyMOL |
+| [AFsample2](https://github.com/iamysk/AFsample2/) |  induce significant conformational diversity for a given protein |
+| [alphafold3 tools](https://github.com/cddlab/alphafold3_tools) | Toolkit for input generation and output analysis |
+| [alphafold3](https://github.com/google-deepmind/alphafold3) | dude ... you can also use the [AF3 weberser](https://alphafoldserver.com/welcome).Se also the [High Throughput Solution to predict up-to 10s thousands of structures](https://github.com/GoogleCloudPlatform/cluster-toolkit/blob/cloudnext25/examples/science/af3-slurm/README.md) using the [google cloud services](https://blog.google/products/google-cloud/scientific-research-tools-ai/?utm_source=x&utm_medium=social&utm_campaign=&utm_content=#aimodels) |
+| [af3cli](https://github.com/SLx64/af3cli) | generating AlphaFold3 input files |
+| []() |  |
+
+# molecular dynamics
+| Name | Description | 
+|-----------|-----------|
+| [making-it-rain](https://github.com/pablo-arantes/making-it-rain) | Cloud-based molecular simulations for everyone |
+| [bioemu](https://github.com/microsoft/bioemu) |  emulation of protein equilibrium ensembles  (see also this [this notebook](https://colab.research.google.com/github/pablo-arantes/making-it-rain/blob/main/BioEmu_HPACKER.ipynb) from ["Make it rain"](https://github.com/pablo-arantes/making-it-rain) that combines bioemu + [H-Packer](https://github.com/gvisani/hpacker) for side-chain reconstruction)| 
+| [orb](https://github.com/orbital-materials/orb-models) | forcefield models from Orbital Materials |
+| [logMD](https://github.com/log-md/logmd) | visualize MD trajectories in colab |
+| []() |  |
 
 
-# Representation learning for proteins
+# representation learning
 | Name | Description | 
 |-----------|-----------|
 | [FAESM](https://github.com/pengzhangzhi/faesm) | A Drop-in Efficient Pytorch Implementation of ESM | 
@@ -103,55 +137,7 @@
 | [pypropel](https://github.com/2003100127/pypropel) | sequence and structural data preprocessing, feature generation, and post-processing for model performance evaluation and visualisation, |
 | []() |  |
 
-# Protein-ligand protein-protein interactions (and docking)
-| Name | Description | 
-|-----------|-----------|
-| [HiQBind](https://github.com/THGLab/HiQBind) | Workflow to clean up and fix structural problems in protein-ligand binding datasets |
-| []() |  |
-
-# Molecular dynamics (related)
-| Name | Description | 
-|-----------|-----------|
-| [making-it-rain](https://github.com/pablo-arantes/making-it-rain) | Cloud-based molecular simulations for everyone |
-| [bioemu](https://github.com/microsoft/bioemu) |  emulation of protein equilibrium ensembles  (see also this [this notebook](https://colab.research.google.com/github/pablo-arantes/making-it-rain/blob/main/BioEmu_HPACKER.ipynb) from ["Make it rain"](https://github.com/pablo-arantes/making-it-rain) that combines bioemu + [H-Packer](https://github.com/gvisani/hpacker) for side-chain reconstruction)| 
-| [orb](https://github.com/orbital-materials/orb-models) | forcefield models from Orbital Materials |
-| [logMD](https://github.com/log-md/logmd) | visualize MD trajectories in colab |
-| []() |  |
-
-
-# Structure prediction (related)
-| Name | Description | 
-|-----------|-----------|
-| [PAE Viewer](https://gitlab.gwdg.de/general-microbiology/pae-viewer) |  view the PAE (predicted aligned error) of multimers, and integrates visualization of crosslink data (use the [webserver](https://subtiwiki.uni-goettingen.de/v4/paeViewerDemo)) |
-| [PyMOLfold](https://github.com/colbyford/PyMOLfold) | Plugin for folding sequences directly in PyMOL |
-| [AFsample2](https://github.com/iamysk/AFsample2/) |  induce significant conformational diversity for a given protein |
-| [alphafold3 tools](https://github.com/cddlab/alphafold3_tools) | Toolkit for input generation and output analysis |
-| [alphafold3](https://github.com/google-deepmind/alphafold3) | dude ... you can also use the [AF3 weberser](https://alphafoldserver.com/welcome).Se also the [High Throughput Solution to predict up-to 10s thousands of structures](https://github.com/GoogleCloudPlatform/cluster-toolkit/blob/cloudnext25/examples/science/af3-slurm/README.md) using the [google cloud services](https://blog.google/products/google-cloud/scientific-research-tools-ai/?utm_source=x&utm_medium=social&utm_campaign=&utm_content=#aimodels) |
-| [af3cli](https://github.com/SLx64/af3cli) | generating AlphaFold3 input files |
-| []() |  |
-
-
-
-# Generative AI with difussion-based models
-| Name | Description | 
-|-----------|-----------|
-| [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) |  structure generation, with or without conditional information |
-| [chroma](https://github.com/generatebio/chroma) | programmable protein design |
-| [protein_generator](https://github.com/RosettaCommons/protein_generator) | Joint sequence and structure generation with RoseTTAFold sequence space diffusion |
-| [RFdiffusion_all_atom](https://github.com/baker-laboratory/rf_diffusion_all_atom) | RFdiffusion with all atom modeling |
-
-
-# Generative AI with language models
-| Name | Description | 
-|-----------|-----------|
-| [ZymCTRL](https://huggingface.co/AI4PD/ZymCTRL) | conditional language model for the generation of artificial functional enzymes |
-| [REXzyme_aa](https://huggingface.co/AI4PD/REXzyme_aa) | generate sequences that are predicted to perform their intended reactions |
-| [ProGen2-finetuning](https://github.com/hugohrban/ProGen2-finetuning) | Finetuning ProGen2 for generation of sequences from selected families |
-| [Evolla](https://github.com/westlake-repl/Evolla) | chat interface to talk about a protein using information from it sequence, structure and function (i.e. ChatGPT for proteins)|
-| [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | Text-guided protein design |
-| []() |  |
-
-# Protein engineering
+# protein engineering
 | Name | Description | 
 |-----------|-----------|
 | [biotite](https://www.biotite-python.org/latest/) | sequence and structure manipulation and analysis |
@@ -184,8 +170,32 @@
 | []() |  |
 
 
+# generative AI with difussion models
+| Name | Description | 
+|-----------|-----------|
+| [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) |  structure generation, with or without conditional information |
+| [chroma](https://github.com/generatebio/chroma) | programmable protein design |
+| [protein_generator](https://github.com/RosettaCommons/protein_generator) | Joint sequence and structure generation with RoseTTAFold sequence space diffusion |
+| [RFdiffusion_all_atom](https://github.com/baker-laboratory/rf_diffusion_all_atom) | RFdiffusion with all atom modeling |
 
-# For molecules
+# generative AI with LLM
+| Name | Description | 
+|-----------|-----------|
+| [ZymCTRL](https://huggingface.co/AI4PD/ZymCTRL) | conditional language model for the generation of artificial functional enzymes |
+| [REXzyme_aa](https://huggingface.co/AI4PD/REXzyme_aa) | generate sequences that are predicted to perform their intended reactions |
+| [ProGen2-finetuning](https://github.com/hugohrban/ProGen2-finetuning) | Finetuning ProGen2 for generation of sequences from selected families |
+| [Evolla](https://github.com/westlake-repl/Evolla) | chat interface to talk about a protein using information from it sequence, structure and function (i.e. ChatGPT for proteins)|
+| [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | Text-guided protein design |
+| []() |  |
+
+
+# docking (ligands and proteins)
+| Name | Description | 
+|-----------|-----------|
+| [HiQBind](https://github.com/THGLab/HiQBind) | Workflow to clean up and fix structural problems in protein-ligand binding datasets |
+| []() |  |
+
+# molecules
 | Name | Description | 
 |-----------|-----------| 
 | [PDBe CCDUtils](https://pdbeurope.github.io/ccdutils/index.html)  | tools to deal with PDB chemical components and visualization ([see also](https://github.com/PDBeurope/pdbe-notebooks/tree/main/pdbe_ligands_tutorials))|
@@ -198,8 +208,7 @@
 | [useful_rdkit_utils](https://github.com/PatWalters/useful_rdkit_utils) | A collection of useful RDKit and sci-kit learn functions |
 | []() |  |
 
-
-# For machine learning
+# machine learning
 | Name | Description | 
 |-----------|-----------| 
 | [Colab forms](https://colab.research.google.com/notebooks/forms.ipynb) | how to convert a colab notebook to a user interface |
@@ -224,7 +233,6 @@
 | [skorch](https://github.com/skorch-dev/skorch) | train PyTorch models in a way similar to Scikit-learn (eg. No need to manually write a training loop, just using fit(), predict(), score()) |
 | []() |  |
 
-
 # statistics
 | Name | Description | 
 |-----------|-----------| 
@@ -237,8 +245,7 @@
 | []() |  |
 
 
-
-# Data viz for bio
+# datavis for bio
 | Name | Description | 
 |-----------|-----------| 
 | [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) | Toolbox for molecular animations in Blender |
@@ -260,9 +267,22 @@
 | [FlatProt](https://github.com/t03i/FlatProt) | 2D protein visualization aimed at improving the comparability of structures  |
 | []() |  |
 
+# datavis
+| Name | Description | 
+|-----------|-----------| 
+| [datamapplot](https://github.com/TutteInstitute/datamapplot) | creating beautiful, interactive and massive scatterplots |
+| [pypalettes](https://github.com/JosephBARBIERDARNAL/pypalettes) | +2500 color maps  |
+| [distinctipy ](https://github.com/alan-turing-institute/distinctipy) |  generating visually distinct colours |
+| [Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) | set of tools (like [NN-SVG](https://alexlenail.me/NN-SVG/LeNet.html)) to plot neural nets |
+| [tidyplots](https://jbengler.github.io/tidyplots/index.html) | creation of publication-ready plots for scientific papers |
+| [pyCirclize](https://github.com/moshi4/pyCirclize) | Circular visualization in Python (Circos Plot, Chord Diagram, Radar Chart)  |
+| [pycircular](https://github.com/albahnsen/pycircular) | circular data analysis |
+| [great-table](https://github.com/posit-dev/great-tables) |  display tables |
+| [plottable](https://github.com/znstrider/plottable) | plotting beautifully customized, presentation ready tables |
+| []() |  |
 
 
-# Webservers 
+# webservers
 | Web | Description | 
 |-----------|-----------| 
 | [ProteInfer](https://google-research.github.io/proteinfer/) | predicting functional properties from sequences |
@@ -282,23 +302,8 @@
 | [AI in Biology Demos]( https://huggingface.co/collections/hf4h/ai-in-biology-demos-65007d936a230e55a66cd31e) | applications of AI in biology and biochemistry |
 | []() |  |
 
-
-# Data Viz
-| Name | Description | 
-|-----------|-----------| 
-| [datamapplot](https://github.com/TutteInstitute/datamapplot) | creating beautiful, interactive and massive scatterplots |
-| [pypalettes](https://github.com/JosephBARBIERDARNAL/pypalettes) | +2500 color maps  |
-| [distinctipy ](https://github.com/alan-turing-institute/distinctipy) |  generating visually distinct colours |
-| [Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) | set of tools (like [NN-SVG](https://alexlenail.me/NN-SVG/LeNet.html)) to plot neural nets |
-| [tidyplots](https://jbengler.github.io/tidyplots/index.html) | creation of publication-ready plots for scientific papers |
-| [pyCirclize](https://github.com/moshi4/pyCirclize) | Circular visualization in Python (Circos Plot, Chord Diagram, Radar Chart)  |
-| [pycircular](https://github.com/albahnsen/pycircular) | circular data analysis |
-| [great-table](https://github.com/posit-dev/great-tables) |  display tables |
-| [plottable](https://github.com/znstrider/plottable) | plotting beautifully customized, presentation ready tables |
-| []() |  |
-
-# ChatBots and others
-| Tema | 
+# chatbots and agents
+| Name | 
 |-----------|
 | [ChatGPT](https://chat.openai.com/) |
 | [Gemini](https://gemini.google.com/) |
@@ -315,3 +320,5 @@
 | [AI Python Libraries](https://www.aipythonlibraries.com/libraries/) | 
 | [paperfinder](https://paperfinder.allen.ai/chat) | 
 | [AI Scientist agents by futurehouse](https://platform.futurehouse.org/) |
+
+
