@@ -48,8 +48,8 @@
 | [BLAST tutorial](https://vinuesa.github.io/TIB-filoinfo/sesion3_BLAST/)| Running and parsing BLAST+ using the Linux command line |
 | [Guide to Spherical Equivariant Graph Transformers](https://alchemybio.substack.com/p/spherical-equivariant-graph-transformer)| spherical equivariant graph neural network and SE(3)-Transformer |
 | [Structural Bioinformatics Course 2023](https://structural-bioinformatics.netlify.app/)| from ML basics to protein desing based on AI |
+| [TomoGuide ](https://tomoguide.github.io/)| overview of cryo-ET technique and data processing |
 | []()| |
-
 
 # Machine/deep learning courses
 | Name | Description | 
