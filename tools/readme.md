@@ -1,11 +1,7 @@
 # Content list
-- [protein sequences](./tools/protein_sequences)
-- [Tools](./tools)
-- [Databases](./databases)
-- [Selected_papers](./selected_papers)
-- [Learning resources](./learning_resources)
-- [Youtube](./youtube)
-- [Slides](./slides)
+
+- [protein sequences](#For-protein-sequences)
+- [protein structures](#For-protein-structures)
 
 
 # For protein sequences
@@ -110,8 +106,8 @@
 # Protein-ligand protein-protein interactions (and docking)
 | Name | Description | 
 |-----------|-----------|
+| [HiQBind](https://github.com/THGLab/HiQBind) | Workflow to clean up and fix structural problems in protein-ligand binding datasets |
 | []() |  |
-
 
 # Molecular dynamics (related)
 | Name | Description | 
