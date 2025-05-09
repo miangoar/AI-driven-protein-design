@@ -40,8 +40,8 @@ Tools for:
 | [pyfastx](https://github.com/lmdu/pyfastx) | fast random access to sequences from plain and gzipped FASTA/Q files |
 | [DeepMSA](https://zhanggroup.org/DeepMSA/) |  a hierarchical approach to create high-quality multiple sequence alignments |
 | [NEFFy](https://github.com/Maryam-Haghani/NEFFy) | calculating the Normalized Effective Number of Sequences (neff) for protein/nt MSAs. Also for format conversion |
+| [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) | a MSA-trimming algorithm for accurate phylogenomic inference |
 | []() |  |
-
 
 # structures
 | Name | Description | 
