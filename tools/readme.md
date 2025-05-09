@@ -306,6 +306,9 @@ Tools for:
 | [moleculatio](https://moleculatio.yamlab.app) | chemoinformatics, quantum chemistry and molecular dynamics simulations or small molecules |
 | [AI in Biology Demos]( https://huggingface.co/collections/hf4h/ai-in-biology-demos-65007d936a230e55a66cd31e) | applications of AI in biology and biochemistry |
 | [ProteinsPlus](https://proteins.plus/) | structure mining and modeling, focussing on protein-ligand interactions |
+| [gtalign](https://bioinformatics.lt/comer/gtalign/) | High-performance search and alignment for protein structures |
+| []() |  |
+
 
 # chatbots and agents
 | Name | 
