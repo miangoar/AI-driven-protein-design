@@ -49,7 +49,7 @@
 | [Guide to Spherical Equivariant Graph Transformers](https://alchemybio.substack.com/p/spherical-equivariant-graph-transformer)| spherical equivariant graph neural network and SE(3)-Transformer |
 | [Structural Bioinformatics Course 2023](https://structural-bioinformatics.netlify.app/)| from ML basics to protein desing based on AI |
 | [TomoGuide ](https://tomoguide.github.io/)| overview of cryo-ET technique and data processing |
-| []()| |
+| [Modeling proteins using AlphaFold and ColabFold](https://docs.google.com/document/d/1_g1_M-I40CqOQc5obwAt08YntC5D2Z_WNz6mYuUQtyc/edit?tab=t.0#heading=h.m7ei2f72v2ig)| colabfold tutorial |
 
 # Machine/deep learning courses
 | Name | Description | 
