@@ -267,6 +267,7 @@ Tools for:
 | [Mol* at RCSB/PDB](https://onlinelibrary.wiley.com/doi/10.1002/pro.70093) |  web-based, 3D visualization software suite for examination and analyses of biostructures |
 | [PoseEdit](https://proteins.plus/) | interactive 2D ligand interaction diagrams (see this [tutorial](https://www.youtube.com/watch?v=8W1TvSvatSA&ab_channel=BioinformaticsInsights)) |
 | [FlatProt](https://github.com/t03i/FlatProt) | 2D protein visualization aimed at improving the comparability of structures  |
+| [quarto-molstar](https://github.com/jmbuhr/quarto-molstar) | embed proteins and trajectories with Mol* |
 | []() |  |
 
 # datavis
