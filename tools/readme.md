@@ -195,7 +195,10 @@ Tools for:
 | Name | Description | 
 |-----------|-----------|
 | [HiQBind](https://github.com/THGLab/HiQBind) | Workflow to clean up and fix structural problems in protein-ligand binding datasets |
+| [InterfaceAnalyzerMover](https://docs.rosettacommons.org/docs/latest/scripting_documentation/RosettaScripts/Movers/movers_pages/analysis/InterfaceAnalyzerMover) | Calculate binding energies, buried interface surface areas, packing statistics, and other useful interface metrics for the evaluation of protein interfaces |
 | []() |  |
+
+
 
 # molecules
 | Name | Description | 
