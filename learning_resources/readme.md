@@ -50,6 +50,9 @@
 | [Structural Bioinformatics Course 2023](https://structural-bioinformatics.netlify.app/)| from ML basics to protein desing based on AI |
 | [TomoGuide ](https://tomoguide.github.io/)| overview of cryo-ET technique and data processing |
 | [Modeling proteins using AlphaFold and ColabFold](https://docs.google.com/document/d/1_g1_M-I40CqOQc5obwAt08YntC5D2Z_WNz6mYuUQtyc/edit?tab=t.0#heading=h.m7ei2f72v2ig)| colabfold tutorial |
+| [Bio Data Zoo](https://github.com/omgenomics/bio-data-zoo)| Example genomics data for tool developers |
+
+
 
 # Machine/deep learning courses
 | Name | Description | 
