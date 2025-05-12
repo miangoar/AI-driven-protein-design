@@ -287,8 +287,8 @@ Tools for:
 | [pycircular](https://github.com/albahnsen/pycircular) | circular data analysis |
 | [great-table](https://github.com/posit-dev/great-tables) |  display tables |
 | [plottable](https://github.com/znstrider/plottable) | plotting beautifully customized, presentation ready tables |
+| [d3blocks](https://github.com/d3blocks/d3blocks) | create stand-alone and interactive d3 charts |
 | []() |  |
-
 
 # webservers
 | Web | Description | 
