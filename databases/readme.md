@@ -18,8 +18,8 @@
 | [MD Repo](https://mdrepo.org/) | MD simulations for proteins, with or without ligands  |
 | [OpenProteinSet](https://registry.opendata.aws/openfold/) |  >16 million MSAs with their associated structural homologs from the PDB, and AF2 protein structure predictions |
 | [PlasmidScope](https://plasmid.deepomics.org/) |   852,600 plasmid sequences with annotations and structures |
+| [Logan](https://github.com/IndexThePlanet/Logan) | a dataset of DNA and RNA sequences derived from NCBI-SRA which contains 50 petabases of public raw data  |
 | []() |   |
-
 
 # Structural Databases
 | Repo | Descripcion | 
