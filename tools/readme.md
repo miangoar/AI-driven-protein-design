@@ -91,6 +91,7 @@ Tools for:
 | [peppr](https://github.com/aivant/peppr) | a package for evaluation of predicted poses like RMSD, TM-score, lDDT, lDDT-PLI, fnat, iRMSD, LRMSD, DockQ  |
 | [InteracTor](https://github.com/Dias-Lab/InteracTor) |  structure analysis and conversion, allowing the extraction of interactions such as hydrogen bonds, van der Waals interactions, hydrophobic contacts, and surface tension |
 | [unicore](https://github.com/steineggerlab/unicore) | core gene phylogeny with Foldseek and ProstT5 (i.e. 3Di alphabet) |
+| [PAthreader and FoldPAthreader](https://github.com/iobio-zjut/PAthreader/tree/main/PAthreader_main) | Remote homologous template recognition and protein folding pathway prediction (see also [the webserver](http://zhanglab-bioinf.com/PAthreader/)) |
 | []() |  |
 
 # structure prediction
