@@ -38,8 +38,8 @@
 | [revenant](https://revenant.inf.pucp.edu.pe/) | resurrected proteins structures |
 | [pdbtm](https://pdbtm.unitmp.org/) | transmembrane protein selection of the PDB  |
 | [afesm](https://afesm.steineggerlab.workers.dev/) |  ~820M structural predictions annotated with biome, taxonomy, domains, etc |
+| [ATLAS](https://www.dsimb.inserm.fr/ATLAS) | >190 standardized molecular dynamics simulations of protein structures  |
 | []() |   |
-
 
 # Sequence classiication 
 | Repo | Descripcion | 
