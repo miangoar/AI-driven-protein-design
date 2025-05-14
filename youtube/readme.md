@@ -75,6 +75,7 @@
 | Let's build GPT: from scratch, in code, spelled out | introduction to GPT models   | https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy | 
 |  |    |  | 
 
+https://www.youtube.com/watch?v=smjYJSudwr0&ab_channel=BostonProteinDesignandModelingClub
 https://www.youtube.com/watch?v=bMXqnLiVgLk
 https://nazimbouatta.scholars.harvard.edu/lectures
 https://www.youtube.com/watch?v=e9-0BxyKG10&ab_channel=ProfessorBryce
