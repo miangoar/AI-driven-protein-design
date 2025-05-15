@@ -19,6 +19,8 @@
 | [OpenProteinSet](https://registry.opendata.aws/openfold/) |  >16 million MSAs with their associated structural homologs from the PDB, and AF2 protein structure predictions |
 | [PlasmidScope](https://plasmid.deepomics.org/) |   852,600 plasmid sequences with annotations and structures |
 | [Logan](https://github.com/IndexThePlanet/Logan) | a dataset of DNA and RNA sequences derived from NCBI-SRA which contains 50 petabases of public raw data  |
+| [annotree](http://annotree.uwaterloo.ca/annotree/) | >280M proteins from the GTDB with functional annotations  |
+| [annoview](http://annoview.uwaterloo.ca/annoview/) | genome visualization and exploration of gene neighborhoods  |
 | []() |   |
 
 # Structural Databases
