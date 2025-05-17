@@ -41,6 +41,7 @@
 | [pdbtm](https://pdbtm.unitmp.org/) | transmembrane protein selection of the PDB  |
 | [afesm](https://afesm.steineggerlab.workers.dev/) |  ~820M structural predictions annotated with biome, taxonomy, domains, etc |
 | [ATLAS](https://www.dsimb.inserm.fr/ATLAS) | >190 standardized molecular dynamics simulations of protein structures  |
+| [Viral AlphaFold Database (VAD)](https://data-sharing.atkinson-lab.com/vad/) | ~27,000 representative viral proteins modeled with AlphaFold2  |
 | []() |   |
 
 # Sequence classiication 
