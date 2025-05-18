@@ -42,8 +42,8 @@
 | [vcubingx](https://www.youtube.com/@vcubingx) |
 | [Machine Learning in Computational Biology](https://www.youtube.com/@mlcbconf/featured) |
 | [topicosnucleicos4499](https://www.youtube.com/@topicosnucleicos4499) |
+| [Bioinformaticsinsights](https://www.youtube.com/@Bioinformaticsinsights) |
 | []() |
-
 
 # Videos recomendados
 | Tema | Descripcion | Link a Youtube|
