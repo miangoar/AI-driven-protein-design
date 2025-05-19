@@ -93,7 +93,7 @@ Tools for:
 | [unicore](https://github.com/steineggerlab/unicore) | core gene phylogeny with Foldseek and ProstT5 (i.e. 3Di alphabet) |
 | [PAthreader and FoldPAthreader](https://github.com/iobio-zjut/PAthreader/tree/main/PAthreader_main) | PAthreader improve AF2 template selection by looking remote homologous in PDB/AFDB and FoldPAthreader predict the folding pathway  (see also [the webserver](http://zhanglab-bioinf.com/PAthreader/))  |
 | [SoftAlign](https://github.com/jtrinquier/SoftAlign) | compare 3D protein structures |
-| [SCHEMA-RASPP](https://github.com/mattasmith/SCHEMA-RASPP) | structure-guided protein recombination (download and check the file [`schema-tools-doc.html`](https://github.com/mattasmith/SCHEMA-RASPP/blob/master/schema-tools-doc.html)) for documentation|
+| [SCHEMA-RASPP](https://github.com/mattasmith/SCHEMA-RASPP) | structure-guided protein recombination (download and check the file [`schema-tools-doc.html`](https://github.com/mattasmith/SCHEMA-RASPP/blob/master/schema-tools-doc.html) for documentation)|
 
 
 # structure prediction
