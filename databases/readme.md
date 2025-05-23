@@ -44,7 +44,7 @@
 | [Viral AlphaFold Database (VAD)](https://data-sharing.atkinson-lab.com/vad/) | ~27,000 representative viral proteins modeled with AlphaFold2  |
 | [ViralZone](https://www.nature.com/articles/s41586-024-07809-y#data-availability) | 67,715 eukaryotic virus proteins modeled with AlphaFold2 |
 | [fuzzle](https://fuzzle.uni-bayreuth.de:8443/) | evolutionary related protein fragments with ligand infromation |
-| []() |   |
+| [TED: The Encyclopedia of Domains](https://ted.cathdb.info/data) | 365 million domains from AFDB  |
 
 # Sequence classiication 
 | Repo | Descripcion | 
