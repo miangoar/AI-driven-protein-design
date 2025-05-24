@@ -75,6 +75,8 @@
 | [ Flow Matching Guide and Code](https://arxiv.org/abs/2412.06264)| comprehensive and self-contained review of Flow Matching (i.e. the basis for difussion models)|
 | [Dummy's Guide to Modern LLM Sampling](https://rentry.org/samplers)| Tokenizers and LLM inference |
 | [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)| up-to-date overview of the field of (deep) reinforcement learning and sequential decision making |
+| [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs](https://arxiv.org/abs/2408.13296)| from LoRA to reinforcement learning |
+| []()| |
 
 
 # Math courses
