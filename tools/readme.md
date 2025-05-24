@@ -195,9 +195,8 @@ Tools for:
 | [ZymCTRL](https://huggingface.co/AI4PD/ZymCTRL) | conditional language model for the generation of artificial functional enzymes |
 | [REXzyme_aa](https://huggingface.co/AI4PD/REXzyme_aa) | generate sequences that are predicted to perform their intended reactions |
 | [ProGen2-finetuning](https://github.com/hugohrban/ProGen2-finetuning) | Finetuning ProGen2 for generation of sequences from selected families |
-| [Evolla](https://github.com/westlake-repl/Evolla) | chat interface to talk about a protein using information from it sequence, structure and function (i.e. ChatGPT for proteins)|
 | [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | Text-guided protein design |
-| [Evolla](https://github.com/westlake-repl/Evolla) | chat about the function of a protein using its sequence and structure  (see also the [webserver using the 10B param. version of the model](http://www.chat-protein.com/)) |
+| [Evolla](https://github.com/westlake-repl/Evolla) | chat about the function of a protein using its sequence and structure  (i.e. ChatGPT for proteins; see also the [webserver using the 10B param. version of the model](http://www.chat-protein.com/)) |
 | []() |  |
 
 # docking (ligands and proteins)
