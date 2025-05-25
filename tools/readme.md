@@ -99,7 +99,7 @@ Tools for:
 | [ProteinTools ](https://proteintools.uni-bayreuth.de/) | Analyze Hydrophobic Clusters, Hydrogen Bond Networks, Contact maps, Salt Bridges and Charge Segregation |
 | [ProtLego](https://hoecker-lab.github.io/protlego/) | constructing protein chimeras and its structural analysis |
 | [reseek](https://github.com/rcedgar/reseek) | structure alignment and search algorithm |
-
+| []() |  |
 
 
 # structure prediction
@@ -112,8 +112,8 @@ Tools for:
 | [alphafold3](https://github.com/google-deepmind/alphafold3) | dude ... you can also use the [AF3 weberser](https://alphafoldserver.com/welcome).Se also the [High Throughput Solution to predict up-to 10s thousands of structures](https://github.com/GoogleCloudPlatform/cluster-toolkit/blob/cloudnext25/examples/science/af3-slurm/README.md) using the [google cloud services](https://blog.google/products/google-cloud/scientific-research-tools-ai/?utm_source=x&utm_medium=social&utm_campaign=&utm_content=#aimodels) |
 | [af3cli](https://github.com/SLx64/af3cli) | generating AlphaFold3 input files |
 | [AFDB Structure Extractor](https://project.iith.ac.in/sharmaglab/alphafoldextractor/index.html) | download structures using AF IDs, Uniprot IDs, Locus tags, RefSeq Protein IDs and NCBI TaxIDs |
+| [RareFold](https://github.com/patrickbryant1/RareFold) | Structure prediction and design of proteins with 29 noncanonical amino acids |
 | []() |  |
-
 
 # molecular dynamics
 | Name | Description | 
