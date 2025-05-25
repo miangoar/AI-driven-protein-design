@@ -51,7 +51,8 @@
 | [TomoGuide ](https://tomoguide.github.io/)| overview of cryo-ET technique and data processing |
 | [Modeling proteins using AlphaFold and ColabFold](https://docs.google.com/document/d/1_g1_M-I40CqOQc5obwAt08YntC5D2Z_WNz6mYuUQtyc/edit?tab=t.0#heading=h.m7ei2f72v2ig)| colabfold tutorial |
 | [Bio Data Zoo](https://github.com/omgenomics/bio-data-zoo)| Example genomics data for tool developers |
-
+| [PDB learn](https://pdb101.rcsb.org/learn/exploring-the-structural-biology-of-evolution)| Exploring the Structural Biology of Bioenergy, Structural Biology of Evolution, Structural Biology of Viruses etc |
+| []()| |
 
 
 # Machine/deep learning courses
