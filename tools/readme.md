@@ -247,7 +247,6 @@ Tools for:
 | [Faiss](https://github.com/facebookresearch/faiss) | efficient similarity search and clustering of dense vectors |
 | []() |  |
 
-
 # statistics
 | Name | Description | 
 |-----------|-----------| 
@@ -257,6 +256,7 @@ Tools for:
 | [ggbetweenstats](https://indrajeetpatil.github.io/ggstatsplot/articles/web_only/ggbetweenstats.html) | making publication-ready plots with relevant statistical details |
 | [statsmodels](https://www.statsmodels.org/stable/index.html) | classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration |
 | [pingouin](https://pingouin-stats.org/build/html/index.html#) | Statistical package |
+| [performance](https://github.com/easystats/performance) | computing indices of regression model quality and goodness of fit  |
 | []() |  |
 
 
