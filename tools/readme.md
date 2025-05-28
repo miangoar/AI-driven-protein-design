@@ -284,7 +284,9 @@ Tools for:
 | [quarto-molstar](https://github.com/jmbuhr/quarto-molstar) | embed proteins and trajectories with Mol* |
 | [alphabridge](https://alpha-bridge.eu/) | summarise predicted interfaces and intermolecular interactions |
 | [weblogo](https://weblogo.threeplusone.com/) |  generation of sequence logos |
+| [interprot](https://interprot.com/#/) | inspect relevant features derived from protein language models in a particular protein |
 | []() |  |
+
 
 # datavis
 | Name | Description | 
