@@ -21,7 +21,9 @@
 | [Logan](https://github.com/IndexThePlanet/Logan) | a dataset of DNA and RNA sequences derived from NCBI-SRA which contains 50 petabases of public raw data  |
 | [annotree](http://annotree.uwaterloo.ca/annotree/) | >280M proteins from the GTDB with functional annotations  |
 | [annoview](http://annoview.uwaterloo.ca/annoview/) | genome visualization and exploration of gene neighborhoods  |
+| [gbrap](http://tacclab.org/gbrap/) | carefully curated, high-quality genome statistics for all the organisms available in the RefSeq containing more than 200 columns of useful genomic information (Base counts, GC content, Shannon Entropy, Codon Usage etc.)  |
 | []() |   |
+
 
 # Structural Databases
 | Repo | Descripcion | 
@@ -45,6 +47,7 @@
 | [ViralZone](https://www.nature.com/articles/s41586-024-07809-y#data-availability) | 67,715 eukaryotic virus proteins modeled with AlphaFold2 |
 | [fuzzle](https://fuzzle.uni-bayreuth.de:8443/) | evolutionary related protein fragments with ligand infromation |
 | [TED: The Encyclopedia of Domains](https://ted.cathdb.info/data) | 365 million domains from AFDB  |
+| []() |   |
 
 # Sequence classiication 
 | Repo | Descripcion | 
