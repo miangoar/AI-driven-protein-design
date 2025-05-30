@@ -105,6 +105,7 @@
 | [Bash/Linux](https://vinuesa.github.io/intro2linux/index.html) | |
 | [Python for Data Analysis](https://wesmckinney.com/book/)| Data Wrangling with pandas, NumPy, and Jupyter |
 | [algorithmica](https://en.algorithmica.org/)| introduction to high performance computing |
+| [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/)| Become comfortable with key concepts in GPU programming |
 
 
 # Data viz
