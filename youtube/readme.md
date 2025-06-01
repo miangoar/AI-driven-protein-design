@@ -17,6 +17,7 @@
 | [WelchLabs](https://www.youtube.com/@WelchLabsVideo) |
 | [jbhuang0604](https://www.youtube.com/@jbhuang0604) |
 | [umarjamilai](https://www.youtube.com/@umarjamilai) |
+| [juliaturc1](https://www.youtube.com/@juliaturc1) |
 
 
 # Youtube channels for Mathematics 
