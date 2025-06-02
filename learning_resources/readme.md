@@ -18,9 +18,8 @@
 | [Developer Roadmaps](https://roadmap.sh/) | roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings |
 | [ML Code Challenges](https://www.deep-ml.com/) | code practices about machine and deep learning |
 | [ The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) | tal cual |
+| [DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)| interactive dashboards for learning data science (e.g. PCA, random forest, etc.) |
 | []()| |
-
-
 
 # Bioinformatics courses
 | Name | Description | 
