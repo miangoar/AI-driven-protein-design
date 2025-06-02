@@ -19,7 +19,7 @@
 | [ML Code Challenges](https://www.deep-ml.com/) | code practices about machine and deep learning |
 | [ The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) | tal cual |
 | [DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)| interactive dashboards for learning data science (e.g. PCA, random forest, etc.) |
-| []()| |
+| [illustrated-glossary.nejm.](https://illustrated-glossary.nejm.org/)| glossary for biomedical research |
 
 # Bioinformatics courses
 | Name | Description | 
