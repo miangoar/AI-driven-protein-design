@@ -113,7 +113,9 @@ Tools for:
 | [af3cli](https://github.com/SLx64/af3cli) | generating AlphaFold3 input files |
 | [AFDB Structure Extractor](https://project.iith.ac.in/sharmaglab/alphafoldextractor/index.html) | download structures using AF IDs, Uniprot IDs, Locus tags, RefSeq Protein IDs and NCBI TaxIDs |
 | [RareFold](https://github.com/patrickbryant1/RareFold) | Structure prediction and design of proteins with 29 noncanonical amino acids |
+| [AFusion](https://github.com/Hanziwww/AlphaFold3-GUI) | GUI & Toolkit with Visualization to AF3 |
 | []() |  |
+
 
 # molecular dynamics
 | Name | Description | 
