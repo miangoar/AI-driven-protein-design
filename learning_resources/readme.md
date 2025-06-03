@@ -20,6 +20,8 @@
 | [ The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) | tal cual |
 | [DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)| interactive dashboards for learning data science (e.g. PCA, random forest, etc.) |
 | [illustrated-glossary.nejm.](https://illustrated-glossary.nejm.org/)| glossary for biomedical research |
+| [Python Tutor](https://pythontutor.com/)| step-by-step visual debugger and AI tutor to help you understand and debug code |
+| []()| |
 
 # Bioinformatics courses
 | Name | Description | 
@@ -124,6 +126,8 @@
 | [Best practices for presenting and sharing AlphaFold models in a paper](https://australian-structural-biology-computing.github.io/website/best-practices-alphafold) |
 | [r psychologist](https://rpsychologist.com/viz) |
 | []() |
+
+
 
 # Blogs 
 | Tema | 
