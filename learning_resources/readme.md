@@ -32,6 +32,7 @@
 | [AlphaFold 3 Overview](https://alphafoldserver.com/guides) | |
 | [AlphaFold. A practical guide](https://www.ebi.ac.uk/training/online/courses/alphafold/) | | 
 | [AlphaFold Decoded](https://www.youtube.com/watch?v=NSvp7RFegEs&list=PLJ0WcPQS7xJVJr6ceIPFSkAGAgrkmw1c9&ab_channel=AlphaFoldDecoded) and the [iGEM proyect](https://2024.igem.wiki/aachen/education) | |
+| [AlphaFold Education Summit](https://www.ebi.ac.uk/training/materials/alphafold-education-summit-materials/)| |
 | [rosettaworkshop 2024](https://meilerlab.org/rosetta-workshop-2024/) | |
 | [How to Create a Protein](https://github.com/universvm/how_to_create_a_protein) | | 
 | [PyRosetta](https://rosettacommons.github.io/PyRosetta.notebooks/), [Youtube playlist](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) and the [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8813091/) | |
