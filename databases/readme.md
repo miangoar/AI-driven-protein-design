@@ -47,7 +47,9 @@
 | [ViralZone](https://www.nature.com/articles/s41586-024-07809-y#data-availability) | 67,715 eukaryotic virus proteins modeled with AlphaFold2 |
 | [fuzzle](https://fuzzle.uni-bayreuth.de:8443/) | evolutionary related protein fragments with ligand infromation |
 | [TED: The Encyclopedia of Domains](https://ted.cathdb.info/data) | 365 million domains from AFDB  |
+| [unisite](https://github.com/quanlin-wu/unisite) | Cross-Structure Dataset and Learning Framework for End-to-End Ligand Binding Site Detection  |
 | []() |   |
+
 
 # Sequence classiication 
 | Repo | Descripcion | 
@@ -74,6 +76,8 @@
 | [Protein Dimension DB](https://github.com/pentalpha/protein_dimension_db) | Datasets with PLM embeddings, GO annotations and taxonomy representations for all proteins in Uniprot/Swiss-Prot  |
 | [Protein Embeddings](https://www.uniprot.org/help/embeddings) | per-protein and per-residue embeddings using the ProtT5 model for UniProtKB/Swiss-Prot |
 | []() |   |
+
+
 
 # Benchmarks
 | Repo | Descripcion | 
