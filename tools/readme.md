@@ -44,6 +44,17 @@ Tools for:
 | [PLMAlign](https://github.com/maovshao/PLMAlign) | utilizes per-residue embeddings as input to obtain specific alignments and more refined similarity |
 | []() |  |
 
+# Homology search
+| Name | Description | 
+|-----------|-----------|
+| []() |  |
+
+
+# Download data and metadata
+| Name | Description | 
+|-----------|-----------|
+| []() |  |
+
 
 # structures
 | Name | Description | 
@@ -124,6 +135,7 @@ Tools for:
 
 # Sequence generation
 | Name | Description | 
+|-----------|-----------|
 | [ZymCTRL](https://huggingface.co/AI4PD/ZymCTRL) | conditional language model for the generation of artificial functional enzymes |
 | [REXzyme_aa](https://huggingface.co/AI4PD/REXzyme_aa) | generate sequences that are predicted to perform their intended reactions |
 | [ProGen2-finetuning](https://github.com/hugohrban/ProGen2-finetuning) | Finetuning ProGen2 for generation of sequences from selected families |
