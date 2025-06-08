@@ -131,7 +131,9 @@ Tools for:
 | [AFDB Structure Extractor](https://project.iith.ac.in/sharmaglab/alphafoldextractor/index.html) | download structures using AF IDs, Uniprot IDs, Locus tags, RefSeq Protein IDs and NCBI TaxIDs |
 | [RareFold](https://github.com/patrickbryant1/RareFold) | Structure prediction and design of proteins with 29 noncanonical amino acids |
 | [AFusion](https://github.com/Hanziwww/AlphaFold3-GUI) | GUI & Toolkit with Visualization to AF3 |
+| [BoltzDesign1](https://github.com/yehlincho/BoltzDesign1) |  designing protein-protein interactions and biomolecular complexes |
 | []() |  |
+
 
 # Sequence generation
 | Name | Description | 
