@@ -101,6 +101,12 @@ Tools for:
 | [reseek](https://github.com/rcedgar/reseek) | structure alignment and search algorithm |
 | []() |  |
 
+# Phylogeny
+| Name | Description | 
+|-----------|-----------|
+| [automlst2](https://automlst2.ziemertlab.com/index) | automatic generation of species phylogeny with reference organisms |
+| []() |  |
+
 
 # structure prediction
 | Name | Description | 
@@ -114,6 +120,36 @@ Tools for:
 | [AFDB Structure Extractor](https://project.iith.ac.in/sharmaglab/alphafoldextractor/index.html) | download structures using AF IDs, Uniprot IDs, Locus tags, RefSeq Protein IDs and NCBI TaxIDs |
 | [RareFold](https://github.com/patrickbryant1/RareFold) | Structure prediction and design of proteins with 29 noncanonical amino acids |
 | [AFusion](https://github.com/Hanziwww/AlphaFold3-GUI) | GUI & Toolkit with Visualization to AF3 |
+| []() |  |
+
+# Sequence generation
+| Name | Description | 
+| [ZymCTRL](https://huggingface.co/AI4PD/ZymCTRL) | conditional language model for the generation of artificial functional enzymes |
+| [REXzyme_aa](https://huggingface.co/AI4PD/REXzyme_aa) | generate sequences that are predicted to perform their intended reactions |
+| [ProGen2-finetuning](https://github.com/hugohrban/ProGen2-finetuning) | Finetuning ProGen2 for generation of sequences from selected families |
+| [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | Text-guided protein design |
+| [Evolla](https://github.com/westlake-repl/Evolla) | chat about the function of a protein using its sequence and structure  (i.e. ChatGPT for proteins; see also the [webserver using the 10B param. version of the model](http://www.chat-protein.com/)) |
+| []() |  |
+
+
+# Structure generation
+| Name | Description | 
+|-----------|-----------|
+| [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) |  structure generation, with or without conditional information |
+| [chroma](https://github.com/generatebio/chroma) | programmable protein design |
+| [protein_generator](https://github.com/RosettaCommons/protein_generator) | Joint sequence and structure generation with RoseTTAFold sequence space diffusion |
+| [RFdiffusion_all_atom](https://github.com/baker-laboratory/rf_diffusion_all_atom) | RFdiffusion with all atom modeling |
+| [salad](https://github.com/mjendrusch/salad) | structure generation with sparse all-atom denoising models |
+| []() |  |
+
+# Inverse folding
+| Name | Description | 
+|-----------|-----------|
+| []() |  |
+
+# Sequence-structure co-generation
+| Name | Description | 
+|-----------|-----------|
 | []() |  |
 
 
@@ -183,24 +219,9 @@ Tools for:
 | []() |  |
 
 
-# generative AI with difussion models
-| Name | Description | 
-|-----------|-----------|
-| [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) |  structure generation, with or without conditional information |
-| [chroma](https://github.com/generatebio/chroma) | programmable protein design |
-| [protein_generator](https://github.com/RosettaCommons/protein_generator) | Joint sequence and structure generation with RoseTTAFold sequence space diffusion |
-| [RFdiffusion_all_atom](https://github.com/baker-laboratory/rf_diffusion_all_atom) | RFdiffusion with all atom modeling |
-| [salad](https://github.com/mjendrusch/salad) | structure generation with sparse all-atom denoising models |
 
-# generative AI with LLM
-| Name | Description | 
-|-----------|-----------|
-| [ZymCTRL](https://huggingface.co/AI4PD/ZymCTRL) | conditional language model for the generation of artificial functional enzymes |
-| [REXzyme_aa](https://huggingface.co/AI4PD/REXzyme_aa) | generate sequences that are predicted to perform their intended reactions |
-| [ProGen2-finetuning](https://github.com/hugohrban/ProGen2-finetuning) | Finetuning ProGen2 for generation of sequences from selected families |
-| [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | Text-guided protein design |
-| [Evolla](https://github.com/westlake-repl/Evolla) | chat about the function of a protein using its sequence and structure  (i.e. ChatGPT for proteins; see also the [webserver using the 10B param. version of the model](http://www.chat-protein.com/)) |
-| []() |  |
+
+
 
 # docking (ligands and proteins)
 | Name | Description | 
