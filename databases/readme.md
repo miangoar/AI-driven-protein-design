@@ -89,6 +89,7 @@
 | [proteingym](https://proteingym.org/) | comparing the ability of models to predict the effects of protein mutations  |
 | [MotifBench](https://github.com/blt2114/MotifBench) | motif-scaffolding problems  |
 | [posebusters](https://github.com/maabuu/posebusters) |  checks for generated molecule poses |
+| [PDBench](https://github.com/wells-wood-research/PDBench) | evaluating fixed-backbone sequence design algorithms  |
 | []() |   |
 
 https://harrisbio.substack.com/p/the-techbio-company-database
