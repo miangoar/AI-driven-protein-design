@@ -186,7 +186,7 @@ Tools for:
 # representation learning
 | Name | Description | 
 |-----------|-----------|
-| [FAESM](https://github.com/pengzhangzhi/faesm) | A Drop-in Efficient Pytorch Implementation of ESM | 
+| [FAESM](https://github.com/pengzhangzhi/faesm) | An Efficient Pytorch Implementation of ESM and ProGen PLM that can save up to 60% of memory usage and 70% of inference time | 
 | [ESM-Efficient](https://github.com/uci-cbcl/esm-efficient) | Efficient implementatin of ESM family | 
 | [ProtLearn](https://github.com/tadorfer/protlearn) | extracting protein sequence features |
 | [Pfeature](https://github.com/raghavagps/Pfeature) | computing features of peptides and proteins |
