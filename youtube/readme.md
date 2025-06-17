@@ -44,7 +44,7 @@
 | [Machine Learning in Computational Biology](https://www.youtube.com/@mlcbconf/featured) |
 | [topicosnucleicos4499](https://www.youtube.com/@topicosnucleicos4499) |
 | [Bioinformaticsinsights](https://www.youtube.com/@Bioinformaticsinsights) |
-| []() |
+| [ComputationalIntelligenceGroup](https://www.youtube.com/@ComputationalIntelligenceGroup/videos) |
 
 # Videos recomendados
 | Tema | Descripcion | Link a Youtube|
