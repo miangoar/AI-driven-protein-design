@@ -135,8 +135,8 @@ Tools for:
 | [AFusion](https://github.com/Hanziwww/AlphaFold3-GUI) | GUI & Toolkit with Visualization to AF3 |
 | [BoltzDesign1](https://github.com/yehlincho/BoltzDesign1) |  designing protein-protein interactions and biomolecular complexes |
 | [Hackable AlphaFold 3](https://github.com/chaitjo/alphafold3/) | a lightweight, hackable way to run AF3 to experiment without the massive MSA databases or Docker overhead |
+| [ABCFold](https://github.com/rigdenlab/ABCFold) | Scripts to run AlphaFold3, Boltz-1 and Chai-1 with MMseqs2 MSAs and custom templates  |
 | []() |  |
-
 
 # Sequence generation
 | Name | Description | 
