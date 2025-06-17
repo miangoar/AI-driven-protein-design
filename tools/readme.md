@@ -117,7 +117,9 @@ Tools for:
 |-----------|-----------|
 | [automlst2](https://automlst2.ziemertlab.com/index) | automatic generation of species phylogeny with reference organisms |
 | [unicore](https://github.com/steineggerlab/unicore) | Universal and efficient core gene phylogeny with Foldseek and ProstT5  |
+| [ugene](https://ugene.net/) | bioinformatic suite with graphic user interface |
 | []() |  |
+
 
 # structure prediction
 | Name | Description | 
