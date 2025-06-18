@@ -110,6 +110,7 @@ Tools for:
 | [ProteinTools ](https://proteintools.uni-bayreuth.de/) | Analyze Hydrophobic Clusters, Hydrogen Bond Networks, Contact maps, Salt Bridges and Charge Segregation |
 | [ProtLego](https://hoecker-lab.github.io/protlego/) | constructing protein chimeras and its structural analysis |
 | [reseek](https://github.com/rcedgar/reseek) | structure alignment and search algorithm |
+| [tmtools](https://github.com/jvkersch/tmtools) | Python bindings for the TM-align algorithm and code for protein structure comparison |
 | []() |  |
 
 # Phylogeny
