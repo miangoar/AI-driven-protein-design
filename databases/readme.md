@@ -6,7 +6,6 @@
 | [uniclust](https://gwdu111.gwdg.de/%7Ecompbiol/uniclust/2023_02/) | clustered uniprot - [paper](https://academic.oup.com/nar/article/45/D1/D170/2605730) |
 | [gtdb](https://gtdb.ecogenomic.org/) | microbial genomes |
 | [Clustering NCBI's nr database](https://github.com/Arcadia-Science/2023-nr-clustering) | clustered nr at 90% length, 90% identity |
-| [globdb](https://globdb.org/) | Derreplecated and annotated genomes |
 | [protabank](https://www.protabank.org/) | protein-fitness datasets |
 | [mavedb](https://www.mavedb.org/) | protein-fitness datasets |
 | [huggingface-task](https://huggingface.co/tasks) | a collection of differente ML task and their respective models on HuggingFace |
@@ -75,6 +74,7 @@
 |-----------|-----------|
 | [Protein Dimension DB](https://github.com/pentalpha/protein_dimension_db) | Datasets with PLM embeddings, GO annotations and taxonomy representations for all proteins in Uniprot/Swiss-Prot  |
 | [Protein Embeddings](https://www.uniprot.org/help/embeddings) | per-protein and per-residue embeddings using the ProtT5 model for UniProtKB/Swiss-Prot |
+| [globdb](https://globdb.org/) | Derreplecated and annotated genomes derived from 14 DBs that represents ~838M protein sequences. Clustering them resulted in ~83M non-singleton clusters with available ProtT5-XL-U50 embeddings |
 | []() |   |
 
 
