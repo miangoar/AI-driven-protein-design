@@ -54,8 +54,8 @@
 | [Modeling proteins using AlphaFold and ColabFold](https://docs.google.com/document/d/1_g1_M-I40CqOQc5obwAt08YntC5D2Z_WNz6mYuUQtyc/edit?tab=t.0#heading=h.m7ei2f72v2ig)| colabfold tutorial |
 | [Bio Data Zoo](https://github.com/omgenomics/bio-data-zoo)| Example genomics data for tool developers |
 | [PDB learn](https://pdb101.rcsb.org/learn/exploring-the-structural-biology-of-evolution)| Exploring the Structural Biology of Bioenergy, Structural Biology of Evolution, Structural Biology of Viruses etc |
+| [PCR Primer Design](https://binomicalabs.notion.site/PCR-Primer-Design-8f1f888f50a0403a87bdce20e37840f2)|PCR Primer Design |
 | []()| |
-
 
 # Machine/deep learning courses
 | Name | Description | 
@@ -143,5 +143,5 @@
 | [Oxford Protein Informatics Group](https://www.blopig.com/blog/) |
 | [Machine Learning in Drug Discovery Resources](https://github.com/PatWalters/resources_2025) |
 | [james lingford](https://www.jameslingford.com/blog/) |
-| []() |
+| [statements](https://github.com/RILAB/statements) |
 
