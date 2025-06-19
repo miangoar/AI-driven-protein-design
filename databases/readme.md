@@ -90,6 +90,7 @@
 | [MotifBench](https://github.com/blt2114/MotifBench) | motif-scaffolding problems  |
 | [posebusters](https://github.com/maabuu/posebusters) |  checks for generated molecule poses |
 | [PDBench](https://github.com/wells-wood-research/PDBench) | evaluating fixed-backbone sequence design algorithms  |
+| [RNAGym](https://github.com/MarksLab-DasLab/RNAGym) | suite for RNA fitness and structure prediction  |
 | []() |   |
 
 https://harrisbio.substack.com/p/the-techbio-company-database
