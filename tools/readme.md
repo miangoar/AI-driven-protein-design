@@ -158,6 +158,8 @@ Tools for:
 | [protein_generator](https://github.com/RosettaCommons/protein_generator) | Joint sequence and structure generation with RoseTTAFold sequence space diffusion |
 | [RFdiffusion_all_atom](https://github.com/baker-laboratory/rf_diffusion_all_atom) | RFdiffusion with all atom modeling |
 | [salad](https://github.com/mjendrusch/salad) | structure generation with sparse all-atom denoising models |
+| [EnzymeFlow](https://github.com/WillHua127/EnzymeFlow) | generate catalytic pockets for specific substrates and catalytic reactions |
+| [GENzyme](https://github.com/WillHua127/GENzyme) | design of catalytic pockets, enzymes, and enzyme-substrate complexes for any reaction |
 | []() |  |
 
 # Inverse folding
@@ -171,6 +173,15 @@ Tools for:
 | [LASErMPNN ](https://github.com/polizzilab/LASErMPNN) | All-Atom (Including Hydrogen!) Ligand-Conditioned Protein Sequence Design & Sidechain Packing Model |
 | []() |  |
 
+
+# Function prediction
+| Name | Description | 
+|-----------|-----------|
+| [CLEAN](https://github.com/tttianhao/CLEAN) | assign EC numbers to enzymes |
+| [ProtNLM](https://colab.research.google.com/github/google-research/google-research/blob/master/protnlm/protnlm_use_model_for_inference_uniprot_2022_04.ipynb) | UniProt's Automatic Annotation pipeline  ([for mode details see](https://www.uniprot.org/help/ProtNLM)) |
+| [DeepFRI](https://github.com/flatironinstitute/DeepFRI) | Deep functional residue identification |
+| []() |  |
+| []() |  |
 
 # Sequence-structure co-generation
 | Name | Description | 
