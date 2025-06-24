@@ -80,7 +80,7 @@
 | [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)| up-to-date overview of the field of (deep) reinforcement learning and sequential decision making |
 | [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs](https://arxiv.org/abs/2408.13296)| from LoRA to reinforcement learning |
 | [Foundations of Computer Vision``](https://visionbook.mit.edu/)| Foundations of Computer Vision`foundational topics within computer vision, with an image processing and machine learning perspective |
-| []()| |
+| [🤗 LLM course ](https://huggingface.co/learn/llm-course/chapter1/1)| |
 
 # Math courses
 | Name | Description | 
