@@ -346,7 +346,7 @@ Tools for:
 # datavis
 | Name | Description | 
 |-----------|-----------| 
-| [datamapplot](https://github.com/TutteInstitute/datamapplot) | creating beautiful, interactive and massive scatterplots |
+| [datamapplot](https://github.com/TutteInstitute/datamapplot) | creating beautiful, interactive and massive scatterplots (e.g. [wikipedia articles](https://lmcinnes.github.io/datamapplot_examples/wikipedia/)) |
 | [pypalettes](https://github.com/JosephBARBIERDARNAL/pypalettes) | +2500 color maps  |
 | [distinctipy ](https://github.com/alan-turing-institute/distinctipy) |  generating visually distinct colours |
 | [Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) | set of tools (like [NN-SVG](https://alexlenail.me/NN-SVG/LeNet.html)) to plot neural nets |
