@@ -147,8 +147,8 @@ Tools for:
 | [ProGen2-finetuning](https://github.com/hugohrban/ProGen2-finetuning) | Finetuning ProGen2 for generation of sequences from selected families |
 | [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | Text-guided protein design |
 | [Evolla](https://github.com/westlake-repl/Evolla) | chat about the function of a protein using its sequence and structure  (i.e. ChatGPT for proteins; see also the [webserver using the 10B param. version of the model](http://www.chat-protein.com/)) |
+| [ProtRL](https://github.com/AI4PDLab/ProtRL) | Reinforcement Learning framework for autoregressive protein Language Models |
 | []() |  |
-
 
 # Structure generation
 | Name | Description | 
