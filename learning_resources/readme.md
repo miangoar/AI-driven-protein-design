@@ -81,6 +81,10 @@
 | [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs](https://arxiv.org/abs/2408.13296)| from LoRA to reinforcement learning |
 | [Foundations of Computer Vision``](https://visionbook.mit.edu/)| Foundations of Computer Vision`foundational topics within computer vision, with an image processing and machine learning perspective |
 | [🤗 LLM course ](https://huggingface.co/learn/llm-course/chapter1/1)| |
+| [LoRA Hyperparameters Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide/lora-hyperparameters-guide)| Best practices for LoRA hyperparameters and how they affect the fine-tuning process |
+| []()| |
+
+
 
 # Math courses
 | Name | Description | 
