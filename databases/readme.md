@@ -47,7 +47,7 @@
 | [fuzzle](https://fuzzle.uni-bayreuth.de:8443/) | evolutionary related protein fragments with ligand infromation |
 | [TED: The Encyclopedia of Domains](https://ted.cathdb.info/data) | 365 million domains from AFDB  |
 | [unisite](https://github.com/quanlin-wu/unisite) | Cross-Structure Dataset and Learning Framework for End-to-End Ligand Binding Site Detection  |
-| []() |   |
+| [SAIR](https://pub.sandboxaq.com/data/ic50-dataset) | 5.2M protein-ligand structures with associated activity data  |
 
 
 # Sequence classiication 
