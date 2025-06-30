@@ -171,8 +171,9 @@ Tools for:
 | [SolubleMPNN](https://github.com/dauparas/ProteinMPNN/tree/main/soluble_model_weights) | Retrained version of ProteinMPNN by excluding transmembrane structures (see [Goverde et al. 2024](https://www.nature.com/articles/s41586-024-07601-y#Sec7) for more details)|
 | [fampnn](https://github.com/richardshuai/fampnn) | full-atom version of ProteinMPNN |
 | [LASErMPNN ](https://github.com/polizzilab/LASErMPNN) | All-Atom (Including Hydrogen!) Ligand-Conditioned Protein Sequence Design & Sidechain Packing Model |
+| [HyperMPNN](https://github.com/meilerlab/HyperMPNN) | design thermostable proteins learned from hyperthermophiles |
+| [ThermoMPNN](https://github.com/Kuhlman-Lab/ThermoMPNN) | predict changes in thermodynamic stability for protein point mutants |
 | []() |  |
-
 
 # Function prediction
 | Name | Description | 
