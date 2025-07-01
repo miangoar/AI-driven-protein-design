@@ -174,7 +174,9 @@ Tools for:
 | [LASErMPNN ](https://github.com/polizzilab/LASErMPNN) | All-Atom (Including Hydrogen!) Ligand-Conditioned Protein Sequence Design & Sidechain Packing Model |
 | [HyperMPNN](https://github.com/meilerlab/HyperMPNN) | design thermostable proteins learned from hyperthermophiles |
 | [ThermoMPNN](https://github.com/Kuhlman-Lab/ThermoMPNN) | predict changes in thermodynamic stability for protein point mutants |
+| [](https://github.com/BytedProtein/ByProt) | Efficient non-autoregressive ProteinMPNN variant |
 | []() |  |
+
 
 # Function prediction
 | Name | Description | 
