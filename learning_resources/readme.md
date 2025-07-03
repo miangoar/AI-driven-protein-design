@@ -55,7 +55,9 @@
 | [Bio Data Zoo](https://github.com/omgenomics/bio-data-zoo)| Example genomics data for tool developers |
 | [PDB learn](https://pdb101.rcsb.org/learn/exploring-the-structural-biology-of-evolution)| Exploring the Structural Biology of Bioenergy, Structural Biology of Evolution, Structural Biology of Viruses etc |
 | [PCR Primer Design](https://binomicalabs.notion.site/PCR-Primer-Design-8f1f888f50a0403a87bdce20e37840f2)|PCR Primer Design |
+| [Comprehensive Overview of Bottom-Up Proteomics using Mass Spectrometry]()| overview of different proteomics methods |
 | []()| |
+
 
 # Machine/deep learning courses
 | Name | Description | 
