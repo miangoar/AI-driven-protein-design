@@ -32,5 +32,5 @@ https://www.erastova.xyz/teaching/practical-simulations-for-molecules-and-materi
 https://colab-db.github.io/
 https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-structures/index.html#/ (see data D2): https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.21860
 
-
+https://deepchem.io/tutorials/modeling-protein-ligand-interactions/
 https://practicalcheminformatics.blogspot.com/2024/11/some-thoughts-on-splitting-chemical.html
