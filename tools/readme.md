@@ -280,7 +280,7 @@ Tools for:
 | [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures |
 | [molli](https://github.com/SEDenmarkLab/molli) | general purpose molecule library generation and handling  |
 | [useful_rdkit_utils](https://github.com/PatWalters/useful_rdkit_utils) | A collection of useful RDKit and sci-kit learn functions |
-| []() |  |
+| [deepchem](https://github.com/deepchem/deepchem) | toolchain that democratizes the use of deep-learning in drug discovery, materials science, quantum chemistry, and biology. |
 
 
 # machine learning
