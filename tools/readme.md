@@ -271,6 +271,7 @@ Tools for:
 # molecules
 | Name | Description | 
 |-----------|-----------| 
+| [rdkit](https://www.rdkit.org/docs/index.html) | cheminformatics and machine-learning software |
 | [PDBe CCDUtils](https://pdbeurope.github.io/ccdutils/index.html)  | tools to deal with PDB chemical components and visualization ([see also](https://github.com/PDBeurope/pdbe-notebooks/tree/main/pdbe_ligands_tutorials))|
 | [PDBe Arpeggio](https://github.com/PDBeurope/arpeggio) |  calculation of interatomic interactions in molecular structures|
 | [PDBe RelLig](https://github.com/PDBeurope/rellig) | classifies ligands based on their functional role| 
@@ -280,6 +281,7 @@ Tools for:
 | [molli](https://github.com/SEDenmarkLab/molli) | general purpose molecule library generation and handling  |
 | [useful_rdkit_utils](https://github.com/PatWalters/useful_rdkit_utils) | A collection of useful RDKit and sci-kit learn functions |
 | []() |  |
+
 
 # machine learning
 | Name | Description | 
