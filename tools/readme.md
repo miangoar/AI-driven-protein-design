@@ -48,8 +48,8 @@ Tools for:
 # Homology search
 | Name | Description | 
 |-----------|-----------|
+| [foldmason](https://github.com/steineggerlab/foldmason) | Multiple Protein Structure Alignment at Scale |
 | []() |  |
-
 
 # Download data and metadata
 | Name | Description | 
