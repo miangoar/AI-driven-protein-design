@@ -367,6 +367,7 @@ Tools for:
 | [d3blocks](https://github.com/d3blocks/d3blocks) | create stand-alone and interactive d3 charts |
 | [How to Vectorize Plots from R/Python in PowerPoint](https://nalinan.medium.com/how-to-vectorize-plots-from-r-in-powerpoint-bad7c238e86a) | import a vectorized image into ProwerPoint for easy manipulation ([see also this tutorial](https://www.youtube.com/watch?v=hoHkc7N6FZA&ab_channel=GenomicsBootCamp)) |
 | [morethemes](https://github.com/JosephBARBIERDARNAL/morethemes) | More themes for matplotlib |
+| [jsoncrack](https://github.com/AykutSarac/jsoncrack.com) | visualization application that transforms data formats such as JSON, YAML, XML, CSV and more, into interactive graphs |
 | []() |  |
 
 
