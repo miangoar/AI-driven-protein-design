@@ -294,6 +294,7 @@ Tools for:
 | [pca](https://erdogant.github.io/pca/pages/html/index.html) | perform PCA and create insightful plots |
 | [openTSNE](https://opentsne.readthedocs.io/en/stable/) | faster implementation of t-SNE that includes other optimizations |
 | [TabPFN](https://github.com/PriorLabs/TabPFN) | model for tabular data that outperforms traditional methods while being dramatically faster |
+| [tabm](https://github.com/yandex-research/tabm) | tabular DL architecture that efficiently imitates an ensemble of MLPs |
 | [setfit](https://github.com/huggingface/setfit) | Efficient few-shot learning with Sentence Transformers |
 | [skrub](https://github.com/skrub-data/skrub) | preprocessing and feature engineering for tabular machine learning |
 | [cupy](https://github.com/cupy/cupy) |NumPy & SciPy for GPU|
