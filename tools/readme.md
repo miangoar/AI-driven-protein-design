@@ -307,7 +307,9 @@ Tools for:
 | [hummingbird](https://github.com/microsoft/hummingbird) | compiles trained ML models into tensor computation for faster inference |
 | [skorch](https://github.com/skorch-dev/skorch) | train PyTorch models in a way similar to Scikit-learn (eg. No need to manually write a training loop, just using fit(), predict(), score()) |
 | [Faiss](https://github.com/facebookresearch/faiss) | efficient similarity search and clustering of dense vectors |
+| [tmap](https://github.com/reymond-group/tmap) | tree-like and fast visualization library for large, high-dimensional data set |
 | []() |  |
+
 
 # statistics
 | Name | Description | 
