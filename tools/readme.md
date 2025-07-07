@@ -347,6 +347,7 @@ Tools for:
 | [weblogo](https://weblogo.threeplusone.com/) |  generation of sequence logos |
 | [interprot](https://interprot.com/#/) | inspect relevant features derived from protein language models in a particular protein |
 | [Protein icons](https://bsky.app/profile/maxfus.bsky.social/post/3lobecnwdsc2w) |  How to create specific protein icons with ChatGPT |
+| []() |  |
 
 
 # datavis
@@ -363,6 +364,7 @@ Tools for:
 | [plottable](https://github.com/znstrider/plottable) | plotting beautifully customized, presentation ready tables |
 | [d3blocks](https://github.com/d3blocks/d3blocks) | create stand-alone and interactive d3 charts |
 | [How to Vectorize Plots from R/Python in PowerPoint](https://nalinan.medium.com/how-to-vectorize-plots-from-r-in-powerpoint-bad7c238e86a) | import a vectorized image into ProwerPoint for easy manipulation ([see also this tutorial](https://www.youtube.com/watch?v=hoHkc7N6FZA&ab_channel=GenomicsBootCamp)) |
+| [morethemes](https://github.com/JosephBARBIERDARNAL/morethemes) | More themes for matplotlib |
 | []() |  |
 
 
