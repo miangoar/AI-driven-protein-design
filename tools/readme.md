@@ -72,11 +72,11 @@ Tools for:
 | []() |  |
 
 
-# Download data and metadata
+# Download (meta)data
 | Name | Description | 
 |-----------|-----------|
+| [RCSB API](https://github.com/rcsb/py-rcsb-api) | Python interface for RCSB PDB API services |
 | []() |  |
-
 
 # structures
 | Name | Description | 
