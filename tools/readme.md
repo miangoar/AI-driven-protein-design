@@ -51,6 +51,27 @@ Tools for:
 | [foldmason](https://github.com/steineggerlab/foldmason) | Multiple Protein Structure Alignment at Scale |
 | []() |  |
 
+# Structure search and comparison
+| Name | Description | 
+|-----------|-----------|
+| [Pairwise Structure Alignment tool](https://www.rcsb.org/alignment) | structure alignment using PDB and AFDB IDs or upload a local file with atomic coordinates |
+| [FoldSeek](https://github.com/steineggerlab/foldseek) | fast and sensitive comparisons of large structure sets|
+| [folddisco](https://github.com/steineggerlab/folddisco) | indexing and search of discontinuous motifs |
+| [USalign](https://github.com/pylelab/USalign) |structure alignment of monomeric and complex proteins and nucleic acids |
+| [progres](https://github.com/greener-group/progres) | structure searching by structural embeddings ([see also the webserver](https://progres.mrc-lmb.cam.ac.uk/))|
+| [pyScoMotif](https://github.com/3BioCompBio/pyScoMotif) | protein motif search |
+| [pyRMSD](https://github.com/salilab/pyRMSD) | RMSD calculations of large sets of structures |
+| [reseek](https://github.com/rcedgar/reseek) | structure alignment and search algorithm |
+| [tmtools](https://github.com/jvkersch/tmtools) | Python bindings for the TM-align algorithm and code for protein structure comparison |
+| [SoftAlign](https://github.com/jtrinquier/SoftAlign) | compare 3D protein structures |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+
+
 # Download data and metadata
 | Name | Description | 
 |-----------|-----------|
@@ -62,27 +83,20 @@ Tools for:
 |-----------|-----------| 
 | [localcolabfold](https://github.com/YoshitakaMo/localcolabfold) | ColabFold on your local PC | 
 | [BioPandas](https://biopandas.github.io/biopandas/) | working with molecular structures in pandas |
-| [FoldSeek](https://github.com/steineggerlab/foldseek) | fast and sensitive comparisons of large structure sets|
 | [foldcomp](https://github.com/steineggerlab/foldcomp) | Compressing protein structures |
-| [Foldmason](https://github.com/steineggerlab/foldmason) | multiple Protein Structure Alignment at Scale |
-| [folddisco](https://github.com/steineggerlab/folddisco) | indexing and search of discontinuous motifs |
 | [PyPDB](https://github.com/williamgilpin/pypdb) | python API for the PDB |
 | [afpdb](https://github.com/data2code/afpdb) | efficient manipulation of protein structures in Python |
 | [LocalPDB](https://github.com/labstructbioinf/localpdb) | manage protein structures and their annotations |
 | [pdb-tools](https://github.com/haddocking/pdb-tools) | manipulating and editing PDB files |
 | [pdbfixer](https://github.com/openmm/pdbfixer) | fixes problems in PDB files |
 | [PDBe API Training Notebooks](https://github.com/glevans/pdbe-api-training) | for understanding how the PDBe REST API works |
-| [USalign](https://github.com/pylelab/USalign) |structure alignment of monomeric and complex proteins and nucleic acids |
 | [cath-tools](https://github.com/UCLOrengoGroup/cath-tools) | structure comparison tools |
 | [Pyrcsbsearchapi](https://github.com/rcsb/py-rcsbsearchapi) | Python interface for the RCSB PDB search API |
 | [protestar](https://github.com/refresh-bio/protestar) | compress collections structures |
 | [Merizo-search](https://github.com/psipred/merizo_search) | domain segmentation |
-| [progres](https://github.com/greener-group/progres) | structure searching by structural embeddings ([see also the webserver](https://progres.mrc-lmb.cam.ac.uk/))|
 | [freesasa](https://github.com/mittinatten/freesasa) | for calculating Solvent Accessible Surface Areas |
 | [openstructure](https://openstructure.org/docs/2.8/) | protein structure, complexes and docking comparison |
 | [opendock](https://github.com/guyuehuo/opendock)| protein-Ligand Docking and Modeling |
-| [pyScoMotif](https://github.com/3BioCompBio/pyScoMotif) | protein motif search |
-| [pyRMSD](https://github.com/salilab/pyRMSD) | RMSD calculations of large sets of structures |
 | [Muscle-3D](https://github.com/rcedgar/muscle) | multiple protein structure alignment |
 | [pdb-redo](https://pdb-redo.eu/)| automated procedure to refine, rebuild and validate your model |
 | [proteinshake](https://github.com/BorgwardtLab/proteinshake) | preprocessed and cleaned protein 3D structure datasets |
@@ -106,12 +120,9 @@ Tools for:
 | [InteracTor](https://github.com/Dias-Lab/InteracTor) |  structure analysis and conversion, allowing the extraction of interactions such as hydrogen bonds, van der Waals interactions, hydrophobic contacts, and surface tension |
 | [unicore](https://github.com/steineggerlab/unicore) | core gene phylogeny with Foldseek and ProstT5 (i.e. 3Di alphabet) |
 | [PAthreader and FoldPAthreader](https://github.com/iobio-zjut/PAthreader/tree/main/PAthreader_main) | PAthreader improve AF2 template selection by looking remote homologous in PDB/AFDB and FoldPAthreader predict the folding pathway  (see also [the webserver](http://zhanglab-bioinf.com/PAthreader/))  |
-| [SoftAlign](https://github.com/jtrinquier/SoftAlign) | compare 3D protein structures |
 | [SCHEMA-RASPP](https://github.com/mattasmith/SCHEMA-RASPP) | structure-guided protein recombination (download and check the file [`schema-tools-doc.html`](https://github.com/mattasmith/SCHEMA-RASPP/blob/master/schema-tools-doc.html) for documentation)|
 | [ProteinTools ](https://proteintools.uni-bayreuth.de/) | Analyze Hydrophobic Clusters, Hydrogen Bond Networks, Contact maps, Salt Bridges and Charge Segregation |
 | [ProtLego](https://hoecker-lab.github.io/protlego/) | constructing protein chimeras and its structural analysis |
-| [reseek](https://github.com/rcedgar/reseek) | structure alignment and search algorithm |
-| [tmtools](https://github.com/jvkersch/tmtools) | Python bindings for the TM-align algorithm and code for protein structure comparison |
 | []() |  |
 
 # Phylogeny
