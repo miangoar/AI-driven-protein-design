@@ -43,7 +43,7 @@
 | [glittr](https://glittr.org/) | |
 | [sandbox BIO](https://sandbox.bio/) | |
 | [BLAST](https://vinuesa.github.io/TIB-filoinfo/sesion3_BLAST/) | |
-| [Guide to undestanding PDB data](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/introduction) | |
+| [Guide to undestanding PDB data](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/introduction) | (see also this [video](https://www.youtube.com/watch?v=I64r5DXiLN0&ab_channel=BioinformaticsInsights)) |
 | [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202) | |
 | [Algoritmos en Bioinformática Estructural](https://eead-csic-compbio.github.io/bioinformatica_estructural/) | |
 | [MSAs, and pHMM](https://vinuesa.github.io/TIB-filoinfo/sesion4_alineamientos/)| build and calibrate HMMs, run & parse HMMER3 programs & output efficiently on the Linux command line using AWK, Bash, and R |
