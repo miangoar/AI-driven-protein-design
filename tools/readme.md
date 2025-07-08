@@ -54,7 +54,7 @@ Tools for:
 # Structure search and comparison
 | Name | Description | 
 |-----------|-----------|
-| [Pairwise Structure Alignment tool](https://www.rcsb.org/alignment) | structure alignment using PDB and AFDB IDs or upload a local file with atomic coordinates |
+| [Pairwise Structure Alignment tool](https://www.rcsb.org/alignment) | structure alignment using PDB and AFDB IDs or upload a local file with atomic coordinates (see also the [detailed description of how to use the tool](https://www.rcsb.org/docs/tools/pairwise-structure-alignment#4-align-multiple-structures-to-an-alphafold-structure-))|
 | [FoldSeek](https://github.com/steineggerlab/foldseek) | fast and sensitive comparisons of large structure sets|
 | [folddisco](https://github.com/steineggerlab/folddisco) | indexing and search of discontinuous motifs |
 | [USalign](https://github.com/pylelab/USalign) |structure alignment of monomeric and complex proteins and nucleic acids |
