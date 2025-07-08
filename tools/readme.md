@@ -75,7 +75,7 @@ Tools for:
 # Download (meta)data
 | Name | Description | 
 |-----------|-----------|
-| [RCSB API](https://github.com/rcsb/py-rcsb-api) | Python interface for RCSB PDB API services |
+| [RCSB API](https://github.com/rcsb/py-rcsb-api) | Python interface for RCSB PDB API services (see also this [guidelines and tutorials](https://pdb101.rcsb.org/news/684078fe300817f1b5de793a)) |
 | []() |  |
 
 # structures
