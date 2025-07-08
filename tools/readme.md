@@ -252,8 +252,8 @@ Tools for:
 | [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | text-guided protein design |
 | [ByProt (LM-Design)](https://github.com/bytedprotein/ByProt) | reprogramming pretrained protein LMs as generative models |
 | [scikit-bio](https://github.com/scikit-bio/scikit-bio) | data structures, algorithms and educational resources for bioinformatics |
+| [prosculpt](https://github.com/ajasja/prosculpt) | encapsulates RFDiffusion, ProteinMPNN, AlphaFold2, and Rosetta into an easy-to-use workflow |
 | []() |  |
-
 
 
 
