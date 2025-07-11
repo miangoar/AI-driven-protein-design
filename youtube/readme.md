@@ -19,7 +19,7 @@
 | [umarjamilai](https://www.youtube.com/@umarjamilai) |
 | [juliaturc1](https://www.youtube.com/@juliaturc1) |
 
-
+https://www.youtube.com/@Eigensteve
 # Youtube channels for Mathematics 
 | Video |
 |-----------|
