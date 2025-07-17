@@ -292,7 +292,7 @@ Tools for:
 | [molli](https://github.com/SEDenmarkLab/molli) | general purpose molecule library generation and handling  |
 | [useful_rdkit_utils](https://github.com/PatWalters/useful_rdkit_utils) | A collection of useful RDKit and sci-kit learn functions |
 | [deepchem](https://github.com/deepchem/deepchem) | toolchain that democratizes the use of deep-learning in drug discovery, materials science, quantum chemistry, and biology. |
-
+| []() |  |
 
 # machine learning
 | Name | Description | 
@@ -320,8 +320,8 @@ Tools for:
 | [skorch](https://github.com/skorch-dev/skorch) | train PyTorch models in a way similar to Scikit-learn (eg. No need to manually write a training loop, just using fit(), predict(), score()) |
 | [Faiss](https://github.com/facebookresearch/faiss) | efficient similarity search and clustering of dense vectors |
 | [tmap](https://github.com/reymond-group/tmap) | tree-like and fast visualization library for large, high-dimensional data set |
+| [einops](https://github.com/arogozhnikov/einops) | tensor operations for readable and reliable code |
 | []() |  |
-
 
 # statistics
 | Name | Description | 
