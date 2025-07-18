@@ -306,6 +306,7 @@ Tools for:
 | [openTSNE](https://opentsne.readthedocs.io/en/stable/) | faster implementation of t-SNE that includes other optimizations |
 | [TabPFN](https://github.com/PriorLabs/TabPFN) | model for tabular data that outperforms traditional methods while being dramatically faster |
 | [tabm](https://github.com/yandex-research/tabm) | tabular DL architecture that efficiently imitates an ensemble of MLPs |
+| [tabicl](https://github.com/soda-inria/tabicl) | tabular model for classification |
 | [setfit](https://github.com/huggingface/setfit) | Efficient few-shot learning with Sentence Transformers |
 | [skrub](https://github.com/skrub-data/skrub) | preprocessing and feature engineering for tabular machine learning |
 | [cupy](https://github.com/cupy/cupy) |NumPy & SciPy for GPU|
@@ -321,7 +322,9 @@ Tools for:
 | [Faiss](https://github.com/facebookresearch/faiss) | efficient similarity search and clustering of dense vectors |
 | [tmap](https://github.com/reymond-group/tmap) | tree-like and fast visualization library for large, high-dimensional data set |
 | [einops](https://github.com/arogozhnikov/einops) | tensor operations for readable and reliable code |
+| [skrub](https://github.com/skrub-data/skrub/) | doing machine learning with dataframes |
 | []() |  |
+
 
 # statistics
 | Name | Description | 
