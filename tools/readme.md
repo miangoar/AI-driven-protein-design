@@ -132,7 +132,7 @@ Tools for:
 | [unicore](https://github.com/steineggerlab/unicore) | Universal and efficient core gene phylogeny with Foldseek and ProstT5  |
 | [ugene](https://ugene.net/) | bioinformatic suite with graphic user interface |
 | [piqtree](https://github.com/iqtree/piqtree) | use IQ-TREE directly from Python |
-| []() |  |
+| [torchtree](https://github.com/4ment/torchtree) | probabilistic framework in PyTorch for phylogenetic models |
 
 # structure prediction
 | Name | Description | 
