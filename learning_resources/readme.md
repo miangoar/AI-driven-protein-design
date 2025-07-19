@@ -21,7 +21,7 @@
 | [DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)| interactive dashboards for learning data science (e.g. PCA, random forest, etc.) |
 | [illustrated-glossary.nejm.](https://illustrated-glossary.nejm.org/)| glossary for biomedical research |
 | [Python Tutor](https://pythontutor.com/)| step-by-step visual debugger and AI tutor to help you understand and debug code |
-| []()| |
+| [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/abs/2406.08929)| diffusion models and flow matching aimed at a technical audience with no diffusion experience |
 
 # Bioinformatics courses
 | Name | Description | 
