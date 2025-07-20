@@ -150,4 +150,4 @@
 | [Machine Learning in Drug Discovery Resources](https://github.com/PatWalters/resources_2025) |
 | [james lingford](https://www.jameslingford.com/blog/) |
 | [statements](https://github.com/RILAB/statements) |
-
+| [booleanbiotech](https://blog.booleanbiotech.com/archives) | 
