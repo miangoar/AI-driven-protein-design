@@ -103,7 +103,7 @@ Tools for:
 | [mini3di](https://github.com/althonos/mini3di) | NumPy port of the foldseek code for encoding protein structures to 3di |
 | [GEMMI](https://github.com/project-gemmi/gemmi) | macromolecular crystallography library and utilities |
 | [fpocket](https://github.com/Discngine/fpocket) | protein pocket detection based on Voronoi tessellation |
-| [dssp](https://github.com/PDB-REDO/dssp) | assign secondary structure to proteins |
+| [dssp](https://github.com/PDB-REDO/dssp) | assign secondary structure to proteins (check the [python module](https://github.com/PDB-REDO/dssp?tab=readme-ov-file#python-module))|
 | [PyDSSP](https://github.com/ShintaroMinami/PyDSSP) | implementation of DSSP (i.e. secondary structure annotation) algorithm for PyTorch |
 | [dssp 4.5](https://github.com/PDB-REDO/dssp) | assign secondary structure using the eight-letter code (see also [the webserver](https://pdb-redo.eu/dssp)) | 
 | [flashfold](https://github.com/chayan7/flashfold) | command-line tool for faster protein structure prediction |
