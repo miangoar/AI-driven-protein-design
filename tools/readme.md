@@ -42,8 +42,7 @@ Tools for:
 | [NEFFy](https://github.com/Maryam-Haghani/NEFFy) | calculating the Normalized Effective Number of Sequences (neff) for protein/nt MSAs. Also for format conversion |
 | [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) | a MSA-trimming algorithm for accurate phylogenomic inference |
 | [PLMAlign](https://github.com/maovshao/PLMAlign) | utilizes per-residue embeddings as input to obtain specific alignments and more refined similarity |
-| [csvtk](https://github.com/shenwei356/csvtk) | CSV/TSV manipulations |
-| []() |  |
+| [csvtk](https://github.com/shenwei356/csvtk) | CSV/TSV manip MSA (3M protein sequences in 5min and 24GB of RAM) |
 
 # Homology search
 | Name | Description | 
