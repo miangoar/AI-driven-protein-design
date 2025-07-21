@@ -189,13 +189,13 @@ Tools for:
 | []() |  |
 
 
-# Function prediction
+# Function prediction/annotation
 | Name | Description | 
 |-----------|-----------|
 | [CLEAN](https://github.com/tttianhao/CLEAN) | assign EC numbers to enzymes |
 | [ProtNLM](https://colab.research.google.com/github/google-research/google-research/blob/master/protnlm/protnlm_use_model_for_inference_uniprot_2022_04.ipynb) | UniProt's Automatic Annotation pipeline  ([for mode details see](https://www.uniprot.org/help/ProtNLM)) |
 | [DeepFRI](https://github.com/flatironinstitute/DeepFRI) | Deep functional residue identification |
-| []() |  |
+| [interproscan](https://github.com/ebi-pf-team/interproscan) | interpro pipeline for functional annotation with multiple DBs |
 | []() |  |
 
 # Sequence-structure co-generation
