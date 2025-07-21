@@ -115,7 +115,7 @@
 | [algorithmica](https://en.algorithmica.org/)| introduction to high performance computing |
 | [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/)| Become comfortable with key concepts in GPU programming |
 | [Matplotlib Fundamentals](https://www.youtube.com/playlist?list=PLp0BA-8NZ4bj0HKsK2ZpDkvHCkayxyp0s)| Data Visualization in Python |
-| []()| |
+| [The Open-Source Project](https://digital-work-lab.github.io/open-source-project/)| educational resources to teach python package development |
 
 # Data viz
 | Tema | 
