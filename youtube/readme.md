@@ -2,6 +2,7 @@
 # Youtube channels for Machine/Deep learning 
 | Video |
 |-----------|
+| [3blue1brown](https://www.youtube.com/@3blue1brown) |
 | [CodigoMaquina](https://www.youtube.com/@CodigoMaquina) |
 | [Clockworkbio](https://www.youtube.com/@Clockworkbio) |
 | [Mutual_Information](https://www.youtube.com/@Mutual_Information) |
@@ -18,8 +19,11 @@
 | [jbhuang0604](https://www.youtube.com/@jbhuang0604) |
 | [umarjamilai](https://www.youtube.com/@umarjamilai) |
 | [juliaturc1](https://www.youtube.com/@juliaturc1) |
+| [Eigensteve](https://www.youtube.com/@Eigensteve) |
+| []() |
 
-https://www.youtube.com/@Eigensteve
+
+
 # Youtube channels for Mathematics 
 | Video |
 |-----------|
