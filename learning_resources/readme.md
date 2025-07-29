@@ -86,7 +86,7 @@
 | [🤗 LLM course ](https://huggingface.co/learn/llm-course/chapter1/1)| |
 | [LoRA Hyperparameters Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide/lora-hyperparameters-guide)| Best practices for LoRA hyperparameters and how they affect the fine-tuning process |
 | [LLM Embeddings Explained](https://huggingface.co/spaces/hesamation/primer-llm-embedding)| fundamentals of embeddings |
-| []()| |
+| [LLM Inference Handbook](https://bentoml.com/llm/)| everything you need to know about LLM inference |
 
 
 # Math courses
