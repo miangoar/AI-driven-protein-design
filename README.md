@@ -1,4 +1,5 @@
 # Awesome AI based protein science
+<img src="https://miangoar.github.io/images/roadmap.jpeg" alt="Descripción de la imagen" width="300" height="auto">
 
 # Content list
 - [Tutorials](./tutorials)
