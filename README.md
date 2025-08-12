@@ -1,5 +1,5 @@
 # Awesome AI based protein science
-<img src="https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/roadmap.png" alt="Description" width="300" height="auto">
+<img src="https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/roadmap.png" alt="Description" width="900" height="auto">
 
 # Content list
 - [Tutorials](./tutorials)
