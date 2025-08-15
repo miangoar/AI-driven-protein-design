@@ -246,7 +246,9 @@ Tools for:
 | [masif](https://github.com/LPDI-EPFL/masif) | molecular surface interaction fingerprints |
 | [peptidy](https://github.com/molML/peptidy) | vectorize proteins for machine learning applications |
 | [pypropel](https://github.com/2003100127/pypropel) | sequence and structural data preprocessing, feature generation, and post-processing for model performance evaluation and visualisation, |
+| [atomworks](https://github.com/RosettaCommons/atomworks) | A generalized computational framework for biomolecular modeling |
 | []() |  |
+
 
 # protein engineering
 | Name | Description | 
