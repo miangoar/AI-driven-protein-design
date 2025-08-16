@@ -20,7 +20,7 @@
 | [umarjamilai](https://www.youtube.com/@umarjamilai) |
 | [juliaturc1](https://www.youtube.com/@juliaturc1) |
 | [Eigensteve](https://www.youtube.com/@Eigensteve) |
-| []() |
+| [Jia-Bin Huang](https://www.youtube.com/@jbhuang0604) |
 
 
 
