@@ -88,7 +88,7 @@
 | [LLM Embeddings Explained](https://huggingface.co/spaces/hesamation/primer-llm-embedding)| fundamentals of embeddings |
 | [LLM Inference Handbook](https://bentoml.com/llm/)| everything you need to know about LLM inference |
 | [PyTorch in One Hour](https://sebastianraschka.com/teaching/pytorch-1h/)| introduction to PyTorch, from Tensors to Training Neural Networks on Multiple GPUs|
-| []()| |
+| [Transformers from Scratch](https://e2eml.school/transformers.html)| guide to undestand the transormer architecture  |
 
 # Math courses
 | Name | Description | 
