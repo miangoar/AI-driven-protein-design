@@ -80,6 +80,8 @@
 | Let's build GPT: from scratch, in code, spelled out | introduction to GPT models   | https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy | 
 |  |    |  | 
 
+https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 https://www.youtube.com/watch?v=vWiIAZB1UDY&ab_channel=NanoRooms
 https://www.youtube.com/watch?v=smjYJSudwr0&ab_channel=BostonProteinDesignandModelingClub
