@@ -50,6 +50,7 @@ Tools for:
 | [foldmason](https://github.com/steineggerlab/foldmason) | Multiple Protein Structure Alignment at Scale |
 | []() |  |
 
+
 # Structure search and comparison
 | Name | Description | 
 |-----------|-----------|
@@ -60,7 +61,7 @@ Tools for:
 | [progres](https://github.com/greener-group/progres) | structure searching by structural embeddings ([see also the webserver](https://progres.mrc-lmb.cam.ac.uk/))|
 | [pyScoMotif](https://github.com/3BioCompBio/pyScoMotif) | protein motif search |
 | [pyRMSD](https://github.com/salilab/pyRMSD) | RMSD calculations of large sets of structures |
-| [reseek](https://github.com/rcedgar/reseek) | structure alignment and search algorithm |
+| [reseek](https://github.com/rcedgar/reseek) | structure alignment and search algorithm (see also [the webserver](https://reseek.online/))|
 | [tmtools](https://github.com/jvkersch/tmtools) | Python bindings for the TM-align algorithm and code for protein structure comparison |
 | [SoftAlign](https://github.com/jtrinquier/SoftAlign) | compare 3D protein structures |
 | []() |  |
