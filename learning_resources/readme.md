@@ -87,7 +87,8 @@
 | [LoRA Hyperparameters Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide/lora-hyperparameters-guide)| Best practices for LoRA hyperparameters and how they affect the fine-tuning process |
 | [LLM Embeddings Explained](https://huggingface.co/spaces/hesamation/primer-llm-embedding)| fundamentals of embeddings |
 | [LLM Inference Handbook](https://bentoml.com/llm/)| everything you need to know about LLM inference |
-
+| [PyTorch in One Hour](https://sebastianraschka.com/teaching/pytorch-1h/)| introduction to PyTorch, from Tensors to Training Neural Networks on Multiple GPUs|
+| []()| |
 
 # Math courses
 | Name | Description | 
