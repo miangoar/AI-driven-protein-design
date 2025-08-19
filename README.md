@@ -2,12 +2,12 @@
 <img src="https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/roadmap.png" alt="Description" width="900" height="auto">
 
 # Content list
-- [Tutorials](./tutorials)
 - [Tools](./tools)
-- [Databases](./databases)
-- [Selected_papers](./selected_papers)
 - [Learning resources](./learning_resources)
 - [Youtube](./youtube)
+- [Databases](./databases)
+- [Selected_papers](./selected_papers)
+- [Tutorials](./tutorials)
 - [Slides](./slides)
 
 # Brief description
