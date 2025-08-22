@@ -178,6 +178,7 @@ Tools for:
 | Name | Description | 
 |-----------|-----------|
 | [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) |  structure generation, with or without conditional information (see also the [extended Documentation](https://sites.google.com/omsf.io/rfdiffusion) with a lot of descriptions and tutorials)|
+| [RFdiffusion2](https://github.com/RosettaCommons/RFdiffusion2) | all-atom version at sub-angstrom resolution of RFdiffusion |
 | [chroma](https://github.com/generatebio/chroma) | programmable protein design |
 | [protein_generator](https://github.com/RosettaCommons/protein_generator) | Joint sequence and structure generation with RoseTTAFold sequence space diffusion |
 | [RFdiffusion_all_atom](https://github.com/baker-laboratory/rf_diffusion_all_atom) | RFdiffusion with all atom modeling |
