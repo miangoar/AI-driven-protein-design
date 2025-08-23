@@ -95,7 +95,7 @@
 |-----------|-----------| 
 | [immersive linear algebra](https://immersivemath.com/ila/index.html)| book with fully interactive figures |
 | [Interactive Linear Algebra](https://personal.math.ubc.ca/~tbjw/ila/index.html)| Interactive Linear Algebra |
-| []()| |
+| [Matrix Calculus (for Machine Learning and Beyond)](https://arxiv.org/abs/2501.14787)| introduction to differential calculus |
 
 
 # Python and programming
