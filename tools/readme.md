@@ -339,8 +339,8 @@ Tools for:
 | [tmap](https://github.com/reymond-group/tmap) | tree-like and fast visualization library for large, high-dimensional data set |
 | [einops](https://github.com/arogozhnikov/einops) | tensor operations for readable and reliable code |
 | [skrub](https://github.com/skrub-data/skrub/) | doing machine learning with dataframes (see also the [learning materials](https://skrub-data.org/skrub-materials/index.html))|
+| [pyod](https://github.com/yzhao062/pyod) | Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques |
 | []() |  |
-
 
 # statistics
 | Name | Description | 
