@@ -89,6 +89,9 @@
 | [LLM Inference Handbook](https://bentoml.com/llm/)| everything you need to know about LLM inference |
 | [PyTorch in One Hour](https://sebastianraschka.com/teaching/pytorch-1h/)| introduction to PyTorch, from Tensors to Training Neural Networks on Multiple GPUs|
 | [Transformers from Scratch](https://e2eml.school/transformers.html)| guide to undestand the transormer architecture  |
+| [Understanding Deep Learning](https://udlbook.github.io/udlbook/)| resources or students and teachers |
+| []()| |
+
 
 # Math courses
 | Name | Description | 
@@ -96,7 +99,7 @@
 | [immersive linear algebra](https://immersivemath.com/ila/index.html)| book with fully interactive figures |
 | [Interactive Linear Algebra](https://personal.math.ubc.ca/~tbjw/ila/index.html)| Interactive Linear Algebra |
 | [Matrix Calculus (for Machine Learning and Beyond)](https://arxiv.org/abs/2501.14787)| introduction to differential calculus |
-
+| []()| |
 
 # Python and programming
 | Name | Description | 
