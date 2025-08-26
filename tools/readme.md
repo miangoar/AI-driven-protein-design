@@ -48,7 +48,7 @@ Tools for:
 | Name | Description | 
 |-----------|-----------|
 | [foldmason](https://github.com/steineggerlab/foldmason) | Multiple Protein Structure Alignment at Scale |
-| []() |  |
+| [pyjess](https://github.com/althonos/pyjess) | constraint-based structural template matching to identify catalytic residues from a known template |
 
 
 # Structure search and comparison
