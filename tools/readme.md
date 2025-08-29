@@ -134,8 +134,9 @@ Tools for:
 | [ugene](https://ugene.net/) | bioinformatic suite with graphic user interface |
 | [piqtree](https://github.com/iqtree/piqtree) | use IQ-TREE directly from Python |
 | [torchtree](https://github.com/4ment/torchtree) | probabilistic framework in PyTorch for phylogenetic models |
+| [fold_tree](https://github.com/DessimozLab/fold_tree) |  construct trees from protein structures |
+| [3diphy](https://github.com/nmatzke/3diphy) | Maximum likelihood structural phylogenetics by including Foldseek 3Di characters |
 | []() |  |
-
 
 # MSA
 | Name | Description | 
@@ -143,7 +144,6 @@ Tools for:
 | [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) | trimming algorithm for accurate phylogenomic inference and msa manipulation |
 | [BuddySuite](https://github.com/biologyguy/BuddySuite) | manipulating sequence, alignment, and phylogenetic tree files |
 | [CIAlign](https://github.com/KatyBrown/CIAlign) | clean, interpret and visualise MSAs |
-| []() |  |
 | []() |  |
 
 # structure prediction
