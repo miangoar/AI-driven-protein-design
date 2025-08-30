@@ -60,7 +60,8 @@
 | [Preparing for successful protein crystallization experiments](https://journals.iucr.org/f/issues/2025/07/00/oq5003/index.html)|  strategies to optimize factors that can impact crystallization (see also the [youtube talk](https://www.youtube.com/watch?v=m34RI500OFU&ab_channel=InternationalUnionofCrystallography))|
 | [Assessing the Quality of 3D Structures](https://www.rcsb.org/docs/general-help/assessing-the-quality-of-3d-structures)| |
 | [An Introduction to Applied Bioinformatics](https://readiab.org/introduction.html)| core concepts in bioinformatics and algorithms with scikit-learn and scikit-bio |
-
+| [](https://bioinf.comav.upv.es/courses/sequence_analysis/index.html)| introduction sequence-based analysis and  NGS reads |
+| []()| |
 
 
 # Machine/deep learning courses
