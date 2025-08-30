@@ -185,7 +185,7 @@ Tools for:
 | [salad](https://github.com/mjendrusch/salad) | structure generation with sparse all-atom denoising models |
 | [EnzymeFlow](https://github.com/WillHua127/EnzymeFlow) | generate catalytic pockets for specific substrates and catalytic reactions |
 | [GENzyme](https://github.com/WillHua127/GENzyme) | design of catalytic pockets, enzymes, and enzyme-substrate complexes for any reaction |
-| []() |  |
+| [BindCraft](https://github.com/martinpacesa/BindCraft) | binder design pipeline |
 
 # Inverse folding
 | Name | Description | 
