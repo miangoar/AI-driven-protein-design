@@ -22,7 +22,7 @@
 | [Eigensteve](https://www.youtube.com/@Eigensteve) |
 | [Jia-Bin Huang](https://www.youtube.com/@jbhuang0604) |
 | [Eigensteve](https://www.youtube.com/@Eigensteve) | 
-
+| [Data with Baraa](https://www.youtube.com/@DataWithBaraa/) |
 
 # Youtube channels for Mathematics 
 | Video |
