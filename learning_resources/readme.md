@@ -162,3 +162,6 @@
 | [james lingford](https://www.jameslingford.com/blog/) |
 | [statements](https://github.com/RILAB/statements) |
 | [booleanbiotech](https://blog.booleanbiotech.com/archives) | 
+| [xgblog](https://www.xgblog.ai/) |
+| []() |
+
