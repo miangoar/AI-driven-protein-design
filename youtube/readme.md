@@ -23,6 +23,9 @@
 | [Jia-Bin Huang](https://www.youtube.com/@jbhuang0604) |
 | [Eigensteve](https://www.youtube.com/@Eigensteve) | 
 | [Data with Baraa](https://www.youtube.com/@DataWithBaraa/) |
+| [BranchEducation](https://www.youtube.com/@BranchEducation) |
+| []() |
+
 
 # Youtube channels for Mathematics 
 | Video |
