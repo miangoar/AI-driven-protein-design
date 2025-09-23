@@ -52,6 +52,7 @@
 | [topicosnucleicos4499](https://www.youtube.com/@topicosnucleicos4499) |
 | [Bioinformaticsinsights](https://www.youtube.com/@Bioinformaticsinsights) |
 | [ComputationalIntelligenceGroup](https://www.youtube.com/@ComputationalIntelligenceGroup/videos) |
+| [Omixium_ai](https://www.youtube.com/@Omixium_ai) |
 
 # Videos recomendados
 | Tema | Descripcion | Link a Youtube|
