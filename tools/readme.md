@@ -43,13 +43,14 @@ Tools for:
 | [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) | a MSA-trimming algorithm for accurate phylogenomic inference |
 | [PLMAlign](https://github.com/maovshao/PLMAlign) | utilizes per-residue embeddings as input to obtain specific alignments and more refined similarity |
 | [csvtk](https://github.com/shenwei356/csvtk) | CSV/TSV manip MSA (3M protein sequences in 5min and 24GB of RAM) |
+| []() |  |
 
 # Homology search
 | Name | Description | 
 |-----------|-----------|
 | [foldmason](https://github.com/steineggerlab/foldmason) | Multiple Protein Structure Alignment at Scale |
 | [pyjess](https://github.com/althonos/pyjess) | constraint-based structural template matching to identify catalytic residues from a known template |
-
+| [Spacedust](https://github.com/soedinglab/Spacedust) | identification of conserved gene clusters among genomes based on homology and conservation of gene neighborhood |
 
 # Structure search and comparison
 | Name | Description | 
@@ -137,6 +138,8 @@ Tools for:
 | [fold_tree](https://github.com/DessimozLab/fold_tree) |  construct trees from protein structures |
 | [3diphy](https://github.com/nmatzke/3diphy) | Maximum likelihood structural phylogenetics by including Foldseek 3Di characters |
 | []() |  |
+
+
 
 # MSA
 | Name | Description | 
