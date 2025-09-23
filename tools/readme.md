@@ -283,6 +283,7 @@ Tools for:
 | [ByProt (LM-Design)](https://github.com/bytedprotein/ByProt) | reprogramming pretrained protein LMs as generative models |
 | [scikit-bio](https://github.com/scikit-bio/scikit-bio) | data structures, algorithms and educational resources for bioinformatics |
 | [prosculpt](https://github.com/ajasja/prosculpt) | encapsulates RFDiffusion, ProteinMPNN, AlphaFold2, and Rosetta into an easy-to-use workflow |
+| [BinderFlow](https://github.com/cryoEM-CNIO/BinderFlow) | parallelised pipeline for protein binder design (i.e. RFD > ProteinMPNN > AF2 + Scoring) | 
 | [BindCraft](https://github.com/martinpacesa/BindCraft) | binder design pipeline (See also the [wiki-tutorial](https://github.com/martinpacesa/BindCraft/wiki/De-novo-binder-design-with-BindCraft)) |
 
 
