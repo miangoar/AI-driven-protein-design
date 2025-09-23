@@ -349,7 +349,7 @@ Tools for:
 | [pyod](https://github.com/yzhao062/pyod) | Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques |
 | [autokeras](https://autokeras.com/) | AutoML system based on Keras |
 | [numba](https://github.com/numba/numba) | NumPy aware dynamic Python compiler  |
-| []() |  |
+| [langextract](https://github.com/google/langextract) | extracting structured information from unstructured text using LLMs |
 
 
 
