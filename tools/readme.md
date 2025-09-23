@@ -344,6 +344,11 @@ Tools for:
 | [skrub](https://github.com/skrub-data/skrub/) | doing machine learning with dataframes (see also the [learning materials](https://skrub-data.org/skrub-materials/index.html))|
 | [pyod](https://github.com/yzhao062/pyod) | Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques |
 | [autokeras](https://autokeras.com/) | AutoML system based on Keras |
+| [numba](https://github.com/numba/numba) | NumPy aware dynamic Python compiler  |
+| []() |  |
+
+
+
 
 # statistics
 | Name | Description | 
