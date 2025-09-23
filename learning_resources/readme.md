@@ -94,7 +94,7 @@
 | [PyTorch in One Hour](https://sebastianraschka.com/teaching/pytorch-1h/)| introduction to PyTorch, from Tensors to Training Neural Networks on Multiple GPUs|
 | [Transformers from Scratch](https://e2eml.school/transformers.html)| guide to undestand the transormer architecture  |
 | [Understanding Deep Learning](https://udlbook.github.io/udlbook/)| resources or students and teachers |
-| []()| |
+| [Deep Learning with Python 3th ed](https://deeplearningwithpython.io/)|an introduction to deep learning and main frameworks |
 
 
 # Math courses
