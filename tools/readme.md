@@ -201,7 +201,7 @@ Tools for:
 | [LASErMPNN ](https://github.com/polizzilab/LASErMPNN) | All-Atom (Including Hydrogen!) Ligand-Conditioned Protein Sequence Design & Sidechain Packing Model |
 | [HyperMPNN](https://github.com/meilerlab/HyperMPNN) | design thermostable proteins learned from hyperthermophiles |
 | [ThermoMPNN](https://github.com/Kuhlman-Lab/ThermoMPNN) | predict changes in thermodynamic stability for protein point mutants |
-| [](https://github.com/BytedProtein/ByProt) | Efficient non-autoregressive ProteinMPNN variant |
+| [ByProt](https://github.com/BytedProtein/ByProt) | Efficient non-autoregressive ProteinMPNN variant |
 | []() |  |
 
 
@@ -288,6 +288,8 @@ Tools for:
 | [prosculpt](https://github.com/ajasja/prosculpt) | encapsulates RFDiffusion, ProteinMPNN, AlphaFold2, and Rosetta into an easy-to-use workflow |
 | [BinderFlow](https://github.com/cryoEM-CNIO/BinderFlow) | parallelised pipeline for protein binder design (i.e. RFD > ProteinMPNN > AF2 + Scoring) | 
 | [BindCraft](https://github.com/martinpacesa/BindCraft) | binder design pipeline (See also the [wiki-tutorial](https://github.com/martinpacesa/BindCraft/wiki/De-novo-binder-design-with-BindCraft)) |
+| [FreeBindCraft](https://github.com/cytokineking/FreeBindCraft) | BindCraft modified to make PyRosetta use and installation optional, i.e. no license needed |
+| []() |  |
 
 
 
