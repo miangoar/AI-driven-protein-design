@@ -395,8 +395,8 @@ Tools for:
 | [weblogo](https://weblogo.threeplusone.com/) |  generation of sequence logos |
 | [interprot](https://interprot.com/#/) | inspect relevant features derived from protein language models in a particular protein |
 | [Protein icons](https://bsky.app/profile/maxfus.bsky.social/post/3lobecnwdsc2w) |  How to create specific protein icons with ChatGPT |
+| [termal](https://github.com/sib-swiss/termal) |  examining MSAs in a terminal |
 | []() |  |
-
 
 # datavis
 | Name | Description | 
