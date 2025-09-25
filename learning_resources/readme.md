@@ -62,6 +62,8 @@
 | [An Introduction to Applied Bioinformatics](https://readiab.org/introduction.html)| core concepts in bioinformatics and algorithms with scikit-learn and scikit-bio |
 | [NGS sequence analysis](https://bioinf.comav.upv.es/courses/sequence_analysis/index.html)| introduction sequence-based analysis and  NGS reads |
 | [Using BLAST on the command line](https://jvanheld.github.io/using_IFB_NNCR/practicals/blast_proteome/blast_proteome.html)| How to search and analyze protein sequnces with BLAST |
+| [A primer on molecular dynamics](https://www.owlposting.com/p/a-primer-on-molecular-dynamics) |  Introduction to molecular dynamics |
+| []() | | 
 
 
 # Machine/deep learning courses
