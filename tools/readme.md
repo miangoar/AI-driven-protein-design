@@ -288,7 +288,7 @@ Tools for:
 | [prosculpt](https://github.com/ajasja/prosculpt) | encapsulates RFDiffusion, ProteinMPNN, AlphaFold2, and Rosetta into an easy-to-use workflow |
 | [BinderFlow](https://github.com/cryoEM-CNIO/BinderFlow) | parallelised pipeline for protein binder design (i.e. RFD > ProteinMPNN > AF2 + Scoring) | 
 | [BindCraft](https://github.com/martinpacesa/BindCraft) | binder design pipeline (See also the [wiki-tutorial](https://github.com/martinpacesa/BindCraft/wiki/De-novo-binder-design-with-BindCraft)) |
-| [FreeBindCraft](https://github.com/cytokineking/FreeBindCraft) | BindCraft modified to make PyRosetta use and installation optional, i.e. no license needed |
+| [FreeBindCraft](https://github.com/cytokineking/FreeBindCraft) | BindCraft modified to make PyRosetta use and installation optional, i.e. no license needed ([more details](https://www.ariax.bio/resources/freebindcraft-open-source-unleashed))|
 | []() |  |
 
 
