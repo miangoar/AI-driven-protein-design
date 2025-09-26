@@ -137,8 +137,8 @@ Tools for:
 | [torchtree](https://github.com/4ment/torchtree) | probabilistic framework in PyTorch for phylogenetic models |
 | [fold_tree](https://github.com/DessimozLab/fold_tree) |  construct trees from protein structures |
 | [3diphy](https://github.com/nmatzke/3diphy) | Maximum likelihood structural phylogenetics by including Foldseek 3Di characters |
+| [PhyKIT](https://github.com/JLSteenwyk/PhyKIT) | toolkit for processing and analyzing MSAs and phylogenies |
 | []() |  |
-
 
 
 # MSA
