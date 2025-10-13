@@ -355,6 +355,8 @@ Tools for:
 | [autokeras](https://autokeras.com/) | AutoML system based on Keras |
 | [numba](https://github.com/numba/numba) | NumPy aware dynamic Python compiler  |
 | [langextract](https://github.com/google/langextract) | extracting structured information from unstructured text using LLMs |
+| [cleanlab](https://github.com/cleanlab/cleanlab) | clean data and labels by automatically |
+| []() |  |
 
 
 
