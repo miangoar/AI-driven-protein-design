@@ -1,4 +1,4 @@
-# Awesome AI based protein science
+# A roadmap for AI-driven protein design
 <img src="https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/roadmap.png" alt="Description" width="900" height="auto">
 
 # Content list
