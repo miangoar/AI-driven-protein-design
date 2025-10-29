@@ -70,7 +70,6 @@
 # Machine/deep learning courses
 | Name | Description | 
 |-----------|-----------| 
-| [huggingface NLP course](https://huggingface.co/learn/nlp-course/en/chapter1/1) | | 
 | [Large Language Model Course](https://github.com/mlabonne/llm-course) | |
 | [Applied Machine Learning in Python: a Hands-on Guide with Code](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) | |
 | [ml-engineering](https://github.com/stas00/ml-engineering) | | 
@@ -90,7 +89,6 @@
 | [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)| up-to-date overview of the field of (deep) reinforcement learning and sequential decision making |
 | [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs](https://arxiv.org/abs/2408.13296)| from LoRA to reinforcement learning |
 | [Foundations of Computer Vision``](https://visionbook.mit.edu/)| Foundations of Computer Vision`foundational topics within computer vision, with an image processing and machine learning perspective |
-| [🤗 LLM course ](https://huggingface.co/learn/llm-course/chapter1/1)| |
 | [LoRA Hyperparameters Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide/lora-hyperparameters-guide)| Best practices for LoRA hyperparameters and how they affect the fine-tuning process |
 | [LLM Embeddings Explained](https://huggingface.co/spaces/hesamation/primer-llm-embedding)| fundamentals of embeddings |
 | [LLM Inference Handbook](https://bentoml.com/llm/)| everything you need to know about LLM inference |
@@ -105,6 +103,7 @@
 # LLMs and difussion models
 | Name | Description | 
 |-----------|-----------| 
+| [huggingface learn](https://huggingface.co/learn) | Learn to use the huggingface ecosystem. Check out the [lm-course](https://huggingface.co/learn/llm-course/chapter1/1) and [smol-course](https://huggingface.co/learn/smol-course/unit0/1) to learn about LLMs and fine-tuning and [Diffusion Models Course](https://huggingface.co/learn/diffusion-course/unit0/1) for difussion models|
 | [The Principles of Diffusion Models](https://www.arxiv.org/abs/2510.21890)|  core ideas that shaped diffusion modeling and explains how today’s models work, why they work, and where they’re heading |
 | []()| |
 | []()| |
