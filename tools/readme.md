@@ -420,6 +420,9 @@ Tools for:
 | [morethemes](https://github.com/JosephBARBIERDARNAL/morethemes) | More themes for matplotlib |
 | [jsoncrack](https://github.com/AykutSarac/jsoncrack.com) | visualization application that transforms data formats such as JSON, YAML, XML, CSV and more, into interactive graphs |
 | [torchvista](https://github.com/sachinhosmani/torchvista) | visualize the forward pass of a PyTorch model directly in the notebook |
+| [bivario](https://github.com/RaczeQ/bivario) | plotting bivariate choropleth maps |
+| []() |  |
+| []() |  |
 
 
 # webservers
