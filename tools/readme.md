@@ -401,7 +401,7 @@ Tools for:
 | [interprot](https://interprot.com/#/) | inspect relevant features derived from protein language models in a particular protein |
 | [Protein icons](https://bsky.app/profile/maxfus.bsky.social/post/3lobecnwdsc2w) |  How to create specific protein icons with ChatGPT |
 | [termal](https://github.com/sib-swiss/termal) |  examining MSAs in a terminal |
-| []() |  |
+| [py2Dmol](https://github.com/sokrypton/py2Dmol) | visualizing biomolecular structures in 2D in Google Colab and Jupyter environments |
 
 # datavis
 | Name | Description | 
