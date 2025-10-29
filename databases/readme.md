@@ -81,7 +81,7 @@
 | [Protein Dimension DB](https://github.com/pentalpha/protein_dimension_db) | Datasets with PLM embeddings, GO annotations and taxonomy representations for all proteins in Uniprot/Swiss-Prot  |
 | [Protein Embeddings](https://www.uniprot.org/help/embeddings) | per-protein and per-residue embeddings using the ProtT5 model for UniProtKB/Swiss-Prot |
 | [globdb](https://globdb.org/) | Derreplecated and annotated genomes derived from 14 DBs that represents ~838M protein sequences. Clustering them resulted in ~83M non-singleton clusters with available ProtT5-XL-U50 embeddings |
-| []() |   |
+| [DPEB](https://github.com/deepdrugai/DPEB) | AlphaFold2, ESM2, ProtTrans embeddings for 22,043 human proteins |
 
 
 
