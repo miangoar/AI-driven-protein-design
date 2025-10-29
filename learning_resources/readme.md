@@ -129,7 +129,7 @@
 | [Matplotlib Fundamentals](https://www.youtube.com/playlist?list=PLp0BA-8NZ4bj0HKsK2ZpDkvHCkayxyp0s)| Data Visualization in Python |
 | [The Open-Source Project](https://digital-work-lab.github.io/open-source-project/)| educational resources to teach python package development (see also the associated [preprint](https://github.com/openjournals/jose-reviews/issues/292#issuecomment-3057699562)) |
 | [Diplomado en Ciencia de Datos con Python](https://github.com/GAL-Repository/EDA_Stuff) | python and statistical analysis with common librearies like numpy, seaborn and pandas | 
-| []() |
+| [Introduction to computer vision and Programming Using Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB) | The title is clear | 
 
 # Data viz
 | Tema | 
