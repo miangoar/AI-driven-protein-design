@@ -100,6 +100,15 @@
 | [Deep Learning with Python 3th ed](https://deeplearningwithpython.io/)|an introduction to deep learning and main frameworks |
 
 
+# LLMs and difussion models
+| Name | Description | 
+|-----------|-----------| 
+| [The Principles of Diffusion Models](https://www.arxiv.org/abs/2510.21890)|  core ideas that shaped diffusion modeling and explains how today’s models work, why they work, and where they’re heading |
+| []()| |
+| []()| |
+| []()| |
+| []()| |
+
 # Math courses
 | Name | Description | 
 |-----------|-----------| 
