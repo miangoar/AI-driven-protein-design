@@ -98,6 +98,8 @@
 | [Transformers from Scratch](https://e2eml.school/transformers.html)| guide to undestand the transormer architecture  |
 | [Understanding Deep Learning](https://udlbook.github.io/udlbook/)| resources or students and teachers |
 | [Deep Learning with Python 3th ed](https://deeplearningwithpython.io/)|an introduction to deep learning and main frameworks |
+| [Data Science Fundamentals](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVEdjHo41QS0bLWJi5KMk5m)| data preprocessing, statistical analysis, machine learning, and big data techniques |
+| []()| |
 
 
 # LLMs and difussion models
