@@ -101,6 +101,14 @@
 
 https://harrisbio.substack.com/p/the-techbio-company-database
 
+# Machine learning datasets
+| Repo | Descripcion | 
+|-----------|-----------| 
+| [pmlb](https://github.com/EpistasisLab/pmlb) |  datasets for evaluating supervised algorithms |
+| [faker](https://github.com/joke2k/faker) | generates fake data |
+| []() |   |
+
+
 # Repositorios utiles  
 | Repo | Descripcion | 
 |-----------|-----------| 
