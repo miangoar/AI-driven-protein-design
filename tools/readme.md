@@ -356,7 +356,7 @@ Tools for:
 | [numba](https://github.com/numba/numba) | NumPy aware dynamic Python compiler  |
 | [langextract](https://github.com/google/langextract) | extracting structured information from unstructured text using LLMs |
 | [cleanlab](https://github.com/cleanlab/cleanlab) | clean data and labels by automatically |
-| []() |  |
+| [dtype_diet](https://github.com/noklam/dtype_diet) | Optimize your memory consumption when using pandas by changing dtypes without data loss  |
 
 
 
