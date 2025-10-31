@@ -318,7 +318,7 @@ Tools for:
 | [useful_rdkit_utils](https://github.com/PatWalters/useful_rdkit_utils) | A collection of useful RDKit and sci-kit learn functions |
 | [deepchem](https://github.com/deepchem/deepchem) | toolchain that democratizes the use of deep-learning in drug discovery, materials science, quantum chemistry, and biology. |
 | [nvMolKit](https://github.com/NVIDIA-Digital-Bio/nvMolKit) | GPU-accelerated library for key computational chemistry tasks, such as molecular similarity, conformer generation, and geometry relaxation |
-| []() |  |
+| [deepchem](https://github.com/deepchem/deepchem) | toolkit for drug discovery, materials science, quantum chemistry, and biology |
 
 
 
