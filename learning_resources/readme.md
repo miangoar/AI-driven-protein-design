@@ -98,6 +98,9 @@
 | [Deep Learning with Python 3th ed](https://deeplearningwithpython.io/)|an introduction to deep learning and main frameworks |
 | [Data Science Fundamentals](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVEdjHo41QS0bLWJi5KMk5m)| data preprocessing, statistical analysis, machine learning, and big data techniques |
 | [Machine Learning For Beginners with python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) | 42 tutorials to get started in ML |
+| [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook) | how to design and train a LLM from scratch | 
+| []() | | 
+| []() | | 
 
 
 # LLMs and difussion models
