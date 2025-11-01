@@ -402,7 +402,7 @@ Tools for:
 | [Protein icons](https://bsky.app/profile/maxfus.bsky.social/post/3lobecnwdsc2w) |  How to create specific protein icons with ChatGPT |
 | [termal](https://github.com/sib-swiss/termal) |  examining MSAs in a terminal |
 | [py2Dmol](https://github.com/sokrypton/py2Dmol) | visualizing biomolecular structures in 2D in Google Colab and Jupyter environments |
-| [Nano Protein Viewer](https://marketplace.visualstudio.com/items?itemName=StevenYu.nano-protein-viewer) | protein structure viewer in VScode ([check out this tutorial](youtu.be/srDyhfhoDm8))|
+| [Nano Protein Viewer](https://marketplace.visualstudio.com/items?itemName=StevenYu.nano-protein-viewer) | protein structure viewer in VScode ([check out this tutorial](https://youtu.be/srDyhfhoDm8))|
 | []() |  |
 | []() |  |
 | []() |  |
