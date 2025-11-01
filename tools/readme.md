@@ -202,8 +202,8 @@ Tools for:
 | [HyperMPNN](https://github.com/meilerlab/HyperMPNN) | design thermostable proteins learned from hyperthermophiles |
 | [ThermoMPNN](https://github.com/Kuhlman-Lab/ThermoMPNN) | predict changes in thermodynamic stability for protein point mutants |
 | [ByProt](https://github.com/BytedProtein/ByProt) | Efficient non-autoregressive ProteinMPNN variant |
+| [Caliby](https://github.com/ProteinDesignLab/caliby) | Potts model-based protein sequence design method that can condition on structural ensembles |
 | []() |  |
-
 
 # Function prediction/annotation
 | Name | Description | 
