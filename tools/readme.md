@@ -401,10 +401,10 @@ Tools for:
 | [interprot](https://interprot.com/#/) | inspect relevant features derived from protein language models in a particular protein |
 | [Protein icons](https://bsky.app/profile/maxfus.bsky.social/post/3lobecnwdsc2w) |  How to create specific protein icons with ChatGPT |
 | [termal](https://github.com/sib-swiss/termal) |  examining MSAs in a terminal |
-| [py2Dmol](https://github.com/sokrypton/py2Dmol) | visualizing biomolecular structures in 2D in Google Colab and Jupyter environments |
+| [py2Dmol](https://github.com/sokrypton/py2Dmol) | visualizing biomolecular structures in 2D in Google Colab and Jupyter environments ([check out the website](https://py2dmol.solab.org/))|
 | [Nano Protein Viewer](https://marketplace.visualstudio.com/items?itemName=StevenYu.nano-protein-viewer) | protein structure viewer in VScode (try it using [web app](https://stevenyuyy.us/protein-viewer/) and also [check out this tutorial](https://youtu.be/srDyhfhoDm8))|
 | [Protein Viewer](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer) | visualisation of protein structures and molecular data in VScode |
-| []() |  |
+| [molview](https://github.com/54yyyu/molview) | IPython/Jupyter widget for interactive molecular visualization, based on Molstar |
 | []() |  |
 
 # datavis
