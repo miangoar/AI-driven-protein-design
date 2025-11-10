@@ -21,7 +21,7 @@
 | [autodock-vina tutorials](https://autodock-vina.readthedocs.io/en/latest/colab_examples.html) | how to run Autodock Vina, and the associated protein and ligand setup utilities on Google Colab |   |
 | [ColabFold protocol](https://github.com/steineggerlab/colabfold-protocol) | predicting protein mono-, multi-mer structures and conformations using ColabFold | NA  |
 | [Introductory Tutorials for Simulating Protein Dynamics with GROMACS](https://pubs.acs.org/doi/10.1021/acs.jpcb.4c04901) | Three exercises are detailed, including simulating a single protein, setting up a protein complex, and performing umbrella sampling simulations to model the unfolding of a short polypeptide  | | 
-| []() | |   |
+| [DL4Proteins Workshops](https://github.com/Graylab/DL4Proteins-notebooks) | Colab Notebooks covering deep learning tools for biomolecular structure prediction and design |   |
 | []() | |   |
 
 https://meilerlab.org/rosetta-workshop-2023/
