@@ -22,7 +22,8 @@
 | [illustrated-glossary.nejm.](https://illustrated-glossary.nejm.org/)| glossary for biomedical research |
 | [Python Tutor](https://pythontutor.com/)| step-by-step visual debugger and AI tutor to help you understand and debug code |
 | [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/abs/2406.08929)| diffusion models and flow matching aimed at a technical audience with no diffusion experience |
-| []()| |
+| [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)| a guide of common mistakes that occur when using machine learning, and how to avoid them |
+| []() | |
 
 # Bioinformatics courses
 | Name | Description | 
