@@ -65,6 +65,7 @@
 | [Using BLAST on the command line](https://jvanheld.github.io/using_IFB_NNCR/practicals/blast_proteome/blast_proteome.html)| How to search and analyze protein sequnces with BLAST |
 | [A primer on molecular dynamics](https://www.owlposting.com/p/a-primer-on-molecular-dynamics) |  Introduction to molecular dynamics |
 | [mlchem](https://xuhuihuang.github.io/mlchem/html/index.html) |  applying ML methods to chemical datasets | 
+| [Introduction to Molecular Animation with ChimeraX](https://pdb101.rcsb.org/train/training-events/animation) | how to use ChimeraX to create simple animations | 
 | []() | | 
 
 
