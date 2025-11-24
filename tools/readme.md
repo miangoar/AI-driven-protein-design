@@ -406,7 +406,9 @@ Tools for:
 | [Nano Protein Viewer](https://marketplace.visualstudio.com/items?itemName=StevenYu.nano-protein-viewer) | protein structure viewer in VScode (try it using [web app](https://stevenyuyy.us/protein-viewer/) and also [check out this tutorial](https://youtu.be/srDyhfhoDm8))|
 | [Protein Viewer](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer) | visualisation of protein structures and molecular data in VScode |
 | [molview](https://github.com/54yyyu/molview) | IPython/Jupyter widget for interactive molecular visualization, based on Molstar |
+| [ProteinCHAOS](https://dzyla.github.io/ProteinCHAOS/) | an artistic tool inspired by molecular dynamics to capture protein flexibility over time |
 | []() |  |
+
 
 # datavis
 | Name | Description | 
