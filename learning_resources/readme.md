@@ -66,7 +66,7 @@
 | [A primer on molecular dynamics](https://www.owlposting.com/p/a-primer-on-molecular-dynamics) |  Introduction to molecular dynamics |
 | [mlchem](https://xuhuihuang.github.io/mlchem/html/index.html) |  applying ML methods to chemical datasets | 
 | [Introduction to Molecular Animation with ChimeraX](https://pdb101.rcsb.org/train/training-events/animation) | how to use ChimeraX to create simple animations | 
-| []() | | 
+| [Anatomy of BoltzGen](https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen) | Description of BoltzGen architecture (i.e. an AF3-like method) | 
 
 
 # Machine/deep learning courses
