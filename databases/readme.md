@@ -23,7 +23,7 @@
 | [gbrap](http://tacclab.org/gbrap/) | carefully curated, high-quality genome statistics for all the organisms available in the RefSeq containing more than 200 columns of useful genomic information (Base counts, GC content, Shannon Entropy, Codon Usage etc.)  |
 | [OMG, Open MetaGenomic Dataset](https://github.com/TattaBio/OMG) | 3.1T base pair metagenomic pretraining dataset, combining MGnify and IMG databases with translated amino acids for protein coding sequences, and nucleic acids for intergenic sequences |
 | [Dayhoff Atlas](https://huggingface.co/datasets/microsoft/Dayhoff) | GigaRef = 3.34B natural protein sequences (1.7B clusters); BackboneRef = 46M synthetic sequences; OpenProteinSet =  16M MSAs unrolled |
-| []() |   |
+| [vire](https://spire.embl.de/vire/) | 1.7M viral genomes recovered from >100k metagenomes from diverse ecosystems that contains >89M proteins |
 
 
 
