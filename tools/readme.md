@@ -292,7 +292,8 @@ Tools for:
 | [BinderFlow](https://github.com/cryoEM-CNIO/BinderFlow) | parallelised pipeline for protein binder design (i.e. RFD > ProteinMPNN > AF2 + Scoring) | 
 | [proteindj](https://github.com/PapenfussLab/proteindj) | pipeline for de novo binder design (i.e. RFD > ProteinMPNN > AF2 + Scoring) |
 | [ovo](https://github.com/MSDLLCpapers/ovo) | ecosystem for de novo protein design |
-
+| [IPSAE](https://github.com/DunbrackLab/IPSAE) | Scoring function for interprotein interactions in AlphaFold2 and AlphaFold3 |
+| []() |  |
 
 
 
