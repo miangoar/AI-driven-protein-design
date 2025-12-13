@@ -6,8 +6,6 @@
 | [uniclust](https://gwdu111.gwdg.de/%7Ecompbiol/uniclust/2023_02/) | clustered uniprot - [paper](https://academic.oup.com/nar/article/45/D1/D170/2605730) |
 | [gtdb](https://gtdb.ecogenomic.org/) | microbial genomes |
 | [Clustering NCBI's nr database](https://github.com/Arcadia-Science/2023-nr-clustering) | clustered nr at 90% length, 90% identity |
-| [protabank](https://www.protabank.org/) | protein-fitness datasets |
-| [mavedb](https://www.mavedb.org/) | protein-fitness datasets |
 | [huggingface-task](https://huggingface.co/tasks) | a collection of differente ML task and their respective models on HuggingFace |
 | [ProteinDesignLabs](https://github.com/Zuricho/ProteinDesignLabs) | List of computational protein design research labs |
 | [lukprot](https://zenodo.org/records/13829058) |  eukaryotic predicted proteins based on EukProtDB |
@@ -73,6 +71,9 @@
 | Repo | Descripcion | 
 |-----------|-----------|
 | [M-CSA](https://www.ebi.ac.uk/thornton-srv/m-csa/browse/) | Mechanism and Catalytic Site Atlas |
+| [Enzyme Engineering Database](https://enzengdb.org/) | sequence-function data from enzyme engineering campaigns  |
+| [protabank](https://www.protabank.org/) | protein-fitness datasets |
+| [mavedb](https://www.mavedb.org/) | protein-fitness datasets |
 | []() |   |
 
 # Embedding Databases
