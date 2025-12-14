@@ -65,7 +65,7 @@ Tools for:
 | [reseek](https://github.com/rcedgar/reseek) | structure alignment and search algorithm (see also [the webserver](https://reseek.online/))|
 | [tmtools](https://github.com/jvkersch/tmtools) | Python bindings for the TM-align algorithm and code for protein structure comparison |
 | [SoftAlign](https://github.com/jtrinquier/SoftAlign) | compare 3D protein structures |
-| []() |  |
+| [lahuta](https://bisejdiu.github.io/lahuta/) | calculate atomomic interactions |
 | []() |  |
 | []() |  |
 | []() |  |
