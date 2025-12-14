@@ -102,7 +102,7 @@
 | [Machine Learning For Beginners with python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) | 42 tutorials to get started in ML |
 | [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook) | how to design and train a LLM from scratch | 
 | [Stanford CME295 Transformers & LLMs](https://cme295.stanford.edu/syllabus/) | An introduction to transformers, LLMs, reasoning models, and their deployment| 
-| []() | | 
+| [From Random Forests to RLVR: A Short History of ML/AI Hello Worlds](https://sebastianraschka.com/blog/2025/hello-world-ai.html) | https://sebastianraschka.com/blog/2025/hello-world-ai.html | 
 
 
 # LLMs and difussion models
