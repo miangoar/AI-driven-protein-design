@@ -293,8 +293,8 @@ Tools for:
 | [proteindj](https://github.com/PapenfussLab/proteindj) | pipeline for de novo binder design (i.e. RFD > ProteinMPNN > AF2 + Scoring) |
 | [ovo](https://github.com/MSDLLCpapers/ovo) | ecosystem for de novo protein design |
 | [IPSAE](https://github.com/DunbrackLab/IPSAE) | Scoring function for interprotein interactions in AlphaFold2 and AlphaFold3 |
+| [bagel](https://github.com/softnanolab/bagel) | model-agnostic and gradient-free exploration of an energy landscape in the sequence space |
 | []() |  |
-
 
 
 # docking (ligands and proteins)
