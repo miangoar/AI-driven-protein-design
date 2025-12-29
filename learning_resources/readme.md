@@ -34,6 +34,7 @@
 | [alphafold2 explained](https://www.ai4pharm.info/alphafold2)| |
 | [AlphaFold3 Explained](https://www.ai4pharm.info/alphafold3)| |
 | [AlphaFold 3 Overview](https://alphafoldserver.com/guides) | |
+| [AlphaFold 3, Demystified](https://github.com/shenyichong/alphafold3-architecture-walkthrough)| A Comprehensive Technical Breakdown of Its Architecture and Design |
 | [AlphaFold. A practical guide](https://www.ebi.ac.uk/training/online/courses/alphafold/) | | 
 | [AlphaFold Decoded](https://www.youtube.com/watch?v=NSvp7RFegEs&list=PLJ0WcPQS7xJVJr6ceIPFSkAGAgrkmw1c9&ab_channel=AlphaFoldDecoded) and the [iGEM proyect](https://2024.igem.wiki/aachen/education) | |
 | [AlphaFold Education Summit](https://www.ebi.ac.uk/training/materials/alphafold-education-summit-materials/)| |
