@@ -53,6 +53,10 @@
 | [EcoFoldDB](https://github.com/timghaly/EcoFoldDB) | Database and pipeline for protein structure-guided annotations of ecologically relevant functions  |
 | [Unified Human Gut Virome Catalog](https://uhgv.jgi.doe.gov/) | 870k genomes, 1M protein sequence clusters and 56k representative predictes structures of viruses |
 | [alphasync](https://alphasync.stjude.org/) | residue-level features for predicted proteomes of model organisms with AlphaFold2  | 
+| [MONDE⋅T](https://mondet.tuebingen.mpg.de/) | curated set of 23,149 structures from PDB that contains 1,895 unique non-canonical amino acids  |
+| []() |   |
+
+
 
 # Sequence classiication 
 | Repo | Descripcion | 
