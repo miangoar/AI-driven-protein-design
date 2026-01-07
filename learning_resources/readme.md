@@ -111,7 +111,7 @@
 |-----------|-----------| 
 | [huggingface learn](https://huggingface.co/learn) | Learn to use the huggingface ecosystem. Check out the [lm-course](https://huggingface.co/learn/llm-course/chapter1/1) and [smol-course](https://huggingface.co/learn/smol-course/unit0/1) to learn about LLMs and fine-tuning and [Diffusion Models Course](https://huggingface.co/learn/diffusion-course/unit0/1) for difussion models|
 | [The Principles of Diffusion Models](https://www.arxiv.org/abs/2510.21890)|  core ideas that shaped diffusion modeling and explains how today’s models work, why they work, and where they’re heading |
-| []()| |
+| [Interpretability of Large Language Models](https://github.com/mega002/llm-interp-tau)| interpretability of LLMs |
 | []()| |
 | []()| |
 | []()| |
