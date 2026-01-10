@@ -148,8 +148,9 @@
 | [Introduction to computer vision and Programming Using Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB) | The title is clear | 
 | [Bash scripting quirks & safety tips](https://jvns.ca/blog/2017/03/26/bash-quirks/) | Bash basics and best practices for scripting | 
 | [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting/) |  basics of Bash scripting |
+| [Putting the “You” in CPU](https://cpu.land/) | how multiprocessing works, what system calls really are, how computers manage memory |
 | []() | |
-
+| []() | |
 
 # Data viz
 | Tema | 
@@ -166,7 +167,7 @@
 | [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) |
 | [Best practices for presenting and sharing AlphaFold models in a paper](https://australian-structural-biology-computing.github.io/website/best-practices-alphafold) |
 | [r psychologist](https://rpsychologist.com/viz) |
-| []() |
+| []() | |
 
 
 
