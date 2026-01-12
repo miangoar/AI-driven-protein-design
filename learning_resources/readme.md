@@ -68,7 +68,7 @@
 | [mlchem](https://xuhuihuang.github.io/mlchem/html/index.html) |  applying ML methods to chemical datasets | 
 | [Introduction to Molecular Animation with ChimeraX](https://pdb101.rcsb.org/train/training-events/animation) | how to use ChimeraX to create simple animations | 
 | [Anatomy of BoltzGen](https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen) | Description of BoltzGen architecture (i.e. an AF3-like method) | 
-
+| [lifemap](https://lifemap.cnrs.fr/)| interactive tree of life based on NCBI data | 
 
 # Machine/deep learning courses
 | Name | Description | 
