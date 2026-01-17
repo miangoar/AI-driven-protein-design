@@ -69,6 +69,9 @@
 | [Introduction to Molecular Animation with ChimeraX](https://pdb101.rcsb.org/train/training-events/animation) | how to use ChimeraX to create simple animations | 
 | [Anatomy of BoltzGen](https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen) | Description of BoltzGen architecture (i.e. an AF3-like method) | 
 | [lifemap](https://lifemap.cnrs.fr/)| interactive tree of life based on NCBI data | 
+| [Protein Design Skills](https://proteinbase.com/protein-design-skills) | Claude Code skills for protein design |
+| []() | | 
+
 
 # Machine/deep learning courses
 | Name | Description | 
