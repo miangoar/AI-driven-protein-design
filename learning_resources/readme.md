@@ -13,14 +13,43 @@
 # Courses 
 
 ## Python
-| Web | Descripcion | |
+| No. | Name | Description |
 |-----------|-----------|-----------|
 |
 |
 
+## Math
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| 001 | [Seeing-Theory](https://seeing-theory.brown.edu/) | Introduction to probability and statistics with interactive visualizations |
+|
+
+## Machine Learning, Deep Learning, data science
+| No. | Name | Description |
+|-----------|-----------|-----------|
+|
+|
+
+## Bioinformatics
+| No. | Name | Description |
+|-----------|-----------|-----------|
+|
+|
+
+
 # Useful publications 
+
+## Transformers, LLMs and diffusion models
 | Web | Descripcion | 
-|-----------|-----------| 
+| No. | Name | Description |
+|-----------|-----------|-----------|
+|
+
+## Machine Learning, Deep Learning, data science
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| 001 | [MLU-EXPLAIN](https://mlu-explain.github.io/) | Visual explanations of core machine learning concepts |
+|
 
 
 # Blogs
@@ -29,8 +58,6 @@
 
 
 
-| [MLU-EXPLAIN](https://mlu-explain.github.io/) | Blogs interactivos de conceptos y algortimos base de machine learning |
-| [Seeing-Theory](https://seeing-theory.brown.edu/) | Una introduccion a probabilidad y estadistica con animaciones didacticas  |
 | [Distill publications](https://distill.pub/) | Blogs interactivos sobre algoritmos de machine y deep learning |
 | [Neural Network SandBox](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.05854&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) | Blog para comprender las bases del funcionamiento de las redes neuronales |
 | [Stats illustrations](https://github.com/allisonhorst/stats-illustrations) | Ilustraciones para comprender conecptos base de estadistica |
