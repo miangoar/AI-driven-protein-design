@@ -53,7 +53,7 @@
 ## Bioinformatics
 | No. | Name | Description |
 |-----------|-----------|-----------|
-|
+| | [Running and parsing BLAST using the Linux command line](https://vinuesa.github.io/TIB-filoinfo/sesion3_BLAST/) | Basics of the BLAST algorithm and its results, along with useful AWK, Bash, Perl, and R code |
 |
 |
 |
@@ -69,6 +69,12 @@
 | | [AlphaFold. A practical guide](https://www.ebi.ac.uk/training/online/courses/alphafold/) | Understanding confidence scores, strengths, limitations, and basic theory about AlphaFold2  | 
 | | [AlphaFold Decoded](https://2024.igem.wiki/aachen/education ) | An explanation of the AlphaFold2 architecture, starting from the basics of tensors, deep learning, and geometry (Check out the [Youtube channel](youtube.com/@KilianMandon)) | 
 | | [AlphaFold Education Summit](https://www.ebi.ac.uk/training/materials/alphafold-education-summit-materials/)| Learn how to integrate AlphaFold into scientific research and education |
+| | [Rosetta Workshop 2024](https://meilerlab.org/rosetta-workshop-2024/) | Protein design with Rosetta and associated tools |
+| | [How to Create a Protein](https://github.com/universvm/how_to_create_a_protein) | Basics of biology and protein design for early-career students | 
+| | [Protein Modeling and Design with PyRosetta and Machine Learning](https://rosettacommons.github.io/PyRosetta.notebooks/) | Introduction to the fundmamental principles and tools for using PyRosetta (Check out the [Youtube playlist](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) and the [Reference paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8813091/)) |
+| | [Estefanía Tarifeño](https://www.youtube.com/@prof.estefaniatarifeno1108/playlists) | Introduction to protein science and bioinformatics (in Spanish) |
+|
+|
 |
 |
 
@@ -131,9 +137,9 @@
 ## Bioinformatics
 | No. | Name | Description |
 |-----------|-----------|-----------|
-| 001 | [NEJM Illustrated-glossary](https://illustrated-glossary.nejm.org/)| Glossary for biomedical research |
-|
-|
+|  | [NEJM Illustrated-glossary](https://illustrated-glossary.nejm.org/)| Glossary for biomedical research |
+| | [Glittr](https://glittr.org/) | GitHub repositories with educational material for the computational life sciences |
+| | [Sandbox BIO](https://sandbox.bio/) | Interactive bioinformatics tutorials |
 |
 |
 |
@@ -149,7 +155,7 @@
 | | [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/) | A visual walkthrough of the AlphaFold3 architecture with detailed diagrams |
 | | [An Opinionated AlphaFold3 Field Guide](https://research.dimensioncap.com/p/an-opinionated-alphafold3-field-guide)| An explanation of the architecture of Alphafold3 in simple-to-understand terms |
 | | [A Complete Guide to Protein Folding Prediction with RoseTTAFold](https://alchemybio.substack.com/p/a-complete-guide-to-protein-folding) | Theory and implementation of RoseTTAFold algorithms and architecture |
-|
+| | [Guide to undestanding PDB data](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/introduction) |  Guide to Understanding PDB Data (Also, check this video for [understanding PDB structure metrics](https://www.youtube.com/watch?v=I64r5DXiLN0&ab_channel=BioinformaticsInsights)) |
 |
 |
 
@@ -164,29 +170,12 @@
 
 
 
-
-
 -----------------------------------------------------------------------------------
 ----------------------- Trash --------------------------------------
 -----------------------------------------------------------------------------------
 
 
 
-
-
-
-
-
-
-| [rosettaworkshop 2024](https://meilerlab.org/rosetta-workshop-2024/) | |
-| [How to Create a Protein](https://github.com/universvm/how_to_create_a_protein) | | 
-| [PyRosetta](https://rosettacommons.github.io/PyRosetta.notebooks/), [Youtube playlist](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) and the [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8813091/) | |
-| [Protein Modeling and Design with PyRosetta and Machine Learning](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) | |
-| [Estefanía Tarifeño](https://www.youtube.com/@prof.estefaniatarifeno1108/playlists) | |
-| [glittr](https://glittr.org/) | |
-| [sandbox BIO](https://sandbox.bio/) | |
-| [BLAST](https://vinuesa.github.io/TIB-filoinfo/sesion3_BLAST/) | |
-| [Guide to undestanding PDB data](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/introduction) | (see also this [video](https://www.youtube.com/watch?v=I64r5DXiLN0&ab_channel=BioinformaticsInsights)) |
 | [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202) | |
 | [Algoritmos en Bioinformática Estructural](https://eead-csic-compbio.github.io/bioinformatica_estructural/) | |
 | [MSAs, and pHMM](https://vinuesa.github.io/TIB-filoinfo/sesion4_alineamientos/)| build and calibrate HMMs, run & parse HMMER3 programs & output efficiently on the Linux command line using AWK, Bash, and R |
