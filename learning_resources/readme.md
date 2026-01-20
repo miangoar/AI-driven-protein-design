@@ -1,6 +1,34 @@
-# Paginas web para aprender sobre las bases de machine learning   
+# Content
+- [Courses](#courses)
+  - [Python](#python)
+  - [Math](#math)
+  - [Machine Learning](#machine-learning)
+  - [Deep Learning](#deep-learning)
+  - [Data Science](#data-science)
+  - [Bioinformatics](#bioinformatics)
+- [Useful publications](#useful-publications)
+- [Blogs](#blogs)
+
+
+# Courses 
+
+## Python
+| Web | Descripcion | |
+|-----------|-----------|-----------|
+|
+|
+
+# Useful publications 
 | Web | Descripcion | 
 |-----------|-----------| 
+
+
+# Blogs
+| Web | Descripcion | 
+|-----------|-----------| 
+
+
+
 | [MLU-EXPLAIN](https://mlu-explain.github.io/) | Blogs interactivos de conceptos y algortimos base de machine learning |
 | [Seeing-Theory](https://seeing-theory.brown.edu/) | Una introduccion a probabilidad y estadistica con animaciones didacticas  |
 | [Distill publications](https://distill.pub/) | Blogs interactivos sobre algoritmos de machine y deep learning |
