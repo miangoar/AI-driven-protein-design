@@ -12,21 +12,41 @@
 
 # Courses 
 
-## Python
+## Python and computer science
 | No. | Name | Description |
 |-----------|-----------|-----------|
+| 001 | [cpu.land](https://cpu.land/) | What happens when you run a program on your computer |
+|
+|
+|
+|
+|
+|
 |
 |
 
+
+ 
 ## Math
 | No. | Name | Description |
 |-----------|-----------|-----------|
 | 001 | [Seeing-Theory](https://seeing-theory.brown.edu/) | Introduction to probability and statistics with interactive visualizations |
+| 
+|
+|
+|
+|
+|
 |
 
 ## Machine Learning, Deep Learning, data science
 | No. | Name | Description |
 |-----------|-----------|-----------|
+| 001 | [DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)| Interactive dashboards for learning data science |
+|
+|
+|
+|
 |
 |
 
@@ -35,22 +55,108 @@
 |-----------|-----------|-----------|
 |
 |
+|
+|
+|
+|
+|
 
+## Protein science
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| | [DL4Proteins Workshops](https://github.com/Graylab/DL4Proteins-notebooks) | Notebooks covering deep learning tools for biomolecular structure prediction and design |
+| | [AlphaFold 3 Overview](https://alphafoldserver.com/guides) | Understanding confidence scores, strengths, limitations, and basic theory about AlphaFold3 |
+| | [AlphaFold. A practical guide](https://www.ebi.ac.uk/training/online/courses/alphafold/) | Understanding confidence scores, strengths, limitations, and basic theory about AlphaFold2  | 
+| | [AlphaFold Decoded](https://2024.igem.wiki/aachen/education ) | An explanation of the AlphaFold2 architecture, starting from the basics of tensors, deep learning, and geometry (Check out the [Youtube channel](youtube.com/@KilianMandon)) | 
+| | [AlphaFold Education Summit](https://www.ebi.ac.uk/training/materials/alphafold-education-summit-materials/)| Learn how to integrate AlphaFold into scientific research and education |
+|
+|
+
+
+-----------------------------------------------------------------------------------
+--------------------------- post --------------------------------
+-----------------------------------------------------------------------------------
 
 # Useful publications 
 
-## Transformers, LLMs and diffusion models
-| Web | Descripcion | 
+## Python and computer science
 | No. | Name | Description |
 |-----------|-----------|-----------|
+| 001 | [Developer Roadmaps](https://roadmap.sh/) | Roadmaps to help developers choose a learning path |
+| 002 | [Python Tutor](https://pythontutor.com/)| Step-by-step visual debugger and AI tutor to help you understand and debug code |
+|
+|
+|
+
+## Math
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| 001 | [Stats illustrations](https://github.com/allisonhorst/stats-illustrations) | R & stats illustrations |
+| | [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) | Matrix calculus for deep learning, no math background assumed |
+|
+|
+|
+|
+|
+
+
+## Transformers, LLMs and diffusion models
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| 001 | [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/) | A visual explanation of Transformers |
+| 002 | [Diffusion Models](https://andrewkchan.dev/posts/diffusion.html) | Notes on the theory behind models like Stable Diffusion and their applications |
+| 003 | [Transformer Explainer](https://huggingface.co/papers/2408.04619) | Interactive visualization of Transformers | 
+| 004 | [LLM Visualization](https://bbycroft.net/llm) | Interactive visualization of Transformers |
+| | [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/abs/2406.08929)| Diffusion models and flow matching aimed at a technical audience with no diffusion experience |
+|
 |
 
 ## Machine Learning, Deep Learning, data science
 | No. | Name | Description |
 |-----------|-----------|-----------|
 | 001 | [MLU-EXPLAIN](https://mlu-explain.github.io/) | Visual explanations of core machine learning concepts |
+| 002 | [Distill publications](https://distill.pub/) | Visual explanations of core machine and deep learning concepts |
+| 003 | [Neural Network SandBox](playground.tensorflow.org) | Interactive visualization of neural networks |
+| 004 | [ML Code Challenges](https://www.deep-ml.com/) | Practice Machine Learning and Data Science problems |
+| | [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)| Common mistakes when using machine learning, and how to avoid them |
+|
+|
+|
+|
+|
+|
+|
 |
 
+## Bioinformatics
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| 001 | [NEJM Illustrated-glossary](https://illustrated-glossary.nejm.org/)| Glossary for biomedical research |
+|
+|
+|
+|
+|
+|
+
+## Protein science
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| 001 | [PDBx/mmCIF Dictionary Resources](https://mmcif.wwpdb.org/)| Information about the format, dictionaries and tools used by the PDB to define entries | 
+| 002 | [alphafold2 explained](https://www.ai4pharm.info/alphafold2)| An explanation of the architecture of alphafold2 and its training |
+| 003 | [AlphaFold3 Explained](https://www.ai4pharm.info/alphafold3)| An explanation of the architecture of Alphafold3 and its training |
+| | [AlphaFold 3, Demystified](https://github.com/shenyichong/alphafold3-architecture-walkthrough)| Detailed explanation of the inputs, outputs, and algorithms of AlphaFold 3 |
+| | [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/) | A visual walkthrough of the AlphaFold3 architecture with detailed diagrams |
+| | [An Opinionated AlphaFold3 Field Guide](https://research.dimensioncap.com/p/an-opinionated-alphafold3-field-guide)| An explanation of the architecture of Alphafold3 in simple-to-understand terms |
+| | [A Complete Guide to Protein Folding Prediction with RoseTTAFold](https://alchemybio.substack.com/p/a-complete-guide-to-protein-folding) | Theory and implementation of RoseTTAFold algorithms and architecture |
+|
+|
+|
+
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 
 # Blogs
 | Web | Descripcion | 
@@ -58,41 +164,20 @@
 
 
 
-| [Distill publications](https://distill.pub/) | Blogs interactivos sobre algoritmos de machine y deep learning |
-| [Neural Network SandBox](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.05854&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) | Blog para comprender las bases del funcionamiento de las redes neuronales |
-| [Stats illustrations](https://github.com/allisonhorst/stats-illustrations) | Ilustraciones para comprender conecptos base de estadistica |
-| [3Blue1Brown ](https://www.youtube.com/@3blue1brown) | Videos con interpretaciones graficas sobre conceptos matematicos |
-| [cpu.land](https://cpu.land/) | Una breve introduccion al computo en CPUs |
-| [tensorflow SandBox](https://playground.tensorflow.org/) | Pagina interactiva para aprender las bases del funcionamiento de las redes neuronales|
-| [generative-ai](https://ig.ft.com/generative-ai/) | Introduccion a modelos generativos|
-| [diffusion](https://andrewkchan.dev/posts/diffusion.html) | Introduccion a modelos de difusion|
-| [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/) | explicacion de la arquitectura de AlphaFold3 |
-| [An Opinionated AlphaFold3 Field Guide](https://research.dimensioncap.com/p/an-opinionated-alphafold3-field-guide)| break down every part of AlphaFold3 in simple-to-understand terms |
-| [Transformer Explainer: Interactive Learning of Text-Generative Models](https://huggingface.co/papers/2408.04619) | version interactiva de la arquitectura de GPT2 |
-| [LLM Visualization](https://bbycroft.net/llm) | version interactiva de la arquitectura base de GPT |
-| [Developer Roadmaps](https://roadmap.sh/) | roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings |
-| [ML Code Challenges](https://www.deep-ml.com/) | code practices about machine and deep learning |
-| [ The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) | tal cual |
-| [DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)| interactive dashboards for learning data science (e.g. PCA, random forest, etc.) |
-| [illustrated-glossary.nejm.](https://illustrated-glossary.nejm.org/)| glossary for biomedical research |
-| [Python Tutor](https://pythontutor.com/)| step-by-step visual debugger and AI tutor to help you understand and debug code |
-| [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/abs/2406.08929)| diffusion models and flow matching aimed at a technical audience with no diffusion experience |
-| [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)| a guide of common mistakes that occur when using machine learning, and how to avoid them |
-| []() | |
 
-# Bioinformatics courses
-| Name | Description | 
-|-----------|-----------| 
-| [DL4Proteins Workshops](https://github.com/Graylab/DL4Proteins-notebooks) | Notebooks covering deep learning tools for biomolecular structure prediction and design |
-| [PDBx/mmCIF Dictionary Resources](https://mmcif.wwpdb.org/)| | 
-| [A Complete Guide to Protein Folding Prediction with RoseTTAFold](https://alchemybio.substack.com/p/a-complete-guide-to-protein-folding) | |
-| [alphafold2 explained](https://www.ai4pharm.info/alphafold2)| |
-| [AlphaFold3 Explained](https://www.ai4pharm.info/alphafold3)| |
-| [AlphaFold 3 Overview](https://alphafoldserver.com/guides) | |
-| [AlphaFold 3, Demystified](https://github.com/shenyichong/alphafold3-architecture-walkthrough)| A Comprehensive Technical Breakdown of Its Architecture and Design |
-| [AlphaFold. A practical guide](https://www.ebi.ac.uk/training/online/courses/alphafold/) | | 
-| [AlphaFold Decoded](https://www.youtube.com/watch?v=NSvp7RFegEs&list=PLJ0WcPQS7xJVJr6ceIPFSkAGAgrkmw1c9&ab_channel=AlphaFoldDecoded) and the [iGEM proyect](https://2024.igem.wiki/aachen/education) | |
-| [AlphaFold Education Summit](https://www.ebi.ac.uk/training/materials/alphafold-education-summit-materials/)| |
+
+-----------------------------------------------------------------------------------
+----------------------- Trash --------------------------------------
+-----------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
 | [rosettaworkshop 2024](https://meilerlab.org/rosetta-workshop-2024/) | |
 | [How to Create a Protein](https://github.com/universvm/how_to_create_a_protein) | | 
 | [PyRosetta](https://rosettacommons.github.io/PyRosetta.notebooks/), [Youtube playlist](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) and the [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8813091/) | |
