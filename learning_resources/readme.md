@@ -1,4 +1,4 @@
-# Content
+# Content list
 - [Courses](#courses)
   - [Python](#python)
   - [Math](#math)
