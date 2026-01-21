@@ -1,22 +1,22 @@
 # Content list
+1. [Protein sequences](#sequences)
+2. [Protein structures](#structures)
+3. [Structure prediction](#structure-prediction)
+4. [Molecular dynamics](#molecular-dynamics)
+5. [Representation learning](#representation-learning)
+6. [Protein engineering](#protein-engineering)
+7. [Generative AI with difussion models](#generative-AI-with-difussion-models)
+8. [Generative AI with LLM](#generative-AI-with-LLM)
+9. [Docking (ligands and proteins)](#docking-ligands-and-proteins)
+10. [Molecules](#molecules)
+11. [Machine learning](#machine-learning)
+12. [Statistics](#statistics)
+13. [Datavis for bio](#datavis-for-bio)
+14. [Datavis](#datavis)
+15. [Webservers](#webservers)
+16. [Chatbots and agents](#chatbots-and-agents)
 
-Tools for:
-1. [protein sequences](#sequences)
-2. [protein structures](#structures)
-3. [structure prediction](#structure-prediction)
-4. [molecular dynamics](#molecular-dynamics)
-5. [representation learning](#representation-learning)
-6. [protein engineering](#protein-engineering)
-7. [generative AI with difussion models](#generative-AI-with-difussion-models)
-8. [generative AI with LLM](#generative-AI-with-LLM)
-9. [docking (ligands and proteins)](#docking-ligands-and-proteins)
-10. [molecules](#molecules)
-11. [machine learning](#machine-learning)
-12. [statistics](#statistics)
-13. [datavis for bio](#datavis-for-bio)
-14. [datavis](#datavis)
-15. [webservers](#webservers)
-16. [chatbots and agents](#chatbots-and-agents)
+Note: resources marked with ⭐ are highly recommended
 
 
 # sequences
