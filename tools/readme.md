@@ -50,6 +50,7 @@ biomni
 | [Spacedust](https://github.com/soedinglab/Spacedust) | identification of conserved gene clusters among genomes based on homology and conservation of gene neighborhood |
 | [ugene](https://ugene.net/) | genome analysis suite with graphic user interface |
 | [BuddySuite](https://github.com/biologyguy/BuddySuite) | manipulating sequence, alignment, and phylogenetic tree files |
+| [biotite](https://www.biotite-python.org/latest/) | sequence and structure manipulation and analysis |
 
 # Multiple sequence alignment
 | Name | Description | 
@@ -62,6 +63,7 @@ biomni
 | [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) | trimming algorithm for accurate phylogenomic inference and msa manipulation |
 | [CIAlign](https://github.com/KatyBrown/CIAlign) | clean, interpret, visualise and edit MSAs |
 | [TWILIGHT](https://github.com/TurakhiaLab/TWILIGHT) | ultrafast and ultralarge MSA |
+| [termal](https://github.com/sib-swiss/termal) |  examining MSAs in a terminal |
 
 # Phylogenetic analysis
 | Name | Description | 
@@ -80,6 +82,7 @@ biomni
 | Name | Description | 
 |-----------|-----------| 
 | [PyRosetta](https://github.com/RosettaCommons/PyRosetta.notebooks) | Rosetta ported to python (check out the installation guides for [Conda and Google Colab](https://x.com/miangoar/status/1835176497063030798) as well as the [documentation](https://graylab.jhu.edu/PyRosetta.documentation/index.html)) |
+| [protkit](https://github.com/silicogenesis/protkit) | Unified Approach to Protein Engineering |
 | [ProDy](http://prody.csb.pitt.edu/tutorials/) | protein structure, dynamics, and sequence analysis |
 | [BioPandas](https://biopandas.github.io/biopandas/) | working with molecular structures in pandas |
 | [foldcomp](https://github.com/steineggerlab/foldcomp) | compressing protein structures |
@@ -243,6 +246,7 @@ biomni
 | [protein_scoring](https://github.com/seanrjohnson/protein_scoring) | generating and scoring novel enzyme sequences  |
 | [AncFlow](https://github.com/rrouz/AncFlow) | pipeline for the ancestral sequence reconstruction of clustered phylogenetic subtrees |
 | [ByProt (LM-Design)](https://github.com/bytedprotein/ByProt) | reprogramming pretrained protein LMs as generative models |
+| [EvoProtGrad](https://github.com/NREL/EvoProtGrad) | directed evolution with MCMC and protein language models |
 
 # Inverse folding
 | Name | Description | 
@@ -283,6 +287,37 @@ biomni
 | [proprotein](https://proprotein.cs.put.poznan.pl/) | set up, configure, and run an MD simulations |
 | [packmol](https://github.com/m3g/packmol) | creates an initial point for MD simulations |
 | [mdanalysis](https://github.com/MDAnalysis/mdanalysis) | analyze molecular dynamics simulations |
+| [VMD-2](https://www.ks.uiuc.edu/Research/vmd/vmd2intro/index.html) | Visual Molecular Dynamics |
+| [gromacs_copilot](https://github.com/ChatMol/gromacs_copilot) | AI-powered assistant for Molecular Dynamics simulations |
+
+# Biological data visualization
+| Name | Description | 
+|-----------|-----------| 
+| [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) | Toolbox for molecular animations in Blender |
+| [prettymol](https://github.com/zachcp/prettymol) | automatic protein structure plots with MolecularNodes  |
+| [CellScape](https://github.com/jordisr/cellscape) | Vector graphics cartoons from protein structure |
+| [chimerax](https://www.rbvi.ucsf.edu/chimerax/)| molecular visualization program (check out the [ChimeraX apps](https://cxtoolshed.rbvi.ucsf.edu/apps/all) as well as this [Color Palettes](https://github.com/smsaladi/chimerax_viridis) and this config to set-up a [Baker lab palette](https://bsky.app/profile/jameslingford.bsky.social/post/3lmw5h3xxec2n))|
+| [SSDraw](https://github.com/ncbi/SSDraw) |  secondary structure diagrams from protein structures |
+| [bioalphabet](https://github.com/davidhoksza/bioalphabet/) | convertor of texts to bio-domain alphabetss |
+| [ChatMol](https://github.com/ChatMol/ChatMol) | a PyMOL ChatGPT Plugin that allow to interact with PyMOL using natural language  |
+| [plot_phylo](https://github.com/KatyBrown/plot_phylo) | plot a phylogenetic tree on an existing matplotlib axis |
+| [NIH bioart](https://bioart.niaid.nih.gov/) | 2,000+ science and medical icons |
+| [bioicons](https://bioicons.com/) | icons for science illustrations in biology and chemistry |
+| [moldraw](https://moldraw.com/) | draw molecules |
+| [Mol* at RCSB/PDB](https://onlinelibrary.wiley.com/doi/10.1002/pro.70093) |  web-based, 3D visualization software suite for examination and analyses of biostructures |
+| [MolViewSpec](https://github.com/molstar/mol-view-spec/) | Python toolkit allows for describing views used in molecular visualizations |
+| [PoseEdit](https://proteins.plus/) | interactive 2D ligand interaction diagrams (see this [tutorial](https://www.youtube.com/watch?v=8W1TvSvatSA&ab_channel=BioinformaticsInsights)) |
+| [FlatProt](https://github.com/t03i/FlatProt) | 2D protein visualization aimed at improving the comparability of structures  |
+| [quarto-molstar](https://github.com/jmbuhr/quarto-molstar) | embed proteins and trajectories with Mol* |
+| [alphabridge](https://alpha-bridge.eu/) | summarise predicted interfaces and intermolecular interactions |
+| [weblogo](https://weblogo.threeplusone.com/) |  generation of sequence logos |
+| [interprot](https://interprot.com/#/) | inspect relevant features derived from protein language models in a particular protein |
+| [Protein icons](https://bsky.app/profile/maxfus.bsky.social/post/3lobecnwdsc2w) |  How to create specific protein icons with ChatGPT |
+| [py2Dmol](https://github.com/sokrypton/py2Dmol) | visualizing biomolecular structures in 2D in Google Colab and Jupyter environments ([check out the website](https://py2dmol.solab.org/))|
+| [Nano Protein Viewer](https://marketplace.visualstudio.com/items?itemName=StevenYu.nano-protein-viewer) | protein structure viewer in VScode (try it using [web app](https://stevenyuyy.us/protein-viewer/) and also [check out this tutorial](https://youtu.be/srDyhfhoDm8))|
+| [Protein Viewer](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer) | visualization of protein structures and molecular data in VScode |
+| [molview](https://github.com/54yyyu/molview) | IPython/Jupyter widget for interactive molecular visualization, based on Molstar |
+| [ProteinCHAOS](https://dzyla.github.io/ProteinCHAOS/) | an artistic tool inspired by molecular dynamics to capture protein flexibility over time |
 
 # Molecules & cheminformatics
 | Name | Description | 
@@ -374,49 +409,7 @@ biomni
 | [pingouin](https://pingouin-stats.org/build/html/index.html#) | Statistical package |
 | [performance](https://github.com/easystats/performance) | computing indices of regression model quality and goodness of fit  |
 
-11. Visualization & interfaces
-MolecularNodes
-CellScape
-ChimeraX apps
-chimerax_viridis
-SSDraw
-bioalphabet
-ChatMol
-plot_phylo
-prettymol
-VMD-2
-gromacs_copilot
-NIH bioart
-bioicons
-moldraw
-Mol*
-MolViewSpec
-PoseEdit
-FlatProt
-quarto-molstar
-alphabridge
-weblogo
-interprot
-termal
-py2Dmol
-Nano Protein Viewer
-Protein Viewer
-molview
-ProteinCHAOS
-datamapplot
-pypalettes
-distinctipy
-Visualize Architecture of Neural Network
-tidyplots
-pyCirclize
-pycircular
-great-table
-plottable
-d3blocks
-morethemes
-jsoncrack
-torchvista
-bivario
+
 --------------------------------------------------------------------------------------
 
 https://github.com/matplotlib/matplotlib
@@ -425,54 +418,6 @@ https://github.com/bokeh/bokeh
 https://github.com/mwaskom/seaborn
 https://github.com/vega/altair
 https://github.com/holoviz/holoviews
-
-
-
-
-
-
-# protein engineering
-| Name | Description | 
-|-----------|-----------|
-| [biotite](https://www.biotite-python.org/latest/) | sequence and structure manipulation and analysis |
-| [protkit](https://github.com/silicogenesis/protkit) | Unified Approach to Protein Engineering |
-| [EvoProtGrad](https://github.com/NREL/EvoProtGrad) | directed evolution with MCMC and protein language models |
-
-
-
-# datavis for bio
-| Name | Description | 
-|-----------|-----------| 
-| [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) | Toolbox for molecular animations in Blender |
-| [CellScape](https://github.com/jordisr/cellscape) | Vector graphics cartoons from protein structure |
-| [ChimeraX apps](https://cxtoolshed.rbvi.ucsf.edu/apps/all) | chimeraX  extensions |
-| [chimerax_viridis](https://github.com/smsaladi/chimerax_viridis) | Colorblind-friendly, perceptually uniform palettes for chimerax (see [this tips](https://bsky.app/profile/jameslingford.bsky.social/post/3lmw5h3xxec2n) tore-create the RFDifussion style in ChimeraX or the [original pyMOL implementation](https://bsky.app/profile/spellock.bsky.social/post/3lnsup5m5ks22))|
-| [SSDraw](https://github.com/ncbi/SSDraw) | generates secondary structure diagrams from 3D protein structures |
-| [bioalphabet](https://github.com/davidhoksza/bioalphabet/) | convertor of texts to bio-domain alphabetss |
-| [ChatMol](https://github.com/ChatMol/ChatMol) | a PyMOL ChatGPT Plugin that allow to interact with PyMOL using natural language  |
-| [plot_phylo](https://github.com/KatyBrown/plot_phylo) | plot a phylogenetic tree on an existing matplotlib axis |
-| [prettymol](https://github.com/zachcp/prettymol) | automatic protein structure plots with MolecularNodes  |
-| [VMD-2](https://www.ks.uiuc.edu/Research/vmd/vmd2intro/index.html) | Visual Molecular Dynamics |
-| [gromacs_copilot](https://github.com/ChatMol/gromacs_copilot) | AI-powered assistant for Molecular Dynamics  simulations |
-| [NIH bioart](https://bioart.niaid.nih.gov/) | 2,000+ science and medical icons |
-| [bioicons](https://bioicons.com/) | icons for science illustrations in biology and chemistry |
-| [moldraw](https://moldraw.com/) | draw molecules |
-| [Mol* at RCSB/PDB](https://onlinelibrary.wiley.com/doi/10.1002/pro.70093) |  web-based, 3D visualization software suite for examination and analyses of biostructures |
-| [MolViewSpec](https://github.com/molstar/mol-view-spec/) | Python toolkit allows for describing views used in molecular visualizations |
-| [PoseEdit](https://proteins.plus/) | interactive 2D ligand interaction diagrams (see this [tutorial](https://www.youtube.com/watch?v=8W1TvSvatSA&ab_channel=BioinformaticsInsights)) |
-| [FlatProt](https://github.com/t03i/FlatProt) | 2D protein visualization aimed at improving the comparability of structures  |
-| [quarto-molstar](https://github.com/jmbuhr/quarto-molstar) | embed proteins and trajectories with Mol* |
-| [alphabridge](https://alpha-bridge.eu/) | summarise predicted interfaces and intermolecular interactions |
-| [weblogo](https://weblogo.threeplusone.com/) |  generation of sequence logos |
-| [interprot](https://interprot.com/#/) | inspect relevant features derived from protein language models in a particular protein |
-| [Protein icons](https://bsky.app/profile/maxfus.bsky.social/post/3lobecnwdsc2w) |  How to create specific protein icons with ChatGPT |
-| [termal](https://github.com/sib-swiss/termal) |  examining MSAs in a terminal |
-| [py2Dmol](https://github.com/sokrypton/py2Dmol) | visualizing biomolecular structures in 2D in Google Colab and Jupyter environments ([check out the website](https://py2dmol.solab.org/))|
-| [Nano Protein Viewer](https://marketplace.visualstudio.com/items?itemName=StevenYu.nano-protein-viewer) | protein structure viewer in VScode (try it using [web app](https://stevenyuyy.us/protein-viewer/) and also [check out this tutorial](https://youtu.be/srDyhfhoDm8))|
-| [Protein Viewer](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer) | visualisation of protein structures and molecular data in VScode |
-| [molview](https://github.com/54yyyu/molview) | IPython/Jupyter widget for interactive molecular visualization, based on Molstar |
-| [ProteinCHAOS](https://dzyla.github.io/ProteinCHAOS/) | an artistic tool inspired by molecular dynamics to capture protein flexibility over time |
-| []() |  |
 
 
 # datavis
