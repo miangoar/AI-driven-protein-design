@@ -1,111 +1,4 @@
 # Content list
-1. [Protein sequences](#sequences)
-2. [Protein structures](#structures)
-3. [Structure prediction](#structure-prediction)
-4. [Molecular dynamics](#molecular-dynamics)
-5. [Representation learning](#representation-learning)
-6. [Protein engineering](#protein-engineering)
-7. [Generative AI with difussion models](#generative-AI-with-difussion-models)
-8. [Generative AI with LLM](#generative-AI-with-LLM)
-9. [Docking (ligands and proteins)](#docking-ligands-and-proteins)
-10. [Molecules](#molecules)
-11. [Machine learning](#machine-learning)
-12. [Statistics](#statistics)
-13. [Datavis for bio](#datavis-for-bio)
-14. [Datavis](#datavis)
-15. [Webservers](#webservers)
-16. [Chatbots and agents](#chatbots-and-agents)
-
-Note: resources marked with ⭐ are highly recommended
-
-
-
-# Protein design & engineering
-PyRosetta
-GraphRelax
-SCHEMA-RASPP
-ProtLego
-unicore
-PAthreader
-FoldPAthreader
-ConservFold
-consurf
-AlphaPulldown
-ColabDock
-ColabDesign
-LazyAF
-CombFold
-Cfold
-Replacement Scan
-protein_scoring
-AF_unmasked
-AncFlow
-TRILL
-AF2BIND
-PyPEF
-DeepProtein
-FlexMol
-ByProt
-scikit-bio
-BindCraft
-FreeBindCraft
-prosculpt
-BinderFlow
-proteindj
-ovo
-IPSAE
-bagel
-Protein Design Skills
-
-# Representation learning & AI for proteins
-FAESM
-ESM-Efficient
-ProtLearn
-Pfeature
-bio_embeddings
-Graph-Part
-ProteinFlow
-docktgrid
-Prop3D
-SaProt
-ProstT5
-Graphein
-PyUUL
-colav
-ProTrek
-masif
-peptidy
-pypropel
-atomworks
-ZymCTRL
-REXzyme_aa
-ProGen2-finetuning
-Pinal
-Evolla
-ProtRL
-
-# Function & interaction modeling
-CLEAN
-DeepFRI
-interproscan
-HiQBind
-InterfaceAnalyzerMover
-PandaDock
-ligysis
-p2rank
-PLACER
-peppr
-
-
-# Molecular simulation
-making-it-rain
-bioemu
-orb
-logMD
-proprotein
-packmol
-mdanalysis
-
 
 # Molecules & cheminformatics
 rdkit
@@ -237,7 +130,6 @@ biomni
 
 --------------------------------------
 # Sequence-level analysis
-Tools for manipulating biological sequences, building and processing MSAs, detecting homology, and performing phylogenetic analyses at the sequence level.
 | Name | Description | 
 |-----------|-----------| 
 | [SeqKit](https://bioinf.shenwei.me/seqkit/) | FASTA/Q file manipulation (Check out this ([tutorial](https://sandbox.bio/tutorials/seqkit-intro))|
@@ -245,6 +137,7 @@ Tools for manipulating biological sequences, building and processing MSAs, detec
 | [MMseqs2](https://github.com/soedinglab/MMseqs2) | ultra fast and sensitive search and clustering suite (Check out the  [tutorial](https://github.com/soedinglab/MMseqs2/wiki/Tutorials) and the  [GPU implementation](https://github.com/soedinglab/MMseqs2/wiki#compile-from-source-for-linux-with-gpu-support)) |
 | [seqlike](https://github.com/modernatx/seqlike) |  sequence manipulation |
 | [BioNumpy](https://github.com/bionumpy/bionumpy/) | array programming on biological datasets |
+| [scikit-bio](https://github.com/scikit-bio/scikit-bio) | sequence analysis, phylogenetic trees, and multivariate statistics for ecological and omic data. |
 | [pLM-BLAST](https://github.com/labstructbioinf/pLM-BLAST) | remote homology detection with protein language models |  
 | [PLMSearch](https://github.com/maovshao/PLMSearch) | homologous protein search with protein language models |
 | [LexicMap](https://github.com/shenwei356/LexicMap) | sequence alignment against millions of genomes |
@@ -266,10 +159,24 @@ Tools for manipulating biological sequences, building and processing MSAs, detec
 | [CIAlign](https://github.com/KatyBrown/CIAlign) | clean, interpret, visualise and edit MSAs |
 | [TWILIGHT](https://github.com/TurakhiaLab/TWILIGHT) | ultrafast and ultralarge MSA |
 
+# Phylogenetic analysis
+| Name | Description | 
+|-----------|-----------|
+| [automlst2](https://automlst2.ziemertlab.com/index) | automatic generation of species phylogeny with reference organisms |
+| [unicore](https://github.com/steineggerlab/unicore) | Universal and efficient core gene phylogeny with Foldseek and ProstT5  |
+| [iqtree3](https://github.com/iqtree/iqtree3)| Phylogenetic analysis | 
+| [piqtree](https://github.com/iqtree/piqtree) | IQ-TREE ported to Python |
+| [torchtree](https://github.com/4ment/torchtree) | probabilistic framework in PyTorch for phylogenetic models |
+| [fold_tree](https://github.com/DessimozLab/fold_tree) | construct trees from protein structures |
+| [3diphy](https://github.com/nmatzke/3diphy) | Maximum likelihood structural phylogenetics by including Foldseek 3Di characters |
+| [PhyKIT](https://github.com/JLSteenwyk/PhyKIT) | toolkit for processing and analyzing MSAs and phylogenies |
+| [unicore](https://github.com/steineggerlab/unicore) | phylogenetic reconstruction with structural core genes using Foldseek and ProstT5 |
+
+
 # Structure-level analysis
-Tools for parsing, cleaning, annotating, and extracting properties from 3D protein structures.
 | Name | Description | 
 |-----------|-----------| 
+| [PyRosetta](https://github.com/RosettaCommons/PyRosetta.notebooks) | Rosetta ported to python (check out the installation guides for [Conda and Google Colab](https://x.com/miangoar/status/1835176497063030798) as well as the [documentation](https://graylab.jhu.edu/PyRosetta.documentation/index.html)) |
 | [ProDy](http://prody.csb.pitt.edu/tutorials/) | protein structure, dynamics, and sequence analysis |
 | [BioPandas](https://biopandas.github.io/biopandas/) | working with molecular structures in pandas |
 | [foldcomp](https://github.com/steineggerlab/foldcomp) | compressing protein structures |
@@ -316,7 +223,6 @@ Tools for parsing, cleaning, annotating, and extracting properties from 3D prote
 | [AFDB Structure Extractor](https://project.iith.ac.in/sharmaglab/alphafoldextractor/index.html) | download structures using AF IDs, Uniprot IDs, Locus tags, RefSeq Protein IDs and NCBI TaxIDs |
 
 # Structure search & comparison
-Tools for aligning, comparing, and searching protein structures to identify structural similarity, folds, or motifs.
 | Name | Description | 
 |-----------|-----------| 
 | [Pairwise Structure Alignment Tool](https://www.rcsb.org/alignment) | webserver for structure alignment using PDB IDs, AFDB IDs or local files (check out the detailed description of [how to use the tool](https://www.rcsb.org/docs/tools/pairwise-structure-alignment#4-align-multiple-structures-to-an-alphafold-structure-))|
@@ -333,9 +239,9 @@ Tools for aligning, comparing, and searching protein structures to identify stru
 | [pyjess](https://github.com/althonos/pyjess) | constraint-based structural template matching to identify catalytic residues from a known template |
 | [gtalign](https://bioinformatics.lt/comer/gtalign/) | High-performance search and alignment for protein structures |
 | [Muscle-3D](https://github.com/rcedgar/muscle) | multiple protein structure alignment |
+| [PAthreader](http://zhanglab-bioinf.com/PAthreader/) | remote homologous template recognition |
 
 # Structure prediction
-Tools and pipelines for predicting protein structures from sequence, mainly based on AlphaFold and related methods.
 | Name | Description | 
 |-----------|-----------| 
 | [Alphafold2](https://github.com/google-deepmind/alphafold)| protein structure prediction |
@@ -352,33 +258,108 @@ Tools and pipelines for predicting protein structures from sequence, mainly base
 | [AFusion](https://github.com/Hanziwww/AlphaFold3-GUI) | AlphaFold 3 GUI & Toolkit with Visualization |
 | [Hackable AlphaFold 3](https://github.com/chaitjo/alphafold3/) | a lightweight, hackable way to run AF3 to experiment without the massive MSA databases or Docker overhead |
 | [ABCFold](https://github.com/rigdenlab/ABCFold) | Scripts to run AlphaFold3, Boltz-1 and Chai-1 with MMseqs2 MSAs and custom templates  |
+| [AlphaPulldown](https://www.embl-hamburg.de/AlphaPulldown/) | Complex moedeling with AF-Multimer |
+| [LazyAF](https://github.com/ThomasCMcLean/LazyAF) | protein-protein interaction with AF2 |
+| [CombFold](https://github.com/dina-lab3D/CombFold) | structure predictions of large complexes |
+| [Cfold](https://github.com/patrickbryant1/Cfold) | structure prediction of alternative protein conformations |
+| [AF_unmasked](https://github.com/clami66/AF_unmasked) | structure prediction for huge protein complexes (~27 chains and ~8400aa) |
+| [ConservFold](https://www.rodrigueslab.com/resources) | map residue conservation into structures with AF2  |
+| [IPSAE](https://github.com/DunbrackLab/IPSAE) | Scoring function for interprotein interactions in AlphaFold2 and AlphaFold3 |
+
+
+# Protein design
+| Name | Description | 
+|-----------|-----------| 
+| [GraphRelax](https://github.com/delalamo/GraphRelax) | residue repacking and design   |
+| [SCHEMA-RASPP](https://github.com/mattasmith/SCHEMA-RASPP) | structure-guided protein recombination (download the file [`schema-tools-doc.html`](https://github.com/mattasmith/SCHEMA-RASPP/blob/master/schema-tools-doc.html) for documentation)|
+| [ProtLego](https://hoecker-lab.github.io/protlego/) | constructing protein chimeras and its structural analysis |
+| [FoldPAthreader](http://zhanglab-bioinf.com/PAthreader/) | folding pathway prediction | 
+| [consurf](https://consurf.tau.ac.il/consurf_index.php) |identification of functionally important regions in proteins by conservation |
+| [ColabDock](https://github.com/JeffSHF/) | protein-protein docking |
+| [ColabDesign](https://github.com/sokrypton/ColabDesign) | protein design pipelines |
+| [Replacement Scan](https://colab.research.google.com/github/sokrypton/ColabBio/blob/main/notebooks/replacement_scan.ipynb) | find how many residue replacements your protein can tolerate (Check out the [announcement](https://x.com/sokrypton/status/1812769477228200086)) |
+| [TRILL](https://github.com/martinez-zacharya/TRILL) | Generative AI Sandbox with popular models |
+| [AF2BIND](https://github.com/sokrypton/af2bind) | Predicting ligand-binding sites based on AF2 |
+| [PyPEF](https://github.com/Protein-Engineering-Framework/PyPEF) | sequence-based machine learning-assisted protein engineering |
+| [DeepProtein](https://github.com/jiaqingxie/DeepProtein) | protein Property Prediction |
+| [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures  |
+| [BindCraft](https://github.com/martinpacesa/BindCraft) | binder design  (check out the [tutorial](https://github.com/martinpacesa/BindCraft/wiki/De-novo-binder-design-with-BindCraft)) |
+| [FreeBindCraft](https://github.com/cytokineking/FreeBindCraft) | BindCraft modified to make PyRosetta use and installation optional, i.e. no license needed ([more details](https://www.ariax.bio/resources/freebindcraft-open-source-unleashed))|
+| [prosculpt](https://github.com/ajasja/prosculpt) | encapsulates RFDiffusion, ProteinMPNN, AlphaFold2, and Rosetta into an easy-to-use workflow |
+| [BinderFlow](https://github.com/cryoEM-CNIO/BinderFlow) | parallelised pipeline for protein binder design (i.e. RFD > ProteinMPNN > AF2 + Scoring) | 
+| [proteindj](https://github.com/PapenfussLab/proteindj) | pipeline for de novo binder design (i.e. RFD > ProteinMPNN > AF2 + Scoring) |
+| [ovo](https://github.com/MSDLLCpapers/ovo) | ecosystem for de novo protein design |
+| [bagel](https://github.com/softnanolab/bagel) | model-agnostic and gradient-free exploration of an energy landscape in the sequence space |
+| [Protein Design Skills](https://proteinbase.com/protein-design-skills) | Claude Code skills for protein design |
+
+
+# Representation learning 
+| Name | Description | 
+|-----------|-----------| 
+| [FAESM](https://github.com/pengzhangzhi/faesm) | Pytorch Implementation of ESM and ProGen that can save ~60% of memory usage and 70% of inference time | 
+| [ESM-Efficient](https://github.com/uci-cbcl/esm-efficient) | Efficient implementatin of ESM family | 
+| [ProtLearn](https://github.com/tadorfer/protlearn) | extracting protein sequence features |
+| [Pfeature](https://github.com/raghavagps/Pfeature) | computing features of peptides and proteins |
+| [bio_embeddings](https://github.com/sacdallago/bio_embeddings) | compute protein embeddings from sequences |
+| [Graph-Part](https://github.com/graph-part/graph-part) | data partitioning method for ML |
+| [ProteinFlow](https://github.com/adaptyvbio/ProteinFlow) | data processing pipeline fo ML |
+| [docktgrid](https://github.com/gmmsb-lncc/docktgrid) | Create customized voxel representations of protein-ligand complexes |
+| [Prop3D](https://github.com/bouralab/Prop3D) | toolkit for protein structure dataset creation and processing  |
+| [SaProt](https://github.com/westlake-repl/SaProt) | Protein Language Model with Structural Alphabet |
+| [SaprotHub](https://github.com/westlake-repl/SaprotHub) | platform that facilitates training, fine-tuning and prediction as well as storage and sharing of models |
+| [ProstT5](https://github.com/mheinzinger/ProstT5) | Bilingual Language Model for Protein Sequence and Structure (check out the [Foldseek adaptation](https://github.com/steineggerlab/foldseek?tab=readme-ov-file#structure-search-from-fasta-input)) |
+| [Graphein](https://github.com/a-r-j/graphein) | geometric representations of biomolecules and interaction networks |
+| [PyUUL](https://pyuul.readthedocs.io/index.html) | encode structures into differentiable data structures |
+| [colav](https://github.com/Hekstra-Lab/colav) | feature extraction methods like dihedral angles, CA pairwise distances, and strain analysis |
+| [masif](https://github.com/LPDI-EPFL/masif) | molecular surface interaction fingerprints |
+| [peptidy](https://github.com/molML/peptidy) | vectorize proteins for machine learning applications |
+| [pypropel](https://github.com/2003100127/pypropel) | sequence and structural data preprocessing, feature generation, and post-processing for model performance evaluation and visualisation |
+| [atomworks](https://github.com/RosettaCommons/atomworks) | A generalized computational framework for biomolecular modeling |
+| [mini3di](https://github.com/althonos/mini3di) | NumPy port of the foldseek code for encoding protein structures to 3di |
+
+
+
+ZymCTRL
+REXzyme_aa
+ProGen2-finetuning
+Pinal
+Evolla
+ProtRL
+| [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | text-guided protein design |
+
+# Function & interaction modeling
+CLEAN
+DeepFRI
+interproscan
+HiQBind
+InterfaceAnalyzerMover
+PandaDock
+ligysis
+p2rank
+PLACER
+peppr
+
+
+# Molecular simulation
+making-it-rain
+bioemu
+orb
+logMD
+proprotein
+packmol
+mdanalysis
+
 
 
 --------------------------------------------------------------------------------------
 
-| [PyRosetta](https://github.com/RosettaCommons/PyRosetta.notebooks) | Rosetta suite for protein desing ported to python (See also these instructions for an [easy installation in Colab](https://x.com/miangoar/status/1835176497063030798) as well as the [documentation](https://graylab.jhu.edu/PyRosetta.documentation/index.html)) |
+
 | [p2rank](https://github.com/rdk/p2rank) | Protein-ligand binding site prediction from protein structure |
 | [PLACER](https://github.com/baker-laboratory/PLACER) |  local prediction of protein-ligand conformational ensembles |
 | [peppr](https://github.com/aivant/peppr) | a package for evaluation of predicted poses like RMSD, TM-score, lDDT, lDDT-PLI, fnat, iRMSD, LRMSD, DockQ  |
-| [unicore](https://github.com/steineggerlab/unicore) | core gene phylogeny with Foldseek and ProstT5 (i.e. 3Di alphabet) |
-| [PAthreader and FoldPAthreader](https://github.com/iobio-zjut/PAthreader/tree/main/PAthreader_main) | PAthreader improve AF2 template selection by looking remote homologous in PDB/AFDB and FoldPAthreader predict the folding pathway  (see also [the webserver](http://zhanglab-bioinf.com/PAthreader/))  |
-| [SCHEMA-RASPP](https://github.com/mattasmith/SCHEMA-RASPP) | structure-guided protein recombination (download and check the file [`schema-tools-doc.html`](https://github.com/mattasmith/SCHEMA-RASPP/blob/master/schema-tools-doc.html) for documentation)|
-| [ProtLego](https://hoecker-lab.github.io/protlego/) | constructing protein chimeras and its structural analysis |
-| [GraphRelax](https://github.com/delalamo/GraphRelax) | residue repacking and design   |
-| []() |  |
 
 
-# Phylogeny
-| Name | Description | 
-|-----------|-----------|
-| [automlst2](https://automlst2.ziemertlab.com/index) | automatic generation of species phylogeny with reference organisms |
-| [unicore](https://github.com/steineggerlab/unicore) | Universal and efficient core gene phylogeny with Foldseek and ProstT5  |
-| [piqtree](https://github.com/iqtree/piqtree) | use IQ-TREE directly from Python |
-| [torchtree](https://github.com/4ment/torchtree) | probabilistic framework in PyTorch for phylogenetic models |
-| [fold_tree](https://github.com/DessimozLab/fold_tree) |  construct trees from protein structures |
-| [3diphy](https://github.com/nmatzke/3diphy) | Maximum likelihood structural phylogenetics by including Foldseek 3Di characters |
-| [PhyKIT](https://github.com/JLSteenwyk/PhyKIT) | toolkit for processing and analyzing MSAs and phylogenies |
-| []() |  |
+
 
 
 
@@ -391,7 +372,13 @@ Tools and pipelines for predicting protein structures from sequence, mainly base
 | [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | Text-guided protein design |
 | [Evolla](https://github.com/westlake-repl/Evolla) | chat about the function of a protein using its sequence and structure  (i.e. ChatGPT for proteins; see also the [webserver using the 10B param. version of the model](http://www.chat-protein.com/)) |
 | [ProtRL](https://github.com/AI4PDLab/ProtRL) | Reinforcement Learning framework for autoregressive protein Language Models |
-| []() |  |
+| [protein_scoring](https://github.com/seanrjohnson/protein_scoring) | generating and scoring novel enzyme sequences  |
+| [AncFlow](https://github.com/rrouz/AncFlow) | pipeline for the ancestral sequence reconstruction of clustered phylogenetic subtrees |
+| [ByProt (LM-Design)](https://github.com/bytedprotein/ByProt) | reprogramming pretrained protein LMs as generative models |
+
+
+
+
 
 # Structure generation
 | Name | Description | 
@@ -430,6 +417,7 @@ Tools and pipelines for predicting protein structures from sequence, mainly base
 | [DeepFRI](https://github.com/flatironinstitute/DeepFRI) | Deep functional residue identification |
 | [interproscan](https://github.com/ebi-pf-team/interproscan) | interpro pipeline for functional annotation with multiple DBs |
 | [ProtNLM](https://www.uniprot.org/help/ProtNLM) | UniProt's Automatic Annotation pipeline for protein sequences (see the [Colab notebook](https://colab.research.google.com/github/google-research/google-research/blob/master/protnlm/protnlm_evidencer_uniprot_2023_01.ipynb)) |
+| [ProTrek](https://github.com/westlake-repl/ProTrek) | multimodal (sequence-structure-function) protein representations and annotations (check out the [webserver](http://search-protrek.com/)) |
 | []() |  |
 
 # Sequence-structure co-generation
@@ -455,27 +443,7 @@ Tools and pipelines for predicting protein structures from sequence, mainly base
 # representation learning
 | Name | Description | 
 |-----------|-----------|
-| [FAESM](https://github.com/pengzhangzhi/faesm) | An Efficient Pytorch Implementation of ESM and ProGen PLM that can save up to 60% of memory usage and 70% of inference time | 
-| [ESM-Efficient](https://github.com/uci-cbcl/esm-efficient) | Efficient implementatin of ESM family | 
-| [ProtLearn](https://github.com/tadorfer/protlearn) | extracting protein sequence features |
-| [Pfeature](https://github.com/raghavagps/Pfeature) | computing features of peptides and proteins |
-| [bio_embeddings](https://github.com/sacdallago/bio_embeddings) | compute protein embeddings from sequences |
-| [Graph-Part](https://github.com/graph-part/graph-part) | data partitioning method for ML |
-| [ProteinFlow](https://github.com/adaptyvbio/ProteinFlow) | data processing pipeline fo ML |
-| [docktgrid](https://github.com/gmmsb-lncc/docktgrid) | Create customized voxel representations of protein-ligand complexes |
-| [Prop3D](https://github.com/bouralab/Prop3D) | toolkit for protein structure dataset creation and processing  |
-| [SaProt](https://github.com/westlake-repl/SaProt) | Protein Language Model with Structural Alphabet (AA+3Di) (See also [ColabSaprot for structure-aware PLM](https://colab.research.google.com/github/westlake-repl/SaprotHub/blob/main/colab/SaprotHub_v2.ipynb) and [ColabSeprot for sequence-only PLM](https://colab.research.google.com/github/westlake-repl/SaprotHub/blob/main/colab/ColabSeprot.ipynb?hl=en)) |
-| [ProstT5](https://github.com/mheinzinger/ProstT5) | Bilingual Language Model for Protein Sequence and Structure (see the [Foldseek adaptation](https://github.com/steineggerlab/foldseek?tab=readme-ov-file#structure-search-from-fasta-input)) |
-| [Graphein](https://github.com/a-r-j/graphein) | geometric representations of biomolecules and interaction networks |
-| [PyUUL](https://pyuul.readthedocs.io/index.html) | encode structures into differentiable data structures |
-| [colav](https://github.com/Hekstra-Lab/colav) | feature extraction methods like dihedral angles, CA pairwise distances, and strain analysis |
-| [ProTrek](https://github.com/westlake-repl/ProTrek) <br> [webserver](http://search-protrek.com/)| multimodal (sequence-structure-function) protein representations and annotations |
-| [masif](https://github.com/LPDI-EPFL/masif) | molecular surface interaction fingerprints |
-| [peptidy](https://github.com/molML/peptidy) | vectorize proteins for machine learning applications |
-| [pypropel](https://github.com/2003100127/pypropel) | sequence and structural data preprocessing, feature generation, and post-processing for model performance evaluation and visualisation, |
-| [atomworks](https://github.com/RosettaCommons/atomworks) | A generalized computational framework for biomolecular modeling |
-| [mini3di](https://github.com/althonos/mini3di) | NumPy port of the foldseek code for encoding protein structures to 3di |
-| []() |  |
+
 
 
 # protein engineering
@@ -484,35 +452,8 @@ Tools and pipelines for predicting protein structures from sequence, mainly base
 | [biotite](https://www.biotite-python.org/latest/) | sequence and structure manipulation and analysis |
 | [protkit](https://github.com/silicogenesis/protkit) | Unified Approach to Protein Engineering |
 | [EvoProtGrad](https://github.com/NREL/EvoProtGrad) | directed evolution with MCMC and protein language models |
-| [ConservFold](https://www.rodrigueslab.com/resources) | map amino acid conservation intro structures with the AF2 pipeline |
-| [consurf](https://consurf.tau.ac.il/consurf_index.php) |identification of functionally important regions in proteins |
-| [AlphaPulldown](https://www.embl-hamburg.de/AlphaPulldown/) | Complex moedeling with AF-Multimer |
-| [ColabDock](https://github.com/JeffSHF/) | protein-protein docking |
-| [ColabDesign](https://github.com/sokrypton/ColabDesign) | protein design pipelines |
-| [LazyAF](https://github.com/ThomasCMcLean/LazyAF) | protein-protein interaction with AF2|
-| [CombFold](https://github.com/dina-lab3D/CombFold) | structure predictions of large complexes |
-| [Cfold](https://github.com/patrickbryant1/Cfold) | structure prediction of alternative protein conformations |
-| [Replacement Scan](https://colab.research.google.com/github/sokrypton/ColabBio/blob/main/notebooks/replacement_scan.ipynb) | find how many amino acid replacements your protein can tolerate [see tw](https://x.com/sokrypton/status/1812769477228200086) |
-| [protein_scoring](https://github.com/seanrjohnson/protein_scoring) | generating and scoring novel enzyme sequences  |
-| [AF_unmasked](https://github.com/clami66/AF_unmasked) | structure prediction for huge protein complexes (~27 chains and ~8400aa) |
-| [AncFlow](https://github.com/rrouz/AncFlow) | pipeline for the ancestral sequence reconstruction of clustered phylogenetic subtrees |
-| [TRILL](https://github.com/martinez-zacharya/TRILL) | Sandbox for Deep-Learning based Computational Protein Design |
-| [AF2BIND](https://github.com/sokrypton/af2bind) | Predicting ligand-binding sites based on AF2 |
-| [PyPEF](https://github.com/Protein-Engineering-Framework/PyPEF) | sequence-based machine learning-assisted protein engineering |
-| [DeepProtein](https://github.com/jiaqingxie/DeepProtein) | protein Property Prediction |
-| [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures  |
-| [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | text-guided protein design |
-| [ByProt (LM-Design)](https://github.com/bytedprotein/ByProt) | reprogramming pretrained protein LMs as generative models |
-| [scikit-bio](https://github.com/scikit-bio/scikit-bio) | data structures, algorithms and educational resources for bioinformatics |
-| [BindCraft](https://github.com/martinpacesa/BindCraft) | binder design pipeline (See also the [wiki-tutorial](https://github.com/martinpacesa/BindCraft/wiki/De-novo-binder-design-with-BindCraft)) |
-| [FreeBindCraft](https://github.com/cytokineking/FreeBindCraft) | BindCraft modified to make PyRosetta use and installation optional, i.e. no license needed ([more details](https://www.ariax.bio/resources/freebindcraft-open-source-unleashed))|
-| [prosculpt](https://github.com/ajasja/prosculpt) | encapsulates RFDiffusion, ProteinMPNN, AlphaFold2, and Rosetta into an easy-to-use workflow |
-| [BinderFlow](https://github.com/cryoEM-CNIO/BinderFlow) | parallelised pipeline for protein binder design (i.e. RFD > ProteinMPNN > AF2 + Scoring) | 
-| [proteindj](https://github.com/PapenfussLab/proteindj) | pipeline for de novo binder design (i.e. RFD > ProteinMPNN > AF2 + Scoring) |
-| [ovo](https://github.com/MSDLLCpapers/ovo) | ecosystem for de novo protein design |
-| [IPSAE](https://github.com/DunbrackLab/IPSAE) | Scoring function for interprotein interactions in AlphaFold2 and AlphaFold3 |
-| [bagel](https://github.com/softnanolab/bagel) | model-agnostic and gradient-free exploration of an energy landscape in the sequence space |
-| [Protein Design Skills](https://proteinbase.com/protein-design-skills) | Claude Code skills for protein design |
+
+
 
 
 
