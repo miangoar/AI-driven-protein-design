@@ -1,56 +1,8 @@
 # Content list
 
-# Molecules & cheminformatics
-rdkit
-PDBe CCDUtils
-PDBe Arpeggio
-PDBe RelLig
-MolPipeline
-roshambo
-molli
-useful_rdkit_utils
-deepchem
-nvMolKit
 
-Machine learning & statistics (general)
-Colab forms
-cuml
-LazyPredict
-TorchDR
-Kerasify
-pca
-openTSNE
-TabPFN
-tabm
-tabicl
-setfit
-skrub
-cupy
-Best-of Machine Learning
-torchmetrics
-DADApy
-PySR
-BERTopic
-KeyBERT
-PolyFuzz
-hummingbird
-skorch
-Faiss
-tmap
-einops
-pyod
-autokeras
-numba
-langextract
-cleanlab
-dtype_diet
-scikit-posthocs
-statannotations
-ggstatsplot
-ggbetweenstats
-statsmodels
-pingouin
-performance
+
+
 
 11. Visualization & interfaces
 MolecularNodes
@@ -205,6 +157,7 @@ biomni
 | [ProteinTools ](https://proteintools.uni-bayreuth.de/) | Analyze Hydrophobic Clusters, Hydrogen Bond Networks, Contact maps, Salt Bridges and Charge Segregation |
 | [libraryPDB](https://github.com/CJ438837/libraryPDB) | searching, downloading, parsing, cleaning and analyzing protein structures |
 | [lahuta](https://bisejdiu.github.io/lahuta/) | calculate atomomic interactions |
+| [InterfaceAnalyzerMover](https://docs.rosettacommons.org/docs/latest/scripting_documentation/RosettaScripts/Movers/movers_pages/analysis/InterfaceAnalyzerMover) | Calculate binding energies, buried interface surface areas, packing statistics, and other useful interface metrics for the evaluation of protein interfaces |
 
 # Data access
 | Name | Description | 
@@ -265,7 +218,7 @@ biomni
 | [AF_unmasked](https://github.com/clami66/AF_unmasked) | structure prediction for huge protein complexes (~27 chains and ~8400aa) |
 | [ConservFold](https://www.rodrigueslab.com/resources) | map residue conservation into structures with AF2  |
 | [IPSAE](https://github.com/DunbrackLab/IPSAE) | Scoring function for interprotein interactions in AlphaFold2 and AlphaFold3 |
-
+| [peppr](https://github.com/aivant/peppr) | a package for evaluation of predicted poses like RMSD, TM-score, lDDT, lDDT-PLI, fnat, iRMSD, LRMSD, DockQ  |
 
 # Protein design
 | Name | Description | 
@@ -279,7 +232,6 @@ biomni
 | [ColabDesign](https://github.com/sokrypton/ColabDesign) | protein design pipelines |
 | [Replacement Scan](https://colab.research.google.com/github/sokrypton/ColabBio/blob/main/notebooks/replacement_scan.ipynb) | find how many residue replacements your protein can tolerate (Check out the [announcement](https://x.com/sokrypton/status/1812769477228200086)) |
 | [TRILL](https://github.com/martinez-zacharya/TRILL) | Generative AI Sandbox with popular models |
-| [AF2BIND](https://github.com/sokrypton/af2bind) | Predicting ligand-binding sites based on AF2 |
 | [PyPEF](https://github.com/Protein-Engineering-Framework/PyPEF) | sequence-based machine learning-assisted protein engineering |
 | [DeepProtein](https://github.com/jiaqingxie/DeepProtein) | protein Property Prediction |
 | [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures  |
@@ -317,65 +269,128 @@ biomni
 | [atomworks](https://github.com/RosettaCommons/atomworks) | A generalized computational framework for biomolecular modeling |
 | [mini3di](https://github.com/althonos/mini3di) | NumPy port of the foldseek code for encoding protein structures to 3di |
 
-
-
-ZymCTRL
-REXzyme_aa
-ProGen2-finetuning
-Pinal
-Evolla
-ProtRL
-| [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | text-guided protein design |
-
-# Function & interaction modeling
-CLEAN
-DeepFRI
-interproscan
-HiQBind
-InterfaceAnalyzerMover
-PandaDock
-ligysis
-p2rank
-PLACER
-peppr
-
-
-# Molecular simulation
-making-it-rain
-bioemu
-orb
-logMD
-proprotein
-packmol
-mdanalysis
-
-
-
---------------------------------------------------------------------------------------
-
-
-| [p2rank](https://github.com/rdk/p2rank) | Protein-ligand binding site prediction from protein structure |
-| [PLACER](https://github.com/baker-laboratory/PLACER) |  local prediction of protein-ligand conformational ensembles |
-| [peppr](https://github.com/aivant/peppr) | a package for evaluation of predicted poses like RMSD, TM-score, lDDT, lDDT-PLI, fnat, iRMSD, LRMSD, DockQ  |
-
-
-
-
-
-
 # Sequence generation
 | Name | Description | 
 |-----------|-----------|
 | [ZymCTRL](https://huggingface.co/AI4PD/ZymCTRL) | conditional language model for the generation of artificial functional enzymes |
 | [REXzyme_aa](https://huggingface.co/AI4PD/REXzyme_aa) | generate sequences that are predicted to perform their intended reactions |
 | [ProGen2-finetuning](https://github.com/hugohrban/ProGen2-finetuning) | Finetuning ProGen2 for generation of sequences from selected families |
-| [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | Text-guided protein design |
-| [Evolla](https://github.com/westlake-repl/Evolla) | chat about the function of a protein using its sequence and structure  (i.e. ChatGPT for proteins; see also the [webserver using the 10B param. version of the model](http://www.chat-protein.com/)) |
+| [Pinal](https://github.com/westlake-repl/Denovo-Pinal) | Text-guided protein generation |
 | [ProtRL](https://github.com/AI4PDLab/ProtRL) | Reinforcement Learning framework for autoregressive protein Language Models |
 | [protein_scoring](https://github.com/seanrjohnson/protein_scoring) | generating and scoring novel enzyme sequences  |
 | [AncFlow](https://github.com/rrouz/AncFlow) | pipeline for the ancestral sequence reconstruction of clustered phylogenetic subtrees |
 | [ByProt (LM-Design)](https://github.com/bytedprotein/ByProt) | reprogramming pretrained protein LMs as generative models |
 
+# Function prediction
+| Name | Description | 
+|-----------|-----------|
+| [ProtNLM](https://www.uniprot.org/help/ProtNLM) | UniProt's Automatic Annotation pipeline for protein sequences (check out this notebooks for the ([2023_01_version](https://colab.research.google.com/github/google-research/google-research/blob/master/protnlm/protnlm_evidencer_uniprot_2023_01.ipynb)) and [2022_04_version](https://colab.research.google.com/github/google-research/google-research/blob/master/protnlm/protnlm_use_model_for_inference_uniprot_2022_04.ipynb)) |
+| [CLEAN](https://github.com/tttianhao/CLEAN) | assign EC numbers to enzymes |
+| [DeepFRI](https://github.com/flatironinstitute/DeepFRI) | Deep functional residue identification |
+| [interproscan](https://github.com/ebi-pf-team/interproscan) | interpro pipeline for functional annotation with multiple DBs |
+| [ProTrek](https://github.com/westlake-repl/ProTrek) | multimodal (sequence-structure-function) protein representations and annotations (check out the [webserver](http://search-protrek.com/)) |
+| [HiQBind](https://github.com/THGLab/HiQBind) | Workflow to clean up and fix structural problems in protein-ligand binding datasets |
+| [PandaDock](https://github.com/pritampanda15/PandaDock) | Physics-Based Molecular Docking |
+| [ligysis](https://www.compbio.dundee.ac.uk/ligysis/) | analysis of biologically meaningful ligand binding sites |
+| [AF2BIND](https://github.com/sokrypton/af2bind) | Predicting ligand-binding sites based on AF2 |
+| [p2rank](https://github.com/rdk/p2rank) | Protein-ligand binding site prediction from protein structure |
+| [PLACER](https://github.com/baker-laboratory/PLACER) |  local prediction of protein-ligand conformational ensembles |
+
+# Molecular simulation
+| Name | Description | 
+|-----------|-----------|
+| [making-it-rain](https://github.com/pablo-arantes/making-it-rain) | Cloud-based molecular simulations for everyone |
+| [bioemu](https://github.com/microsoft/bioemu) |  emulation of protein equilibrium ensembles  (check out [this notebook](https://colab.research.google.com/github/pablo-arantes/making-it-rain/blob/main/BioEmu_HPACKER.ipynb) from Make it rain that combines bioemu with [H-Packer](https://github.com/gvisani/hpacker) for side-chain reconstruction)| 
+| [orb](https://github.com/orbital-materials/orb-models) | forcefield models from Orbital Materials |
+| [logMD](https://github.com/log-md/logmd) | visualize MD trajectories in colab |
+| [proprotein](https://proprotein.cs.put.poznan.pl/) | set up, configure, and run an MD simulations |
+| [packmol](https://github.com/m3g/packmol) | creates an initial point for MD simulations |
+| [mdanalysis](https://github.com/MDAnalysis/mdanalysis) | analyze molecular dynamics simulations |
+
+# Molecules & cheminformatics
+| Name | Description | 
+|-----------|-----------|
+| [rdkit](https://www.rdkit.org/docs/index.html) | cheminformatics and machine-learning software (check out this collection of [useful_rdkit_utils](https://github.com/PatWalters/useful_rdkit_utils) ) |
+| [PDBe CCDUtils](https://pdbeurope.github.io/ccdutils/index.html)  | tools to deal with PDB chemical components and visualization ([see also](https://github.com/PDBeurope/pdbe-notebooks/tree/main/pdbe_ligands_tutorials))|
+| [PDBe Arpeggio](https://github.com/PDBeurope/arpeggio) |  calculation of interatomic interactions in molecular structures|
+| [PDBe RelLig](https://github.com/PDBeurope/rellig) | classifies ligands based on their functional role| 
+| [MolPipeline](https://github.com/basf/MolPipeline) | processing molecules with RDKit in scikit-learn |
+| [roshambo](https://github.com/molecularinformatics/roshambo) | molecular shape comparison |
+| [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures |
+| [molli](https://github.com/SEDenmarkLab/molli) | general purpose molecule library generation and handling  |
+| [deepchem](https://github.com/deepchem/deepchem) | toolkit for drug discovery, materials science, quantum chemistry, and biology |
+| [nvMolKit](https://github.com/NVIDIA-Digital-Bio/nvMolKit) | GPU-accelerated library for key computational chemistry (e.g. molecular similarity, conformer generation, and geometry relaxation) |
+
+# Unsupervised learning
+| Name | Description | 
+|-----------|-----------|
+| [TorchDR](https://github.com/TorchDR/TorchDR) | PyTorch Dimensionality Reduction |
+| [pca](https://erdogant.github.io/pca/pages/html/index.html) | perform PCA and create insightful plots |
+| [openTSNE](https://opentsne.readthedocs.io/en/stable/) | faster implementation of t-SNE that includes other optimizations |
+| [DADApy](https://github.com/sissa-data-science/DADApy) | characterization of manifolds in high-dimensional spaces |
+| [tmap](https://github.com/reymond-group/tmap) | tree-like and fast visualization library for large, high-dimensional data set |
+
+# Machine learning 
+| Name | Description | 
+|-----------|-----------|
+| [Colab forms](https://colab.research.google.com/notebooks/forms.ipynb) | How to convert a Colab notebook into a user interface |
+| [LazyPredict](https://github.com/shankarpandala/lazypredict) | build a lot of basic models without much code |
+| [Best-of Machine Learning](https://github.com/ml-tooling/best-of-ml-python) | list of awesome machine learning Python libraries |
+| [PySR](https://github.com/MilesCranmer/PySR) | High-Performance Symbolic Regression |
+| [pyod](https://github.com/yzhao062/pyod) | Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques |
+| [cleanlab](https://github.com/cleanlab/cleanlab) | clean data and labels by automatically |
+
+# Natural Language Processing
+| Name | Description | 
+|-----------|-----------|
+| [BERTopic](https://github.com/MaartenGr/BERTopic) | create clusters for easily interpretable topics |
+| [KeyBERT](https://github.com/MaartenGr/KeyBERT) | Minimal keyword extraction with BERT |
+| [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) | Fuzzy string matching, grouping, and evaluation |
+| [setfit](https://github.com/huggingface/setfit) | Efficient few-shot learning with Sentence Transformers |
+| [langextract](https://github.com/google/langextract) | extracting structured information from unstructured text using LLMs |
+
+# Deep learning frameworks 
+| Name | Description | 
+|-----------|-----------|
+| [Kerasify](https://github.com/moof2k/kerasify) | running trained Keras models from a C++ application |
+| [autokeras](https://autokeras.com/) | AutoML system based on Keras |
+| [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 100+ PyTorch metrics implementations |
+| [skorch](https://github.com/skorch-dev/skorch) | train PyTorch models in a way similar to Scikit-learn (eg. No need to manually write a training loop, just using fit(), predict(), score()) |
+
+# Tabular data
+| Name | Description | 
+|-----------|-----------|
+| [csvtk](https://github.com/shenwei356/csvtk) | CSV/TSV manip MSA (3M protein sequences in 5min and 24GB of RAM) |
+| [TabPFN](https://github.com/PriorLabs/TabPFN) | model for tabular data that outperforms traditional methods while being dramatically faster |
+| [tabm](https://github.com/yandex-research/tabm) | tabular DL architecture that efficiently imitates an ensemble of MLPs |
+| [tabicl](https://github.com/soda-inria/tabicl) | tabular model for classification |
+| [skrub](https://github.com/skrub-data/skrub) | preprocessing and feature engineering for tabular machine learning (check out the [learning materials](https://skrub-data.org/skrub-materials/index.html) |
+| [dtype_diet](https://github.com/noklam/dtype_diet) | Optimize your memory consumption when using pandas by changing dtypes without data loss  |
+
+# Hardware-accelerated computation
+| Name | Description | 
+|-----------|-----------|
+| [cuml](https://github.com/rapidsai/cuml) | GPU-based implementations of common machine learning algorithms ([more info for umap optimization](https://developer.nvidia.com/blog/even-faster-and-more-scalable-umap-on-the-gpu-with-rapids-cuml/) and [cuml.accel](https://developer.nvidia.com/blog/nvidia-cuml-brings-zero-code-change-acceleration-to-scikit-learn/) to boost scikit-learn and other libs in colab)|
+| [cupy](https://github.com/cupy/cupy) |NumPy & SciPy for GPU|
+| [hummingbird](https://github.com/microsoft/hummingbird) | compiles trained ML models into tensor computation for faster inference |
+| [Faiss](https://github.com/facebookresearch/faiss) | efficient similarity search and clustering of dense vectors |
+| [einops](https://github.com/arogozhnikov/einops) | tensor operations for readable and reliable code |
+| [numba](https://github.com/numba/numba) | NumPy aware dynamic Python compiler  |
+
+
+# Statistics
+| Name | Description | 
+|-----------|-----------|
+| [scikit-posthocs](https://scikit-posthocs.readthedocs.io/en/latest/) |  post hoc tests for pairwise multiple comparisons |
+| [statannotations](https://github.com/trevismd/statannotations) | add statistical significance annotations on seaborn plots |
+| [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) | creating graphics with details from statistical tests included in the information-rich plots themselves |
+| [ggbetweenstats](https://indrajeetpatil.github.io/ggstatsplot/articles/web_only/ggbetweenstats.html) | making publication-ready plots with relevant statistical details |
+| [statsmodels](https://www.statsmodels.org/stable/index.html) | estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration |
+| [pingouin](https://pingouin-stats.org/build/html/index.html#) | Statistical package |
+| [performance](https://github.com/easystats/performance) | computing indices of regression model quality and goodness of fit  |
+
+
+--------------------------------------------------------------------------------------
 
 
 
@@ -409,43 +424,6 @@ mdanalysis
 | [Caliby](https://github.com/ProteinDesignLab/caliby) | Potts model-based protein sequence design method that can condition on structural ensembles |
 | []() |  |
 
-# Function prediction/annotation
-| Name | Description | 
-|-----------|-----------|
-| [CLEAN](https://github.com/tttianhao/CLEAN) | assign EC numbers to enzymes |
-| [ProtNLM](https://colab.research.google.com/github/google-research/google-research/blob/master/protnlm/protnlm_use_model_for_inference_uniprot_2022_04.ipynb) | UniProt's Automatic Annotation pipeline  ([for mode details see](https://www.uniprot.org/help/ProtNLM)) |
-| [DeepFRI](https://github.com/flatironinstitute/DeepFRI) | Deep functional residue identification |
-| [interproscan](https://github.com/ebi-pf-team/interproscan) | interpro pipeline for functional annotation with multiple DBs |
-| [ProtNLM](https://www.uniprot.org/help/ProtNLM) | UniProt's Automatic Annotation pipeline for protein sequences (see the [Colab notebook](https://colab.research.google.com/github/google-research/google-research/blob/master/protnlm/protnlm_evidencer_uniprot_2023_01.ipynb)) |
-| [ProTrek](https://github.com/westlake-repl/ProTrek) | multimodal (sequence-structure-function) protein representations and annotations (check out the [webserver](http://search-protrek.com/)) |
-| []() |  |
-
-# Sequence-structure co-generation
-| Name | Description | 
-|-----------|-----------|
-| []() |  |
-
-
-# molecular dynamics
-| Name | Description | 
-|-----------|-----------|
-| [making-it-rain](https://github.com/pablo-arantes/making-it-rain) | Cloud-based molecular simulations for everyone |
-| [bioemu](https://github.com/microsoft/bioemu) |  emulation of protein equilibrium ensembles  (see also this [this notebook](https://colab.research.google.com/github/pablo-arantes/making-it-rain/blob/main/BioEmu_HPACKER.ipynb) from ["Make it rain"](https://github.com/pablo-arantes/making-it-rain) that combines bioemu + [H-Packer](https://github.com/gvisani/hpacker) for side-chain reconstruction)| 
-| [orb](https://github.com/orbital-materials/orb-models) | forcefield models from Orbital Materials |
-| [logMD](https://github.com/log-md/logmd) | visualize MD trajectories in colab |
-| [proprotein](https://proprotein.cs.put.poznan.pl/) | web server where, with a single click, the user can set up, configure, and run an MD simulation of the 3D structure of the peptide/protein |
-| [packmol](https://github.com/m3g/packmol) | creates an initial point for MD simulations |
-| [mdanalysis](https://github.com/MDAnalysis/mdanalysis) | analyze molecular dynamics simulations |
-| []() |  |
-| []() |  |
-
-
-# representation learning
-| Name | Description | 
-|-----------|-----------|
-
-
-
 # protein engineering
 | Name | Description | 
 |-----------|-----------|
@@ -453,88 +431,6 @@ mdanalysis
 | [protkit](https://github.com/silicogenesis/protkit) | Unified Approach to Protein Engineering |
 | [EvoProtGrad](https://github.com/NREL/EvoProtGrad) | directed evolution with MCMC and protein language models |
 
-
-
-
-
-# docking (ligands and proteins)
-| Name | Description | 
-|-----------|-----------|
-| [HiQBind](https://github.com/THGLab/HiQBind) | Workflow to clean up and fix structural problems in protein-ligand binding datasets |
-| [InterfaceAnalyzerMover](https://docs.rosettacommons.org/docs/latest/scripting_documentation/RosettaScripts/Movers/movers_pages/analysis/InterfaceAnalyzerMover) | Calculate binding energies, buried interface surface areas, packing statistics, and other useful interface metrics for the evaluation of protein interfaces |
-| [PandaDock](https://github.com/pritampanda15/PandaDock) | Physics-Based Molecular Docking |
-| [ligysis](https://www.compbio.dundee.ac.uk/ligysis/) | analysis of biologically meaningful ligand binding sites |
-| []() |  |
-
-# molecules
-| Name | Description | 
-|-----------|-----------| 
-| [rdkit](https://www.rdkit.org/docs/index.html) | cheminformatics and machine-learning software |
-| [PDBe CCDUtils](https://pdbeurope.github.io/ccdutils/index.html)  | tools to deal with PDB chemical components and visualization ([see also](https://github.com/PDBeurope/pdbe-notebooks/tree/main/pdbe_ligands_tutorials))|
-| [PDBe Arpeggio](https://github.com/PDBeurope/arpeggio) |  calculation of interatomic interactions in molecular structures|
-| [PDBe RelLig](https://github.com/PDBeurope/rellig) | classifies ligands based on their functional role| 
-| [MolPipeline](https://github.com/basf/MolPipeline) | processing molecules with RDKit in scikit-learn |
-| [roshambo](https://github.com/molecularinformatics/roshambo) | molecular shape comparison |
-| [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures |
-| [molli](https://github.com/SEDenmarkLab/molli) | general purpose molecule library generation and handling  |
-| [useful_rdkit_utils](https://github.com/PatWalters/useful_rdkit_utils) | A collection of useful RDKit and sci-kit learn functions |
-| [deepchem](https://github.com/deepchem/deepchem) | toolchain that democratizes the use of deep-learning in drug discovery, materials science, quantum chemistry, and biology. |
-| [nvMolKit](https://github.com/NVIDIA-Digital-Bio/nvMolKit) | GPU-accelerated library for key computational chemistry tasks, such as molecular similarity, conformer generation, and geometry relaxation |
-| [deepchem](https://github.com/deepchem/deepchem) | toolkit for drug discovery, materials science, quantum chemistry, and biology |
-
-
-
-# machine learning
-| Name | Description | 
-|-----------|-----------| 
-| [csvtk](https://github.com/shenwei356/csvtk) | CSV/TSV manip MSA (3M protein sequences in 5min and 24GB of RAM) |
-| [Colab forms](https://colab.research.google.com/notebooks/forms.ipynb) | how to convert a colab notebook to a user interface |
-| [cuml](https://github.com/rapidsai/cuml) | GPU-based implementations of common machine learning algorithms ([more info for umap optimization](https://developer.nvidia.com/blog/even-faster-and-more-scalable-umap-on-the-gpu-with-rapids-cuml/) and [cuml.accel](https://developer.nvidia.com/blog/nvidia-cuml-brings-zero-code-change-acceleration-to-scikit-learn/) to boost scikit-learn and other libs in colab)|
-| [LazyPredict](https://github.com/shankarpandala/lazypredict) | build a lot of basic models without much code |
-| [TorchDR](https://github.com/TorchDR/TorchDR) | PyTorch Dimensionality Reduction |
-| [Kerasify](https://github.com/moof2k/kerasify) | running trained Keras models from a C++ application |
-| [pca](https://erdogant.github.io/pca/pages/html/index.html) | perform PCA and create insightful plots |
-| [openTSNE](https://opentsne.readthedocs.io/en/stable/) | faster implementation of t-SNE that includes other optimizations |
-| [TabPFN](https://github.com/PriorLabs/TabPFN) | model for tabular data that outperforms traditional methods while being dramatically faster |
-| [tabm](https://github.com/yandex-research/tabm) | tabular DL architecture that efficiently imitates an ensemble of MLPs |
-| [tabicl](https://github.com/soda-inria/tabicl) | tabular model for classification |
-| [setfit](https://github.com/huggingface/setfit) | Efficient few-shot learning with Sentence Transformers |
-| [skrub](https://github.com/skrub-data/skrub) | preprocessing and feature engineering for tabular machine learning |
-| [cupy](https://github.com/cupy/cupy) |NumPy & SciPy for GPU|
-| [Best-of Machine Learning](https://github.com/ml-tooling/best-of-ml-python) | list of awesome machine learning Python libraries |
-| [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 100+ PyTorch metrics implementations |
-| [DADApy](https://github.com/sissa-data-science/DADApy) | characterization of manifolds in high-dimensional spaces |
-| [PySR](https://github.com/MilesCranmer/PySR) | High-Performance Symbolic Regression |
-| [BERTopic](https://github.com/MaartenGr/BERTopic) | create clusters for easily interpretable topics |
-| [KeyBERT](https://github.com/MaartenGr/KeyBERT) | Minimal keyword extraction with BERT |
-| [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) | Fuzzy string matching, grouping, and evaluation. |
-| [hummingbird](https://github.com/microsoft/hummingbird) | compiles trained ML models into tensor computation for faster inference |
-| [skorch](https://github.com/skorch-dev/skorch) | train PyTorch models in a way similar to Scikit-learn (eg. No need to manually write a training loop, just using fit(), predict(), score()) |
-| [Faiss](https://github.com/facebookresearch/faiss) | efficient similarity search and clustering of dense vectors |
-| [tmap](https://github.com/reymond-group/tmap) | tree-like and fast visualization library for large, high-dimensional data set |
-| [einops](https://github.com/arogozhnikov/einops) | tensor operations for readable and reliable code |
-| [skrub](https://github.com/skrub-data/skrub/) | doing machine learning with dataframes (see also the [learning materials](https://skrub-data.org/skrub-materials/index.html))|
-| [pyod](https://github.com/yzhao062/pyod) | Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques |
-| [autokeras](https://autokeras.com/) | AutoML system based on Keras |
-| [numba](https://github.com/numba/numba) | NumPy aware dynamic Python compiler  |
-| [langextract](https://github.com/google/langextract) | extracting structured information from unstructured text using LLMs |
-| [cleanlab](https://github.com/cleanlab/cleanlab) | clean data and labels by automatically |
-| [dtype_diet](https://github.com/noklam/dtype_diet) | Optimize your memory consumption when using pandas by changing dtypes without data loss  |
-
-
-
-
-# statistics
-| Name | Description | 
-|-----------|-----------| 
-| [scikit-posthocs](https://scikit-posthocs.readthedocs.io/en/latest/) |  post hoc tests for pairwise multiple comparisons |
-| [statannotations](https://github.com/trevismd/statannotations) | add statistical significance annotations on seaborn plots |
-| [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) | creating graphics with details from statistical tests included in the information-rich plots themselves |
-| [ggbetweenstats](https://indrajeetpatil.github.io/ggstatsplot/articles/web_only/ggbetweenstats.html) | making publication-ready plots with relevant statistical details |
-| [statsmodels](https://www.statsmodels.org/stable/index.html) | classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration |
-| [pingouin](https://pingouin-stats.org/build/html/index.html#) | Statistical package |
-| [performance](https://github.com/easystats/performance) | computing indices of regression model quality and goodness of fit  |
-| []() |  |
 
 
 # datavis for bio
@@ -620,6 +516,7 @@ mdanalysis
 # chatbots and agents
 | Name | 
 |-----------|
+| [Evolla](https://github.com/westlake-repl/Evolla) | chat about the function of a protein using its sequence and structure  (i.e. ChatGPT for proteins; see also the [webserver using the 10B param. version of the model](http://www.chat-protein.com/)) |
 | [ChatGPT](https://chat.openai.com/) |
 | [Gemini](https://gemini.google.com/) |
 | [claude](https://claude.ai/) |
