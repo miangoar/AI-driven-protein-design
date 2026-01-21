@@ -19,36 +19,6 @@
 Note: resources marked with ⭐ are highly recommended
 
 
-# Structure search & comparison
-Pairwise Structure Alignment tool
-FoldSeek
-folddisco
-USalign
-progres
-pyScoMotif
-pyRMSD
-reseek
-tmtools
-SoftAlign
-lahuta
-foldmason
-pyjess
-gtalign
-
-# Structure prediction
-localcolabfold
-PAE Viewer
-PyMOLfold
-AFsample2
-alphafold3 tools
-alphafold3
-af3cli
-AFDB Structure Extractor
-RareFold
-AFusion
-BoltzDesign1
-Hackable AlphaFold 3
-ABCFold
 
 # Protein design & engineering
 PyRosetta
@@ -267,6 +237,7 @@ biomni
 
 --------------------------------------
 # Sequence-level analysis
+Tools for manipulating biological sequences, building and processing MSAs, detecting homology, and performing phylogenetic analyses at the sequence level.
 | Name | Description | 
 |-----------|-----------| 
 | [SeqKit](https://bioinf.shenwei.me/seqkit/) | FASTA/Q file manipulation (Check out this ([tutorial](https://sandbox.bio/tutorials/seqkit-intro))|
@@ -294,9 +265,9 @@ biomni
 | [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) | trimming algorithm for accurate phylogenomic inference and msa manipulation |
 | [CIAlign](https://github.com/KatyBrown/CIAlign) | clean, interpret, visualise and edit MSAs |
 | [TWILIGHT](https://github.com/TurakhiaLab/TWILIGHT) | ultrafast and ultralarge MSA |
-| [Muscle-3D](https://github.com/rcedgar/muscle) | multiple protein structure alignment |
 
 # Structure-level analysis
+Tools for parsing, cleaning, annotating, and extracting properties from 3D protein structures.
 | Name | Description | 
 |-----------|-----------| 
 | [ProDy](http://prody.csb.pitt.edu/tutorials/) | protein structure, dynamics, and sequence analysis |
@@ -326,6 +297,7 @@ biomni
 | [InteracTor](https://github.com/Dias-Lab/InteracTor) |  structure analysis and conversion, allowing the extraction of molecular interactions (e.g.  Hbonds, van der Waals, hydrophobic contacts, and surface tension |
 | [ProteinTools ](https://proteintools.uni-bayreuth.de/) | Analyze Hydrophobic Clusters, Hydrogen Bond Networks, Contact maps, Salt Bridges and Charge Segregation |
 | [libraryPDB](https://github.com/CJ438837/libraryPDB) | searching, downloading, parsing, cleaning and analyzing protein structures |
+| [lahuta](https://bisejdiu.github.io/lahuta/) | calculate atomomic interactions |
 
 # Data access
 | Name | Description | 
@@ -340,56 +312,53 @@ biomni
 | [ActSeek](https://github.com/vttresearch/ActSeek) | mining in the AFDB based on the position of few amino acids |
 | [Uniprot-PDB-mapper](https://github.com/iriziotis/Uniprot-PDB-mapper) | mapping of Uniprot sequences to PDB (see also this option to [map IDs between RefSeq and Uniprot](https://ncbiinsights.ncbi.nlm.nih.gov/2023/11/08/compare-ncbi-refseq-and-uniprot-datasets/) using the file `gene_refseq_uniprotkb_collab.gz`)|
 | [PDBe API Training Notebooks](https://github.com/glevans/pdbe-api-training) | undestand how the PDBe REST API works |
+| [RCSB API](https://github.com/rcsb/py-rcsb-api) | Python interface for RCSB PDB API services (check out the [guidelines and tutorials](https://pdb101.rcsb.org/news/684078fe300817f1b5de793a)) |
+| [AFDB Structure Extractor](https://project.iith.ac.in/sharmaglab/alphafoldextractor/index.html) | download structures using AF IDs, Uniprot IDs, Locus tags, RefSeq Protein IDs and NCBI TaxIDs |
+
+# Structure search & comparison
+Tools for aligning, comparing, and searching protein structures to identify structural similarity, folds, or motifs.
+| Name | Description | 
+|-----------|-----------| 
+| [Pairwise Structure Alignment Tool](https://www.rcsb.org/alignment) | webserver for structure alignment using PDB IDs, AFDB IDs or local files (check out the detailed description of [how to use the tool](https://www.rcsb.org/docs/tools/pairwise-structure-alignment#4-align-multiple-structures-to-an-alphafold-structure-))|
+| [FoldSeek](https://github.com/steineggerlab/foldseek) | fast and sensitive comparisons of large structure sets|
+| [folddisco](https://github.com/steineggerlab/folddisco) | indexing and search of discontinuous motifs |
+| [USalign](https://github.com/pylelab/USalign) |structure alignment of monomeric and complex proteins and nucleic acids |
+| [progres](https://github.com/greener-group/progres) | structure searching by structural embeddings (check out the [webserver](https://progres.mrc-lmb.cam.ac.uk/))|
+| [pyScoMotif](https://github.com/3BioCompBio/pyScoMotif) | protein motif search |
+| [pyRMSD](https://github.com/salilab/pyRMSD) | RMSD calculations of large sets of structures |
+| [reseek](https://github.com/rcedgar/reseek) | structure alignment and search algorithm (check out the [webserver](https://reseek.online/))|
+| [tmtools](https://github.com/jvkersch/tmtools) | Python bindings for the TM-align algorithm and code for protein structure comparison |
+| [SoftAlign](https://github.com/jtrinquier/SoftAlign) | compare 3D protein structures |
+| [foldmason](https://github.com/steineggerlab/foldmason) | Multiple Protein Structure Alignment at Scale |
+| [pyjess](https://github.com/althonos/pyjess) | constraint-based structural template matching to identify catalytic residues from a known template |
+| [gtalign](https://bioinformatics.lt/comer/gtalign/) | High-performance search and alignment for protein structures |
+| [Muscle-3D](https://github.com/rcedgar/muscle) | multiple protein structure alignment |
+
+# Structure prediction
+Tools and pipelines for predicting protein structures from sequence, mainly based on AlphaFold and related methods.
+| Name | Description | 
+|-----------|-----------| 
+| [Alphafold2](https://github.com/google-deepmind/alphafold)| protein structure prediction |
+| [Alphafold3](https://github.com/google-deepmind/alphafold3) | predict biomolecular interactions using AlphaFold3 (check out the [webserver](https://alphafoldserver.com/) as well as this [solution to predict ~10k structures](https://github.com/GoogleCloudPlatform/cluster-toolkit/blob/cloudnext25/examples/science/af3-slurm/README.md))|
+| [ColabFold](https://github.com/sokrypton/ColabFold)| protein structure prediction on Google colab with a graphical user interface|
+| [localcolabfold](https://github.com/YoshitakaMo/localcolabfold) | ColabFold on your local PC | 
+| [flashfold](https://github.com/chayan7/flashfold) | command-line tool for faster protein structure prediction |
+| [PAE Viewer](https://gitlab.gwdg.de/general-microbiology/pae-viewer) | view the predicted aligned error (PAE) of multimers, and integrates visualization of crosslink data (check out the [webserver](https://subtiwiki.uni-goettingen.de/v4/paeViewerDemo)) |
+| [PyMOLfold](https://github.com/colbyford/PyMOLfold) | Plugin for folding sequences directly in PyMOL |
+| [AFsample2](https://github.com/iamysk/AFsample2/) |  induce significant conformational diversity for a given protein |
+| [alphafold3 tools](https://github.com/cddlab/alphafold3_tools) | Toolkit for input generation and output analysis |
+| [af3cli](https://github.com/SLx64/af3cli) | generating AlphaFold3 input files |
+| [RareFold](https://github.com/patrickbryant1/RareFold) | Structure prediction and design of proteins with 29 noncanonical amino acids |
+| [AFusion](https://github.com/Hanziwww/AlphaFold3-GUI) | AlphaFold 3 GUI & Toolkit with Visualization |
+| [Hackable AlphaFold 3](https://github.com/chaitjo/alphafold3/) | a lightweight, hackable way to run AF3 to experiment without the massive MSA databases or Docker overhead |
+| [ABCFold](https://github.com/rigdenlab/ABCFold) | Scripts to run AlphaFold3, Boltz-1 and Chai-1 with MMseqs2 MSAs and custom templates  |
 
 
 --------------------------------------------------------------------------------------
 
-
-# Structure search and comparison
-| Name | Description | 
-|-----------|-----------|
-| [Pairwise Structure Alignment tool](https://www.rcsb.org/alignment) | structure alignment using PDB and AFDB IDs or upload a local file with atomic coordinates (see also the [detailed description of how to use the tool](https://www.rcsb.org/docs/tools/pairwise-structure-alignment#4-align-multiple-structures-to-an-alphafold-structure-))|
-| [FoldSeek](https://github.com/steineggerlab/foldseek) | fast and sensitive comparisons of large structure sets|
-| [folddisco](https://github.com/steineggerlab/folddisco) | indexing and search of discontinuous motifs |
-| [USalign](https://github.com/pylelab/USalign) |structure alignment of monomeric and complex proteins and nucleic acids |
-| [progres](https://github.com/greener-group/progres) | structure searching by structural embeddings ([see also the webserver](https://progres.mrc-lmb.cam.ac.uk/))|
-| [pyScoMotif](https://github.com/3BioCompBio/pyScoMotif) | protein motif search |
-| [pyRMSD](https://github.com/salilab/pyRMSD) | RMSD calculations of large sets of structures |
-| [reseek](https://github.com/rcedgar/reseek) | structure alignment and search algorithm (see also [the webserver](https://reseek.online/))|
-| [tmtools](https://github.com/jvkersch/tmtools) | Python bindings for the TM-align algorithm and code for protein structure comparison |
-| [SoftAlign](https://github.com/jtrinquier/SoftAlign) | compare 3D protein structures |
-| [lahuta](https://bisejdiu.github.io/lahuta/) | calculate atomomic interactions |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-
-# Homology search
-| Name | Description | 
-|-----------|-----------|
-| [foldmason](https://github.com/steineggerlab/foldmason) | Multiple Protein Structure Alignment at Scale |
-| [pyjess](https://github.com/althonos/pyjess) | constraint-based structural template matching to identify catalytic residues from a known template |
-| []() |  |
-
-
-# Download (meta)data
-| Name | Description | 
-|-----------|-----------|
-| [RCSB API](https://github.com/rcsb/py-rcsb-api) | Python interface for RCSB PDB API services (see also this [guidelines and tutorials](https://pdb101.rcsb.org/news/684078fe300817f1b5de793a)) |
-| []() |  |
-
-# structures
-| Name | Description | 
-|-----------|-----------| 
-| [localcolabfold](https://github.com/YoshitakaMo/localcolabfold) | ColabFold on your local PC | 
-| [flashfold](https://github.com/chayan7/flashfold) | command-line tool for faster protein structure prediction |
 | [PyRosetta](https://github.com/RosettaCommons/PyRosetta.notebooks) | Rosetta suite for protein desing ported to python (See also these instructions for an [easy installation in Colab](https://x.com/miangoar/status/1835176497063030798) as well as the [documentation](https://graylab.jhu.edu/PyRosetta.documentation/index.html)) |
-
 | [p2rank](https://github.com/rdk/p2rank) | Protein-ligand binding site prediction from protein structure |
 | [PLACER](https://github.com/baker-laboratory/PLACER) |  local prediction of protein-ligand conformational ensembles |
-
-
 | [peppr](https://github.com/aivant/peppr) | a package for evaluation of predicted poses like RMSD, TM-score, lDDT, lDDT-PLI, fnat, iRMSD, LRMSD, DockQ  |
 | [unicore](https://github.com/steineggerlab/unicore) | core gene phylogeny with Foldseek and ProstT5 (i.e. 3Di alphabet) |
 | [PAthreader and FoldPAthreader](https://github.com/iobio-zjut/PAthreader/tree/main/PAthreader_main) | PAthreader improve AF2 template selection by looking remote homologous in PDB/AFDB and FoldPAthreader predict the folding pathway  (see also [the webserver](http://zhanglab-bioinf.com/PAthreader/))  |
@@ -397,7 +366,6 @@ biomni
 | [ProtLego](https://hoecker-lab.github.io/protlego/) | constructing protein chimeras and its structural analysis |
 | [GraphRelax](https://github.com/delalamo/GraphRelax) | residue repacking and design   |
 | []() |  |
-
 
 
 # Phylogeny
@@ -413,23 +381,6 @@ biomni
 | []() |  |
 
 
-
-# structure prediction
-| Name | Description | 
-|-----------|-----------|
-| [PAE Viewer](https://gitlab.gwdg.de/general-microbiology/pae-viewer) |  view the PAE (predicted aligned error) of multimers, and integrates visualization of crosslink data (use the [webserver](https://subtiwiki.uni-goettingen.de/v4/paeViewerDemo)) |
-| [PyMOLfold](https://github.com/colbyford/PyMOLfold) | Plugin for folding sequences directly in PyMOL |
-| [AFsample2](https://github.com/iamysk/AFsample2/) |  induce significant conformational diversity for a given protein |
-| [alphafold3 tools](https://github.com/cddlab/alphafold3_tools) | Toolkit for input generation and output analysis |
-| [alphafold3](https://github.com/google-deepmind/alphafold3) | dude ... you can also use the [AF3 weberser](https://alphafoldserver.com/welcome).Se also the [High Throughput Solution to predict up-to 10s thousands of structures](https://github.com/GoogleCloudPlatform/cluster-toolkit/blob/cloudnext25/examples/science/af3-slurm/README.md) using the [google cloud services](https://blog.google/products/google-cloud/scientific-research-tools-ai/?utm_source=x&utm_medium=social&utm_campaign=&utm_content=#aimodels) |
-| [af3cli](https://github.com/SLx64/af3cli) | generating AlphaFold3 input files |
-| [AFDB Structure Extractor](https://project.iith.ac.in/sharmaglab/alphafoldextractor/index.html) | download structures using AF IDs, Uniprot IDs, Locus tags, RefSeq Protein IDs and NCBI TaxIDs |
-| [RareFold](https://github.com/patrickbryant1/RareFold) | Structure prediction and design of proteins with 29 noncanonical amino acids |
-| [AFusion](https://github.com/Hanziwww/AlphaFold3-GUI) | GUI & Toolkit with Visualization to AF3 |
-| [BoltzDesign1](https://github.com/yehlincho/BoltzDesign1) |  designing protein-protein interactions and biomolecular complexes |
-| [Hackable AlphaFold 3](https://github.com/chaitjo/alphafold3/) | a lightweight, hackable way to run AF3 to experiment without the massive MSA databases or Docker overhead |
-| [ABCFold](https://github.com/rigdenlab/ABCFold) | Scripts to run AlphaFold3, Boltz-1 and Chai-1 with MMseqs2 MSAs and custom templates  |
-| []() |  |
 
 # Sequence generation
 | Name | Description | 
@@ -454,6 +405,7 @@ biomni
 | [EnzymeFlow](https://github.com/WillHua127/EnzymeFlow) | generate catalytic pockets for specific substrates and catalytic reactions |
 | [GENzyme](https://github.com/WillHua127/GENzyme) | design of catalytic pockets, enzymes, and enzyme-substrate complexes for any reaction |
 | [BindCraft](https://github.com/martinpacesa/BindCraft) | binder design pipeline |
+| [BoltzDesign1](https://github.com/yehlincho/BoltzDesign1) |  designing protein-protein interactions and biomolecular complexes |
 
 # Inverse folding
 | Name | Description | 
@@ -720,7 +672,7 @@ biomni
 | [moleculatio](https://moleculatio.yamlab.app) | chemoinformatics, quantum chemistry and molecular dynamics simulations or small molecules |
 | [AI in Biology Demos]( https://huggingface.co/collections/hf4h/ai-in-biology-demos-65007d936a230e55a66cd31e) | applications of AI in biology and biochemistry |
 | [ProteinsPlus](https://proteins.plus/) | structure mining and modeling, focussing on protein-ligand interactions |
-| [gtalign](https://bioinformatics.lt/comer/gtalign/) | High-performance search and alignment for protein structures |
+
 | []() |  |
 
 
