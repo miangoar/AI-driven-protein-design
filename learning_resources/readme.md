@@ -12,7 +12,7 @@ Note: resources marked with ⭐ are highly recommended
 
 # Protein science
 ## Courses
-| No. | Name | Description |
+|  | Name | Description |
 |-----------|-----------|-----------|
 | ⭐ | [DL4Proteins Workshops](https://github.com/Graylab/DL4Proteins-notebooks) | Notebooks covering deep learning tools for biomolecular structure prediction and design |
 | | [AlphaFold 3 Overview](https://alphafoldserver.com/guides) | Understanding confidence scores, strengths, limitations, and basic theory about AlphaFold3 |
@@ -30,11 +30,11 @@ Note: resources marked with ⭐ are highly recommended
 | | [Introduction to Molecular Animation with ChimeraX](https://pdb101.rcsb.org/train/training-events/animation) | How to use ChimeraX to create animations | 
 
 ## Useful publications
-| No. | Name | Description |
+|  | Name | Description |
 |-----------|-----------|-----------|
-| 001 | [PDBx/mmCIF Dictionary Resources](https://mmcif.wwpdb.org/)| Information about the format, dictionaries and tools used by the PDB to define entries | 
-| 002 | [alphafold2 explained](https://www.ai4pharm.info/alphafold2)| An explanation of the architecture of alphafold2 and its training |
-| 003 | [AlphaFold3 Explained](https://www.ai4pharm.info/alphafold3)| An explanation of the architecture of Alphafold3 and its training |
+| | [PDBx/mmCIF Dictionary Resources](https://mmcif.wwpdb.org/)| Information about the format, dictionaries and tools used by the PDB to define entries | 
+| | [alphafold2 explained](https://www.ai4pharm.info/alphafold2)| An explanation of the architecture of alphafold2 and its training |
+| | [AlphaFold3 Explained](https://www.ai4pharm.info/alphafold3)| An explanation of the architecture of Alphafold3 and its training |
 | | [AlphaFold 3, Demystified](https://github.com/shenyichong/alphafold3-architecture-walkthrough)| Detailed explanation of the inputs, outputs, and algorithms of AlphaFold 3 |
 | ⭐| [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/) | A visual walkthrough of the AlphaFold3 architecture with detailed diagrams |
 | | [An Opinionated AlphaFold3 Field Guide](https://research.dimensioncap.com/p/an-opinionated-alphafold3-field-guide)| An explanation of the architecture of Alphafold3 in simple-to-understand terms |
@@ -49,7 +49,7 @@ Note: resources marked with ⭐ are highly recommended
 
 # Bioinformatics
 ## Courses
-| No. | Name | Description |
+|  | Name | Description |
 |-----------|-----------|-----------|
 | | [Running and parsing BLAST using the Linux command line](https://vinuesa.github.io/TIB-filoinfo/sesion3_BLAST/) | Basics of the BLAST algorithm and its results, along with useful AWK, Bash, Perl, and R code |
 | | [Multiple sequence alignments, and profile hidden Markov models](https://vinuesa.github.io/TIB-filoinfo/sesion4_alineamientos/)| Command-line tutorial on multiple sequence alignment and HMM-based homology search using Clustal and HMMER |
@@ -57,7 +57,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [Jupyter Notebook Tutorials for Machine Learning in Chemistry](https://xuhuihuang.github.io/mlchem/html/index.html) | Machine Learning in Chemistry (Check out the [reference paper](https://chemrxiv.org/engage/chemrxiv/article-details/68e029acdfd0d042d1e0312e))| 
 |⭐| [Curso avanzado de programación AWK y Bash para bioinformática y biocómputo en sistemas GNU/Linux](https://vinuesa.github.io/intro2linux/index.html) | Introduction to AWK and Bash programming for bioinformatics (in Spanish)|
 ## Useful publications
-| No. | Name | Description |
+| | Name | Description |
 |-----------|-----------|-----------|
 | | [NEJM Illustrated-glossary](https://illustrated-glossary.nejm.org/)| Glossary for biomedical research |
 | | [Glittr](https://glittr.org/) | GitHub repositories with educational material for the computational life sciences |
@@ -67,14 +67,14 @@ Note: resources marked with ⭐ are highly recommended
 | | [PCR Primer Design](https://binomicalabs.notion.site/PCR-Primer-Design-8f1f888f50a0403a87bdce20e37840f2)| How to design PCR Primers using Primer3 |
 | | [Using BLAST on the command line](https://jvanheld.github.io/using_IFB_NNCR/practicals/blast_proteome/blast_proteome.html)| How to search and analyze protein sequnces with BLAST |
 | | [LifeMap](https://lifemap.cnrs.fr/)| An interactive tree of life based on NCBI data | 
-|| [A-microbiologist-wants-to-compute](https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute) | learning resources related to microbiome computational science and tools |
-|| [Bioinformática Microbiana](https://bioinformatica.ciad.mx/home)  | Analysis of microbial genomes (in Spanish) |
+| | [A-microbiologist-wants-to-compute](https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute) | learning resources related to microbiome computational science and tools |
+| | [Bioinformática Microbiana](https://bioinformatica.ciad.mx/home)  | Analysis of microbial genomes (in Spanish) |
 
 # Machine Learning, Deep Learning, and Data Science
 ## Courses
-| No. | Name | Description |
+|  | Name | Description |
 |-----------|-----------|-----------|
-| 001 | [DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)| Interactive dashboards for learning data science |
+| | [DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)| Interactive dashboards for learning data science |
 | | [Applied Machine Learning in Python: a Hands-on Guide with Code](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) | Introduction to data analysis, machine learning, and neural networks with Python |
 | | [Alice’s Adventures in a differentiable wonderlandPermalink](https://www.sscardapane.it/alice-book) | Introduction to differentiable programming and neural network design with PyTorch and JAX |
 | | [Introduction to Machine Learning for chemists](https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry) | Introduction to Machine Learning for chemists |
@@ -87,12 +87,12 @@ Note: resources marked with ⭐ are highly recommended
 | | [Machine Learning For Beginners with python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) | 42 tutorials to get started in ML |
 
 ## Useful publications
-| No. | Name | Description |
+|  | Name | Description |
 |-----------|-----------|-----------|
-| 001 | [MLU-EXPLAIN](https://mlu-explain.github.io/) | Visual explanations of core machine learning concepts |
-| 002 | [Distill publications](https://distill.pub/) | Visual explanations of core machine and deep learning concepts |
-| 003 | [Neural Network SandBox](playground.tensorflow.org) | Interactive visualization of neural networks |
-| 004 | [ML Code Challenges](https://www.deep-ml.com/) | Practice Machine Learning and Data Science problems |
+| | [MLU-EXPLAIN](https://mlu-explain.github.io/) | Visual explanations of core machine learning concepts |
+| | [Distill publications](https://distill.pub/) | Visual explanations of core machine and deep learning concepts |
+| | [Neural Network SandBox](playground.tensorflow.org) | Interactive visualization of neural networks |
+| | [ML Code Challenges](https://www.deep-ml.com/) | Practice Machine Learning and Data Science problems |
 | | [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)| Common mistakes when using machine learning, and how to avoid them |
 | ⭐ | [PyTorch in One Hour](https://sebastianraschka.com/teaching/pytorch-1h/)| introduction to PyTorch, from Tensors to Training Neural Networks on Multiple GPUs |
 | | [15 Ways to Visualize Regression Results](https://rpubs.com/timothyfraser/tutorial_15_ways_to_visualize_regression_results)| Visualize your regression results|
@@ -100,15 +100,15 @@ Note: resources marked with ⭐ are highly recommended
 
 # Transformers, LLMs, Diffusion Models and Generative AI
 ## Courses
-| No. | Name | Description |
+| | Name | Description |
 |-----------|-----------|-----------|
-| 001| [Large Language Model Course](https://github.com/mlabonne/llm-course) | Get into LLMs with roadmaps and Colab notebooks |
+| | [Large Language Model Course](https://github.com/mlabonne/llm-course) | Get into LLMs with roadmaps and Colab notebooks |
 | | [Machine Learning Engineering](https://github.com/stas00/ml-engineering) | Training and fine-tuning of LLMs and multi-modal models and their inference | 
-|| [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch) | Implement a ChatGPT-like LLM in PyTorch from scratch |
-|| [IA generativa](https://microsoft.github.io/generative-ai-for-beginners/#/) | |
-|| [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)| Scaling language models |
-|| [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)| How to train LLMs on GPU Clusters (Check out this [video for an overview](https://www.youtube.com/watch?v=1E8GDR8QXKw) as well as this notes [notes](https://damek.github.io/STAT-4830/section/12/notes.html))|
-|| [ Flow Matching Guide and Code](https://arxiv.org/abs/2412.06264)| Comprehensive and self-contained review of Flow Matching (i.e. the basis for difussion models)|
+| | [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch) | Implement a ChatGPT-like LLM in PyTorch from scratch |
+| | [IA generativa](https://microsoft.github.io/generative-ai-for-beginners/#/) | |
+| | [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)| Scaling language models |
+| | [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)| How to train LLMs on GPU Clusters (Check out this [video for an overview](https://www.youtube.com/watch?v=1E8GDR8QXKw) as well as this notes [notes](https://damek.github.io/STAT-4830/section/12/notes.html))|
+| | [ Flow Matching Guide and Code](https://arxiv.org/abs/2412.06264)| Comprehensive and self-contained review of Flow Matching (i.e. the basis for difussion models)|
 | | [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)| Overview of the field of reinforcement learning and sequential decision making |
 | | [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs](https://arxiv.org/abs/2408.13296)| Fine-tuning LLMs, from data and optimization to deployment and alignment |
 | | [LLM Inference Handbook](https://bentoml.com/llm/)| LLM inference |
@@ -119,12 +119,12 @@ Note: resources marked with ⭐ are highly recommended
 | | [Interpretability of Large Language Models](https://github.com/mega002/llm-interp-tau)| interpretability of LLMs |
 
 ## Useful publications
-| No. | Name | Description |
+|  | Name | Description |
 |-----------|-----------|-----------|
-| 001 | [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/) | A visual explanation of Transformers |
-| 002 | [Diffusion Models](https://andrewkchan.dev/posts/diffusion.html) | Notes on the theory behind models like Stable Diffusion and their applications |
-| 003 | [Transformer Explainer](https://huggingface.co/papers/2408.04619) | Interactive visualization of Transformers | 
-| 004 | [LLM Visualization](https://bbycroft.net/llm) | Interactive visualization of Transformers |
+| | [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/) | A visual explanation of Transformers |
+| | [Diffusion Models](https://andrewkchan.dev/posts/diffusion.html) | Notes on the theory behind models like Stable Diffusion and their applications |
+| | [Transformer Explainer](https://huggingface.co/papers/2408.04619) | Interactive visualization of Transformers | 
+| | [LLM Visualization](https://bbycroft.net/llm) | Interactive visualization of Transformers |
 | | [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/abs/2406.08929)| Diffusion models and flow matching aimed at a technical audience with no diffusion experience |
 | | [Guide to Spherical Equivariant Graph Transformers](https://alchemybio.substack.com/p/spherical-equivariant-graph-transformer)| Spherical equivariant GNNs and SE(3)-Transformers explained with protein and molecular examples |
 | | [Dummy's Guide to Modern LLM Sampling](https://rentry.org/samplers)| Tokenizers and LLM inference |
@@ -135,23 +135,23 @@ Note: resources marked with ⭐ are highly recommended
 
 # Python and computer science  
 ## Courses
-| No. | Name | Description |
+|  | Name | Description |
 |-----------|-----------|-----------|
-| 001 | [cpu.land](https://cpu.land/) | How multiprocessing works, what system calls really are, how computers manage memory|
+| | [cpu.land](https://cpu.land/) | How multiprocessing works, what system calls really are, how computers manage memory|
 | | [Pandas Fundamentals](https://www.youtube.com/playlist?list=PLp0BA-8NZ4bgNDMxQojvn6eg71jaaRaYZ) | | 
 | | [Fundamentos de ciencia de datos](https://github.com/thatcsharpguy/df) | Introduction to data sceince (in spanish)|
 | ⭐ | [Python for Data Analysis](https://wesmckinney.com/book/)| Data Wrangling with pandas, NumPy, and Jupyter |
-|| [Algorithmica](https://en.algorithmica.org/)| Introduction to high performance computing |
-|| [The Open-Source Project](https://digital-work-lab.github.io/open-source-project/)| Python package development (Check out the reference [paper](https://github.com/openjournals/jose-reviews/issues/292#issuecomment-3057699562)) |
+| | [Algorithmica](https://en.algorithmica.org/)| Introduction to high performance computing |
+| | [The Open-Source Project](https://digital-work-lab.github.io/open-source-project/)| Python package development (Check out the reference [paper](https://github.com/openjournals/jose-reviews/issues/292#issuecomment-3057699562)) |
 |⭐| [Diplomado en Ciencia de Datos con Python](https://github.com/GAL-Repository/EDA_Stuff) | Introduction to python and statistical analysis with numpy, seaborn and pandas (in Spanish)| 
 |⭐| [MIT 6.100L Introduction to computer science and Programming using Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB) | Introduction to computer science and Programming | 
-|| [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting/) | Basics of Bash scripting |
+| | [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting/) | Basics of Bash scripting |
 
 ## Useful publications
-| No. | Name | Description |
+| | Name | Description |
 |-----------|-----------|-----------|
-| 001 | [Developer Roadmaps](https://roadmap.sh/) | Roadmaps to help developers choose a learning path |
-| 002 | [Python Tutor](https://pythontutor.com/)| Step-by-step visual debugger and AI tutor to help you understand and debug code |
+| | [Developer Roadmaps](https://roadmap.sh/) | Roadmaps to help developers choose a learning path |
+| | [Python Tutor](https://pythontutor.com/)| Step-by-step visual debugger and AI tutor to help you understand and debug code |
 | | [Introduction to Python](https://carpentries-incubator.github.io/pangenomics-python/) | Introduction to Python |
 | [Dan Kornas courses](https://www.youtube.com/@dankornas/playlists) | Fundamentals of python, numpy, pandas, matplotlib, machine learning and pytorch |
 | | [pandas-cookbook](https://github.com/jvns/pandas-cookbook/) | Recipes for using Python's pandas library |
@@ -162,32 +162,31 @@ Note: resources marked with ⭐ are highly recommended
 
 # Math
 ## Courses
-| No. | Name | Description |
+|  | Name | Description |
 |-----------|-----------|-----------|
-| 001 | [Seeing-Theory](https://seeing-theory.brown.edu/) | Introduction to probability and statistics with interactive visualizations |
+| | [Seeing-Theory](https://seeing-theory.brown.edu/) | Introduction to probability and statistics with interactive visualizations |
 | | [Mathematical theory of deep learning](https://arxiv.org/abs/2407.18384)| Introduction to the mathematical analysis of deep learning |
-|| [Immersive linear algebra](https://immersivemath.com/ila/index.html)| Introduction to linear algebra with interactive visualizations |
-|| [Interactive Linear Algebra](https://personal.math.ubc.ca/~tbjw/ila/index.html)| Interactive Linear Algebra |
+| | [Immersive linear algebra](https://immersivemath.com/ila/index.html)| Introduction to linear algebra with interactive visualizations |
+| | [Interactive Linear Algebra](https://personal.math.ubc.ca/~tbjw/ila/index.html)| Interactive Linear Algebra |
 | ⭐ | [Essence of linear algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Core concept of linear algebra with a visuals-first approach (Check out the [spanish version of this channel](https://www.youtube.com/playlist?list=PLIb_io8a5NB2DddFf-PwvZDCOUNT1GZoA))|
+
 ## Useful publications
-| No. | Name | Description |
+|  | Name | Description |
 |-----------|-----------|-----------|
-| 001 | [Stats illustrations](https://github.com/allisonhorst/stats-illustrations) | R & stats illustrations |
+| | [Stats illustrations](https://github.com/allisonhorst/stats-illustrations) | R & stats illustrations |
 | | [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) | Matrix calculus for deep learning, no math background assumed |
 | | [Matrix Calculus (for Machine Learning and Beyond)](https://arxiv.org/abs/2501.14787)| Differential calculus to functions on more general vector spaces |
 
 
 # Data visualization 
+| Web | 
+|-----------|
 | [From Data to Viz](https://www.data-to-viz.com/) |
 | [The Python Graph Gallery](https://python-graph-gallery.com/) |
 | [Python Color Palette Finder](https://python-graph-gallery.com/color-palette-finder/) |
 | [Dataviz caveats](https://www.data-to-viz.com/caveats.html) |
 | [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) |
-
 | [r psychologist](https://rpsychologist.com/viz) |
-# micelanoes 
-| [statements](https://github.com/RILAB/statements) | Protein science |
-
 
 # Blogs 
 | Web | Topic |
@@ -203,5 +202,4 @@ Note: resources marked with ⭐ are highly recommended
 | [James Lingford](https://www.jameslingford.com/blog/) | Bioinformatics |
 | [Boolean Biotech](https://blog.booleanbiotech.com/archives) | Protein science |
 | [XGblog](https://www.xgblog.ai/) | AI |
-| []() |
 
