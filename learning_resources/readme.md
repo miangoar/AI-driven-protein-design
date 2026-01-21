@@ -1,22 +1,10 @@
 # Content list
 - [Protein science](#protein-science)
-  - [Courses](#protein-science-courses)
-  - [Useful resources](#protein-science-useful-resources)
 - [Bioinformatics](#bioinformatics)
-  - [Courses](#bioinformatics-courses)
-  - [Useful resources](#bioinformatics-useful-resources)
 - [Machine Learning, Deep Learning, and Data Science](#machine-learning-deep-learning-and-data-science)
-  - [Courses](#machine-learning-deep-learning-and-data-science-courses)
-  - [Useful resources](#machine-learning-deep-learning-and-data-science-useful-resources)
-- [Transformers, LLMs, and Diffusion Models](#transformers-llms-and-diffusion-models)
-  - [Courses](#transformers-llms-and-diffusion-models-courses)
-  - [Useful resources](#transformers-llms-and-diffusion-models-useful-resources)
+- [Transformers, LLMs, Diffusion Models and Generative AI](#transformers-llms-diffusion-models-and-generative-ai)
 - [Python and Computer Science](#python-and-computer-science)
-  - [Courses](#python-and-computer-science-courses)
-  - [Useful resources](#python-and-computer-science-useful-resources)
 - [Math](#math)
-  - [Courses](#math-courses)
-  - [Useful resources](#math-useful-resources)
 - [Blogs](#blogs)
 
 Note: resources marked with ⭐ are highly recommended
@@ -86,6 +74,8 @@ Note: resources marked with ⭐ are highly recommended
 | No. | Name | Description |
 |-----------|-----------|-----------|
 | 001 | [DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)| Interactive dashboards for learning data science |
+| | [Applied Machine Learning in Python: a Hands-on Guide with Code](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) | Introduction to data analysis, machine learning, and neural networks with Python |
+| | [Alice’s Adventures in a differentiable wonderlandPermalink](https://www.sscardapane.it/alice-book) | Introduction to differentiable programming and neural network design with PyTorch and JAX |
 |
 ## Useful publications
 | No. | Name | Description |
@@ -97,11 +87,14 @@ Note: resources marked with ⭐ are highly recommended
 | | [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)| Common mistakes when using machine learning, and how to avoid them |
 |
 
-# Transformers, LLMs and diffusion models
+# Transformers, LLMs, Diffusion Models and Generative AI
 ## Courses
 | No. | Name | Description |
 |-----------|-----------|-----------|
 | 001| [Large Language Model Course](https://github.com/mlabonne/llm-course) | Get into LLMs with roadmaps and Colab notebooks |
+| | [Machine Learning Engineering](https://github.com/stas00/ml-engineering) | Training and fine-tuning of LLMs and multi-modal models and their inference | 
+|| [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch) | Implement a ChatGPT-like LLM in PyTorch from scratch |
+|| [IA generativa](https://microsoft.github.io/generative-ai-for-beginners/#/) | |
 |
 ## Useful publications
 | No. | Name | Description |
@@ -140,14 +133,8 @@ Note: resources marked with ⭐ are highly recommended
 | | [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) | Matrix calculus for deep learning, no math background assumed |
 |
 
---------------------------- post --------------------------------
+--------------------------------------------------------------------------- post --------------------------------
 
-
-| [Applied Machine Learning in Python: a Hands-on Guide with Code](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) | |
-| [ml-engineering](https://github.com/stas00/ml-engineering) | | 
-| [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch) | |
-| [Alice’s Adventures in a differentiable wonderlandPermalink](https://www.sscardapane.it/alice-book) | |
-| [IA generativa](https://microsoft.github.io/generative-ai-for-beginners/#//) | | 
 | [LLM](https://txt.cohere.com/llm-university/) | |
 | [Introduction to Machine Learning for chemists](https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry) | |
 | [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)| scaling language models on TPUs, principles and math can be adapted to GPUs too |
