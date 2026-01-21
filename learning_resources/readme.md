@@ -1,68 +1,28 @@
 # Content list
-- [Courses](#courses)
-  - [Python](#python)
-  - [Math](#math)
-  - [Machine Learning](#machine-learning)
-  - [Deep Learning](#deep-learning)
-  - [Data Science](#data-science)
-  - [Bioinformatics](#bioinformatics)
-- [Useful publications](#useful-publications)
+- [Protein science](#protein-science)
+  - [Courses](#protein-science-courses)
+  - [Useful resources](#protein-science-useful-resources)
+- [Bioinformatics](#bioinformatics)
+  - [Courses](#bioinformatics-courses)
+  - [Useful resources](#bioinformatics-useful-resources)
+- [Machine Learning, Deep Learning, and Data Science](#machine-learning-deep-learning-and-data-science)
+  - [Courses](#machine-learning-deep-learning-and-data-science-courses)
+  - [Useful resources](#machine-learning-deep-learning-and-data-science-useful-resources)
+- [Transformers, LLMs, and Diffusion Models](#transformers-llms-and-diffusion-models)
+  - [Courses](#transformers-llms-and-diffusion-models-courses)
+  - [Useful resources](#transformers-llms-and-diffusion-models-useful-resources)
+- [Python and Computer Science](#python-and-computer-science)
+  - [Courses](#python-and-computer-science-courses)
+  - [Useful resources](#python-and-computer-science-useful-resources)
+- [Math](#math)
+  - [Courses](#math-courses)
+  - [Useful resources](#math-useful-resources)
 - [Blogs](#blogs)
-- 
+
 Note: resources marked with ⭐ are highly recommended
 
-# Courses 
-
-## Python and computer science
-| No. | Name | Description |
-|-----------|-----------|-----------|
-| 001 | [cpu.land](https://cpu.land/) | What happens when you run a program on your computer |
-|
-|
-|
-|
-|
-|
-|
-|
-
-
- 
-## Math
-| No. | Name | Description |
-|-----------|-----------|-----------|
-| 001 | [Seeing-Theory](https://seeing-theory.brown.edu/) | Introduction to probability and statistics with interactive visualizations |
-| 
-|
-|
-|
-|
-|
-|
-
-## Machine Learning, Deep Learning, data science
-| No. | Name | Description |
-|-----------|-----------|-----------|
-| 001 | [DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)| Interactive dashboards for learning data science |
-|
-|
-|
-|
-|
-|
-
-## Bioinformatics
-| No. | Name | Description |
-|-----------|-----------|-----------|
-| ⭐ | [Running and parsing BLAST using the Linux command line](https://vinuesa.github.io/TIB-filoinfo/sesion3_BLAST/) | Basics of the BLAST algorithm and its results, along with useful AWK, Bash, Perl, and R code |
-| | [Multiple sequence alignments, and profile hidden Markov models](https://vinuesa.github.io/TIB-filoinfo/sesion4_alineamientos/)| Command-line tutorial on multiple sequence alignment and HMM-based homology search using Clustal and HMMER |
-| ⭐ | [An Introduction to Applied Bioinformatics](https://readiab.org/introduction.html)| Core concepts in bioinformatics and algorithms with scikit-learn and scikit-bio |
-| | [Jupyter Notebook Tutorials for Machine Learning in Chemistry](https://xuhuihuang.github.io/mlchem/html/index.html) | Machine Learning in Chemistry (Check out the [reference paper](https://chemrxiv.org/engage/chemrxiv/article-details/68e029acdfd0d042d1e0312e))| 
-|
-|
-|
-
-## Protein science
+# Protein science
+## Courses
 | No. | Name | Description |
 |-----------|-----------|-----------|
 | ⭐ | [DL4Proteins Workshops](https://github.com/Graylab/DL4Proteins-notebooks) | Notebooks covering deep learning tools for biomolecular structure prediction and design |
@@ -80,80 +40,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [Modeling proteins using AlphaFold and ColabFold](https://docs.google.com/document/d/1_g1_M-I40CqOQc5obwAt08YntC5D2Z_WNz6mYuUQtyc/edit?tab=t.0#heading=h.m7ei2f72v2ig)| How to predict protein structures using ColabFold and analyze them with ChimeraX |
 | ⭐| [Introduction to Molecular Animation with ChimeraX](https://pdb101.rcsb.org/train/training-events/animation) | How to use ChimeraX to create animations | 
 |
-|
-|
-|
-
------------------------------------------------------------------------------------
---------------------------- post --------------------------------
------------------------------------------------------------------------------------
-
-# Useful publications 
-
-## Python and computer science
-| No. | Name | Description |
-|-----------|-----------|-----------|
-| 001 | [Developer Roadmaps](https://roadmap.sh/) | Roadmaps to help developers choose a learning path |
-| 002 | [Python Tutor](https://pythontutor.com/)| Step-by-step visual debugger and AI tutor to help you understand and debug code |
-|
-|
-|
-
-## Math
-| No. | Name | Description |
-|-----------|-----------|-----------|
-| 001 | [Stats illustrations](https://github.com/allisonhorst/stats-illustrations) | R & stats illustrations |
-| | [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) | Matrix calculus for deep learning, no math background assumed |
-|
-|
-|
-|
-|
-
-
-## Transformers, LLMs and diffusion models
-| No. | Name | Description |
-|-----------|-----------|-----------|
-| 001 | [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/) | A visual explanation of Transformers |
-| 002 | [Diffusion Models](https://andrewkchan.dev/posts/diffusion.html) | Notes on the theory behind models like Stable Diffusion and their applications |
-| 003 | [Transformer Explainer](https://huggingface.co/papers/2408.04619) | Interactive visualization of Transformers | 
-| 004 | [LLM Visualization](https://bbycroft.net/llm) | Interactive visualization of Transformers |
-| | [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/abs/2406.08929)| Diffusion models and flow matching aimed at a technical audience with no diffusion experience |
-| ⭐ | [Guide to Spherical Equivariant Graph Transformers](https://alchemybio.substack.com/p/spherical-equivariant-graph-transformer)| Spherical equivariant GNNs and SE(3)-Transformers explained with protein and molecular examples |
-|
-
-## Machine Learning, Deep Learning, data science
-| No. | Name | Description |
-|-----------|-----------|-----------|
-| 001 | [MLU-EXPLAIN](https://mlu-explain.github.io/) | Visual explanations of core machine learning concepts |
-| 002 | [Distill publications](https://distill.pub/) | Visual explanations of core machine and deep learning concepts |
-| 003 | [Neural Network SandBox](playground.tensorflow.org) | Interactive visualization of neural networks |
-| 004 | [ML Code Challenges](https://www.deep-ml.com/) | Practice Machine Learning and Data Science problems |
-| | [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)| Common mistakes when using machine learning, and how to avoid them |
-|
-|
-|
-|
-|
-|
-|
-|
-
-## Bioinformatics and molecular biology
-| No. | Name | Description |
-|-----------|-----------|-----------|
-| | [NEJM Illustrated-glossary](https://illustrated-glossary.nejm.org/)| Glossary for biomedical research |
-| | [Glittr](https://glittr.org/) | GitHub repositories with educational material for the computational life sciences |
-| ⭐ | [Sandbox BIO](https://sandbox.bio/) | Interactive bioinformatics tutorials |
-| | [TomoGuide ](https://tomoguide.github.io/)| Cryo-electron tomography overview adn and a step-by-step tutorial for data processing |
-| | [Bio Data Zoo](https://github.com/omgenomics/bio-data-zoo)| Example data in various genomics file formats |
-| | [PCR Primer Design](https://binomicalabs.notion.site/PCR-Primer-Design-8f1f888f50a0403a87bdce20e37840f2)| How to design PCR Primers using Primer3 |
-| | [Using BLAST on the command line](https://jvanheld.github.io/using_IFB_NNCR/practicals/blast_proteome/blast_proteome.html)| How to search and analyze protein sequnces with BLAST |
-| | [LifeMap](https://lifemap.cnrs.fr/)| An interactive tree of life based on NCBI data | 
-|
-|
-
-## Protein science
+## Useful publications
 | No. | Name | Description |
 |-----------|-----------|-----------|
 | 001 | [PDBx/mmCIF Dictionary Resources](https://mmcif.wwpdb.org/)| Information about the format, dictionaries and tools used by the PDB to define entries | 
@@ -171,29 +58,91 @@ Note: resources marked with ⭐ are highly recommended
 | | [Anatomy of BoltzGen](https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen) | Description of BoltzGen architecture (i.e. an AF3-like method) | 
 | | [Protein Design Skills](https://proteinbase.com/protein-design-skills) | Claude Code skills for protein design |
 | 
+
+# Bioinformatics
+## Courses
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| ⭐ | [Running and parsing BLAST using the Linux command line](https://vinuesa.github.io/TIB-filoinfo/sesion3_BLAST/) | Basics of the BLAST algorithm and its results, along with useful AWK, Bash, Perl, and R code |
+| | [Multiple sequence alignments, and profile hidden Markov models](https://vinuesa.github.io/TIB-filoinfo/sesion4_alineamientos/)| Command-line tutorial on multiple sequence alignment and HMM-based homology search using Clustal and HMMER |
+| ⭐ | [An Introduction to Applied Bioinformatics](https://readiab.org/introduction.html)| Core concepts in bioinformatics and algorithms with scikit-learn and scikit-bio |
+| | [Jupyter Notebook Tutorials for Machine Learning in Chemistry](https://xuhuihuang.github.io/mlchem/html/index.html) | Machine Learning in Chemistry (Check out the [reference paper](https://chemrxiv.org/engage/chemrxiv/article-details/68e029acdfd0d042d1e0312e))| 
+|
+## Useful publications
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| | [NEJM Illustrated-glossary](https://illustrated-glossary.nejm.org/)| Glossary for biomedical research |
+| | [Glittr](https://glittr.org/) | GitHub repositories with educational material for the computational life sciences |
+| ⭐ | [Sandbox BIO](https://sandbox.bio/) | Interactive bioinformatics tutorials |
+| | [TomoGuide ](https://tomoguide.github.io/)| Cryo-electron tomography overview adn and a step-by-step tutorial for data processing |
+| | [Bio Data Zoo](https://github.com/omgenomics/bio-data-zoo)| Example data in various genomics file formats |
+| | [PCR Primer Design](https://binomicalabs.notion.site/PCR-Primer-Design-8f1f888f50a0403a87bdce20e37840f2)| How to design PCR Primers using Primer3 |
+| | [Using BLAST on the command line](https://jvanheld.github.io/using_IFB_NNCR/practicals/blast_proteome/blast_proteome.html)| How to search and analyze protein sequnces with BLAST |
+| | [LifeMap](https://lifemap.cnrs.fr/)| An interactive tree of life based on NCBI data | 
+|
+
+# Machine Learning, Deep Learning, and Data Science
+## Courses
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| 001 | [DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)| Interactive dashboards for learning data science |
+|
+## Useful publications
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| 001 | [MLU-EXPLAIN](https://mlu-explain.github.io/) | Visual explanations of core machine learning concepts |
+| 002 | [Distill publications](https://distill.pub/) | Visual explanations of core machine and deep learning concepts |
+| 003 | [Neural Network SandBox](playground.tensorflow.org) | Interactive visualization of neural networks |
+| 004 | [ML Code Challenges](https://www.deep-ml.com/) | Practice Machine Learning and Data Science problems |
+| | [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)| Common mistakes when using machine learning, and how to avoid them |
+|
+
+# Transformers, LLMs and diffusion models
+## Courses
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| 001| [Large Language Model Course](https://github.com/mlabonne/llm-course) | Get into LLMs with roadmaps and Colab notebooks |
+|
+## Useful publications
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| 001 | [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/) | A visual explanation of Transformers |
+| 002 | [Diffusion Models](https://andrewkchan.dev/posts/diffusion.html) | Notes on the theory behind models like Stable Diffusion and their applications |
+| 003 | [Transformer Explainer](https://huggingface.co/papers/2408.04619) | Interactive visualization of Transformers | 
+| 004 | [LLM Visualization](https://bbycroft.net/llm) | Interactive visualization of Transformers |
+| | [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/abs/2406.08929)| Diffusion models and flow matching aimed at a technical audience with no diffusion experience |
+| ⭐ | [Guide to Spherical Equivariant Graph Transformers](https://alchemybio.substack.com/p/spherical-equivariant-graph-transformer)| Spherical equivariant GNNs and SE(3)-Transformers explained with protein and molecular examples |
+|
+
+# Python and computer science  
+## Courses
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| 001 | [cpu.land](https://cpu.land/) | What happens when you run a program on your computer |
+|
+## Useful publications
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| 001 | [Developer Roadmaps](https://roadmap.sh/) | Roadmaps to help developers choose a learning path |
+| 002 | [Python Tutor](https://pythontutor.com/)| Step-by-step visual debugger and AI tutor to help you understand and debug code |
+|
+ 
+# Math
+## Courses
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| 001 | [Seeing-Theory](https://seeing-theory.brown.edu/) | Introduction to probability and statistics with interactive visualizations |
 | 
-| 
-| 
+## Useful publications
+| No. | Name | Description |
+|-----------|-----------|-----------|
+| 001 | [Stats illustrations](https://github.com/allisonhorst/stats-illustrations) | R & stats illustrations |
+| | [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) | Matrix calculus for deep learning, no math background assumed |
+|
+
+--------------------------- post --------------------------------
 
 
-
------------------------------------------------------------------------------------
------------------------------------------------------------------------------------
------------------------------------------------------------------------------------
-
-# Blogs
-| Web | Descripcion | 
-|-----------|-----------| 
-
-
-
------------------------------------------------------------------------------------
------------------------ Trash --------------------------------------
------------------------------------------------------------------------------------
-
-
-
-| [Large Language Model Course](https://github.com/mlabonne/llm-course) | |
 | [Applied Machine Learning in Python: a Hands-on Guide with Code](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) | |
 | [ml-engineering](https://github.com/stas00/ml-engineering) | | 
 | [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch) | |
