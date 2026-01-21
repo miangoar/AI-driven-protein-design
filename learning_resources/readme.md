@@ -76,6 +76,9 @@ Note: resources marked with ⭐ are highly recommended
 | 001 | [DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)| Interactive dashboards for learning data science |
 | | [Applied Machine Learning in Python: a Hands-on Guide with Code](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) | Introduction to data analysis, machine learning, and neural networks with Python |
 | | [Alice’s Adventures in a differentiable wonderlandPermalink](https://www.sscardapane.it/alice-book) | Introduction to differentiable programming and neural network design with PyTorch and JAX |
+| | [Introduction to Machine Learning for chemists](https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry) | Introduction to Machine Learning for chemists |
+| | [A Comprehensive Guide to Explainable AI: From Classical Models to LLMs](https://arxiv.org/abs/2412.00800)| A comprehensive guide to XAI |
+| | [Dive into Deep Learning](https://d2l.ai/index.html) | Interactive deep learning book implemented with PyTorch, NumPy/MXNet, JAX, and TensorFlow |
 |
 ## Useful publications
 | No. | Name | Description |
@@ -95,6 +98,9 @@ Note: resources marked with ⭐ are highly recommended
 | | [Machine Learning Engineering](https://github.com/stas00/ml-engineering) | Training and fine-tuning of LLMs and multi-modal models and their inference | 
 || [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch) | Implement a ChatGPT-like LLM in PyTorch from scratch |
 || [IA generativa](https://microsoft.github.io/generative-ai-for-beginners/#/) | |
+|| [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)| Scaling language models |
+|| [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)| How to train LLMs on GPU Clusters (Check out this [video for an overview](https://www.youtube.com/watch?v=1E8GDR8QXKw) as well as this notes [notes](https://damek.github.io/STAT-4830/section/12/notes.html))|
+|| [ Flow Matching Guide and Code](https://arxiv.org/abs/2412.06264)| Comprehensive and self-contained review of Flow Matching (i.e. the basis for difussion models)|
 |
 ## Useful publications
 | No. | Name | Description |
@@ -105,6 +111,7 @@ Note: resources marked with ⭐ are highly recommended
 | 004 | [LLM Visualization](https://bbycroft.net/llm) | Interactive visualization of Transformers |
 | | [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/abs/2406.08929)| Diffusion models and flow matching aimed at a technical audience with no diffusion experience |
 | ⭐ | [Guide to Spherical Equivariant Graph Transformers](https://alchemybio.substack.com/p/spherical-equivariant-graph-transformer)| Spherical equivariant GNNs and SE(3)-Transformers explained with protein and molecular examples |
+| | [Dummy's Guide to Modern LLM Sampling](https://rentry.org/samplers)| Tokenizers and LLM inference |
 |
 
 # Python and computer science  
@@ -125,7 +132,8 @@ Note: resources marked with ⭐ are highly recommended
 | No. | Name | Description |
 |-----------|-----------|-----------|
 | 001 | [Seeing-Theory](https://seeing-theory.brown.edu/) | Introduction to probability and statistics with interactive visualizations |
-| 
+| | [Mathematical theory of deep learning](https://arxiv.org/abs/2407.18384)| Introduction to the mathematical analysis of deep learning |
+|
 ## Useful publications
 | No. | Name | Description |
 |-----------|-----------|-----------|
@@ -135,16 +143,8 @@ Note: resources marked with ⭐ are highly recommended
 
 --------------------------------------------------------------------------- post --------------------------------
 
-| [LLM](https://txt.cohere.com/llm-university/) | |
-| [Introduction to Machine Learning for chemists](https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry) | |
-| [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)| scaling language models on TPUs, principles and math can be adapted to GPUs too |
-| [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)| how to train LLMs on GPU Clusters (see also this [video for introduction](https://youtu.be/1E8GDR8QXKw?si=xA77jYiaxP17sA_t))|
-| [Scaling Transformers](https://damek.github.io/STAT-4830/section/12/notes.html)| Parallelism Strategies from the Ultrascale Playbook |
-| [A Comprehensive Guide to Explainable AI: From Classical Models to LLMs](https://arxiv.org/abs/2412.00800)| a comprehensive guide to XAI |
-| [Mathematical theory of deep learning](https://arxiv.org/abs/2407.18384)| introduction to the mathematical analysis of deep learning |
-| [Dive into Deep Learning](https://d2l.ai/index.html)|Interactive deep learning book Implemented with PyTorch, NumPy/MXNet, JAX, and TensorFlow |
-| [ Flow Matching Guide and Code](https://arxiv.org/abs/2412.06264)| comprehensive and self-contained review of Flow Matching (i.e. the basis for difussion models)|
-| [Dummy's Guide to Modern LLM Sampling](https://rentry.org/samplers)| Tokenizers and LLM inference |
+
+
 | [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)| up-to-date overview of the field of (deep) reinforcement learning and sequential decision making |
 | [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs](https://arxiv.org/abs/2408.13296)| from LoRA to reinforcement learning |
 | [Foundations of Computer Vision``](https://visionbook.mit.edu/)| Foundations of Computer Vision`foundational topics within computer vision, with an image processing and machine learning perspective |
