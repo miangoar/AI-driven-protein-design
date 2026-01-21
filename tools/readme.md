@@ -266,8 +266,6 @@ AI Scientist agents
 biomni
 
 --------------------------------------
-
-
 # Sequence-level analysis
 | Name | Description | 
 |-----------|-----------| 
@@ -279,71 +277,55 @@ biomni
 | [pLM-BLAST](https://github.com/labstructbioinf/pLM-BLAST) | remote homology detection with protein language models |  
 | [PLMSearch](https://github.com/maovshao/PLMSearch) | homologous protein search with protein language models |
 | [LexicMap](https://github.com/shenwei356/LexicMap) | sequence alignment against millions of genomes |
-
-
-
 | [pyfastx](https://github.com/lmdu/pyfastx) | fast random access to sequences from plain and gzipped FASTA/Q files |
-| [DeepMSA](https://zhanggroup.org/DeepMSA/) |  a hierarchical approach to create high-quality multiple sequence alignments |
-
-
-NEFFy
-ClipKIT
-PLMAlign
-csvtk
-any2fasta
-Spacedust
-automlst2
-ugene
-piqtree
-torchtree
-PhyKIT
-TWILIGHT
-BuddySuite
-CIAlign
+| [any2fasta](https://github.com/tseemann/any2fasta) | Convert various sequence formats to FASTA |
+| [Spacedust](https://github.com/soedinglab/Spacedust) | identification of conserved gene clusters among genomes based on homology and conservation of gene neighborhood |
+| [ugene](https://ugene.net/) | genome analysis suite with graphic user interface |
+| [BuddySuite](https://github.com/biologyguy/BuddySuite) | manipulating sequence, alignment, and phylogenetic tree files |
 
 # Multiple sequence alignment
 | Name | Description | 
 |-----------|-----------| 
 | [hh-suite](https://bioinf.shenwei.me/seqkit/) | remote homology detection  |
+| [DeepMSA](https://zhanggroup.org/DeepMSA/) | create high-quality MSAs |
+| [NEFFy](https://github.com/Maryam-Haghani/NEFFy) | calculating the Normalized Effective Number of Sequences (neff) for protein/nt MSAs. Also for format conversion |
+| [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) | a MSA-trimming algorithm for accurate phylogenomic inference |
+| [PLMAlign](https://github.com/maovshao/PLMAlign) | create MSAs using per-residue embeddings from protein language models |
+| [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) | trimming algorithm for accurate phylogenomic inference and msa manipulation |
+| [CIAlign](https://github.com/KatyBrown/CIAlign) | clean, interpret, visualise and edit MSAs |
+| [TWILIGHT](https://github.com/TurakhiaLab/TWILIGHT) | ultrafast and ultralarge MSA |
+| [Muscle-3D](https://github.com/rcedgar/muscle) | multiple protein structure alignment |
 
 # Structure-level analysis
 | Name | Description | 
 |-----------|-----------| 
 | [ProDy](http://prody.csb.pitt.edu/tutorials/) | protein structure, dynamics, and sequence analysis |
-
-BioPandas
-foldcomp
-PyPDB
-afpdb
-LocalPDB
-pdb-tools
-pdbfixer
-cath-tools
-Pyrcsbsearchapi
-protestar
-Merizo-search
-freesasa
-openstructure
-Muscle-3D
-pdb-redo
-proteinshake
-profet
-mini3di
-GEMMI
-fpocket
-pocketeer
-dssp
-PyDSSP
-flashfold
-ActSeek
-PDBCleanV2
-ProLIF
-plip
-af_analysis
-Uniprot-PDB-mapper
-InteracTor
-ProteinTools
-libraryPDB
+| [BioPandas](https://biopandas.github.io/biopandas/) | working with molecular structures in pandas |
+| [foldcomp](https://github.com/steineggerlab/foldcomp) | compressing protein structures |
+| [protestar](https://github.com/refresh-bio/protestar) | compress collections structures |
+| [afpdb](https://github.com/data2code/afpdb) |  manipulation of protein structures in Python |
+| [LocalPDB](https://github.com/labstructbioinf/localpdb) | manage structures and their annotations |
+| [pdb-tools](https://github.com/haddocking/pdb-tools) | manipulating and editing PDB files |
+| [pdbfixer](https://github.com/openmm/pdbfixer) | fixes problems in PDB files |
+| [cath-tools](https://github.com/UCLOrengoGroup/cath-tools) | structure comparison tools |
+| [Merizo-search](https://github.com/psipred/merizo_search) | domain structure embedding+search tool |
+| [freesasa](https://github.com/mittinatten/freesasa) | calculating Solvent Accessible Surface Areas |
+| [openstructure](https://openstructure.org/) | protein structure, complexes and docking comparison |
+| [opendock](https://github.com/guyuehuo/opendock)| protein-Ligand Docking and Modeling |
+| [pdb-redo](https://pdb-redo.eu/)| automated procedure to refine, rebuild and validate your models |
+| [proteinshake](https://github.com/BorgwardtLab/proteinshake) | preprocessed and cleaned structure datasets |
+| [GEMMI](https://github.com/project-gemmi/gemmi) | macromolecular crystallography library and utilities |
+| [fpocket](https://github.com/Discngine/fpocket) | protein pocket detection based on Voronoi tessellation |
+| [pocketeer](https://github.com/cch1999/pocketeer) | A lightweight, fast pocket finder |
+| [dssp](https://github.com/PDB-REDO/dssp) | assign secondary structure to proteins (check out [the webserver](https://pdb-redo.eu/dssp)) |
+| [PyDSSP](https://github.com/ShintaroMinami/PyDSSP) | PyTorch implementation of DSSP algorithm |
+| [PDBCleanV2](https://github.com/fatipardo/PDBCleanV2) | create a curated ensemble of molecular structures |
+| [ProLIF](https://github.com/chemosim-lab/ProLIF) | Interaction Fingerprints for protein-ligand complexes |
+| [plip](https://github.com/pharmai/plip) | Analyze and visualize non-covalent protein-ligand and protein-protein interactions |
+| [af_analysis](https://github.com/samuelmurail/af_analysis) | Analysis of alphafold and colabfold results |
+| [InteracTor](https://github.com/Dias-Lab/InteracTor) |  structure analysis and conversion, allowing the extraction of molecular interactions (e.g.  Hbonds, van der Waals, hydrophobic contacts, and surface tension |
+| [ProteinTools ](https://proteintools.uni-bayreuth.de/) | Analyze Hydrophobic Clusters, Hydrogen Bond Networks, Contact maps, Salt Bridges and Charge Segregation |
+| [libraryPDB](https://github.com/CJ438837/libraryPDB) | searching, downloading, parsing, cleaning and analyzing protein structures |
 
 # Data access
 | Name | Description | 
@@ -352,23 +334,16 @@ libraryPDB
 | [NCBI datasets](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/download-and-install/) | download data from NCBI  |
 | [ncbi-genome-download](https://github.com/kblin/ncbi-genome-download) | download data from the NCBI  |
 | [ncbi-acc-download](https://github.com/kblin/ncbi-acc-download) | download data from NCBI Entrez by accession |
+| [Pyrcsbsearchapi](https://github.com/rcsb/py-rcsbsearchapi) | Python interface for the RCSB PDB search API |
+| [PyPDB](https://github.com/williamgilpin/pypdb) | python API for the PDB |
+| [profet](https://github.com/alan-turing-institute/profet) | retrieves the cif or pdb files from either the PDB (using pypdb) or Alphafold using the Uniprot ID |
+| [ActSeek](https://github.com/vttresearch/ActSeek) | mining in the AFDB based on the position of few amino acids |
+| [Uniprot-PDB-mapper](https://github.com/iriziotis/Uniprot-PDB-mapper) | mapping of Uniprot sequences to PDB (see also this option to [map IDs between RefSeq and Uniprot](https://ncbiinsights.ncbi.nlm.nih.gov/2023/11/08/compare-ncbi-refseq-and-uniprot-datasets/) using the file `gene_refseq_uniprotkb_collab.gz`)|
+| [PDBe API Training Notebooks](https://github.com/glevans/pdbe-api-training) | undestand how the PDBe REST API works |
 
 
+--------------------------------------------------------------------------------------
 
-| [NEFFy](https://github.com/Maryam-Haghani/NEFFy) | calculating the Normalized Effective Number of Sequences (neff) for protein/nt MSAs. Also for format conversion |
-| [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) | a MSA-trimming algorithm for accurate phylogenomic inference |
-| [PLMAlign](https://github.com/maovshao/PLMAlign) | utilizes per-residue embeddings as input to obtain specific alignments and more refined similarity |
-| [csvtk](https://github.com/shenwei356/csvtk) | CSV/TSV manip MSA (3M protein sequences in 5min and 24GB of RAM) |
-| [any2fasta](https://github.com/tseemann/any2fasta) | Convert various sequence formats to FASTA |
-| []() |  |
-
-# Homology search
-| Name | Description | 
-|-----------|-----------|
-| [foldmason](https://github.com/steineggerlab/foldmason) | Multiple Protein Structure Alignment at Scale |
-| [pyjess](https://github.com/althonos/pyjess) | constraint-based structural template matching to identify catalytic residues from a known template |
-| [Spacedust](https://github.com/soedinglab/Spacedust) | identification of conserved gene clusters among genomes based on homology and conservation of gene neighborhood |
-| []() |  |
 
 # Structure search and comparison
 | Name | Description | 
@@ -390,6 +365,13 @@ libraryPDB
 | []() |  |
 | []() |  |
 
+# Homology search
+| Name | Description | 
+|-----------|-----------|
+| [foldmason](https://github.com/steineggerlab/foldmason) | Multiple Protein Structure Alignment at Scale |
+| [pyjess](https://github.com/althonos/pyjess) | constraint-based structural template matching to identify catalytic residues from a known template |
+| []() |  |
+
 
 # Download (meta)data
 | Name | Description | 
@@ -401,50 +383,18 @@ libraryPDB
 | Name | Description | 
 |-----------|-----------| 
 | [localcolabfold](https://github.com/YoshitakaMo/localcolabfold) | ColabFold on your local PC | 
-| [BioPandas](https://biopandas.github.io/biopandas/) | working with molecular structures in pandas |
-| [foldcomp](https://github.com/steineggerlab/foldcomp) | Compressing protein structures |
-| [PyPDB](https://github.com/williamgilpin/pypdb) | python API for the PDB |
-| [afpdb](https://github.com/data2code/afpdb) | efficient manipulation of protein structures in Python |
-| [LocalPDB](https://github.com/labstructbioinf/localpdb) | manage protein structures and their annotations |
-| [pdb-tools](https://github.com/haddocking/pdb-tools) | manipulating and editing PDB files |
-| [pdbfixer](https://github.com/openmm/pdbfixer) | fixes problems in PDB files |
-| [PDBe API Training Notebooks](https://github.com/glevans/pdbe-api-training) | for understanding how the PDBe REST API works |
-| [cath-tools](https://github.com/UCLOrengoGroup/cath-tools) | structure comparison tools |
-| [Pyrcsbsearchapi](https://github.com/rcsb/py-rcsbsearchapi) | Python interface for the RCSB PDB search API |
-| [protestar](https://github.com/refresh-bio/protestar) | compress collections structures |
-| [Merizo-search](https://github.com/psipred/merizo_search) | domain segmentation |
-| [freesasa](https://github.com/mittinatten/freesasa) | for calculating Solvent Accessible Surface Areas |
-| [openstructure](https://openstructure.org/docs/2.8/) | protein structure, complexes and docking comparison |
-| [opendock](https://github.com/guyuehuo/opendock)| protein-Ligand Docking and Modeling |
-| [Muscle-3D](https://github.com/rcedgar/muscle) | multiple protein structure alignment |
-| [pdb-redo](https://pdb-redo.eu/)| automated procedure to refine, rebuild and validate your model |
-| [proteinshake](https://github.com/BorgwardtLab/proteinshake) | preprocessed and cleaned protein 3D structure datasets |
-| [profet](https://github.com/alan-turing-institute/profet) | Retrieves the cif or pdb files from either thePDB (using pypdb) or Alphafold using the Uniprot ID |
-| [mini3di](https://github.com/althonos/mini3di) | NumPy port of the foldseek code for encoding protein structures to 3di |
-| [GEMMI](https://github.com/project-gemmi/gemmi) | macromolecular crystallography library and utilities |
-| [fpocket](https://github.com/Discngine/fpocket) | protein pocket detection based on Voronoi tessellation |
-| [pocketeer](https://github.com/cch1999/pocketeer) | A lightweight, fast pocket finder |
-| [dssp](https://github.com/PDB-REDO/dssp) | assign secondary structure to proteins (check the [python module](https://github.com/PDB-REDO/dssp?tab=readme-ov-file#python-module))|
-| [PyDSSP](https://github.com/ShintaroMinami/PyDSSP) | implementation of DSSP (i.e. secondary structure annotation) algorithm for PyTorch |
-| [dssp 4.5](https://github.com/PDB-REDO/dssp) | assign secondary structure using the eight-letter code (see also [the webserver](https://pdb-redo.eu/dssp)) | 
 | [flashfold](https://github.com/chayan7/flashfold) | command-line tool for faster protein structure prediction |
-| [ActSeek](https://github.com/vttresearch/ActSeek) | enzyme mining in the Alphafold database based on the position of few amino acids |
+| [PyRosetta](https://github.com/RosettaCommons/PyRosetta.notebooks) | Rosetta suite for protein desing ported to python (See also these instructions for an [easy installation in Colab](https://x.com/miangoar/status/1835176497063030798) as well as the [documentation](https://graylab.jhu.edu/PyRosetta.documentation/index.html)) |
+
 | [p2rank](https://github.com/rdk/p2rank) | Protein-ligand binding site prediction from protein structure |
 | [PLACER](https://github.com/baker-laboratory/PLACER) |  local prediction of protein-ligand conformational ensembles |
-| [PDBCleanV2](https://github.com/fatipardo/PDBCleanV2) | create a curated ensemble of molecular structures |
-| [ProLIF](https://github.com/chemosim-lab/ProLIF) | Interaction Fingerprints for protein-ligand complexes and more |
-| [plip](https://github.com/pharmai/plip) | Analyze and visualize non-covalent protein-ligand and protein-protein interactions |
-| [PyRosetta](https://github.com/RosettaCommons/PyRosetta.notebooks) | Rosetta suite for protein desing ported to python (See also these instructions for an [easy installation in Colab](https://x.com/miangoar/status/1835176497063030798) as well as the [documentation](https://graylab.jhu.edu/PyRosetta.documentation/index.html)) |
-| [af_analysis](https://github.com/samuelmurail/af_analysis) | Analysis of alphafold and colabfold results |
-| [Uniprot-PDB-mapper](https://github.com/iriziotis/Uniprot-PDB-mapper) | mapping of Uniprot sequences to PDB (see also this option to [map IDs between RefSeq and Uniprot](https://ncbiinsights.ncbi.nlm.nih.gov/2023/11/08/compare-ncbi-refseq-and-uniprot-datasets/) using the file `gene_refseq_uniprotkb_collab.gz`)|
+
+
 | [peppr](https://github.com/aivant/peppr) | a package for evaluation of predicted poses like RMSD, TM-score, lDDT, lDDT-PLI, fnat, iRMSD, LRMSD, DockQ  |
-| [InteracTor](https://github.com/Dias-Lab/InteracTor) |  structure analysis and conversion, allowing the extraction of interactions such as hydrogen bonds, van der Waals interactions, hydrophobic contacts, and surface tension |
 | [unicore](https://github.com/steineggerlab/unicore) | core gene phylogeny with Foldseek and ProstT5 (i.e. 3Di alphabet) |
 | [PAthreader and FoldPAthreader](https://github.com/iobio-zjut/PAthreader/tree/main/PAthreader_main) | PAthreader improve AF2 template selection by looking remote homologous in PDB/AFDB and FoldPAthreader predict the folding pathway  (see also [the webserver](http://zhanglab-bioinf.com/PAthreader/))  |
 | [SCHEMA-RASPP](https://github.com/mattasmith/SCHEMA-RASPP) | structure-guided protein recombination (download and check the file [`schema-tools-doc.html`](https://github.com/mattasmith/SCHEMA-RASPP/blob/master/schema-tools-doc.html) for documentation)|
-| [ProteinTools ](https://proteintools.uni-bayreuth.de/) | Analyze Hydrophobic Clusters, Hydrogen Bond Networks, Contact maps, Salt Bridges and Charge Segregation |
 | [ProtLego](https://hoecker-lab.github.io/protlego/) | constructing protein chimeras and its structural analysis |
-| [libraryPDB](https://github.com/CJ438837/libraryPDB) | earching, downloading, parsing, cleaning and analyzing protein structures |
 | [GraphRelax](https://github.com/delalamo/GraphRelax) | residue repacking and design   |
 | []() |  |
 
@@ -455,7 +405,6 @@ libraryPDB
 |-----------|-----------|
 | [automlst2](https://automlst2.ziemertlab.com/index) | automatic generation of species phylogeny with reference organisms |
 | [unicore](https://github.com/steineggerlab/unicore) | Universal and efficient core gene phylogeny with Foldseek and ProstT5  |
-| [ugene](https://ugene.net/) | bioinformatic suite with graphic user interface |
 | [piqtree](https://github.com/iqtree/piqtree) | use IQ-TREE directly from Python |
 | [torchtree](https://github.com/4ment/torchtree) | probabilistic framework in PyTorch for phylogenetic models |
 | [fold_tree](https://github.com/DessimozLab/fold_tree) |  construct trees from protein structures |
@@ -463,15 +412,6 @@ libraryPDB
 | [PhyKIT](https://github.com/JLSteenwyk/PhyKIT) | toolkit for processing and analyzing MSAs and phylogenies |
 | []() |  |
 
-
-# MSA
-| Name | Description | 
-|-----------|-----------|
-| [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) | trimming algorithm for accurate phylogenomic inference and msa manipulation |
-| [BuddySuite](https://github.com/biologyguy/BuddySuite) | manipulating sequence, alignment, and phylogenetic tree files |
-| [CIAlign](https://github.com/KatyBrown/CIAlign) | clean, interpret and visualise MSAs |
-| [TWILIGHT](https://github.com/TurakhiaLab/TWILIGHT) | ultrafast and ultralarge MSA |
-| []() |  |
 
 
 # structure prediction
@@ -582,6 +522,7 @@ libraryPDB
 | [peptidy](https://github.com/molML/peptidy) | vectorize proteins for machine learning applications |
 | [pypropel](https://github.com/2003100127/pypropel) | sequence and structural data preprocessing, feature generation, and post-processing for model performance evaluation and visualisation, |
 | [atomworks](https://github.com/RosettaCommons/atomworks) | A generalized computational framework for biomolecular modeling |
+| [mini3di](https://github.com/althonos/mini3di) | NumPy port of the foldseek code for encoding protein structures to 3di |
 | []() |  |
 
 
@@ -653,6 +594,7 @@ libraryPDB
 # machine learning
 | Name | Description | 
 |-----------|-----------| 
+| [csvtk](https://github.com/shenwei356/csvtk) | CSV/TSV manip MSA (3M protein sequences in 5min and 24GB of RAM) |
 | [Colab forms](https://colab.research.google.com/notebooks/forms.ipynb) | how to convert a colab notebook to a user interface |
 | [cuml](https://github.com/rapidsai/cuml) | GPU-based implementations of common machine learning algorithms ([more info for umap optimization](https://developer.nvidia.com/blog/even-faster-and-more-scalable-umap-on-the-gpu-with-rapids-cuml/) and [cuml.accel](https://developer.nvidia.com/blog/nvidia-cuml-brings-zero-code-change-acceleration-to-scikit-learn/) to boost scikit-learn and other libs in colab)|
 | [LazyPredict](https://github.com/shankarpandala/lazypredict) | build a lot of basic models without much code |
