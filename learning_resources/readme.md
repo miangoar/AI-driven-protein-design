@@ -20,13 +20,13 @@ Note: resources marked with ⭐ are highly recommended
 | | [AlphaFold Education Summit](https://www.ebi.ac.uk/training/materials/alphafold-education-summit-materials/)| Learn how to integrate AlphaFold into scientific research and education |
 | | [Rosetta Workshop 2024](https://meilerlab.org/rosetta-workshop-2024/) | Protein design with Rosetta and associated tools |
 | | [How to Create a Protein](https://github.com/universvm/how_to_create_a_protein) | Basics of biology and protein design for early-career students | 
-| ⭐ | [Protein Modeling and Design with PyRosetta and Machine Learning](https://rosettacommons.github.io/PyRosetta.notebooks/) | Introduction to the fundmamental principles and tools for using PyRosetta (Check out the [Youtube playlist](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) and the [Reference paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8813091/)) |
+| | [Protein Modeling and Design with PyRosetta and Machine Learning](https://rosettacommons.github.io/PyRosetta.notebooks/) | Introduction to the fundmamental principles and tools for using PyRosetta (Check out the [Youtube playlist](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) and the [Reference paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8813091/)) |
 | | [Estefanía Tarifeño](https://www.youtube.com/@prof.estefaniatarifeno1108/playlists) | Introduction to protein science and bioinformatics (in Spanish) |
-| ⭐| [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202) | 12 Tutorials on protein folding, function, structure, dynamics and evolution using Google Colab (Check out the [reference paper](https://pubs.acs.org/doi/10.1021/acs.jchemed.1c00022)) |
-| ⭐ | [Algoritmos en Bioinformática Estructural](https://eead-csic-compbio.github.io/bioinformatica_estructural/) | Biochemical fundamentals and algorithms used in protein science (in Spanish) |
+| | [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202) | 12 Tutorials on protein folding, function, structure, dynamics and evolution using Google Colab (Check out the [reference paper](https://pubs.acs.org/doi/10.1021/acs.jchemed.1c00022)) |
+| | [Algoritmos en Bioinformática Estructural](https://eead-csic-compbio.github.io/bioinformatica_estructural/) | Biochemical fundamentals and algorithms used in protein science (in Spanish) |
 | ⭐ | [Structural Bioinformatics Course 2023](https://structural-bioinformatics.netlify.app/)|  Structural bioinformatics and tools you can use it to visualize, analyze and design proteins |
 | | [Modeling proteins using AlphaFold and ColabFold](https://docs.google.com/document/d/1_g1_M-I40CqOQc5obwAt08YntC5D2Z_WNz6mYuUQtyc/edit?tab=t.0#heading=h.m7ei2f72v2ig)| How to predict protein structures using ColabFold and analyze them with ChimeraX |
-| ⭐| [Introduction to Molecular Animation with ChimeraX](https://pdb101.rcsb.org/train/training-events/animation) | How to use ChimeraX to create animations | 
+| | [Introduction to Molecular Animation with ChimeraX](https://pdb101.rcsb.org/train/training-events/animation) | How to use ChimeraX to create animations | 
 |
 ## Useful publications
 | No. | Name | Description |
@@ -34,10 +34,10 @@ Note: resources marked with ⭐ are highly recommended
 | 001 | [PDBx/mmCIF Dictionary Resources](https://mmcif.wwpdb.org/)| Information about the format, dictionaries and tools used by the PDB to define entries | 
 | 002 | [alphafold2 explained](https://www.ai4pharm.info/alphafold2)| An explanation of the architecture of alphafold2 and its training |
 | 003 | [AlphaFold3 Explained](https://www.ai4pharm.info/alphafold3)| An explanation of the architecture of Alphafold3 and its training |
-| ⭐| [AlphaFold 3, Demystified](https://github.com/shenyichong/alphafold3-architecture-walkthrough)| Detailed explanation of the inputs, outputs, and algorithms of AlphaFold 3 |
+| | [AlphaFold 3, Demystified](https://github.com/shenyichong/alphafold3-architecture-walkthrough)| Detailed explanation of the inputs, outputs, and algorithms of AlphaFold 3 |
 | ⭐| [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/) | A visual walkthrough of the AlphaFold3 architecture with detailed diagrams |
 | | [An Opinionated AlphaFold3 Field Guide](https://research.dimensioncap.com/p/an-opinionated-alphafold3-field-guide)| An explanation of the architecture of Alphafold3 in simple-to-understand terms |
-| ⭐| [A Complete Guide to Protein Folding Prediction with RoseTTAFold](https://alchemybio.substack.com/p/a-complete-guide-to-protein-folding) | Theory and implementation of RoseTTAFold algorithms and architecture |
+| | [A Complete Guide to Protein Folding Prediction with RoseTTAFold](https://alchemybio.substack.com/p/a-complete-guide-to-protein-folding) | Theory and implementation of RoseTTAFold algorithms and architecture |
 | | [Guide to undestanding PDB data](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/introduction) |  Guide to Understanding PDB Data (Also, check this video for [understanding PDB structure metrics](https://www.youtube.com/watch?v=I64r5DXiLN0&ab_channel=BioinformaticsInsights) as well as [Assessing the Quality of 3D Structures](https://www.rcsb.org/docs/general-help/assessing-the-quality-of-3d-structures)) |
 | | [PDB learn](https://pdb101.rcsb.org/learn/exploring-the-structural-biology-of-evolution)| Educational content created by the PDB about structure, function and evolution of proteins |
 | | [Comprehensive Overview of Bottom-Up Proteomics using Mass Spectrometry](https://pubs.acs.org/doi/10.1021/acsmeasuresciau.3c00068)| Overview of different proteomics methods |
@@ -51,7 +51,7 @@ Note: resources marked with ⭐ are highly recommended
 ## Courses
 | No. | Name | Description |
 |-----------|-----------|-----------|
-| ⭐ | [Running and parsing BLAST using the Linux command line](https://vinuesa.github.io/TIB-filoinfo/sesion3_BLAST/) | Basics of the BLAST algorithm and its results, along with useful AWK, Bash, Perl, and R code |
+| | [Running and parsing BLAST using the Linux command line](https://vinuesa.github.io/TIB-filoinfo/sesion3_BLAST/) | Basics of the BLAST algorithm and its results, along with useful AWK, Bash, Perl, and R code |
 | | [Multiple sequence alignments, and profile hidden Markov models](https://vinuesa.github.io/TIB-filoinfo/sesion4_alineamientos/)| Command-line tutorial on multiple sequence alignment and HMM-based homology search using Clustal and HMMER |
 | ⭐ | [An Introduction to Applied Bioinformatics](https://readiab.org/introduction.html)| Core concepts in bioinformatics and algorithms with scikit-learn and scikit-bio |
 | | [Jupyter Notebook Tutorials for Machine Learning in Chemistry](https://xuhuihuang.github.io/mlchem/html/index.html) | Machine Learning in Chemistry (Check out the [reference paper](https://chemrxiv.org/engage/chemrxiv/article-details/68e029acdfd0d042d1e0312e))| 
@@ -67,8 +67,9 @@ Note: resources marked with ⭐ are highly recommended
 | | [PCR Primer Design](https://binomicalabs.notion.site/PCR-Primer-Design-8f1f888f50a0403a87bdce20e37840f2)| How to design PCR Primers using Primer3 |
 | | [Using BLAST on the command line](https://jvanheld.github.io/using_IFB_NNCR/practicals/blast_proteome/blast_proteome.html)| How to search and analyze protein sequnces with BLAST |
 | | [LifeMap](https://lifemap.cnrs.fr/)| An interactive tree of life based on NCBI data | 
+|| [A-microbiologist-wants-to-compute](https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute) | learning resources related to microbiome computational science and tools |
+|| [Bioinformática Microbiana](https://bioinformatica.ciad.mx/home)  | Analysis of microbial genomes (in Spanish) |
 |
-
 # Machine Learning, Deep Learning, and Data Science
 ## Courses
 | No. | Name | Description |
@@ -112,6 +113,9 @@ Note: resources marked with ⭐ are highly recommended
 | | [LLM Inference Handbook](https://bentoml.com/llm/)| LLM inference |
 | | [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook) | How to design and train a LLM from scratch | 
 | | [Stanford CME295 Transformers & LLMs](https://cme295.stanford.edu/syllabus/) | An introduction to transformers, LLMs, reasoning models, and their deployment| 
+| ⭐ | [Huggingface Courses](https://huggingface.co/learn) | Learn to use the Huggingface ecosystem (Check out the [lm-course](https://huggingface.co/learn/llm-course/chapter1/1) and [smol-course](https://huggingface.co/learn/smol-course/unit0/1) for LLMs training and fine-tuning as well as the [Diffusion Models Course](https://huggingface.co/learn/diffusion-course/unit0/1)|)|
+| | [The Principles of Diffusion Models](https://www.arxiv.org/abs/2510.21890)|  Introduction to diffusion modeling  |
+| | [Interpretability of Large Language Models](https://github.com/mega002/llm-interp-tau)| interpretability of LLMs |
 |
 ## Useful publications
 | No. | Name | Description |
@@ -121,7 +125,7 @@ Note: resources marked with ⭐ are highly recommended
 | 003 | [Transformer Explainer](https://huggingface.co/papers/2408.04619) | Interactive visualization of Transformers | 
 | 004 | [LLM Visualization](https://bbycroft.net/llm) | Interactive visualization of Transformers |
 | | [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/abs/2406.08929)| Diffusion models and flow matching aimed at a technical audience with no diffusion experience |
-| ⭐ | [Guide to Spherical Equivariant Graph Transformers](https://alchemybio.substack.com/p/spherical-equivariant-graph-transformer)| Spherical equivariant GNNs and SE(3)-Transformers explained with protein and molecular examples |
+| | [Guide to Spherical Equivariant Graph Transformers](https://alchemybio.substack.com/p/spherical-equivariant-graph-transformer)| Spherical equivariant GNNs and SE(3)-Transformers explained with protein and molecular examples |
 | | [Dummy's Guide to Modern LLM Sampling](https://rentry.org/samplers)| Tokenizers and LLM inference |
 | | [LoRA Hyperparameters Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide/lora-hyperparameters-guide)| Best practices for LoRA hyperparameters and how they affect the fine-tuning process |
 | | [LLM Embeddings Explained](https://huggingface.co/spaces/hesamation/primer-llm-embedding)| f}Fundamentals of embeddings |
@@ -134,13 +138,16 @@ Note: resources marked with ⭐ are highly recommended
 | No. | Name | Description |
 |-----------|-----------|-----------|
 | 001 | [cpu.land](https://cpu.land/) | What happens when you run a program on your computer |
+| | [Pandas Fundamentals](https://www.youtube.com/playlist?list=PLp0BA-8NZ4bgNDMxQojvn6eg71jaaRaYZ) | | 
+| | [Fundamentos de ciencia de datos](https://github.com/thatcsharpguy/df) | Introduction to data sceince (in spanish)|
 |
 ## Useful publications
 | No. | Name | Description |
 |-----------|-----------|-----------|
 | 001 | [Developer Roadmaps](https://roadmap.sh/) | Roadmaps to help developers choose a learning path |
 | 002 | [Python Tutor](https://pythontutor.com/)| Step-by-step visual debugger and AI tutor to help you understand and debug code |
-|
+| | [Introduction to Python](https://carpentries-incubator.github.io/pangenomics-python/) | Introduction to Python |
+| [Python fundamentals](https://www.youtube.com/playlist?list=PLp0BA-8NZ4bheYbcihGJLg60YSgQRWOcL) | Python fundamentals |
  
 # Math
 ## Courses
@@ -148,37 +155,20 @@ Note: resources marked with ⭐ are highly recommended
 |-----------|-----------|-----------|
 | 001 | [Seeing-Theory](https://seeing-theory.brown.edu/) | Introduction to probability and statistics with interactive visualizations |
 | | [Mathematical theory of deep learning](https://arxiv.org/abs/2407.18384)| Introduction to the mathematical analysis of deep learning |
-|
+|| [Immersive linear algebra](https://immersivemath.com/ila/index.html)| Introduction to linear algebra with interactive visualizations |
+|| [Interactive Linear Algebra](https://personal.math.ubc.ca/~tbjw/ila/index.html)| Interactive Linear Algebra |
+| ⭐ | [Essence of linear algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Core concept of linear algebra with a visuals-first approach (Check out the [spanish version of this channel](https://www.youtube.com/playlist?list=PLIb_io8a5NB2DddFf-PwvZDCOUNT1GZoA))|
 ## Useful publications
 | No. | Name | Description |
 |-----------|-----------|-----------|
 | 001 | [Stats illustrations](https://github.com/allisonhorst/stats-illustrations) | R & stats illustrations |
 | | [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) | Matrix calculus for deep learning, no math background assumed |
+| | [Matrix Calculus (for Machine Learning and Beyond)](https://arxiv.org/abs/2501.14787)| Differential calculus to functions on more general vector spaces |
 |
 
 --------------------------------------------------------------------------- post --------------------------------
 
-# LLMs and difussion models
-| [huggingface learn](https://huggingface.co/learn) | Learn to use the huggingface ecosystem. Check out the [lm-course](https://huggingface.co/learn/llm-course/chapter1/1) and [smol-course](https://huggingface.co/learn/smol-course/unit0/1) to learn about LLMs and fine-tuning and [Diffusion Models Course](https://huggingface.co/learn/diffusion-course/unit0/1) for difussion models|
-| [The Principles of Diffusion Models](https://www.arxiv.org/abs/2510.21890)|  core ideas that shaped diffusion modeling and explains how today’s models work, why they work, and where they’re heading |
-| [Interpretability of Large Language Models](https://github.com/mega002/llm-interp-tau)| interpretability of LLMs |
 
-# Math courses
-| [immersive linear algebra](https://immersivemath.com/ila/index.html)| book with fully interactive figures |
-| [Interactive Linear Algebra](https://personal.math.ubc.ca/~tbjw/ila/index.html)| Interactive Linear Algebra |
-| [Matrix Calculus (for Machine Learning and Beyond)](https://arxiv.org/abs/2501.14787)| introduction to differential calculus |
-| []()| |
-
-# Python and programming
-| [Pandas Fundamentals](https://www.youtube.com/playlist?list=PLp0BA-8NZ4bgNDMxQojvn6eg71jaaRaYZ) | | 
-| [Fundamentos de ciencia de datos](https://github.com/thatcsharpguy/df) | |
-| [A-microbiologist-wants-to-compute](https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute) | |
-| [Generalidades Linux](https://bioinformatica.ciad.mx/generalidades_linux)  | |
-| [Introduction to Python](https://carpentries-incubator.github.io/pangenomics-python/) | |
-| [Python fundamentals](https://www.youtube.com/playlist?list=PLp0BA-8NZ4bheYbcihGJLg60YSgQRWOcL) | |
-| [3Blue1Brown - Algebra lineal (En español)](https://www.youtube.com/@3blue1brownespanol/playlists) | |
-| [3Blue1Brown - Algebra lineal](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | |
-| [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/)  | |
 | [pandas-cookbook](https://github.com/jvns/pandas-cookbook/) | |
 | [regexlearn](https://regexlearn.com/es) | |
 | [Bash/Linux](https://vinuesa.github.io/intro2linux/index.html) | |
