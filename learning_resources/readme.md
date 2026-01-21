@@ -79,6 +79,11 @@ Note: resources marked with ⭐ are highly recommended
 | | [Introduction to Machine Learning for chemists](https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry) | Introduction to Machine Learning for chemists |
 | | [A Comprehensive Guide to Explainable AI: From Classical Models to LLMs](https://arxiv.org/abs/2412.00800)| A comprehensive guide to XAI |
 | | [Dive into Deep Learning](https://d2l.ai/index.html) | Interactive deep learning book implemented with PyTorch, NumPy/MXNet, JAX, and TensorFlow |
+| | [Foundations of Computer Vision](https://visionbook.mit.edu/)| Computer vision, with an image processing and machine learning perspective |
+| | [Understanding Deep Learning](https://udlbook.github.io/udlbook/)| Introduction to deep learning |
+| ⭐ | [Deep Learning with Python 3th ed](https://deeplearningwithpython.io/)| Introduction to deep learning and main frameworks |
+| | [Data Science Fundamentals](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVEdjHo41QS0bLWJi5KMk5m)| data preprocessing, statistical analysis, machine learning, and big data techniques |
+| | [Machine Learning For Beginners with python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) | 42 tutorials to get started in ML |
 |
 ## Useful publications
 | No. | Name | Description |
@@ -88,6 +93,7 @@ Note: resources marked with ⭐ are highly recommended
 | 003 | [Neural Network SandBox](playground.tensorflow.org) | Interactive visualization of neural networks |
 | 004 | [ML Code Challenges](https://www.deep-ml.com/) | Practice Machine Learning and Data Science problems |
 | | [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)| Common mistakes when using machine learning, and how to avoid them |
+| | [PyTorch in One Hour](https://sebastianraschka.com/teaching/pytorch-1h/)| introduction to PyTorch, from Tensors to Training Neural Networks on Multiple GPUs |
 |
 
 # Transformers, LLMs, Diffusion Models and Generative AI
@@ -101,6 +107,11 @@ Note: resources marked with ⭐ are highly recommended
 || [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)| Scaling language models |
 || [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)| How to train LLMs on GPU Clusters (Check out this [video for an overview](https://www.youtube.com/watch?v=1E8GDR8QXKw) as well as this notes [notes](https://damek.github.io/STAT-4830/section/12/notes.html))|
 || [ Flow Matching Guide and Code](https://arxiv.org/abs/2412.06264)| Comprehensive and self-contained review of Flow Matching (i.e. the basis for difussion models)|
+| | [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)| Overview of the field of reinforcement learning and sequential decision making |
+| | [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs](https://arxiv.org/abs/2408.13296)| Fine-tuning LLMs, from data and optimization to deployment and alignment |
+| | [LLM Inference Handbook](https://bentoml.com/llm/)| LLM inference |
+| | [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook) | How to design and train a LLM from scratch | 
+| | [Stanford CME295 Transformers & LLMs](https://cme295.stanford.edu/syllabus/) | An introduction to transformers, LLMs, reasoning models, and their deployment| 
 |
 ## Useful publications
 | No. | Name | Description |
@@ -112,6 +123,10 @@ Note: resources marked with ⭐ are highly recommended
 | | [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/abs/2406.08929)| Diffusion models and flow matching aimed at a technical audience with no diffusion experience |
 | ⭐ | [Guide to Spherical Equivariant Graph Transformers](https://alchemybio.substack.com/p/spherical-equivariant-graph-transformer)| Spherical equivariant GNNs and SE(3)-Transformers explained with protein and molecular examples |
 | | [Dummy's Guide to Modern LLM Sampling](https://rentry.org/samplers)| Tokenizers and LLM inference |
+| | [LoRA Hyperparameters Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide/lora-hyperparameters-guide)| Best practices for LoRA hyperparameters and how they affect the fine-tuning process |
+| | [LLM Embeddings Explained](https://huggingface.co/spaces/hesamation/primer-llm-embedding)| f}Fundamentals of embeddings |
+| | [Transformers from Scratch](https://e2eml.school/transformers.html)| Overwiew of the Transformer architecture  |
+|| [From Random Forests to RLVR: A Short History of ML/AI Hello Worlds](https://sebastianraschka.com/blog/2025/hello-world-ai.html) | Timeline of ML/DL/GenAI “Hello World” examples, from Random Forests to RL-trained LLMs | 
 |
 
 # Python and computer science  
@@ -142,25 +157,6 @@ Note: resources marked with ⭐ are highly recommended
 |
 
 --------------------------------------------------------------------------- post --------------------------------
-
-
-
-| [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)| up-to-date overview of the field of (deep) reinforcement learning and sequential decision making |
-| [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs](https://arxiv.org/abs/2408.13296)| from LoRA to reinforcement learning |
-| [Foundations of Computer Vision``](https://visionbook.mit.edu/)| Foundations of Computer Vision`foundational topics within computer vision, with an image processing and machine learning perspective |
-| [LoRA Hyperparameters Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide/lora-hyperparameters-guide)| Best practices for LoRA hyperparameters and how they affect the fine-tuning process |
-| [LLM Embeddings Explained](https://huggingface.co/spaces/hesamation/primer-llm-embedding)| fundamentals of embeddings |
-| [LLM Inference Handbook](https://bentoml.com/llm/)| everything you need to know about LLM inference |
-| [PyTorch in One Hour](https://sebastianraschka.com/teaching/pytorch-1h/)| introduction to PyTorch, from Tensors to Training Neural Networks on Multiple GPUs|
-| [Transformers from Scratch](https://e2eml.school/transformers.html)| guide to undestand the transormer architecture  |
-| [Understanding Deep Learning](https://udlbook.github.io/udlbook/)| resources or students and teachers |
-| [Deep Learning with Python 3th ed](https://deeplearningwithpython.io/)|an introduction to deep learning and main frameworks |
-| [Data Science Fundamentals](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVEdjHo41QS0bLWJi5KMk5m)| data preprocessing, statistical analysis, machine learning, and big data techniques |
-| [Machine Learning For Beginners with python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) | 42 tutorials to get started in ML |
-| [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook) | how to design and train a LLM from scratch | 
-| [Stanford CME295 Transformers & LLMs](https://cme295.stanford.edu/syllabus/) | An introduction to transformers, LLMs, reasoning models, and their deployment| 
-| [From Random Forests to RLVR: A Short History of ML/AI Hello Worlds](https://sebastianraschka.com/blog/2025/hello-world-ai.html) | https://sebastianraschka.com/blog/2025/hello-world-ai.html | 
-
 
 # LLMs and difussion models
 | [huggingface learn](https://huggingface.co/learn) | Learn to use the huggingface ecosystem. Check out the [lm-course](https://huggingface.co/learn/llm-course/chapter1/1) and [smol-course](https://huggingface.co/learn/smol-course/unit0/1) to learn about LLMs and fine-tuning and [Diffusion Models Course](https://huggingface.co/learn/diffusion-course/unit0/1) for difussion models|
