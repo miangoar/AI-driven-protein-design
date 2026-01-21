@@ -5,6 +5,7 @@
 - [Transformers, LLMs, Diffusion Models and Generative AI](#transformers-llms-diffusion-models-and-generative-ai)
 - [Python and Computer Science](#python-and-computer-science)
 - [Math](#math)
+- [Data visualization](#data-visualization)
 - [Blogs](#blogs)
 
 Note: resources marked with ⭐ are highly recommended
@@ -44,8 +45,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [Preparing for successful protein crystallization experiments](https://journals.iucr.org/f/issues/2025/07/00/oq5003/index.html)|  Strategies to optimize factors that can impact crystallization (Check out the talk on [Youtube](https://www.youtube.com/watch?v=m34RI500OFU&ab_channel=InternationalUnionofCrystallography))|
 | | [A primer on molecular dynamics](https://www.owlposting.com/p/a-primer-on-molecular-dynamics) |  Introduction to molecular dynamics |
 | | [Anatomy of BoltzGen](https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen) | Description of BoltzGen architecture (i.e. an AF3-like method) | 
-| | [Protein Design Skills](https://proteinbase.com/protein-design-skills) | Claude Code skills for protein design |
-
+| | [Best practices for presenting and sharing AlphaFold models in a paper](https://australian-structural-biology-computing.github.io/website/best-practices-alphafold) | General guidelines on how to best present AlphaFold model |
 
 # Bioinformatics
 ## Courses
@@ -94,7 +94,8 @@ Note: resources marked with ⭐ are highly recommended
 | 003 | [Neural Network SandBox](playground.tensorflow.org) | Interactive visualization of neural networks |
 | 004 | [ML Code Challenges](https://www.deep-ml.com/) | Practice Machine Learning and Data Science problems |
 | | [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)| Common mistakes when using machine learning, and how to avoid them |
-| | [PyTorch in One Hour](https://sebastianraschka.com/teaching/pytorch-1h/)| introduction to PyTorch, from Tensors to Training Neural Networks on Multiple GPUs |
+| ⭐ | [PyTorch in One Hour](https://sebastianraschka.com/teaching/pytorch-1h/)| introduction to PyTorch, from Tensors to Training Neural Networks on Multiple GPUs |
+| | [15 Ways to Visualize Regression Results](https://rpubs.com/timothyfraser/tutorial_15_ways_to_visualize_regression_results)| Visualize your regression results|
 
 
 # Transformers, LLMs, Diffusion Models and Generative AI
@@ -144,7 +145,7 @@ Note: resources marked with ⭐ are highly recommended
 || [The Open-Source Project](https://digital-work-lab.github.io/open-source-project/)| Python package development (Check out the reference [paper](https://github.com/openjournals/jose-reviews/issues/292#issuecomment-3057699562)) |
 |⭐| [Diplomado en Ciencia de Datos con Python](https://github.com/GAL-Repository/EDA_Stuff) | Introduction to python and statistical analysis with numpy, seaborn and pandas (in Spanish)| 
 |⭐| [MIT 6.100L Introduction to computer science and Programming using Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB) | Introduction to computer science and Programming | 
-|| [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting/) |  Basics of Bash scripting |
+|| [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting/) | Basics of Bash scripting |
 
 ## Useful publications
 | No. | Name | Description |
@@ -156,7 +157,8 @@ Note: resources marked with ⭐ are highly recommended
 | | [pandas-cookbook](https://github.com/jvns/pandas-cookbook/) | Recipes for using Python's pandas library |
 | | [RegexLearn](https://regexlearn.com/es) | Learn Regex step by step |
 | | [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/)| Key concepts in GPU programming |
-|| [Bash scripting quirks & safety tips](https://jvns.ca/blog/2017/03/26/bash-quirks/) | Bash basics and best practices for scripting | 
+| | [Bash scripting quirks & safety tips](https://jvns.ca/blog/2017/03/26/bash-quirks/) | Bash basics and best practices for scripting | 
+| | [Interactive Map of All Pandas Operations](https://blog.dailydoseofds.com/p/interactive-mind-map-of-all-pandas) | Pandas methods grouped by operation |
 
 # Math
 ## Courses
@@ -175,19 +177,13 @@ Note: resources marked with ⭐ are highly recommended
 | | [Matrix Calculus (for Machine Learning and Beyond)](https://arxiv.org/abs/2501.14787)| Differential calculus to functions on more general vector spaces |
 
 
---------------------------------------------------------------------------- post --------------------------------
-
+# Data visualization 
 | [From Data to Viz](https://www.data-to-viz.com/) |
 | [The Python Graph Gallery](https://python-graph-gallery.com/) |
 | [Python Color Palette Finder](https://python-graph-gallery.com/color-palette-finder/) |
-| [dataviz caveats](https://www.data-to-viz.com/caveats.html) |
-| [molstar](https://molstar.org/me/) |
-| [Biological Sequence Models in the Context of the AI Directives](https://epochai.org/blog/biological-sequence-models-in-the-context-of-the-ai-directives) |
-| [Interactive Map of All Pandas Operations](https://blog.dailydoseofds.com/p/interactive-mind-map-of-all-pandas?=) |
-| [NN-SVG](https://github.com/alexlenail/NN-SVG) |
-| [15 Ways to Visualize Regression Results](https://rpubs.com/timothyfraser/tutorial_15_ways_to_visualize_regression_results)| |
+| [Dataviz caveats](https://www.data-to-viz.com/caveats.html) |
 | [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) |
-| [Best practices for presenting and sharing AlphaFold models in a paper](https://australian-structural-biology-computing.github.io/website/best-practices-alphafold) |
+
 | [r psychologist](https://rpsychologist.com/viz) |
 # micelanoes 
 | [statements](https://github.com/RILAB/statements) | Protein science |
