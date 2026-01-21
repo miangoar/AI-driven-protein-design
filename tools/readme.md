@@ -19,26 +19,342 @@
 Note: resources marked with ⭐ are highly recommended
 
 
-# sequences
+# Structure search & comparison
+Pairwise Structure Alignment tool
+FoldSeek
+folddisco
+USalign
+progres
+pyScoMotif
+pyRMSD
+reseek
+tmtools
+SoftAlign
+lahuta
+foldmason
+pyjess
+gtalign
+
+# Structure prediction
+localcolabfold
+PAE Viewer
+PyMOLfold
+AFsample2
+alphafold3 tools
+alphafold3
+af3cli
+AFDB Structure Extractor
+RareFold
+AFusion
+BoltzDesign1
+Hackable AlphaFold 3
+ABCFold
+
+# Protein design & engineering
+PyRosetta
+GraphRelax
+SCHEMA-RASPP
+ProtLego
+unicore
+PAthreader
+FoldPAthreader
+ConservFold
+consurf
+AlphaPulldown
+ColabDock
+ColabDesign
+LazyAF
+CombFold
+Cfold
+Replacement Scan
+protein_scoring
+AF_unmasked
+AncFlow
+TRILL
+AF2BIND
+PyPEF
+DeepProtein
+FlexMol
+ByProt
+scikit-bio
+BindCraft
+FreeBindCraft
+prosculpt
+BinderFlow
+proteindj
+ovo
+IPSAE
+bagel
+Protein Design Skills
+
+# Representation learning & AI for proteins
+FAESM
+ESM-Efficient
+ProtLearn
+Pfeature
+bio_embeddings
+Graph-Part
+ProteinFlow
+docktgrid
+Prop3D
+SaProt
+ProstT5
+Graphein
+PyUUL
+colav
+ProTrek
+masif
+peptidy
+pypropel
+atomworks
+ZymCTRL
+REXzyme_aa
+ProGen2-finetuning
+Pinal
+Evolla
+ProtRL
+
+# Function & interaction modeling
+CLEAN
+DeepFRI
+interproscan
+HiQBind
+InterfaceAnalyzerMover
+PandaDock
+ligysis
+p2rank
+PLACER
+peppr
+
+
+# Molecular simulation
+making-it-rain
+bioemu
+orb
+logMD
+proprotein
+packmol
+mdanalysis
+
+
+# Molecules & cheminformatics
+rdkit
+PDBe CCDUtils
+PDBe Arpeggio
+PDBe RelLig
+MolPipeline
+roshambo
+molli
+useful_rdkit_utils
+deepchem
+nvMolKit
+
+Machine learning & statistics (general)
+Colab forms
+cuml
+LazyPredict
+TorchDR
+Kerasify
+pca
+openTSNE
+TabPFN
+tabm
+tabicl
+setfit
+skrub
+cupy
+Best-of Machine Learning
+torchmetrics
+DADApy
+PySR
+BERTopic
+KeyBERT
+PolyFuzz
+hummingbird
+skorch
+Faiss
+tmap
+einops
+pyod
+autokeras
+numba
+langextract
+cleanlab
+dtype_diet
+scikit-posthocs
+statannotations
+ggstatsplot
+ggbetweenstats
+statsmodels
+pingouin
+performance
+
+11. Visualization & interfaces
+MolecularNodes
+CellScape
+ChimeraX apps
+chimerax_viridis
+SSDraw
+bioalphabet
+ChatMol
+plot_phylo
+prettymol
+VMD-2
+gromacs_copilot
+NIH bioart
+bioicons
+moldraw
+Mol*
+MolViewSpec
+PoseEdit
+FlatProt
+quarto-molstar
+alphabridge
+weblogo
+interprot
+termal
+py2Dmol
+Nano Protein Viewer
+Protein Viewer
+molview
+ProteinCHAOS
+datamapplot
+pypalettes
+distinctipy
+Visualize Architecture of Neural Network
+tidyplots
+pyCirclize
+pycircular
+great-table
+plottable
+d3blocks
+morethemes
+jsoncrack
+torchvista
+bivario
+
+13. Data access, platforms & agents
+RCSB API
+ProteInfer
+GoPredSim
+protein structure relaxation
+Model Memory Calculator
+alphafind
+DiffDock-Web
+ESMFold
+Foldseek clusters
+damietta
+easifa
+MPI Bioinformatics Toolkit
+moleculatio
+AI in Biology Demos
+ProteinsPlus
+ChatGPT
+Gemini
+claude
+Bing
+HuggingChat
+huggingface spaces
+biologpt
+consensus
+typeset
+mistral-chat
+aistudio by Google
+AI Python Libraries
+paperfinder
+AI Scientist agents
+biomni
+
+--------------------------------------
+
+
+# Sequence-level analysis
 | Name | Description | 
 |-----------|-----------| 
-| [SeqKit](https://bioinf.shenwei.me/seqkit/) ([tutorial](https://sandbox.bio/tutorials/seqkit-intro)) | ultrafast toolkit for FASTA/Q file manipulation |
-| [hh-suite](https://bioinf.shenwei.me/seqkit/) | remote protein homology detection suite |
-| [Diamond2](https://github.com/bbuchfink/diamond) | Accelerated BLAST compatible local sequence aligner |
-| [MMseqs2](https://github.com/soedinglab/MMseqs2) | ultra fast and sensitive search and clustering suite (see also the [tutorials](https://github.com/soedinglab/MMseqs2/wiki/Tutorials) and [gpu-support](https://github.com/soedinglab/MMseqs2/wiki#compile-from-source-for-linux-with-gpu-support)) |
-| [ProDy](http://prody.csb.pitt.edu/tutorials/) | protein structure, dynamics, and sequence analysis |
-| [seqlike](https://github.com/modernatx/seqlike) |  Unified biological sequence manipulation |
+| [SeqKit](https://bioinf.shenwei.me/seqkit/) | FASTA/Q file manipulation (Check out this ([tutorial](https://sandbox.bio/tutorials/seqkit-intro))|
+| [Diamond2](https://github.com/bbuchfink/diamond) | accelerated BLAST  |
+| [MMseqs2](https://github.com/soedinglab/MMseqs2) | ultra fast and sensitive search and clustering suite (Check out the  [tutorial](https://github.com/soedinglab/MMseqs2/wiki/Tutorials) and the  [GPU implementation](https://github.com/soedinglab/MMseqs2/wiki#compile-from-source-for-linux-with-gpu-support)) |
+| [seqlike](https://github.com/modernatx/seqlike) |  sequence manipulation |
 | [BioNumpy](https://github.com/bionumpy/bionumpy/) | array programming on biological datasets |
-| [pLM-BLAST](https://github.com/labstructbioinf/pLM-BLAST) | detection of remote homology by protein language models |  
+| [pLM-BLAST](https://github.com/labstructbioinf/pLM-BLAST) | remote homology detection with protein language models |  
 | [PLMSearch](https://github.com/maovshao/PLMSearch) | homologous protein search with protein language models |
-| [iSeq](https://github.com/BioOmics/iSeq) | download data from sequence databases like GSA, SRA, ENA, and DDBJ |
 | [LexicMap](https://github.com/shenwei356/LexicMap) | sequence alignment against millions of genomes |
-| [NCBI datasets](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/download-and-install/) | download data from NCBI databases |
-| [ncbi-genome-download](https://github.com/kblin/ncbi-genome-download) | scripts to download genomes from the NCBI FTP servers |
-| [ncbi-acc-download](https://github.com/kblin/ncbi-acc-download) | download files from NCBI Entrez by accession |
-| [ProtNLM](https://www.uniprot.org/help/ProtNLM) | UniProt's Automatic Annotation pipeline for protein sequences (see the [Colab notebook](https://colab.research.google.com/github/google-research/google-research/blob/master/protnlm/protnlm_evidencer_uniprot_2023_01.ipynb)) |
+
+
+
 | [pyfastx](https://github.com/lmdu/pyfastx) | fast random access to sequences from plain and gzipped FASTA/Q files |
 | [DeepMSA](https://zhanggroup.org/DeepMSA/) |  a hierarchical approach to create high-quality multiple sequence alignments |
+
+
+NEFFy
+ClipKIT
+PLMAlign
+csvtk
+any2fasta
+Spacedust
+automlst2
+ugene
+piqtree
+torchtree
+PhyKIT
+TWILIGHT
+BuddySuite
+CIAlign
+
+# Multiple sequence alignment
+| Name | Description | 
+|-----------|-----------| 
+| [hh-suite](https://bioinf.shenwei.me/seqkit/) | remote homology detection  |
+
+# Structure-level analysis
+| Name | Description | 
+|-----------|-----------| 
+| [ProDy](http://prody.csb.pitt.edu/tutorials/) | protein structure, dynamics, and sequence analysis |
+
+BioPandas
+foldcomp
+PyPDB
+afpdb
+LocalPDB
+pdb-tools
+pdbfixer
+cath-tools
+Pyrcsbsearchapi
+protestar
+Merizo-search
+freesasa
+openstructure
+Muscle-3D
+pdb-redo
+proteinshake
+profet
+mini3di
+GEMMI
+fpocket
+pocketeer
+dssp
+PyDSSP
+flashfold
+ActSeek
+PDBCleanV2
+ProLIF
+plip
+af_analysis
+Uniprot-PDB-mapper
+InteracTor
+ProteinTools
+libraryPDB
+
+# Data access
+| Name | Description | 
+|-----------|-----------| 
+| [iSeq](https://github.com/BioOmics/iSeq) | download data from sequence databases like GSA, SRA, ENA, and DDBJ |
+| [NCBI datasets](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/download-and-install/) | download data from NCBI  |
+| [ncbi-genome-download](https://github.com/kblin/ncbi-genome-download) | download data from the NCBI  |
+| [ncbi-acc-download](https://github.com/kblin/ncbi-acc-download) | download data from NCBI Entrez by accession |
+
+
+
 | [NEFFy](https://github.com/Maryam-Haghani/NEFFy) | calculating the Normalized Effective Number of Sequences (neff) for protein/nt MSAs. Also for format conversion |
 | [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) | a MSA-trimming algorithm for accurate phylogenomic inference |
 | [PLMAlign](https://github.com/maovshao/PLMAlign) | utilizes per-residue embeddings as input to obtain specific alignments and more refined similarity |
@@ -221,6 +537,7 @@ Note: resources marked with ⭐ are highly recommended
 | [ProtNLM](https://colab.research.google.com/github/google-research/google-research/blob/master/protnlm/protnlm_use_model_for_inference_uniprot_2022_04.ipynb) | UniProt's Automatic Annotation pipeline  ([for mode details see](https://www.uniprot.org/help/ProtNLM)) |
 | [DeepFRI](https://github.com/flatironinstitute/DeepFRI) | Deep functional residue identification |
 | [interproscan](https://github.com/ebi-pf-team/interproscan) | interpro pipeline for functional annotation with multiple DBs |
+| [ProtNLM](https://www.uniprot.org/help/ProtNLM) | UniProt's Automatic Annotation pipeline for protein sequences (see the [Colab notebook](https://colab.research.google.com/github/google-research/google-research/blob/master/protnlm/protnlm_evidencer_uniprot_2023_01.ipynb)) |
 | []() |  |
 
 # Sequence-structure co-generation
