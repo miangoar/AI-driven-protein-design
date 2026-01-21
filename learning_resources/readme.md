@@ -138,22 +138,20 @@ Note: resources marked with ⭐ are highly recommended
 |  | Name | Description |
 |-----------|-----------|-----------|
 | | [cpu.land](https://cpu.land/) | How multiprocessing works, what system calls really are, how computers manage memory|
-| | [Pandas Fundamentals](https://www.youtube.com/playlist?list=PLp0BA-8NZ4bgNDMxQojvn6eg71jaaRaYZ) | | 
 | | [Fundamentos de ciencia de datos](https://github.com/thatcsharpguy/df) | Introduction to data sceince (in spanish)|
-| ⭐ | [Python for Data Analysis](https://wesmckinney.com/book/)| Data Wrangling with pandas, NumPy, and Jupyter |
+| | [Python for Data Analysis](https://wesmckinney.com/book/)| Data Wrangling with pandas, NumPy, and Jupyter |
 | | [Algorithmica](https://en.algorithmica.org/)| Introduction to high performance computing |
 | | [The Open-Source Project](https://digital-work-lab.github.io/open-source-project/)| Python package development (Check out the reference [paper](https://github.com/openjournals/jose-reviews/issues/292#issuecomment-3057699562)) |
 |⭐| [Diplomado en Ciencia de Datos con Python](https://github.com/GAL-Repository/EDA_Stuff) | Introduction to python and statistical analysis with numpy, seaborn and pandas (in Spanish)| 
 |⭐| [MIT 6.100L Introduction to computer science and Programming using Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB) | Introduction to computer science and Programming | 
 | | [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting/) | Basics of Bash scripting |
-
+| | [Dan Kornas courses](https://www.youtube.com/@dankornas/playlists) | Fundamentals of python, numpy, pandas, matplotlib, machine learning and pytorch |
 ## Useful publications
 | | Name | Description |
 |-----------|-----------|-----------|
 | | [Developer Roadmaps](https://roadmap.sh/) | Roadmaps to help developers choose a learning path |
 | | [Python Tutor](https://pythontutor.com/)| Step-by-step visual debugger and AI tutor to help you understand and debug code |
 | | [Introduction to Python](https://carpentries-incubator.github.io/pangenomics-python/) | Introduction to Python |
-| [Dan Kornas courses](https://www.youtube.com/@dankornas/playlists) | Fundamentals of python, numpy, pandas, matplotlib, machine learning and pytorch |
 | | [pandas-cookbook](https://github.com/jvns/pandas-cookbook/) | Recipes for using Python's pandas library |
 | | [RegexLearn](https://regexlearn.com/es) | Learn Regex step by step |
 | | [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/)| Key concepts in GPU programming |
