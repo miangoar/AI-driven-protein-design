@@ -1,53 +1,5 @@
 # Content list
 
-
-
-
-
-11. Visualization & interfaces
-MolecularNodes
-CellScape
-ChimeraX apps
-chimerax_viridis
-SSDraw
-bioalphabet
-ChatMol
-plot_phylo
-prettymol
-VMD-2
-gromacs_copilot
-NIH bioart
-bioicons
-moldraw
-Mol*
-MolViewSpec
-PoseEdit
-FlatProt
-quarto-molstar
-alphabridge
-weblogo
-interprot
-termal
-py2Dmol
-Nano Protein Viewer
-Protein Viewer
-molview
-ProteinCHAOS
-datamapplot
-pypalettes
-distinctipy
-Visualize Architecture of Neural Network
-tidyplots
-pyCirclize
-pycircular
-great-table
-plottable
-d3blocks
-morethemes
-jsoncrack
-torchvista
-bivario
-
 13. Data access, platforms & agents
 RCSB API
 ProteInfer
@@ -123,7 +75,6 @@ biomni
 | [3diphy](https://github.com/nmatzke/3diphy) | Maximum likelihood structural phylogenetics by including Foldseek 3Di characters |
 | [PhyKIT](https://github.com/JLSteenwyk/PhyKIT) | toolkit for processing and analyzing MSAs and phylogenies |
 | [unicore](https://github.com/steineggerlab/unicore) | phylogenetic reconstruction with structural core genes using Foldseek and ProstT5 |
-
 
 # Structure-level analysis
 | Name | Description | 
@@ -220,6 +171,19 @@ biomni
 | [IPSAE](https://github.com/DunbrackLab/IPSAE) | Scoring function for interprotein interactions in AlphaFold2 and AlphaFold3 |
 | [peppr](https://github.com/aivant/peppr) | a package for evaluation of predicted poses like RMSD, TM-score, lDDT, lDDT-PLI, fnat, iRMSD, LRMSD, DockQ  |
 
+# Structure generation 
+| Name | Description | 
+|-----------|-----------|
+| [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) |  structure generation, with or without conditional information (see also the [extended Documentation](https://sites.google.com/omsf.io/rfdiffusion) with a lot of descriptions and tutorials)|
+| [RFdiffusion2](https://github.com/RosettaCommons/RFdiffusion2) | all-atom version at sub-angstrom resolution of RFdiffusion |
+| [chroma](https://github.com/generatebio/chroma) | programmable protein design |
+| [protein_generator](https://github.com/RosettaCommons/protein_generator) | Joint sequence and structure generation with RoseTTAFold sequence space diffusion |
+| [RFdiffusion_all_atom](https://github.com/baker-laboratory/rf_diffusion_all_atom) | RFdiffusion with all atom modeling |
+| [salad](https://github.com/mjendrusch/salad) | structure generation with sparse all-atom denoising models |
+| [EnzymeFlow](https://github.com/WillHua127/EnzymeFlow) | generate catalytic pockets for specific substrates and catalytic reactions |
+| [GENzyme](https://github.com/WillHua127/GENzyme) | design of catalytic pockets, enzymes, and enzyme-substrate complexes for any reaction |
+| [BoltzDesign1](https://github.com/yehlincho/BoltzDesign1) |  designing protein-protein interactions and biomolecular complexes |
+
 # Protein design
 | Name | Description | 
 |-----------|-----------| 
@@ -243,7 +207,6 @@ biomni
 | [ovo](https://github.com/MSDLLCpapers/ovo) | ecosystem for de novo protein design |
 | [bagel](https://github.com/softnanolab/bagel) | model-agnostic and gradient-free exploration of an energy landscape in the sequence space |
 | [Protein Design Skills](https://proteinbase.com/protein-design-skills) | Claude Code skills for protein design |
-
 
 # Representation learning 
 | Name | Description | 
@@ -280,6 +243,20 @@ biomni
 | [protein_scoring](https://github.com/seanrjohnson/protein_scoring) | generating and scoring novel enzyme sequences  |
 | [AncFlow](https://github.com/rrouz/AncFlow) | pipeline for the ancestral sequence reconstruction of clustered phylogenetic subtrees |
 | [ByProt (LM-Design)](https://github.com/bytedprotein/ByProt) | reprogramming pretrained protein LMs as generative models |
+
+# Inverse folding
+| Name | Description | 
+|-----------|-----------|
+| [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) | Fixed backbone design ([see webserver](https://huggingface.co/spaces/simonduerr/ProteinMPNN))|
+| [ProteinMPNN in JAX](https://github.com/sokrypton/ColabDesign/tree/main/mpnn) | Fast implementation of ProteinMPNN |
+| [ligandMPNN](https://github.com/dauparas/LigandMPNN) | Fixed backbone design sensible to ligands ([see colab notebook](https://github.com/ullahsamee/ligandMPNN_Colab))|
+| [SolubleMPNN](https://github.com/dauparas/ProteinMPNN/tree/main/soluble_model_weights) | Retrained version of ProteinMPNN by excluding transmembrane structures (see [Goverde et al. 2024](https://www.nature.com/articles/s41586-024-07601-y#Sec7) for more details)|
+| [fampnn](https://github.com/richardshuai/fampnn) | full-atom version of ProteinMPNN |
+| [LASErMPNN ](https://github.com/polizzilab/LASErMPNN) | All-Atom (Including Hydrogen!) Ligand-Conditioned Protein Sequence Design & Sidechain Packing Model |
+| [HyperMPNN](https://github.com/meilerlab/HyperMPNN) | design thermostable proteins learned from hyperthermophiles |
+| [ThermoMPNN](https://github.com/Kuhlman-Lab/ThermoMPNN) | predict changes in thermodynamic stability for protein point mutants |
+| [ByProt](https://github.com/BytedProtein/ByProt) | Efficient non-autoregressive ProteinMPNN variant |
+| [Caliby](https://github.com/ProteinDesignLab/caliby) | Potts model-based protein sequence design method that can condition on structural ensembles |
 
 # Function prediction
 | Name | Description | 
@@ -321,7 +298,21 @@ biomni
 | [deepchem](https://github.com/deepchem/deepchem) | toolkit for drug discovery, materials science, quantum chemistry, and biology |
 | [nvMolKit](https://github.com/NVIDIA-Digital-Bio/nvMolKit) | GPU-accelerated library for key computational chemistry (e.g. molecular similarity, conformer generation, and geometry relaxation) |
 
-# Unsupervised learning
+# Machine learning 
+| Name | Description | 
+|-----------|-----------|
+| [Best-of Machine Learning](https://github.com/ml-tooling/best-of-ml-python) | list of awesome machine learning Python libraries |
+| [scikit-learn](https://github.com/scikit-learn/scikit-learn) | machine learning built on top of SciPy |
+| [Colab forms](https://colab.research.google.com/notebooks/forms.ipynb) | How to convert a Colab notebook into a user interface |
+| [LazyPredict](https://github.com/shankarpandala/lazypredict) | build a lot of basic models without much code |
+| [PySR](https://github.com/MilesCranmer/PySR) | High-Performance Symbolic Regression |
+| [pyod](https://github.com/yzhao062/pyod) | Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques |
+| [cleanlab](https://github.com/cleanlab/cleanlab) | clean data and labels by automatically |
+| [xgboost](https://github.com/dmlc/xgboost) | all you need | 
+| [LightGBM](https://github.com/microsoft/LightGBM) | high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithm  | 
+| [catboost](https://github.com/catboost/catboost) | high performance Gradient Boosting on Decision Trees | 
+
+# Dimensionality Reduction
 | Name | Description | 
 |-----------|-----------|
 | [TorchDR](https://github.com/TorchDR/TorchDR) | PyTorch Dimensionality Reduction |
@@ -329,16 +320,7 @@ biomni
 | [openTSNE](https://opentsne.readthedocs.io/en/stable/) | faster implementation of t-SNE that includes other optimizations |
 | [DADApy](https://github.com/sissa-data-science/DADApy) | characterization of manifolds in high-dimensional spaces |
 | [tmap](https://github.com/reymond-group/tmap) | tree-like and fast visualization library for large, high-dimensional data set |
-
-# Machine learning 
-| Name | Description | 
-|-----------|-----------|
-| [Colab forms](https://colab.research.google.com/notebooks/forms.ipynb) | How to convert a Colab notebook into a user interface |
-| [LazyPredict](https://github.com/shankarpandala/lazypredict) | build a lot of basic models without much code |
-| [Best-of Machine Learning](https://github.com/ml-tooling/best-of-ml-python) | list of awesome machine learning Python libraries |
-| [PySR](https://github.com/MilesCranmer/PySR) | High-Performance Symbolic Regression |
-| [pyod](https://github.com/yzhao062/pyod) | Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques |
-| [cleanlab](https://github.com/cleanlab/cleanlab) | clean data and labels by automatically |
+| [umap](https://github.com/lmcinnes/umap) | Uniform Manifold Approximation and Projection | 
 
 # Natural Language Processing
 | Name | Description | 
@@ -352,6 +334,10 @@ biomni
 # Deep learning frameworks 
 | Name | Description | 
 |-----------|-----------|
+| [pytorch](https://github.com/pytorch/pytorch) | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 
+| [keras](https://github.com/keras-team/keras) | multi-backend deep learning framework, with support for JAX, TensorFlow, PyTorch, and OpenVINO | 
+| [jax](https://github.com/jax-ml/jax) | high-performance numerical computing and large-scale machine learning | 
+| [pytorch lightning](https://github.com/Lightning-AI/pytorch-lightning) | Finetune and pretrain any AI model with PyTorch - or build your own | 
 | [Kerasify](https://github.com/moof2k/kerasify) | running trained Keras models from a C++ application |
 | [autokeras](https://autokeras.com/) | AutoML system based on Keras |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 100+ PyTorch metrics implementations |
@@ -377,7 +363,6 @@ biomni
 | [einops](https://github.com/arogozhnikov/einops) | tensor operations for readable and reliable code |
 | [numba](https://github.com/numba/numba) | NumPy aware dynamic Python compiler  |
 
-
 # Statistics
 | Name | Description | 
 |-----------|-----------|
@@ -389,40 +374,62 @@ biomni
 | [pingouin](https://pingouin-stats.org/build/html/index.html#) | Statistical package |
 | [performance](https://github.com/easystats/performance) | computing indices of regression model quality and goodness of fit  |
 
-
+11. Visualization & interfaces
+MolecularNodes
+CellScape
+ChimeraX apps
+chimerax_viridis
+SSDraw
+bioalphabet
+ChatMol
+plot_phylo
+prettymol
+VMD-2
+gromacs_copilot
+NIH bioart
+bioicons
+moldraw
+Mol*
+MolViewSpec
+PoseEdit
+FlatProt
+quarto-molstar
+alphabridge
+weblogo
+interprot
+termal
+py2Dmol
+Nano Protein Viewer
+Protein Viewer
+molview
+ProteinCHAOS
+datamapplot
+pypalettes
+distinctipy
+Visualize Architecture of Neural Network
+tidyplots
+pyCirclize
+pycircular
+great-table
+plottable
+d3blocks
+morethemes
+jsoncrack
+torchvista
+bivario
 --------------------------------------------------------------------------------------
 
+https://github.com/matplotlib/matplotlib
+https://github.com/plotly/plotly.py
+https://github.com/bokeh/bokeh
+https://github.com/mwaskom/seaborn
+https://github.com/vega/altair
+https://github.com/holoviz/holoviews
 
 
 
-# Structure generation
-| Name | Description | 
-|-----------|-----------|
-| [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) |  structure generation, with or without conditional information (see also the [extended Documentation](https://sites.google.com/omsf.io/rfdiffusion) with a lot of descriptions and tutorials)|
-| [RFdiffusion2](https://github.com/RosettaCommons/RFdiffusion2) | all-atom version at sub-angstrom resolution of RFdiffusion |
-| [chroma](https://github.com/generatebio/chroma) | programmable protein design |
-| [protein_generator](https://github.com/RosettaCommons/protein_generator) | Joint sequence and structure generation with RoseTTAFold sequence space diffusion |
-| [RFdiffusion_all_atom](https://github.com/baker-laboratory/rf_diffusion_all_atom) | RFdiffusion with all atom modeling |
-| [salad](https://github.com/mjendrusch/salad) | structure generation with sparse all-atom denoising models |
-| [EnzymeFlow](https://github.com/WillHua127/EnzymeFlow) | generate catalytic pockets for specific substrates and catalytic reactions |
-| [GENzyme](https://github.com/WillHua127/GENzyme) | design of catalytic pockets, enzymes, and enzyme-substrate complexes for any reaction |
-| [BindCraft](https://github.com/martinpacesa/BindCraft) | binder design pipeline |
-| [BoltzDesign1](https://github.com/yehlincho/BoltzDesign1) |  designing protein-protein interactions and biomolecular complexes |
 
-# Inverse folding
-| Name | Description | 
-|-----------|-----------|
-| [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) | Fixed backbone design ([see webserver](https://huggingface.co/spaces/simonduerr/ProteinMPNN))|
-| [ProteinMPNN in JAX](https://github.com/sokrypton/ColabDesign/tree/main/mpnn) | Fast implementation of ProteinMPNN |
-| [ligandMPNN](https://github.com/dauparas/LigandMPNN) | Fixed backbone design sensible to ligands ([see colab notebook](https://github.com/ullahsamee/ligandMPNN_Colab))|
-| [SolubleMPNN](https://github.com/dauparas/ProteinMPNN/tree/main/soluble_model_weights) | Retrained version of ProteinMPNN by excluding transmembrane structures (see [Goverde et al. 2024](https://www.nature.com/articles/s41586-024-07601-y#Sec7) for more details)|
-| [fampnn](https://github.com/richardshuai/fampnn) | full-atom version of ProteinMPNN |
-| [LASErMPNN ](https://github.com/polizzilab/LASErMPNN) | All-Atom (Including Hydrogen!) Ligand-Conditioned Protein Sequence Design & Sidechain Packing Model |
-| [HyperMPNN](https://github.com/meilerlab/HyperMPNN) | design thermostable proteins learned from hyperthermophiles |
-| [ThermoMPNN](https://github.com/Kuhlman-Lab/ThermoMPNN) | predict changes in thermodynamic stability for protein point mutants |
-| [ByProt](https://github.com/BytedProtein/ByProt) | Efficient non-autoregressive ProteinMPNN variant |
-| [Caliby](https://github.com/ProteinDesignLab/caliby) | Potts model-based protein sequence design method that can condition on structural ensembles |
-| []() |  |
+
 
 # protein engineering
 | Name | Description | 
