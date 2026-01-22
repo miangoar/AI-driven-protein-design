@@ -25,6 +25,8 @@ Data categories:
 | [Dayhoff Atlas](https://huggingface.co/datasets/microsoft/Dayhoff) | GigaRef = 3.34B natural protein sequences (1.7B clusters); BackboneRef = 46M synthetic sequences; OpenProteinSet =  16M unrolled MSAs |
 | [Logan](https://github.com/IndexThePlanet/Logan) |  DNA and RNA sequences derived from NCBI-SRA which contains 50 petabases of public raw data  |
 | [ColabFold Downloads](https://colabfold.mmseqs.com/) | databases to generate diverse MSAs to predict protein structures  |
+| [Clustering NCBI's nr database](https://github.com/Arcadia-Science/2023-nr-clustering) | clustered nr at 90% length, 90% identity |
+| [OpenProteinSet](https://registry.opendata.aws/openfold/) |  >16 million MSAs with their associated structural homologs from the PDB, and AF2 protein structure predictions |
 
 # Genome & Metagenome databases
 | Name | Description | 
@@ -59,6 +61,10 @@ Data categories:
 | [alphasync](https://alphasync.stjude.org/) | residue-level features for predicted proteomes of model organisms with AlphaFold2  | 
 | [MONDE⋅T](https://mondet.tuebingen.mpg.de/) | curated set of 23,149 structures from PDB that contains 1,895 unique non-canonical amino acids  |
 | [EcoFoldDB](https://github.com/timghaly/EcoFoldDB) | protein structure-guided annotations of ecologically relevant functions  |
+| [AFDB foldseek clusters](https://afdb-cluster.steineggerlab.workers.dev) | 2.27M non-singleton structural clusters derived from AFDB |
+| [PlasmidScope](https://plasmid.deepomics.org/) |   852,600 plasmid sequences with annotations and structures |
+| [pdbtm](https://pdbtm.unitmp.org/) | transmembrane protein selection of the PDB  |
+
 
 # Domain & Fold databases
 | Name | Description | 
@@ -90,6 +96,8 @@ Data categories:
 | [protabank](https://www.protabank.org/) | protein-fitness datasets |
 | [mavedb](https://www.mavedb.org/) | protein-fitness datasets |
 | [SAIR](https://pub.sandboxaq.com/data/ic50-dataset) | 5.2M protein-ligand structures with associated activity data  |
+| [unisite](https://github.com/quanlin-wu/unisite) | Cross-Structure Dataset and Learning Framework for End-to-End Ligand Binding Site Detection  |
+
 
 # Embedding databases
 | Name | Description | 
@@ -99,70 +107,13 @@ Data categories:
 | [globdb](https://globdb.org/) | Derreplecated and annotated genomes derived from 14 DBs that represents ~838M protein sequences. Clustering them resulted in ~83M non-singleton clusters with available ProtT5-XL-U50 embeddings |
 | [DPEB](https://github.com/deepdrugai/DPEB) | AlphaFold2, ESM2, ProtTrans embeddings for 22,043 human proteins |
 
-# ML Training Resources & Large-scale Sets
+# Machine learning
 | Name | Description | 
 |-----------|-----------| 
-OpenProteinSet
-ColabFold Downloads
-AFDB foldseek clusters
-Benchmarks & Evaluation Suites
-PoseBench
-plinder
-pinder
-Runs N' Poses
-proteingym
-MotifBench
-posebusters
-PDBench
-RNAGym
-
-# Curated Lists, Tools & Ecosystem
-| Name | Description | 
-|-----------|-----------| 
-ProteinDesignLabs
-biolists/folding_tools
-hefeda/design_tools
-duerrsimon/folding_tools
-Prtein language models
-biodiffusion
-Paper for protein desing with deep learning
-Articulos curados por categoria
-biomodes
-List of papers about Proteins Design using Deep Learning
-Awesome Bio-Foundation Models
-
-# Industry & Meta-resources
-| Name | Description | 
-|-----------|-----------| 
-TechBio Company Database
-
-# General ML Datasets
-| Name | Description | 
-|-----------|-----------| 
-pmlb
-faker
-
---------------
-
-
-| [Clustering NCBI's nr database](https://github.com/Arcadia-Science/2023-nr-clustering) | clustered nr at 90% length, 90% identity |
-| [huggingface-task](https://huggingface.co/tasks) | a collection of differente ML task and their respective models on HuggingFace |
-| [ProteinDesignLabs](https://github.com/Zuricho/ProteinDesignLabs) | List of computational protein design research labs |
-
-| [TechBio Company Database](https://harrisbio.substack.com/p/the-techbio-company-database) |  companies in the TechBio |
-| [OpenProteinSet](https://registry.opendata.aws/openfold/) |  >16 million MSAs with their associated structural homologs from the PDB, and AF2 protein structure predictions |
-| [PlasmidScope](https://plasmid.deepomics.org/) |   852,600 plasmid sequences with annotations and structures |
-
-
-
-
-| [pdbtm](https://pdbtm.unitmp.org/) | transmembrane protein selection of the PDB  |
-
-| [unisite](https://github.com/quanlin-wu/unisite) | Cross-Structure Dataset and Learning Framework for End-to-End Ligand Binding Site Detection  |
-
+| [huggingface-task](https://huggingface.co/tasks) | ML tasks and their respective models on HuggingFace |
 
 # Benchmarks
-| Repo | Descripcion | 
+| Name | Description | 
 |-----------|-----------| 
 | [PoseBench](https://github.com/BioinfoMachineLearning/PoseBench) | protein-ligand structure prediction methods |
 | [plinder](https://www.plinder.sh/) |  protein-ligand interactions |
@@ -173,34 +124,20 @@ faker
 | [posebusters](https://github.com/maabuu/posebusters) |  checks for generated molecule poses |
 | [PDBench](https://github.com/wells-wood-research/PDBench) | evaluating fixed-backbone sequence design algorithms  |
 | [RNAGym](https://github.com/MarksLab-DasLab/RNAGym) | suite for RNA fitness and structure prediction  |
-| []() |   |
 
-https://harrisbio.substack.com/p/the-techbio-company-database
 
-# Machine learning datasets
-| Repo | Descripcion | 
+# Interesting respositories
+| Name | Description | 
 |-----------|-----------| 
-| [pmlb](https://github.com/EpistasisLab/pmlb) |  datasets for evaluating supervised algorithms |
-| [faker](https://github.com/joke2k/faker) | generates fake data |
-| []() |   |
-
-
-# Repositorios utiles  
-| Repo | Descripcion | 
-|-----------|-----------| 
-| [biolists/folding_tools](https://github.com/biolists/folding_tools) | Listado de herramientas para analisis de proteinas basado en IA |
-| [hefeda/design_tools](https://github.com/hefeda/design_tools) | Listado de herramientas para analisis de proteinas basado en IA  |
-| [Protein language models](https://github.com/biolists/folding_tools/blob/main/pLM.md) | Listado de modelos de lenguaje de proteinas |
-| [biodiffusion](https://github.com/biolists/biodiffusion) | Listado de modelos de difusion especificos para diseño de proteinas  |
-| [duerrsimon/folding_tools](https://github.com/duerrsimon/folding_tools/) | Listado de herramientas para analisis de proteinas basado en IA  |
-| [AlphaFold2 mini](https://twitter.com/sokrypton/status/1535857255647690753) | Una version optimizada de AF2 para correr en segundos las predicciones a costa de perder un poco de calidad (se recomienda usarlo solo para fines de aprendizaje del plegamiento de las proteinas) |
-| [Paper for protein desing with deep learning ](https://github.com/Peldom/papers_for_protein_design_using_DL) | Una lista curada de todos los trabajos de diseño de proteinas basado en aprendisaje profundo  |
-| [ColabFold](https://github.com/sokrypton/ColabFold) | Implementacion de AF2 en la nube de Google colab  |
-| [Articulos curados por categoria](https://github.com/Peldom/papers_for_protein_design_using_DL) | Una lista de articulos de ciencia de proteinas basada en IA  |
-| [biomodes](https://abeebyekeen.com/biomodes-biomolecular-design/) | Una lista de Modelos de IA curados por categoria  |
-| [List of papers about Proteins Design using Deep Learning](https://github.com/Peldom/papers_for_protein_design_using_DL) | Literatura curada |
-| [PDB documentation](https://www.rcsb.org/docs/general-help/organization-of-3d-structures-in-the-protein-data-bank) | Descripcion de todo lo relacionado a la PDB y como se analizan las proteinas |
-| [AFDB foldseek clusters](https://afdb-cluster.steineggerlab.workers.dev) | Datos sobre los ~2.3M clusters de estructuras |
-| [Awesome Bio-Foundation Models](https://github.com/apeterswu/Awesome-Bio-Foundation-Models) | collection of awesome bio-foundation models, including protein, RNA, DNA, gene, single-cell, and so on |
-| []() |   |
+| [ProteinDesignLabs](https://github.com/Zuricho/ProteinDesignLabs) | List of computational protein design research labs |
+| [TechBio Company Database](https://harrisbio.substack.com/p/the-techbio-company-database) |  50+ TechBio companies |
+| [biolists/folding_tools](https://github.com/biolists/folding_tools) | Curated list of AI-based tools for protein structure prediction and analysis |
+| [hefeda/design_tools](https://github.com/hefeda/design_tools) | Curated list of AI-based tools for protein analysis and design |
+| [Protein language models](https://github.com/biolists/folding_tools/blob/main/pLM.md) | Curated list of protein language models |
+| [biodiffusion](https://github.com/biolists/biodiffusion) | Curated list of diffusion-based models for protein design |
+| [duerrsimon/folding_tools](https://github.com/duerrsimon/folding_tools/) | Curated list of AI-based tools for protein structure analysis |
+| [Papers for protein desing](https://github.com/Peldom/papers_for_protein_design_using_DL) | Curated collection of research papers on deep learning–based protein design |
+| [List of papers about Protein Design using Deep Learning](https://github.com/Peldom/papers_for_protein_design_using_DL) | Curated collection of papers |
+| [biomodes](https://abeebyekeen.com/biomodes-biomolecular-design/) | Curated list of biomolecular design models, including protein-focused AI methods |
+| [Awesome Bio-Foundation Models](https://github.com/apeterswu/Awesome-Bio-Foundation-Models) | Curated collection of bio-foundation models covering proteins, RNA, DNA, genes, single-cell data, and related domains |
 
