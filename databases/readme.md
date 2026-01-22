@@ -1,4 +1,4 @@
-# Content list
+# Databases
 
 Data categories:
 - [Protein sequence databases](#protein-sequence-databases)
