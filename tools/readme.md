@@ -1,4 +1,4 @@
-# Content list
+# Tools
 
 Tool categories:
 - [Sequence-level analysis](#sequence-level-analysis)
