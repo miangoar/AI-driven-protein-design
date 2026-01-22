@@ -1,7 +1,36 @@
 # Content list
 
---------------------------------------
+Tool categories:
+- [Sequence-level analysis](#sequence-level-analysis)
+- [Multiple sequence alignment](#multiple-sequence-alignment)
+- [Phylogenetic analysis](#phylogenetic-analysis)
+- [Structure-level analysis](#structure-level-analysis)
+- [Data access](#data-access)
+- [Structure search & comparison](#structure-search--comparison)
+- [Structure prediction](#structure-prediction)
+- [Structure generation](#structure-generation)
+- [Protein design](#protein-design)
+- [Representation learning](#representation-learning)
+- [Sequence generation](#sequence-generation)
+- [Inverse folding](#inverse-folding)
+- [Function prediction](#function-prediction)
+- [Molecular simulation](#molecular-simulation)
+- [Biological data visualization](#biological-data-visualization)
+- [Molecules & cheminformatics](#molecules--cheminformatics)
+- [Machine learning](#machine-learning)
+- [Dimensionality Reduction](#dimensionality-reduction)
+- [Natural Language Processing](#natural-language-processing)
+- [Deep learning frameworks](#deep-learning-frameworks)
+- [Tabular data](#tabular-data)
+- [Hardware-accelerated computation](#hardware-accelerated-computation)
+- [Statistics](#statistics)
+- [Data visualization](#data-visualization)
+- [Chatbots and agents](#chatbots-and-agents)
+
+
+
 # Sequence-level analysis
+Tools for sequence manipulation, search, comparison, and analysis of DNA, RNA, and protein sequences, including classical and language-model-based approaches
 | Name | Description | 
 |-----------|-----------| 
 | [SeqKit](https://bioinf.shenwei.me/seqkit/) | FASTA/Q file manipulation (Check out this ([tutorial](https://sandbox.bio/tutorials/seqkit-intro))|
@@ -22,12 +51,12 @@
 | [MPI Bioinformatics Toolkit!](https://toolkit.tuebingen.mpg.de/) | multiple bioinformatics tools |
 
 # Multiple sequence alignment
+Tools for building, trimming, evaluating, and manipulating multiple sequence alignments, from traditional algorithms to embedding-based methods
 | Name | Description | 
 |-----------|-----------| 
 | [hh-suite](https://bioinf.shenwei.me/seqkit/) | remote homology detection  |
 | [DeepMSA](https://zhanggroup.org/DeepMSA/) | create high-quality MSAs |
 | [NEFFy](https://github.com/Maryam-Haghani/NEFFy) | calculating the Normalized Effective Number of Sequences (neff) for protein/nt MSAs. Also for format conversion |
-| [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) | a MSA-trimming algorithm for accurate phylogenomic inference |
 | [PLMAlign](https://github.com/maovshao/PLMAlign) | create MSAs using per-residue embeddings from protein language models |
 | [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) | trimming algorithm for accurate phylogenomic inference and msa manipulation |
 | [CIAlign](https://github.com/KatyBrown/CIAlign) | clean, interpret, visualise and edit MSAs |
@@ -35,10 +64,10 @@
 | [termal](https://github.com/sib-swiss/termal) |  examining MSAs in a terminal |
 
 # Phylogenetic analysis
+Tools for phylogenetic inference, tree reconstruction, and evolutionary analysis using sequences, alignments, and structural information
 | Name | Description | 
 |-----------|-----------|
 | [automlst2](https://automlst2.ziemertlab.com/index) | automatic generation of species phylogeny with reference organisms |
-| [unicore](https://github.com/steineggerlab/unicore) | Universal and efficient core gene phylogeny with Foldseek and ProstT5  |
 | [iqtree3](https://github.com/iqtree/iqtree3)| Phylogenetic analysis | 
 | [piqtree](https://github.com/iqtree/piqtree) | IQ-TREE ported to Python |
 | [torchtree](https://github.com/4ment/torchtree) | probabilistic framework in PyTorch for phylogenetic models |
@@ -48,6 +77,7 @@
 | [unicore](https://github.com/steineggerlab/unicore) | phylogenetic reconstruction with structural core genes using Foldseek and ProstT5 |
 
 # Structure-level analysis
+Tools for analysis, manipulation, validation, and characterization of protein structures, including dynamics, interfaces, pockets, and interactions
 | Name | Description | 
 |-----------|-----------| 
 | [PyRosetta](https://github.com/RosettaCommons/PyRosetta.notebooks) | Rosetta ported to python (check out the installation guides for [Conda and Google Colab](https://x.com/miangoar/status/1835176497063030798) as well as the [documentation](https://graylab.jhu.edu/PyRosetta.documentation/index.html)) |
@@ -79,13 +109,14 @@
 | [InteracTor](https://github.com/Dias-Lab/InteracTor) |  structure analysis and conversion, allowing the extraction of molecular interactions (e.g.  Hbonds, van der Waals, hydrophobic contacts, and surface tension |
 | [ProteinTools ](https://proteintools.uni-bayreuth.de/) | Analyze Hydrophobic Clusters, Hydrogen Bond Networks, Contact maps, Salt Bridges and Charge Segregation |
 | [libraryPDB](https://github.com/CJ438837/libraryPDB) | searching, downloading, parsing, cleaning and analyzing protein structures |
-| [lahuta](https://bisejdiu.github.io/lahuta/) | calculate atomomic interactions |
+| [lahuta](https://bisejdiu.github.io/lahuta/) | calculate atomic interactions |
 | [InterfaceAnalyzerMover](https://docs.rosettacommons.org/docs/latest/scripting_documentation/RosettaScripts/Movers/movers_pages/analysis/InterfaceAnalyzerMover) | Calculate binding energies, buried interface surface areas, packing statistics, and other useful interface metrics for the evaluation of protein interfaces |
 | [Relax your structure using OpenMM/Amber](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/relax_amber.ipynb) | Relax your structure |
 | [ProteinsPlus](https://proteins.plus/) | structure mining and modeling, focussing on protein-ligand interactions |
 
 
 # Data access
+Tools for downloading and mapping biological data from public databases like NCBI, PDB, UniProt, and AlphaFold DB
 | Name | Description | 
 |-----------|-----------| 
 | [iSeq](https://github.com/BioOmics/iSeq) | download data from sequence databases like GSA, SRA, ENA, and DDBJ |
@@ -97,11 +128,12 @@
 | [profet](https://github.com/alan-turing-institute/profet) | retrieves the cif or pdb files from either the PDB (using pypdb) or Alphafold using the Uniprot ID |
 | [ActSeek](https://github.com/vttresearch/ActSeek) | mining in the AFDB based on the position of few amino acids |
 | [Uniprot-PDB-mapper](https://github.com/iriziotis/Uniprot-PDB-mapper) | mapping of Uniprot sequences to PDB (see also this option to [map IDs between RefSeq and Uniprot](https://ncbiinsights.ncbi.nlm.nih.gov/2023/11/08/compare-ncbi-refseq-and-uniprot-datasets/) using the file `gene_refseq_uniprotkb_collab.gz`)|
-| [PDBe API Training Notebooks](https://github.com/glevans/pdbe-api-training) | undestand how the PDBe REST API works |
+| [PDBe API Training Notebooks](https://github.com/glevans/pdbe-api-training) | understand how the PDBe REST API works |
 | [RCSB API](https://github.com/rcsb/py-rcsb-api) | Python interface for RCSB PDB API services (check out the [guidelines and tutorials](https://pdb101.rcsb.org/news/684078fe300817f1b5de793a)) |
 | [AFDB Structure Extractor](https://project.iith.ac.in/sharmaglab/alphafoldextractor/index.html) | download structures using AF IDs, Uniprot IDs, Locus tags, RefSeq Protein IDs and NCBI TaxIDs |
 
 # Structure search & comparison
+Tools for protein structure search, alignment, and comparison using geometric, topological, and embedding-based representations.
 | Name | Description | 
 |-----------|-----------| 
 | [Pairwise Structure Alignment Tool](https://www.rcsb.org/alignment) | webserver for structure alignment using PDB IDs, AFDB IDs or local files (check out the detailed description of [how to use the tool](https://www.rcsb.org/docs/tools/pairwise-structure-alignment#4-align-multiple-structures-to-an-alphafold-structure-))|
@@ -122,6 +154,7 @@
 | [alphafind](https://alphafind.fi.muni.cz/search) | structure-based search of the entire AFDB using Uniprot ID, PDB ID, or Gene Symbol |
 
 # Structure prediction
+Tools for protein structure prediction and biomolecular complexes
 | Name | Description | 
 |-----------|-----------| 
 | [Alphafold2](https://github.com/google-deepmind/alphafold)| protein structure prediction |
@@ -139,7 +172,7 @@
 | [AFusion](https://github.com/Hanziwww/AlphaFold3-GUI) | AlphaFold 3 GUI & Toolkit with Visualization |
 | [Hackable AlphaFold 3](https://github.com/chaitjo/alphafold3/) | a lightweight, hackable way to run AF3 to experiment without the massive MSA databases or Docker overhead |
 | [ABCFold](https://github.com/rigdenlab/ABCFold) | Scripts to run AlphaFold3, Boltz-1 and Chai-1 with MMseqs2 MSAs and custom templates  |
-| [AlphaPulldown](https://www.embl-hamburg.de/AlphaPulldown/) | Complex moedeling with AF-Multimer |
+| [AlphaPulldown](https://www.embl-hamburg.de/AlphaPulldown/) | Complex modeling with AF-Multimer |
 | [LazyAF](https://github.com/ThomasCMcLean/LazyAF) | protein-protein interaction with AF2 |
 | [CombFold](https://github.com/dina-lab3D/CombFold) | structure predictions of large complexes |
 | [Cfold](https://github.com/patrickbryant1/Cfold) | structure prediction of alternative protein conformations |
@@ -149,6 +182,7 @@
 | [peppr](https://github.com/aivant/peppr) | a package for evaluation of predicted poses like RMSD, TM-score, lDDT, lDDT-PLI, fnat, iRMSD, LRMSD, DockQ  |
 
 # Structure generation 
+Tools for creating novel protein structures or complexes, with or without functional or structural conditioning
 | Name | Description | 
 |-----------|-----------|
 | [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) |  structure generation, with or without conditional information (see also the [extended Documentation](https://sites.google.com/omsf.io/rfdiffusion) with a lot of descriptions and tutorials)|
@@ -162,6 +196,7 @@
 | [BoltzDesign1](https://github.com/yehlincho/BoltzDesign1) |  designing protein-protein interactions and biomolecular complexes |
 
 # Protein design
+Tools for AI-driven protein design, including binders, stability optimization, and functional engineering
 | Name | Description | 
 |-----------|-----------| 
 | [GraphRelax](https://github.com/delalamo/GraphRelax) | residue repacking and design   |
@@ -175,7 +210,6 @@
 | [TRILL](https://github.com/martinez-zacharya/TRILL) | Generative AI Sandbox with popular models |
 | [PyPEF](https://github.com/Protein-Engineering-Framework/PyPEF) | sequence-based machine learning-assisted protein engineering |
 | [DeepProtein](https://github.com/jiaqingxie/DeepProtein) | protein Property Prediction |
-| [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures  |
 | [BindCraft](https://github.com/martinpacesa/BindCraft) | binder design  (check out the [tutorial](https://github.com/martinpacesa/BindCraft/wiki/De-novo-binder-design-with-BindCraft)) |
 | [FreeBindCraft](https://github.com/cytokineking/FreeBindCraft) | BindCraft modified to make PyRosetta use and installation optional, i.e. no license needed ([more details](https://www.ariax.bio/resources/freebindcraft-open-source-unleashed))|
 | [damietta](https://damietta.de/) | protein design toolkit |
@@ -186,18 +220,19 @@
 | [bagel](https://github.com/softnanolab/bagel) | model-agnostic and gradient-free exploration of an energy landscape in the sequence space |
 | [Protein Design Skills](https://proteinbase.com/protein-design-skills) | Claude Code skills for protein design |
 
-# Representation learning 
+# Representation learning
+Tools for computing vectorial representations of protein sequences and structures for downstream tasks
 | Name | Description | 
 |-----------|-----------| 
-| [ESM](https://github.com/facebookresearch/esm) | protein language models from the ESM familiy |
-| [ProtTrans](https://github.com/agemagician/ProtTrans)| protein language models from the ProtTrans familiy (check out [ProtT5-EvoTuning](https://github.com/RSchmirler/ProtT5-EvoTuning) and [Fine-Tuning](https://github.com/agemagician/ProtTrans/tree/master/Fine-Tuning) for LoRA fine-tunning tutorials) |
+| [ESM](https://github.com/facebookresearch/esm) | protein language models from the ESM family |
+| [ProtTrans](https://github.com/agemagician/ProtTrans)| protein language models from the ProtTrans family (check out [ProtT5-EvoTuning](https://github.com/RSchmirler/ProtT5-EvoTuning) and [Fine-Tuning](https://github.com/agemagician/ProtTrans/tree/master/Fine-Tuning) for LoRA fine-tunning tutorials) |
 | [FAESM](https://github.com/pengzhangzhi/faesm) | Pytorch Implementation of ESM and ProGen that can save ~60% of memory usage and 70% of inference time | 
-| [ESM-Efficient](https://github.com/uci-cbcl/esm-efficient) | Efficient implementatin of ESM family | 
+| [ESM-Efficient](https://github.com/uci-cbcl/esm-efficient) | Efficient implementation of ESM family | 
 | [ProtLearn](https://github.com/tadorfer/protlearn) | extracting protein sequence features |
 | [Pfeature](https://github.com/raghavagps/Pfeature) | computing features of peptides and proteins |
 | [bio_embeddings](https://github.com/sacdallago/bio_embeddings) | compute protein embeddings from sequences |
 | [Graph-Part](https://github.com/graph-part/graph-part) | data partitioning method for ML |
-| [ProteinFlow](https://github.com/adaptyvbio/ProteinFlow) | data processing pipeline fo ML |
+| [ProteinFlow](https://github.com/adaptyvbio/ProteinFlow) | data processing pipeline for ML |
 | [docktgrid](https://github.com/gmmsb-lncc/docktgrid) | Create customized voxel representations of protein-ligand complexes |
 | [Prop3D](https://github.com/bouralab/Prop3D) | toolkit for protein structure dataset creation and processing  |
 | [SaProt](https://github.com/westlake-repl/SaProt) | Protein Language Model with Structural Alphabet |
@@ -213,6 +248,7 @@
 | [mini3di](https://github.com/althonos/mini3di) | NumPy port of the foldseek code for encoding protein structures to 3di |
 
 # Sequence generation
+Tools for designing protein sequences 
 | Name | Description | 
 |-----------|-----------|
 | [ZymCTRL](https://huggingface.co/AI4PD/ZymCTRL) | conditional language model for the generation of artificial functional enzymes |
@@ -226,6 +262,7 @@
 | [EvoProtGrad](https://github.com/NREL/EvoProtGrad) | directed evolution with MCMC and protein language models |
 
 # Inverse folding
+Tools for designing protein sequences given protein backbone or structure
 | Name | Description | 
 |-----------|-----------|
 | [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) | Fixed backbone design ([see webserver](https://huggingface.co/spaces/simonduerr/ProteinMPNN))|
@@ -240,6 +277,7 @@
 | [Caliby](https://github.com/ProteinDesignLab/caliby) | Potts model-based protein sequence design method that can condition on structural ensembles |
 
 # Function prediction
+Tools for functional annotation, active-site detection, ligand binding prediction, and  other properties
 | Name | Description | 
 |-----------|-----------|
 | [ProtNLM](https://www.uniprot.org/help/ProtNLM) | UniProt's Automatic Annotation pipeline for protein sequences (check out this notebooks for the ([2023_01_version](https://colab.research.google.com/github/google-research/google-research/blob/master/protnlm/protnlm_evidencer_uniprot_2023_01.ipynb)) and [2022_04_version](https://colab.research.google.com/github/google-research/google-research/blob/master/protnlm/protnlm_use_model_for_inference_uniprot_2022_04.ipynb)) |
@@ -256,6 +294,7 @@
 | [easifa](http://easifa.iddd.group/) | active and binding site annotations for enzymes |
 
 # Molecular simulation
+Tools for molecular dynamics, physical modeling, and analysis of trajectories
 | Name | Description | 
 |-----------|-----------|
 | [making-it-rain](https://github.com/pablo-arantes/making-it-rain) | Cloud-based molecular simulations for everyone |
@@ -271,6 +310,7 @@
 
 
 # Biological data visualization
+Tools for visualization of proteins, structures, alignments, phylogenies, and molecular data
 | Name | Description | 
 |-----------|-----------| 
 | [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) | Toolbox for molecular animations in Blender |
@@ -278,7 +318,7 @@
 | [CellScape](https://github.com/jordisr/cellscape) | Vector graphics cartoons from protein structure |
 | [chimerax](https://www.rbvi.ucsf.edu/chimerax/)| molecular visualization program (check out the [ChimeraX apps](https://cxtoolshed.rbvi.ucsf.edu/apps/all) as well as this [Color Palettes](https://github.com/smsaladi/chimerax_viridis) and this config to set-up a [Baker lab palette](https://bsky.app/profile/jameslingford.bsky.social/post/3lmw5h3xxec2n))|
 | [SSDraw](https://github.com/ncbi/SSDraw) |  secondary structure diagrams from protein structures |
-| [bioalphabet](https://github.com/davidhoksza/bioalphabet/) | convertor of texts to bio-domain alphabetss |
+| [bioalphabet](https://github.com/davidhoksza/bioalphabet/) | convertor of texts to bio-domain alphabets |
 | [ChatMol](https://github.com/ChatMol/ChatMol) | a PyMOL ChatGPT Plugin that allow to interact with PyMOL using natural language  |
 | [plot_phylo](https://github.com/KatyBrown/plot_phylo) | plot a phylogenetic tree on an existing matplotlib axis |
 | [NIH bioart](https://bioart.niaid.nih.gov/) | 2,000+ science and medical icons |
@@ -300,6 +340,7 @@
 | [ProteinCHAOS](https://dzyla.github.io/ProteinCHAOS/) | an artistic tool inspired by molecular dynamics to capture protein flexibility over time |
 
 # Molecules & cheminformatics
+Tools for small-molecule representation, analysis, docking, and computational chemistry
 | Name | Description | 
 |-----------|-----------|
 | [rdkit](https://www.rdkit.org/docs/index.html) | cheminformatics and machine-learning software (check out this collection of [useful_rdkit_utils](https://github.com/PatWalters/useful_rdkit_utils) ) |
@@ -314,6 +355,7 @@
 | [nvMolKit](https://github.com/NVIDIA-Digital-Bio/nvMolKit) | GPU-accelerated library for key computational chemistry (e.g. molecular similarity, conformer generation, and geometry relaxation) |
 
 # Machine learning 
+Tools for machine learning
 | Name | Description | 
 |-----------|-----------|
 | [Best-of Machine Learning](https://github.com/ml-tooling/best-of-ml-python) | list of awesome machine learning Python libraries |
@@ -328,6 +370,7 @@
 | [catboost](https://github.com/catboost/catboost) | high performance Gradient Boosting on Decision Trees | 
 
 # Dimensionality Reduction
+Tools for the visualization of high-dimensional data
 | Name | Description | 
 |-----------|-----------|
 | [TorchDR](https://github.com/TorchDR/TorchDR) | PyTorch Dimensionality Reduction |
@@ -338,6 +381,7 @@
 | [umap](https://github.com/lmcinnes/umap) | Uniform Manifold Approximation and Projection | 
 
 # Natural Language Processing
+Tools for text analysis, information extraction, topic modeling, and semantic clustering
 | Name | Description | 
 |-----------|-----------|
 | [BERTopic](https://github.com/MaartenGr/BERTopic) | create clusters for easily interpretable topics |
@@ -347,6 +391,7 @@
 | [langextract](https://github.com/google/langextract) | extracting structured information from unstructured text using LLMs |
 
 # Deep learning frameworks 
+Tools for building, training, and deploying deep learning models
 | Name | Description | 
 |-----------|-----------|
 | [pytorch](https://github.com/pytorch/pytorch) | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 
@@ -360,6 +405,7 @@
 | [Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage) | estimates the GPU vRAM required to train and run inference based on model size, largest layer, training setup, and numerical precision. Use `facebook/esm2_t33_650M_UR50D` as an example for ESM2 650M parameters (check out this other [gpu_poor calculator](https://github.com/RahulSChand/gpu_poor)) |
 
 # Tabular data
+Tools for tabular data
 | Name | Description | 
 |-----------|-----------|
 | [csvtk](https://github.com/shenwei356/csvtk) | CSV/TSV manip MSA (3M protein sequences in 5min and 24GB of RAM) |
@@ -370,6 +416,7 @@
 | [dtype_diet](https://github.com/noklam/dtype_diet) | Optimize your memory consumption when using pandas by changing dtypes without data loss  |
 
 # Hardware-accelerated computation
+Tools that use the GPU for scientific computing, machine learning, and large-scale similarity search
 | Name | Description | 
 |-----------|-----------|
 | [cuml](https://github.com/rapidsai/cuml) | GPU-based implementations of common machine learning algorithms ([more info for umap optimization](https://developer.nvidia.com/blog/even-faster-and-more-scalable-umap-on-the-gpu-with-rapids-cuml/) and [cuml.accel](https://developer.nvidia.com/blog/nvidia-cuml-brings-zero-code-change-acceleration-to-scikit-learn/) to boost scikit-learn and other libs in colab)|
@@ -380,6 +427,7 @@
 | [numba](https://github.com/numba/numba) | NumPy aware dynamic Python compiler  |
 
 # Statistics
+Tools for statistics 
 | Name | Description | 
 |-----------|-----------|
 | [scikit-posthocs](https://scikit-posthocs.readthedocs.io/en/latest/) |  post hoc tests for pairwise multiple comparisons |
@@ -392,6 +440,7 @@
 
 
 # Data visualization
+Tools for creating static and interactive plots
 | Name | Description | 
 |-----------|-----------| 
 | [matplotlib](https://github.com/matplotlib/matplotlib) | creating static, animated, and interactive visualizations |
@@ -414,10 +463,11 @@
 | [jsoncrack](https://github.com/AykutSarac/jsoncrack.com) | transforms data formats such as JSON, YAML, XML, CSV and more, into interactive graphs |
 | [torchvista](https://github.com/sachinhosmani/torchvista) | visualize the forward pass of a PyTorch model directly in the notebook |
 | [Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) | set of tools (like [NN-SVG](https://alexlenail.me/NN-SVG/LeNet.html)) to plot neural nets |
-| [How to Vectorize Plots from R/Python in PowerPoint](https://nalinan.medium.com/how-to-vectorize-plots-from-r-in-powerpoint-bad7c238e86a) | import a vectorized image into ProwerPoint for easy manipulation (check out this [tutorial](https://www.youtube.com/watch?v=hoHkc7N6FZA&ab_channel=GenomicsBootCamp)) |
+| [How to Vectorize Plots from R/Python in PowerPoint](https://nalinan.medium.com/how-to-vectorize-plots-from-r-in-powerpoint-bad7c238e86a) | import a vectorized image into PowerPoint for easy manipulation (check out this [tutorial](https://www.youtube.com/watch?v=hoHkc7N6FZA&ab_channel=GenomicsBootCamp)) |
 
 
 # chatbots and agents
+Tools for scientific reasoning, literature review, and biological data exploration
 | Name | Description | 
 |-----------|-----------| 
 | [Evolla](https://github.com/westlake-repl/Evolla) | chat about the function of a protein using its sequence and structure  (check out the [webserver](http://www.chat-protein.com/) using the 10B param. version of the model) |
