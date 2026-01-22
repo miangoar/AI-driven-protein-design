@@ -1,37 +1,5 @@
 # Content list
 
-13. Data access, platforms & agents
-RCSB API
-ProteInfer
-GoPredSim
-protein structure relaxation
-Model Memory Calculator
-alphafind
-DiffDock-Web
-ESMFold
-Foldseek clusters
-damietta
-easifa
-MPI Bioinformatics Toolkit
-moleculatio
-AI in Biology Demos
-ProteinsPlus
-ChatGPT
-Gemini
-claude
-Bing
-HuggingChat
-huggingface spaces
-biologpt
-consensus
-typeset
-mistral-chat
-aistudio by Google
-AI Python Libraries
-paperfinder
-AI Scientist agents
-biomni
-
 --------------------------------------
 # Sequence-level analysis
 | Name | Description | 
@@ -51,6 +19,7 @@ biomni
 | [ugene](https://ugene.net/) | genome analysis suite with graphic user interface |
 | [BuddySuite](https://github.com/biologyguy/BuddySuite) | manipulating sequence, alignment, and phylogenetic tree files |
 | [biotite](https://www.biotite-python.org/latest/) | sequence and structure manipulation and analysis |
+| [MPI Bioinformatics Toolkit!](https://toolkit.tuebingen.mpg.de/) | multiple bioinformatics tools |
 
 # Multiple sequence alignment
 | Name | Description | 
@@ -112,6 +81,9 @@ biomni
 | [libraryPDB](https://github.com/CJ438837/libraryPDB) | searching, downloading, parsing, cleaning and analyzing protein structures |
 | [lahuta](https://bisejdiu.github.io/lahuta/) | calculate atomomic interactions |
 | [InterfaceAnalyzerMover](https://docs.rosettacommons.org/docs/latest/scripting_documentation/RosettaScripts/Movers/movers_pages/analysis/InterfaceAnalyzerMover) | Calculate binding energies, buried interface surface areas, packing statistics, and other useful interface metrics for the evaluation of protein interfaces |
+| [Relax your structure using OpenMM/Amber](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/relax_amber.ipynb) | Relax your structure |
+| [ProteinsPlus](https://proteins.plus/) | structure mining and modeling, focussing on protein-ligand interactions |
+
 
 # Data access
 | Name | Description | 
@@ -133,7 +105,7 @@ biomni
 | Name | Description | 
 |-----------|-----------| 
 | [Pairwise Structure Alignment Tool](https://www.rcsb.org/alignment) | webserver for structure alignment using PDB IDs, AFDB IDs or local files (check out the detailed description of [how to use the tool](https://www.rcsb.org/docs/tools/pairwise-structure-alignment#4-align-multiple-structures-to-an-alphafold-structure-))|
-| [FoldSeek](https://github.com/steineggerlab/foldseek) | fast and sensitive comparisons of large structure sets|
+| [FoldSeek](https://github.com/steineggerlab/foldseek) | fast and sensitive comparisons of large structure sets (check out [Foldseek clusters](https://cluster.foldseek.com/) to perform a representative structure seach)|
 | [folddisco](https://github.com/steineggerlab/folddisco) | indexing and search of discontinuous motifs |
 | [USalign](https://github.com/pylelab/USalign) |structure alignment of monomeric and complex proteins and nucleic acids |
 | [progres](https://github.com/greener-group/progres) | structure searching by structural embeddings (check out the [webserver](https://progres.mrc-lmb.cam.ac.uk/))|
@@ -147,6 +119,7 @@ biomni
 | [gtalign](https://bioinformatics.lt/comer/gtalign/) | High-performance search and alignment for protein structures |
 | [Muscle-3D](https://github.com/rcedgar/muscle) | multiple protein structure alignment |
 | [PAthreader](http://zhanglab-bioinf.com/PAthreader/) | remote homologous template recognition |
+| [alphafind](https://alphafind.fi.muni.cz/search) | structure-based search of the entire AFDB using Uniprot ID, PDB ID, or Gene Symbol |
 
 # Structure prediction
 | Name | Description | 
@@ -155,6 +128,7 @@ biomni
 | [Alphafold3](https://github.com/google-deepmind/alphafold3) | predict biomolecular interactions using AlphaFold3 (check out the [webserver](https://alphafoldserver.com/) as well as this [solution to predict ~10k structures](https://github.com/GoogleCloudPlatform/cluster-toolkit/blob/cloudnext25/examples/science/af3-slurm/README.md))|
 | [ColabFold](https://github.com/sokrypton/ColabFold)| protein structure prediction on Google colab with a graphical user interface|
 | [localcolabfold](https://github.com/YoshitakaMo/localcolabfold) | ColabFold on your local PC | 
+| [ESMFold](https://github.com/facebookresearch/esm?tab=readme-ov-file#esmfold) | structure prediction with protein language models (check out the [webserver](https://esmatlas.com/resources?action=fold)) |
 | [flashfold](https://github.com/chayan7/flashfold) | command-line tool for faster protein structure prediction |
 | [PAE Viewer](https://gitlab.gwdg.de/general-microbiology/pae-viewer) | view the predicted aligned error (PAE) of multimers, and integrates visualization of crosslink data (check out the [webserver](https://subtiwiki.uni-goettingen.de/v4/paeViewerDemo)) |
 | [PyMOLfold](https://github.com/colbyford/PyMOLfold) | Plugin for folding sequences directly in PyMOL |
@@ -204,6 +178,7 @@ biomni
 | [FlexMol](https://github.com/Steven51516/FlexMol) | construction and evaluation of diverse model architectures  |
 | [BindCraft](https://github.com/martinpacesa/BindCraft) | binder design  (check out the [tutorial](https://github.com/martinpacesa/BindCraft/wiki/De-novo-binder-design-with-BindCraft)) |
 | [FreeBindCraft](https://github.com/cytokineking/FreeBindCraft) | BindCraft modified to make PyRosetta use and installation optional, i.e. no license needed ([more details](https://www.ariax.bio/resources/freebindcraft-open-source-unleashed))|
+| [damietta](https://damietta.de/) | protein design toolkit |
 | [prosculpt](https://github.com/ajasja/prosculpt) | encapsulates RFDiffusion, ProteinMPNN, AlphaFold2, and Rosetta into an easy-to-use workflow |
 | [BinderFlow](https://github.com/cryoEM-CNIO/BinderFlow) | parallelised pipeline for protein binder design (i.e. RFD > ProteinMPNN > AF2 + Scoring) | 
 | [proteindj](https://github.com/PapenfussLab/proteindj) | pipeline for de novo binder design (i.e. RFD > ProteinMPNN > AF2 + Scoring) |
@@ -214,6 +189,8 @@ biomni
 # Representation learning 
 | Name | Description | 
 |-----------|-----------| 
+| [ESM](https://github.com/facebookresearch/esm) | protein language models from the ESM familiy |
+| [ProtTrans](https://github.com/agemagician/ProtTrans)| protein language models from the ProtTrans familiy (check out [ProtT5-EvoTuning](https://github.com/RSchmirler/ProtT5-EvoTuning) and [Fine-Tuning](https://github.com/agemagician/ProtTrans/tree/master/Fine-Tuning) for LoRA fine-tunning tutorials) |
 | [FAESM](https://github.com/pengzhangzhi/faesm) | Pytorch Implementation of ESM and ProGen that can save ~60% of memory usage and 70% of inference time | 
 | [ESM-Efficient](https://github.com/uci-cbcl/esm-efficient) | Efficient implementatin of ESM family | 
 | [ProtLearn](https://github.com/tadorfer/protlearn) | extracting protein sequence features |
@@ -276,6 +253,7 @@ biomni
 | [AF2BIND](https://github.com/sokrypton/af2bind) | Predicting ligand-binding sites based on AF2 |
 | [p2rank](https://github.com/rdk/p2rank) | Protein-ligand binding site prediction from protein structure |
 | [PLACER](https://github.com/baker-laboratory/PLACER) |  local prediction of protein-ligand conformational ensembles |
+| [easifa](http://easifa.iddd.group/) | active and binding site annotations for enzymes |
 
 # Molecular simulation
 | Name | Description | 
@@ -289,6 +267,8 @@ biomni
 | [mdanalysis](https://github.com/MDAnalysis/mdanalysis) | analyze molecular dynamics simulations |
 | [VMD-2](https://www.ks.uiuc.edu/Research/vmd/vmd2intro/index.html) | Visual Molecular Dynamics |
 | [gromacs_copilot](https://github.com/ChatMol/gromacs_copilot) | AI-powered assistant for Molecular Dynamics simulations |
+| [moleculatio](https://moleculatio.yamlab.app) | chemoinformatics, quantum chemistry and molecular dynamics simulations or small molecules |
+
 
 # Biological data visualization
 | Name | Description | 
@@ -377,6 +357,7 @@ biomni
 | [autokeras](https://autokeras.com/) | AutoML system based on Keras |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 100+ PyTorch metrics implementations |
 | [skorch](https://github.com/skorch-dev/skorch) | train PyTorch models in a way similar to Scikit-learn (eg. No need to manually write a training loop, just using fit(), predict(), score()) |
+| [Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage) | estimates the GPU vRAM required to train and run inference based on model size, largest layer, training setup, and numerical precision. Use `facebook/esm2_t33_650M_UR50D` as an example for ESM2 650M parameters (check out this other [gpu_poor calculator](https://github.com/RahulSChand/gpu_poor)) |
 
 # Tabular data
 | Name | Description | 
@@ -410,79 +391,43 @@ biomni
 | [performance](https://github.com/easystats/performance) | computing indices of regression model quality and goodness of fit  |
 
 
---------------------------------------------------------------------------------------
-
-https://github.com/matplotlib/matplotlib
-https://github.com/plotly/plotly.py
-https://github.com/bokeh/bokeh
-https://github.com/mwaskom/seaborn
-https://github.com/vega/altair
-https://github.com/holoviz/holoviews
-
-
-# datavis
+# Data visualization
 | Name | Description | 
 |-----------|-----------| 
-| [datamapplot](https://github.com/TutteInstitute/datamapplot) | creating beautiful, interactive and massive scatterplots (e.g. [wikipedia articles](https://lmcinnes.github.io/datamapplot_examples/wikipedia/) and a [tutorial of how to reproduce it](https://x.com/leland_mcinnes/status/1937591460125090189)) |
+| [matplotlib](https://github.com/matplotlib/matplotlib) | creating static, animated, and interactive visualizations |
+| [seaborn](https://github.com/mwaskom/seaborn) | Statistical data visualization |
+| [plotly](https://github.com/plotly/plotly.py) | interactive graphing library |
+| [d3blocks](https://github.com/d3blocks/d3blocks) | create stand-alone and interactive d3 charts |
+| [holoviews](https://github.com/holoviz/holoviews) | make data analysis and visualization seamless and simple |
+| [bokeh](https://github.com/bokeh/bokeh) | Interactive Data Visualization |
+| [altair](https://github.com/vega/altair) | declarative statistical visualization library |
 | [pypalettes](https://github.com/JosephBARBIERDARNAL/pypalettes) | +2500 color maps  |
 | [distinctipy ](https://github.com/alan-turing-institute/distinctipy) |  generating visually distinct colours |
-| [Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) | set of tools (like [NN-SVG](https://alexlenail.me/NN-SVG/LeNet.html)) to plot neural nets |
+| [bivario](https://github.com/RaczeQ/bivario) | plotting bivariate choropleth maps |
+| [morethemes](https://github.com/JosephBARBIERDARNAL/morethemes) | More themes for matplotlib |
 | [tidyplots](https://jbengler.github.io/tidyplots/index.html) | creation of publication-ready plots for scientific papers |
 | [pyCirclize](https://github.com/moshi4/pyCirclize) | Circular visualization in Python (Circos Plot, Chord Diagram, Radar Chart)  |
 | [pycircular](https://github.com/albahnsen/pycircular) | circular data analysis |
 | [great-table](https://github.com/posit-dev/great-tables) |  display tables |
 | [plottable](https://github.com/znstrider/plottable) | plotting beautifully customized, presentation ready tables |
-| [d3blocks](https://github.com/d3blocks/d3blocks) | create stand-alone and interactive d3 charts |
-| [How to Vectorize Plots from R/Python in PowerPoint](https://nalinan.medium.com/how-to-vectorize-plots-from-r-in-powerpoint-bad7c238e86a) | import a vectorized image into ProwerPoint for easy manipulation ([see also this tutorial](https://www.youtube.com/watch?v=hoHkc7N6FZA&ab_channel=GenomicsBootCamp)) |
-| [morethemes](https://github.com/JosephBARBIERDARNAL/morethemes) | More themes for matplotlib |
-| [jsoncrack](https://github.com/AykutSarac/jsoncrack.com) | visualization application that transforms data formats such as JSON, YAML, XML, CSV and more, into interactive graphs |
+| [datamapplot](https://github.com/TutteInstitute/datamapplot) | creating beautiful, interactive, annotated and massive scatterplots |
+| [jsoncrack](https://github.com/AykutSarac/jsoncrack.com) | transforms data formats such as JSON, YAML, XML, CSV and more, into interactive graphs |
 | [torchvista](https://github.com/sachinhosmani/torchvista) | visualize the forward pass of a PyTorch model directly in the notebook |
-| [bivario](https://github.com/RaczeQ/bivario) | plotting bivariate choropleth maps |
-| []() |  |
-| []() |  |
-
-
-# webservers
-| Web | Description | 
-|-----------|-----------| 
-| [ProteInfer](https://google-research.github.io/proteinfer/) | predicting functional properties from sequences |
-| [GoPredSim](https://embed.protein.properties/) | Predict protein properties from embeddings |
-| [DeepFRI](https://beta.deepfri.flatironinstitute.org/) | structure-based protein function prediction and functional residue identification |
-| [protein structure relaxation](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/relax_amber.ipynb) | Relax your structure using OpenMM/Amber |
-| [Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage) | calculate how much vRAM is needed to train and perform inference on a model hosted on Hugging Face (see also [gpu_poor calculator](https://github.com/RahulSChand/gpu_poor) or [this ecuation](https://www.substratus.ai/blog/calculating-gpu-memory-for-llm)) |
-| [alphafind](https://alphafind.fi.muni.cz/search) | structure-based search |
-| [DiffDock-Web](https://huggingface.co/spaces/reginabarzilaygroup/DiffDock-Web) | molecular docking with ligands |
-| [ESMFold](https://esmatlas.com/resources?action=fold) | structure prediction with ESMFold |
-| [Foldseek clusters](https://cluster.foldseek.com/) | search for sctructural clusters in AFDB |
-| [damietta](https://damietta.de/) | protein design toolkit |
-| [easifa](http://easifa.iddd.group/) | active and binding site annotations for enzymes |
-| [InterProt](https://interprot.com/#/) |  interpretability of features derived from protein language models using sparse autoencoders |
-| [MPI Bioinformatics Toolkit!](https://toolkit.tuebingen.mpg.de/) | multiple bioinformatics tools |
-| [moleculatio](https://moleculatio.yamlab.app) | chemoinformatics, quantum chemistry and molecular dynamics simulations or small molecules |
-| [AI in Biology Demos]( https://huggingface.co/collections/hf4h/ai-in-biology-demos-65007d936a230e55a66cd31e) | applications of AI in biology and biochemistry |
-| [ProteinsPlus](https://proteins.plus/) | structure mining and modeling, focussing on protein-ligand interactions |
-
-| []() |  |
+| [Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) | set of tools (like [NN-SVG](https://alexlenail.me/NN-SVG/LeNet.html)) to plot neural nets |
+| [How to Vectorize Plots from R/Python in PowerPoint](https://nalinan.medium.com/how-to-vectorize-plots-from-r-in-powerpoint-bad7c238e86a) | import a vectorized image into ProwerPoint for easy manipulation (check out this [tutorial](https://www.youtube.com/watch?v=hoHkc7N6FZA&ab_channel=GenomicsBootCamp)) |
 
 
 # chatbots and agents
-| Name | 
-|-----------|
-| [Evolla](https://github.com/westlake-repl/Evolla) | chat about the function of a protein using its sequence and structure  (i.e. ChatGPT for proteins; see also the [webserver using the 10B param. version of the model](http://www.chat-protein.com/)) |
-| [ChatGPT](https://chat.openai.com/) |
-| [Gemini](https://gemini.google.com/) |
-| [claude](https://claude.ai/) |
-| [Bing](https://www.bing.com/?cc=es) |
-| [HuggingChat](https://huggingface.co/chat/) |
-| [huggingface spaces](https://huggingface.co/spaces) | 
-| [biologpt](https://biologpt.com/) |
-| [consensus](https://consensus.app/) |  
-| [typeset](https://typeset.io/) |  
-| [mistral-chat](https://mistral.ai/news/mistral-chat/) |  
-| [aistudio by Google](https://aistudio.google.com/) |
-| [AI Python Libraries](https://www.aipythonlibraries.com/libraries/) | 
-| [paperfinder](https://paperfinder.allen.ai/chat) | 
-| [AI Scientist agents by futurehouse](https://platform.futurehouse.org/) |
-| [OpenAI Deep Research Guide (by DAIR.AI)](https://docs.google.com/document/d/1vLaEMu5jirQT5RK0cW8RUXNFQyszMQ-xrjxUZF2wOg4/edit?tab=t.0#heading=h.2y9eo2rdwxv2) |  
-| [biomni](https://github.com/snap-stanford/biomni) |  
+| Name | Description | 
+|-----------|-----------| 
+| [Evolla](https://github.com/westlake-repl/Evolla) | chat about the function of a protein using its sequence and structure  (check out the [webserver](http://www.chat-protein.com/) using the 10B param. version of the model) |
+| [NotebookLM](https://notebooklm.google.com/) | organizing, summarizing, and reasoning over your own documents and notes | 
+| [ChatGPT](https://chat.openai.com/) | General-purpose conversational AI  |
+| [Gemini](https://gemini.google.com/) | General-purpose conversational AI |
+| [claude](https://claude.ai/) | General-purpose conversational AI | 
+| [HuggingChat](https://huggingface.co/chat/) | General-purpose conversational AI (checkout the [Spaces](https://huggingface.co/spaces) for more models as well as [AI in Biology Demos](https://huggingface.co/collections/hf4h/ai-in-biology-demos-65007d936a230e55a66cd31e) for models used in biology) | 
+| [Futurehouse](https://platform.futurehouse.org/) |  agents for literature review and scientific reasoning |
+| [biomni](https://github.com/snap-stanford/biomni) | Multimodal AI system for biological data analysis  |
 | []() |  |
+
+
