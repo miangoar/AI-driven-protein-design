@@ -1,3 +1,105 @@
+Protein Sequence Databases
+uniprot
+interpro
+uniclust
+lukprot
+annotree
+Dayhoff Atlas
+
+Genome & Metagenome Databases
+gtdb
+AllTheBacteria
+bakrep
+Logan
+OMG, Open MetaGenomic Dataset
+gbrap
+annoview
+
+Viral-specific Databases
+vire
+bfvd
+viro3d
+Viral AlphaFold Database (VAD)
+ViralZone
+Unified Human Gut Virome Catalog
+
+Protein Structure Databases (Experimental & Predicted)
+PDB
+alphafold DB
+esmatlas
+ModelArchive
+CAZyme3D
+afesm
+alphasync
+EcoFoldDB
+MONDE⋅T
+
+Domain & Fold Databases
+Pfam
+ECOD
+cath DB
+RepeatsDB
+TED
+TED: The Encyclopedia of Domains
+
+Designed & Synthetic Proteins
+PDA
+revenant
+fuzzle
+
+Molecular Dynamics & Conformational Data
+MD Repo
+ATLAS
+DynaRepo
+
+Functional & Fitness Databases
+M-CSA
+Enzyme Engineering Database
+protabank
+mavedb
+SAIR
+
+Embedding & Representation Databases
+Protein Dimension DB
+Protein Embeddings
+globdb
+DPEB
+
+ML Training Resources & Large-scale Sets
+OpenProteinSet
+ColabFold Downloads
+AFDB foldseek clusters
+Benchmarks & Evaluation Suites
+PoseBench
+plinder
+pinder
+Runs N' Poses
+proteingym
+MotifBench
+posebusters
+PDBench
+RNAGym
+
+Curated Lists, Tools & Ecosystem
+ProteinDesignLabs
+biolists/folding_tools
+hefeda/design_tools
+duerrsimon/folding_tools
+Prtein language models
+biodiffusion
+Paper for protein desing with deep learning
+Articulos curados por categoria
+biomodes
+List of papers about Proteins Design using Deep Learning
+Awesome Bio-Foundation Models
+
+Industry & Meta-resources
+TechBio Company Database
+
+General ML Datasets
+pmlb
+faker
+
 # Sequence Databases
 | Repo | Descripcion | 
 |-----------|-----------| 
