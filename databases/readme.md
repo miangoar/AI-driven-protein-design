@@ -1,20 +1,19 @@
 Data categories:
 - [Protein sequence databases](#protein-sequence-databases)
-- [Genome & Metagenome databases](#genome--metagenome-databases)
-- [Viral databases](#viral-specific-databases)
-- [Protein structure databases (Experimental & Predicted)](#protein-structure-databases-experimental--predicted)
-- [Domain & Fold databases](#domain--fold-databases)
-- [Designed & Synthetic Proteins](#designed--synthetic-proteins)
-- [Molecular Dynamics & Conformational Data](#molecular-dynamics--conformational-data)
-- [Functional & Fitness Databases](#functional--fitness-databases)
+- [Genome & metagenome databases](#genome--metagenome-databases)
+- [Viral databases](#viral-databases)
+- [Protein structure databases](#protein-structure-databases)
+- [Domain & fold databases](#domain--fold-databases)
+- [Designed & synthetic proteins](#designed--synthetic-proteins)
+- [Molecular dynamics & conformational data](#molecular-dynamics--conformational-data)
+- [Functional & fitness databases](#functional--fitness-databases)
 - [Embedding databases](#embedding-databases)
-- [ML Training Resources & Large-scale Sets](#ml-training-resources--large-scale-sets)
-- [Benchmarks & Evaluation Suites](#benchmarks--evaluation-suites)
-- [Curated Lists, Tools & Ecosystem](#curated-lists-tools--ecosystem)
-- [Industry & Meta-resources](#industry--meta-resources)
-- [General ML Datasets](#general-ml-datasets)
+- [Machine learning](#machine-learning)
+- [Benchmarks](#benchmarks)
+- [Interesting repositories](#interesting-repositories)
 
 # Protein sequence databases
+Databases of protein sequences with functional, taxonomic, or evolutionary annotations
 | Name | Description | 
 |-----------|-----------| 
 | [uniprot](https://www.uniprot.org/) | high-quality, comprehensive and freely accessible protein sequences and functional information |
@@ -28,7 +27,8 @@ Data categories:
 | [Clustering NCBI's nr database](https://github.com/Arcadia-Science/2023-nr-clustering) | clustered nr at 90% length, 90% identity |
 
 
-# Genome & Metagenome databases
+# Genome & metagenome databases
+Databases of assembled genomes and metagenomic data from diverse organisms and environments
 | Name | Description | 
 |-----------|-----------| 
 | [GTDB](https://gtdb.ecogenomic.org/) | microbial genomes |
@@ -40,6 +40,7 @@ Data categories:
 | [PlasmidScope](https://plasmid.deepomics.org/) |   852,600 plasmid sequences with annotations and structures |
 
 # Viral databases
+Databases for sequence and structures derived from viruses
 | Name | Description | 
 |-----------|-----------| 
 | [bfvd](https://bfvd.steineggerlab.workers.dev/) |  DB of protein structures from viruses |
@@ -50,6 +51,7 @@ Data categories:
 | [Unified Human Gut Virome Catalog](https://uhgv.jgi.doe.gov/) | 870k genomes, 1M protein sequence clusters and 56k representative predicted structures of viruses |
 
 # Protein structure databases
+Databases with experimental and computationally predicted protein structures
 | Name | Description | 
 |-----------|-----------| 
 | [alphafold DB](https://alphafold.ebi.ac.uk/) | predicted structures for 200M proteins from the uniprot  |
@@ -65,8 +67,8 @@ Data categories:
 | [AFDB foldseek clusters](https://afdb-cluster.steineggerlab.workers.dev) | 2.27M non-singleton structural clusters derived from AFDB |
 | [pdbtm](https://pdbtm.unitmp.org/) | transmembrane protein selection of the PDB  |
 
-
-# Domain & Fold databases
+# Domain & fold databases
+Databases that classify protein domains and folds
 | Name | Description | 
 |-----------|-----------| 
 | [Pfam](https://www.ebi.ac.uk/interpro/entry/pfam/#table) | protein families sequence classification (see also the [FTP host](https://ftp.ebi.ac.uk/pub/databases/Pfam/releases/) & [training resources](https://pfam-docs.readthedocs.io/en/latest/training.html)) |
@@ -74,21 +76,24 @@ Data categories:
 | [cath DB](https://www.cathdb.info/version/v4_3_0/superfamily/3.40.710.10) | Database of protein folds, illustrated with the serine beta-lactamase superfamily |
 | [RepeatsDB](https://repeatsdb.org/home) |  annotation and classification of structural tandem repeat proteins  |
 
-# Designed & Synthetic Proteins
+# Designed & synthetic proteins
+Databases of engineered proteins
 | Name | Description | 
 |-----------|-----------| 
 | [fuzzle](https://fuzzle.uni-bayreuth.de:8443/) | evolutionary related protein fragments with ligand information |
 | [revenant](https://revenant.inf.pucp.edu.pe/) | resurrected proteins structures |
 | [PDA](https://pragmaticproteindesign.bio.ed.ac.uk/pda/) | ~1400 de novo designed proteins |
 
-# Molecular Dynamics & Conformational Data
+# Molecular dynamics & conformational data
+Molecular dynamics simulations and protein conformational ensembles
 | Name | Description | 
 |-----------|-----------| 
 | [ATLAS](https://www.dsimb.inserm.fr/ATLAS) | >190 standardized molecular dynamics simulations of protein structures  |
 | [MD Repo](https://mdrepo.org/) | MD simulations for proteins, with or without ligands  |
 | [DynaRepo](https://dynarepo.inria.fr/) |  macromolecular conformational dynamics comprising ∼450 complexes and ∼270 single-chain proteins |
 
-# Functional & Fitness Databases
+# Functional & fitness databases
+Datasets linking protein sequence or structure to function, activity, or fitness measurements
 | Name | Description | 
 |-----------|-----------| 
 | [M-CSA](https://www.ebi.ac.uk/thornton-srv/m-csa/browse/) | Mechanism and Catalytic Site Atlas |
@@ -100,6 +105,7 @@ Data categories:
 
 
 # Embedding databases
+Protein embeddings from protein language models
 | Name | Description | 
 |-----------|-----------| 
 | [Protein Dimension DB](https://github.com/pentalpha/protein_dimension_db) | Datasets with PLM embeddings, GO annotations and taxonomy representations for all proteins in Uniprot/Swiss-Prot  |
@@ -108,11 +114,13 @@ Data categories:
 | [DPEB](https://github.com/deepdrugai/DPEB) | AlphaFold2, ESM2, ProtTrans embeddings for 22,043 human proteins |
 
 # Machine learning
+ML models
 | Name | Description | 
 |-----------|-----------| 
 | [huggingface-task](https://huggingface.co/tasks) | ML tasks and their respective models on HuggingFace |
 
 # Benchmarks
+Standardized datasets for comparing ML methods
 | Name | Description | 
 |-----------|-----------| 
 | [PoseBench](https://github.com/BioinfoMachineLearning/PoseBench) | protein-ligand structure prediction methods |
@@ -126,7 +134,8 @@ Data categories:
 | [RNAGym](https://github.com/MarksLab-DasLab/RNAGym) | suite for RNA fitness and structure prediction  |
 
 
-# Interesting respositories
+# Interesting repositories
+Tools, models, labs, companies, and literature in protein science and AI
 | Name | Description | 
 |-----------|-----------| 
 | [ProteinDesignLabs](https://github.com/Zuricho/ProteinDesignLabs) | List of computational protein design research labs |
