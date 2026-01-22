@@ -1,3 +1,5 @@
+# Content list
+
 Data categories:
 - [Protein sequence databases](#protein-sequence-databases)
 - [Genome & metagenome databases](#genome--metagenome-databases)
