@@ -26,7 +26,7 @@ Data categories:
 | [Logan](https://github.com/IndexThePlanet/Logan) |  DNA and RNA sequences derived from NCBI-SRA which contains 50 petabases of public raw data  |
 | [ColabFold Downloads](https://colabfold.mmseqs.com/) | databases to generate diverse MSAs to predict protein structures  |
 | [Clustering NCBI's nr database](https://github.com/Arcadia-Science/2023-nr-clustering) | clustered nr at 90% length, 90% identity |
-| [OpenProteinSet](https://registry.opendata.aws/openfold/) |  >16 million MSAs with their associated structural homologs from the PDB, and AF2 protein structure predictions |
+
 
 # Genome & Metagenome databases
 | Name | Description | 
@@ -37,6 +37,7 @@ Data categories:
 | [OMG, Open MetaGenomic Dataset](https://github.com/TattaBio/OMG) | 3.1T base pair metagenomic pretraining dataset, combining MGnify and IMG databases with translated amino acids for protein coding sequences, and nucleic acids for intergenic sequences |
 | [gbrap](http://tacclab.org/gbrap/) | carefully curated, high-quality genome statistics for all the organisms available in the RefSeq containing more than 200 columns of useful genomic information (Base counts, GC content, Shannon Entropy, Codon Usage etc.)  |
 | [annoview](http://annoview.uwaterloo.ca/annoview/) | genome visualization and exploration of gene neighborhoods  |
+| [PlasmidScope](https://plasmid.deepomics.org/) |   852,600 plasmid sequences with annotations and structures |
 
 # Viral databases
 | Name | Description | 
@@ -46,7 +47,7 @@ Data categories:
 | [Viral AlphaFold Database (VAD)](https://data-sharing.atkinson-lab.com/vad/) | ~27,000 representative viral proteins modeled with AlphaFold2  |
 | [ViralZone](https://www.nature.com/articles/s41586-024-07809-y#data-availability) | 67,715 eukaryotic virus proteins modeled with AlphaFold2 |
 | [vire](https://spire.embl.de/vire/) | 1.7M viral genomes recovered from >100k metagenomes from diverse ecosystems that contains >89M proteins |
-| [Unified Human Gut Virome Catalog](https://uhgv.jgi.doe.gov/) | 870k genomes, 1M protein sequence clusters and 56k representative predictes structures of viruses |
+| [Unified Human Gut Virome Catalog](https://uhgv.jgi.doe.gov/) | 870k genomes, 1M protein sequence clusters and 56k representative predicted structures of viruses |
 
 # Protein structure databases
 | Name | Description | 
@@ -62,22 +63,21 @@ Data categories:
 | [MONDE⋅T](https://mondet.tuebingen.mpg.de/) | curated set of 23,149 structures from PDB that contains 1,895 unique non-canonical amino acids  |
 | [EcoFoldDB](https://github.com/timghaly/EcoFoldDB) | protein structure-guided annotations of ecologically relevant functions  |
 | [AFDB foldseek clusters](https://afdb-cluster.steineggerlab.workers.dev) | 2.27M non-singleton structural clusters derived from AFDB |
-| [PlasmidScope](https://plasmid.deepomics.org/) |   852,600 plasmid sequences with annotations and structures |
 | [pdbtm](https://pdbtm.unitmp.org/) | transmembrane protein selection of the PDB  |
 
 
 # Domain & Fold databases
 | Name | Description | 
 |-----------|-----------| 
-| [Pfam](https://www.ebi.ac.uk/interpro/entry/pfam/#table) | protein families sequence calssification (see also the [FTP host](https://ftp.ebi.ac.uk/pub/databases/Pfam/releases/) & [training resources](https://pfam-docs.readthedocs.io/en/latest/training.html)) |
+| [Pfam](https://www.ebi.ac.uk/interpro/entry/pfam/#table) | protein families sequence classification (see also the [FTP host](https://ftp.ebi.ac.uk/pub/databases/Pfam/releases/) & [training resources](https://pfam-docs.readthedocs.io/en/latest/training.html)) |
 | [ECOD](http://prodata.swmed.edu/ecod/) | a hierarchical classification of protein domains according to their evolutionary relationship |
-| [cath DB](https://www.cathdb.info/version/v4_3_0/superfamily/3.40.710.10) | Base de datos de plegamientos proteicos. Ejemplo con la superfamilia de serinbetalactamasas|
+| [cath DB](https://www.cathdb.info/version/v4_3_0/superfamily/3.40.710.10) | Database of protein folds, illustrated with the serine beta-lactamase superfamily |
 | [RepeatsDB](https://repeatsdb.org/home) |  annotation and classification of structural tandem repeat proteins  |
 
 # Designed & Synthetic Proteins
 | Name | Description | 
 |-----------|-----------| 
-| [fuzzle](https://fuzzle.uni-bayreuth.de:8443/) | evolutionary related protein fragments with ligand infromation |
+| [fuzzle](https://fuzzle.uni-bayreuth.de:8443/) | evolutionary related protein fragments with ligand information |
 | [revenant](https://revenant.inf.pucp.edu.pe/) | resurrected proteins structures |
 | [PDA](https://pragmaticproteindesign.bio.ed.ac.uk/pda/) | ~1400 de novo designed proteins |
 
@@ -136,8 +136,7 @@ Data categories:
 | [Protein language models](https://github.com/biolists/folding_tools/blob/main/pLM.md) | Curated list of protein language models |
 | [biodiffusion](https://github.com/biolists/biodiffusion) | Curated list of diffusion-based models for protein design |
 | [duerrsimon/folding_tools](https://github.com/duerrsimon/folding_tools/) | Curated list of AI-based tools for protein structure analysis |
-| [Papers for protein desing](https://github.com/Peldom/papers_for_protein_design_using_DL) | Curated collection of research papers on deep learning–based protein design |
-| [List of papers about Protein Design using Deep Learning](https://github.com/Peldom/papers_for_protein_design_using_DL) | Curated collection of papers |
+| [Papers for protein design](https://github.com/Peldom/papers_for_protein_design_using_DL) | Curated collection of research papers on deep learning–based protein design |
 | [biomodes](https://abeebyekeen.com/biomodes-biomolecular-design/) | Curated list of biomolecular design models, including protein-focused AI methods |
 | [Awesome Bio-Foundation Models](https://github.com/apeterswu/Awesome-Bio-Foundation-Models) | Curated collection of bio-foundation models covering proteins, RNA, DNA, genes, single-cell data, and related domains |
 
