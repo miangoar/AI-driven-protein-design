@@ -1,4 +1,4 @@
-# Content list
+# Learning resources
 - [Protein science](#protein-science)
 - [Bioinformatics](#bioinformatics)
 - [Machine Learning, Deep Learning, and Data Science](#machine-learning-deep-learning-and-data-science)
