@@ -1,9 +1,9 @@
 Data categories:
-- [Protein Sequence Databases](#protein-sequence-databases)
-- [Genome & Metagenome Databases](#genome--metagenome-databases)
-- [Viral-specific Databases](#viral-specific-databases)
-- [Protein Structure Databases (Experimental & Predicted)](#protein-structure-databases-experimental--predicted)
-- [Domain & Fold Databases](#domain--fold-databases)
+- [Protein sequence databases](#protein-sequence-databases)
+- [Genome & Metagenome databases](#genome--metagenome-databases)
+- [Viral databases](#viral-specific-databases)
+- [Protein structure databases (Experimental & Predicted)](#protein-structure-databases-experimental--predicted)
+- [Domain & Fold databases](#domain--fold-databases)
 - [Designed & Synthetic Proteins](#designed--synthetic-proteins)
 - [Molecular Dynamics & Conformational Data](#molecular-dynamics--conformational-data)
 - [Functional & Fitness Databases](#functional--fitness-databases)
@@ -14,28 +14,29 @@ Data categories:
 - [Industry & Meta-resources](#industry--meta-resources)
 - [General ML Datasets](#general-ml-datasets)
 
-# Protein Sequence Databases
+# Protein sequence databases
 | Name | Description | 
 |-----------|-----------| 
-| [uniprot](https://www.uniprot.org/) | annotated proteins |
-| [interpro](https://www.ebi.ac.uk/interpro/) |   functional analysis of proteins by classifying them into families and predicting domains and important sites |
-| [uniclust](https://gwdu111.gwdg.de/%7Ecompbiol/uniclust/2023_02/) | clustered uniprot - [paper](https://academic.oup.com/nar/article/45/D1/D170/2605730) |
+| [uniprot](https://www.uniprot.org/) | high-quality, comprehensive and freely accessible protein sequences and functional information |
+| [interpro](https://www.ebi.ac.uk/interpro/) | functional analysis of proteins by classifying them into families and predicting domains and important sites |
+| [uniclust](https://uniclust.mmseqs.com/) | The Uniclust90, Uniclust50, Uniclust30 DBs cluster UniProtKB sequences at the level of 90%, 50% and 30% pairwise sequence identity. |
 | [lukprot](https://zenodo.org/records/13829058) |  eukaryotic predicted proteins based on EukProtDB |
 | [annotree](http://annotree.uwaterloo.ca/annotree/) | >280M proteins from the GTDB with functional annotations  |
-| [Dayhoff Atlas](https://huggingface.co/datasets/microsoft/Dayhoff) | GigaRef = 3.34B natural protein sequences (1.7B clusters); BackboneRef = 46M synthetic sequences; OpenProteinSet =  16M MSAs unrolled |
-| [Logan](https://github.com/IndexThePlanet/Logan) | a dataset of DNA and RNA sequences derived from NCBI-SRA which contains 50 petabases of public raw data  |
+| [Dayhoff Atlas](https://huggingface.co/datasets/microsoft/Dayhoff) | GigaRef = 3.34B natural protein sequences (1.7B clusters); BackboneRef = 46M synthetic sequences; OpenProteinSet =  16M unrolled MSAs |
+| [Logan](https://github.com/IndexThePlanet/Logan) |  DNA and RNA sequences derived from NCBI-SRA which contains 50 petabases of public raw data  |
+| [ColabFold Downloads](https://colabfold.mmseqs.com/) | databases to generate diverse MSAs to predict protein structures  |
 
-# Genome & Metagenome Databases
+# Genome & Metagenome databases
 | Name | Description | 
 |-----------|-----------| 
-| [gtdb](https://gtdb.ecogenomic.org/) | microbial genomes |
+| [GTDB](https://gtdb.ecogenomic.org/) | microbial genomes |
 | [AllTheBacteria](https://github.com/AllTheBacteria/AllTheBacteria) |  All WGS isolate bacterial INSDC data to August 2024 uniformly assembled, QC-ed, annotated, searchable |
 | [bakrep](https://bakrep.computational.bio/) |  661,402 bacterial genomes consistently processed & characterized, enriched with metadata |
 | [OMG, Open MetaGenomic Dataset](https://github.com/TattaBio/OMG) | 3.1T base pair metagenomic pretraining dataset, combining MGnify and IMG databases with translated amino acids for protein coding sequences, and nucleic acids for intergenic sequences |
 | [gbrap](http://tacclab.org/gbrap/) | carefully curated, high-quality genome statistics for all the organisms available in the RefSeq containing more than 200 columns of useful genomic information (Base counts, GC content, Shannon Entropy, Codon Usage etc.)  |
 | [annoview](http://annoview.uwaterloo.ca/annoview/) | genome visualization and exploration of gene neighborhoods  |
 
-# Viral-specific Databases
+# Viral databases
 | Name | Description | 
 |-----------|-----------| 
 | [bfvd](https://bfvd.steineggerlab.workers.dev/) |  DB of protein structures from viruses |
@@ -45,30 +46,27 @@ Data categories:
 | [vire](https://spire.embl.de/vire/) | 1.7M viral genomes recovered from >100k metagenomes from diverse ecosystems that contains >89M proteins |
 | [Unified Human Gut Virome Catalog](https://uhgv.jgi.doe.gov/) | 870k genomes, 1M protein sequence clusters and 56k representative predictes structures of viruses |
 
-# Protein Structure Databases (Experimental & Predicted)
+# Protein structure databases
 | Name | Description | 
 |-----------|-----------| 
 | [alphafold DB](https://alphafold.ebi.ac.uk/) | predicted structures for 200M proteins from the uniprot  |
 | [esmatlas](https://esmatlas.com/) | predicted structures for 600M proteins from MGnify  |
-| [PDB](https://www.rcsb.org/stats/) | 200k protein structures |
+| [PDB](https://www.rcsb.org/stats/) | 250k protein structures |
 | [ModelArchive](https://modelarchive.org/) | ~620k structure models that are not based on experimental data  |
 | [afesm](https://afesm.steineggerlab.workers.dev/) |  ~820M structural predictions annotated with biome, taxonomy, domains, etc |
 | [CAZyme3D](https://pro.unl.edu/CAZyme3D/) | 870k AlphaFold predicted 3D structures  |
-| [ted](https://ted.cathdb.info/) |  The Encyclopedia of Domains [see also how was implemented in the AFDB](https://www.ebi.ac.uk/about/news/updates-from-data-resources/alphafold-database-ted/)|
-| [ColabFold Downloads](https://colabfold.mmseqs.com/) | Bases de datos de proteinas (siendo colabfold_envdb_202108 la mas grande, i.e. pesa 110GB)  |
+| [TED: The Encyclopedia of Domains](https://ted.cathdb.info/) | 365 million domains from AFDB ([see also how was implemented in the AFDB](https://www.ebi.ac.uk/about/news/updates-from-data-resources/alphafold-database-ted/))|
 | [alphasync](https://alphasync.stjude.org/) | residue-level features for predicted proteomes of model organisms with AlphaFold2  | 
 | [MONDE⋅T](https://mondet.tuebingen.mpg.de/) | curated set of 23,149 structures from PDB that contains 1,895 unique non-canonical amino acids  |
-| [EcoFoldDB](https://github.com/timghaly/EcoFoldDB) | Database and pipeline for protein structure-guided annotations of ecologically relevant functions  |
+| [EcoFoldDB](https://github.com/timghaly/EcoFoldDB) | protein structure-guided annotations of ecologically relevant functions  |
 
-# Domain & Fold Databases
+# Domain & Fold databases
 | Name | Description | 
 |-----------|-----------| 
 | [Pfam](https://www.ebi.ac.uk/interpro/entry/pfam/#table) | protein families sequence calssification (see also the [FTP host](https://ftp.ebi.ac.uk/pub/databases/Pfam/releases/) & [training resources](https://pfam-docs.readthedocs.io/en/latest/training.html)) |
 | [ECOD](http://prodata.swmed.edu/ecod/) | a hierarchical classification of protein domains according to their evolutionary relationship |
 | [cath DB](https://www.cathdb.info/version/v4_3_0/superfamily/3.40.710.10) | Base de datos de plegamientos proteicos. Ejemplo con la superfamilia de serinbetalactamasas|
 | [RepeatsDB](https://repeatsdb.org/home) |  annotation and classification of structural tandem repeat proteins  |
-| [TED: The Encyclopedia of Domains](https://ted.cathdb.info/data) | 365 million domains from AFDB  |
-
 
 # Designed & Synthetic Proteins
 | Name | Description | 
@@ -76,7 +74,6 @@ Data categories:
 | [fuzzle](https://fuzzle.uni-bayreuth.de:8443/) | evolutionary related protein fragments with ligand infromation |
 | [revenant](https://revenant.inf.pucp.edu.pe/) | resurrected proteins structures |
 | [PDA](https://pragmaticproteindesign.bio.ed.ac.uk/pda/) | ~1400 de novo designed proteins |
-
 
 # Molecular Dynamics & Conformational Data
 | Name | Description | 
@@ -93,7 +90,6 @@ Data categories:
 | [protabank](https://www.protabank.org/) | protein-fitness datasets |
 | [mavedb](https://www.mavedb.org/) | protein-fitness datasets |
 | [SAIR](https://pub.sandboxaq.com/data/ic50-dataset) | 5.2M protein-ligand structures with associated activity data  |
-
 
 # Embedding databases
 | Name | Description | 
