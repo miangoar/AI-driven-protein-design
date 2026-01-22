@@ -171,6 +171,7 @@ Tools for protein structure prediction and biomolecular complexes
 | [RareFold](https://github.com/patrickbryant1/RareFold) | Structure prediction and design of proteins with 29 noncanonical amino acids |
 | [AFusion](https://github.com/Hanziwww/AlphaFold3-GUI) | AlphaFold 3 GUI & Toolkit with Visualization |
 | [Hackable AlphaFold 3](https://github.com/chaitjo/alphafold3/) | a lightweight, hackable way to run AF3 to experiment without the massive MSA databases or Docker overhead |
+| [AF2 single sequence input](https://twitter.com/sokrypton/status/1535857255647690753) | Optimized lightweight version of AlphaFold2 enabling rapid structure prediction at reduced accuracy, intended primarily for educational and exploratory use |
 | [ABCFold](https://github.com/rigdenlab/ABCFold) | Scripts to run AlphaFold3, Boltz-1 and Chai-1 with MMseqs2 MSAs and custom templates  |
 | [AlphaPulldown](https://www.embl-hamburg.de/AlphaPulldown/) | Complex modeling with AF-Multimer |
 | [LazyAF](https://github.com/ThomasCMcLean/LazyAF) | protein-protein interaction with AF2 |
