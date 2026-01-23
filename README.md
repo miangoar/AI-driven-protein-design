@@ -3,11 +3,11 @@
 <img src="https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/roadmap.jpg" alt="Description" width="900" height="auto">
 
 # Content list
-- [Tools](./tools)
-- [Learning resources](./learning_resources)
-- [Databases](./databases)
-- [Youtube](./youtube)
-- [Lectures and slides](./video)
+- [Tools](./tools): libraries organized into 25 categories
+- [Learning resources](./learning_resources): : courses, tutorials and useful publications organized into nine categories
+- [Databases](./databases): resources to download genomic and protein data organized into 12 categories
+- [Youtube](./youtube): recommended channels and videos to learn about proteins, mathematics, and data science
+- [Lectures and slides](./video): links to each lecture and to download the slides
 
 # Brief description
 Free 10-lecture course (37 hours and +800 slides) on AI-based protein design. For more details, please visit the course page:
