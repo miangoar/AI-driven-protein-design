@@ -1,9 +1,9 @@
 ⚠️ Warning: section under construction ⚠️
 
 
-# Youtube channels for biology
-| Video |
-|-----------|
+# Biology
+| Channel | Description | 
+|-----------|-----------|
 | [Clockwork bio](https://www.youtube.com/@Clockworkbio) | life through the lens of biochemistry | 
 | [Artem Kirsanov](https://www.youtube.com/@ArtemKirsanov) | computational neuroscience and machine learning| 
 | [phylum channel](https://www.youtube.com/@phylumchannel) | viruses, bacteria, and the cells | 
@@ -14,10 +14,14 @@
 | [Computational Intelligence Group](https://www.youtube.com/@ComputationalIntelligenceGroup/videos) | Academic seminars on AI + Bio  | 
 | [Machine Learning in Computational Biology](https://www.youtube.com/@mlcbconf/featured) | Academic seminars on AI + Bio | 
 | [valence labs](https://portal.valencelabs.com/logg) | Academic seminars on AI + Bio | 
+| [Boston Protein Design and Modeling Club](https://www.youtube.com/@bpdmc) | computational protein engineering | 
+| [ML for protein engineering seminar series](https://www.youtube.com/@mlforproteinengineeringsem6420) | machine learning for protein engineering | 
+| []() | | 
 
-# Youtube channels for Machine/Deep learning 
-| Video |
-|-----------|
+
+# Machine & Deep learning 
+| Channel | Description | 
+|-----------|-----------|
 | [Codigo Maquina (in Spanish)](https://www.youtube.com/@CodigoMaquina) | AI, data science and computer science | 
 | [Mutual_Information](https://www.youtube.com/@Mutual_Information) | machine learning | 
 | [DotCSV (in Spanish)](https://www.youtube.com/@DotCSV) | Divulgación sobre Inteligencia Artificial  | 
@@ -31,13 +35,13 @@
 | [Data with Baraa](https://www.youtube.com/@DataWithBaraa/) | Data Engineering | 
 | [Branch Education](https://www.youtube.com/@BranchEducation) | science, engineering, and technology of computers | 
 
-# Youtube channels for Mathematics 
-| Video |
-|-----------|
+# Mathematics 
+| Channel | Description | 
+|-----------|---------|
 | [3blue 1brown](https://www.youtube.com/@3blue1brown) | math,  physics and computer science | 
 | [dibeos](https://www.youtube.com/@dibeos) | Mathematics & Mathematical Physics | 
 | [vcubingx](https://www.youtube.com/@vcubingx) | math | 
-| []() |
+
 
 
 # Videos recomendados
