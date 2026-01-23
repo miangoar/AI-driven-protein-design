@@ -1,4 +1,3 @@
-⚠️ **Warning: repository under construction** ⚠️
 
 # A roadmap for AI-driven protein design
 <img src="https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/roadmap.jpg" alt="Description" width="900" height="auto">
@@ -6,19 +5,18 @@
 # Content list
 - [Tools](./tools)
 - [Learning resources](./learning_resources)
-- [Youtube](./youtube)
 - [Databases](./databases)
-- [Selected_papers](./selected_papers)
-- [Tutorials](./tutorials)
-- [Slides](./slides)
+- [Youtube](./youtube)
+- [Lectures and slides](./video)
 
 # Brief description
-Here you’ll find resources for learning AI-based protein science. This includes tutorials to run on Google Colab, video classes on YouTube (coming soon) covering protein evolution and AI fundamentals, as well as practical tools and other resources to deepen your understanding of the topic.
+Free 10-lecture course (37 hours and +800 slides) on AI-based protein design. For more details, please visit the course page:
+- <https://miangoaren.github.io/teaching/proteins>
 
 # Breve descripcion  
-Aqui encontraras recursos para aprender ciencia de proteínas basada en IA. Incluye tutoriales para ejecutar en Google Colab, clases en videoen YouTube (**próximamente**) sobre evolución de proteínas y fundamentos de IA, además de herramientas prácticas y otros recursos para profundizar en el tema.
+Curso gratuito de 10 clases (37 horas y +800 diapositivas) sobre diseño de proteínas basado en Inteligencia Artificial. Para más detalles, consulta la página del curso: 
+- <https://miangoar.github.io/teaching/proteins>
 
-<img src="https://miangoar.github.io/images/robot_ml.png" alt="Description" width="300" height="auto">
 
 
   
