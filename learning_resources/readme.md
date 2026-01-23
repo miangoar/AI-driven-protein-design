@@ -10,23 +10,6 @@
 
 Note: resources marked with ⭐ are highly recommended
 
-| [Analisis_estructural_ESMAtlas](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/analisis_estructural_ESMAtlas.ipynb) | En este cuaderno aprenderas como explorar la base de datos ESMAtlas, descargar los resultados, procesarlos y agrupar estructuras de proteinas | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/analisis_estructural_ESMAtlas.ipynb) |
-| [sequentially_ESMFold](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/sequentially_ESMFold.ipynb) | En este cuaderno aprenderas como realizar un video del proceso de plegamiento de una proteinas usando ESMFold | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/sequentially_ESMFold.ipynb) |
-| [Fine tunning of a protein language model. Notebook por Matthew Carrigan - @carrigmat en Twitter](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/protein_language_modeling_by_Matthew_Carrigan.ipynb) | En este cuaderno aprenderas como  re-entrenar (fine-tunning) un lenguaje de proteinas y usarlos para realizar tareas de prediccion a nivel de secuencia y residuo | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/protein_language_modeling-tf.ipynb) |
-| [ESMFold_batch](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/ESMFold_v1_batch.ipynb) | En este cuaderno aprenderas como predecir estructruas de proteinas por lotes usando ESMFold | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/drive/1C8dGEzR6tHSpcELpftwYjs1EFjLWX9eU#scrollTo=Gw2T5-nHHNO8) |
-| [Fine tunning of a protein language model usgin LoRA](https://huggingface.co/blog/AmelieSchreiber/esmbind) | En este tutorial aprenderas a como optimizar los pesos de un modelo de lenguajde de proteinas completo usando la tecnica de optimizacion LoRA a | NAN |
-
-
-| [ChimeraX](https://dasher.wustl.edu/bio5357/software/chimerax/tutorial.pdf) y [Chimera_X_overview](https://static-bcrf.biochem.wisc.edu/tutorials/chimerax/Chimera_X_overview_document.html) y [más tutoriales especificos](https://www.rbvi.ucsf.edu/chimerax/tutorials.html)| En estos tutoriales aprenderas manipular y visualizar proteinas con ChimeraX | NAN |
-| [Genera embeddings](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/generate_esm_embeddings.ipynb) | Genera los embeddings de diferentes modelos de la familia ESM | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/generate_esm_embeddings.ipynb) |
-| [Descarga proteinas de la AFDB](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/download_afdb_data.ipynb) | En este cuaderno aprenderas como decargar estructruas de proteins y sus datos a partir de la AlphaFold database | [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/download_afdb_data.ipynb) |
-| [Crea un transformer desde 0](https://github.com/naity/protein-transformer) | En repositorioa aprenderas como entrenar un transformer con proteinas | N/A |
-| [Parsing_MSA_conservation](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/ESMFold_batch.ipynb) | En este cuaderno aprenderas como añadir informacion de la conservacion de residuos a una estructura .pdb | v1 [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/Parsing_MSA_conservation.ipynb) v2 [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/drive/1Og5xK7gwSaMjzykLqJnzCZ0rNGMJMIle?usp=sharing#scrollTo=Oaqb4SPmXbvP) |
-| [Easy and accurate protein structure prediction using ColabFold](https://www.nature.com/articles/s41596-024-01060-5) | how to predict mono-, multi-mers and conformations with the ColabFold-AlphaFold2 protocol | N/A |
-| [Moving Beyond Memorization](https://github.com/plinder-org/moving_beyond_memorisation) | compare prote structures with plinder | N/A |
-
-
-
 # Protein science
 ## Courses
 |  | Name | Description |
@@ -48,6 +31,7 @@ Note: resources marked with ⭐ are highly recommended
 | |[Practical Simulations for Molecules and Materials](https://www.erastova.xyz/teaching/practical-simulations-for-molecules-and-materials/)| molecular modeling |
 | |[DeepChem Step-by-Step Tutorial](https://deepchem.io/tutorials/the-basic-tools-of-the-deep-life-sciences/)| Modeling Proteins with deep learning, Protein ligand modeling, Bioinformatics, Molecular ML and more with DeepChem|
 | ⭐ |[Teaching protein structure and function through molecular visualization](https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.21860)| tutorials that introduce students to molecular graphics with ChimeraX (Download the Supporting Information)|
+| | [Moving Beyond Memorization](https://github.com/plinder-org/moving_beyond_memorisation) | training and evaluating deep learning methods to predict protein-protein and protein-ligand complex |
 
 ## Useful publications
 |  | Name | Description |
@@ -76,6 +60,12 @@ Note: resources marked with ⭐ are highly recommended
 | | [Amelie Schreiber Articles](https://huggingface.co/AmelieSchreiber) | use language models and difussion models to analyze proteins | use Generative AI and Protein Language Models to design novel enzymes, predict mutations and binding sites, and analyze protein structures  |
 | | [peptidy tutorials](https://github.com/molML/peptidy/tree/main/examples) | classification and generation of antimicrobial peptides xgboost, CNN, LSTM using keras and pytorch | 
 | | [Protein Folding with AlphaFold2 Using a Single Sequence](https://colab.research.google.com/drive/1m8mMC4fBg3oSE2PeDjeWGUSqDyCPkf80) | iterative AlphaFold2 predictions to model protein folding pathways and identify potential folding intermediates |
+|⭐| [Building Transformer Models for Proteins From Scratch](https://github.com/naity/protein-transformer) | Implement, train, tune, and evaluate a transformer model for antibody classification |
+| | [ChimeraX Tutorial](https://dasher.wustl.edu/bio5357/software/chimerax/tutorial.pdf) | ChimeraX basics | 
+| | [ChimeraX_overview](https://static-bcrf.biochem.wisc.edu/tutorials/chimerax/Chimera_X_overview_document.html) | ChimeraX overview | 
+| | [UCSF ChimeraX Tutorials ChimeraX](https://www.rbvi.ucsf.edu/chimerax/tutorials.html)| visualization, analysis, and animation of molecular structures using ChimeraX  |
+| | [ESMBind (ESMB): Low Rank Adaptation of ESM-2 for Protein Binding Site Prediction](https://huggingface.co/blog/AmelieSchreiber/esmbind) | Fine-tuning ESM2 usgin LoRA for Protein Binding Site Prediction|
+
 
 # Bioinformatics
 ## Courses
