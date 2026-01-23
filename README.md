@@ -3,8 +3,7 @@
 <img src="https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/roadmap.jpg" alt="Description" width="900" height="auto">
 
 # Breve descripcion en Español
-Curso gratuito de 10 clases (37 horas y +800 diapositivas) sobre diseño de proteínas basado en Inteligencia Artificial. Para más detalles, consulta la página del curso en español: 
-- <https://miangoar.github.io/teaching/proteins>
+Curso gratuito de 10 clases (37 horas y +800 diapositivas) sobre diseño de proteínas basado en Inteligencia Artificial. Para más detalles, consulta la [página del curso en español](https://miangoar.github.io/teaching/proteins).
 
 # Content list
 - [Tools](./tools): libraries organized into 25 categories
