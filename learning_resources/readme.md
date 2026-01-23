@@ -28,6 +28,7 @@ Note: resources marked with ⭐ are highly recommended
 | ⭐ | [Structural Bioinformatics Course 2023](https://structural-bioinformatics.netlify.app/)|  Structural bioinformatics and tools you can use it to visualize, analyze and design proteins |
 | | [Modeling proteins using AlphaFold and ColabFold](https://docs.google.com/document/d/1_g1_M-I40CqOQc5obwAt08YntC5D2Z_WNz6mYuUQtyc/edit?tab=t.0#heading=h.m7ei2f72v2ig)| How to predict protein structures using ColabFold and analyze them with ChimeraX |
 | | [Introduction to Molecular Animation with ChimeraX](https://pdb101.rcsb.org/train/training-events/animation) | How to use ChimeraX to create animations | 
+| |[Practical Simulations for Molecules and Materials](https://www.erastova.xyz/teaching/practical-simulations-for-molecules-and-materials/)| molecular modeling |
 
 ## Useful publications
 |  | Name | Description |
