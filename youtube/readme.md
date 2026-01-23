@@ -4,39 +4,39 @@
 # Youtube channels for biology
 | Video |
 |-----------|
-| [Clockwork bio](https://www.youtube.com/@Clockworkbio) |
-| [Artem Kirsanov](https://www.youtube.com/@ArtemKirsanov) |
-| [phylum channel](https://www.youtube.com/@phylumchannel) |
-| [valence labs](https://portal.valencelabs.com/logg) |
-| [Nanorooms](https://www.youtube.com/@Nanorooms) |
-| [Machine Learning in Computational Biology](https://www.youtube.com/@mlcbconf/featured) |
-| [topicos nucleicos 4499](https://www.youtube.com/@topicosnucleicos4499) |
-| [Bioinformatics insights](https://www.youtube.com/@Bioinformaticsinsights) |
-| [Computational Intelligence Group](https://www.youtube.com/@ComputationalIntelligenceGroup/videos) |
-| [Omixium_ai](https://www.youtube.com/@Omixium_ai) |
+| [Clockwork bio](https://www.youtube.com/@Clockworkbio) | life through the lens of biochemistry | 
+| [Artem Kirsanov](https://www.youtube.com/@ArtemKirsanov) | computational neuroscience and machine learning| 
+| [phylum channel](https://www.youtube.com/@phylumchannel) | viruses, bacteria, and the cells | 
+| [Nanorooms](https://www.youtube.com/@Nanorooms) | physics and biochemistry of macromolecular asemblies| 
+| [topicos nucleicos 4499 (in Spanish)](https://www.youtube.com/@topicosnucleicos4499) | molecular biology | 
+| [Bioinformatics insights ](https://www.youtube.com/@Bioinformaticsinsights) | tutorials in the field of bioinformatics | 
+| [Omixium_ai](https://www.youtube.com/@Omixium_ai) | Tutorials covering AI-powered protein designing | 
+| [Computational Intelligence Group](https://www.youtube.com/@ComputationalIntelligenceGroup/videos) | Academic seminars on AI + Bio  | 
+| [Machine Learning in Computational Biology](https://www.youtube.com/@mlcbconf/featured) | Academic seminars on AI + Bio | 
+| [valence labs](https://portal.valencelabs.com/logg) | Academic seminars on AI + Bio | 
 
 # Youtube channels for Machine/Deep learning 
 | Video |
 |-----------|
-| [Codigo Maquina (in Spanish)](https://www.youtube.com/@CodigoMaquina) |
-| [Mutual_Information](https://www.youtube.com/@Mutual_Information) |
-| [DotCSV (in Spanish)](https://www.youtube.com/@DotCSV) |
-| [codificando bits (in Spanish)](https://www.youtube.com/@codificandobits) |
-| [underfitted](https://www.youtube.com/@underfitted) |
-| [Welch Labs](https://www.youtube.com/@WelchLabsVideo) |
-| [Jia-Bin Huang](https://www.youtube.com/@jbhuang0604) |
-| [Umar Jamil](https://www.youtube.com/@umarjamilai) |
-| [Julia Turc1](https://www.youtube.com/@juliaturc1) |
-| [Eigen Steve](https://www.youtube.com/@Eigensteve) |
-| [Data with Baraa](https://www.youtube.com/@DataWithBaraa/) |
-| [Branch Education](https://www.youtube.com/@BranchEducation) |
+| [Codigo Maquina (in Spanish)](https://www.youtube.com/@CodigoMaquina) | AI, data science and computer science | 
+| [Mutual_Information](https://www.youtube.com/@Mutual_Information) | machine learning | 
+| [DotCSV (in Spanish)](https://www.youtube.com/@DotCSV) | Divulgación sobre Inteligencia Artificial  | 
+| [codificando bits (in Spanish)](https://www.youtube.com/@codificandobits) | data science | 
+| [underfitted](https://www.youtube.com/@underfitted) | AI | 
+| [Welch Labs](https://www.youtube.com/@WelchLabsVideo) | deep learning | 
+| [Jia-Bin Huang](https://www.youtube.com/@jbhuang0604) | deep learning | 
+| [Umar Jamil](https://www.youtube.com/@umarjamilai) | deep learning and machine learning concepts | 
+| [Julia Turc1](https://www.youtube.com/@juliaturc1) | deep learning | 
+| [Eigen Steve](https://www.youtube.com/@Eigensteve) | data science, machine/deep learning | 
+| [Data with Baraa](https://www.youtube.com/@DataWithBaraa/) | Data Engineering | 
+| [Branch Education](https://www.youtube.com/@BranchEducation) | science, engineering, and technology of computers | 
 
 # Youtube channels for Mathematics 
 | Video |
 |-----------|
-| [3blue 1brown](https://www.youtube.com/@3blue1brown) |
-| [dibeos](https://www.youtube.com/@dibeos) |
-| [vcubingx](https://www.youtube.com/@vcubingx) |
+| [3blue 1brown](https://www.youtube.com/@3blue1brown) | math,  physics and computer science | 
+| [dibeos](https://www.youtube.com/@dibeos) | Mathematics & Mathematical Physics | 
+| [vcubingx](https://www.youtube.com/@vcubingx) | math | 
 | []() |
 
 
