@@ -4,7 +4,7 @@
 
 # Content list
 - [Tools](./tools): libraries organized into 25 categories
-- [Learning resources](./learning_resources): : courses, tutorials and useful publications organized into nine categories
+- [Learning resources](./learning_resources): courses, tutorials and useful publications organized into nine categories
 - [Databases](./databases): resources to download genomic and protein data organized into 12 categories
 - [Youtube](./youtube): recommended channels and videos to learn about proteins, mathematics, and data science
 - [Lectures and slides](./video): links to each lecture and to download the slides
