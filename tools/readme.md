@@ -229,6 +229,7 @@ Tools for computing vectorial representations of protein sequences and structure
 | [ProtTrans](https://github.com/agemagician/ProtTrans)| protein language models from the ProtTrans family (check out [ProtT5-EvoTuning](https://github.com/RSchmirler/ProtT5-EvoTuning) and [Fine-Tuning](https://github.com/agemagician/ProtTrans/tree/master/Fine-Tuning) for LoRA fine-tunning tutorials) |
 | [FAESM](https://github.com/pengzhangzhi/faesm) | Pytorch Implementation of ESM and ProGen that can save ~60% of memory usage and 70% of inference time | 
 | [ESM-Efficient](https://github.com/uci-cbcl/esm-efficient) | Efficient implementation of ESM family | 
+| [finetune-esm](https://github.com/naity/finetune-esm) | Finetuning with Distributed Learning and Advanced Training Techniques | 
 | [ProtLearn](https://github.com/tadorfer/protlearn) | extracting protein sequence features |
 | [Pfeature](https://github.com/raghavagps/Pfeature) | computing features of peptides and proteins |
 | [bio_embeddings](https://github.com/sacdallago/bio_embeddings) | compute protein embeddings from sequences |
