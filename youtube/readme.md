@@ -1,60 +1,44 @@
 ⚠️ Warning: section under construction ⚠️
 
 
+# Youtube channels for biology
+| Video |
+|-----------|
+| [Clockwork bio](https://www.youtube.com/@Clockworkbio) |
+| [Artem Kirsanov](https://www.youtube.com/@ArtemKirsanov) |
+| [phylum channel](https://www.youtube.com/@phylumchannel) |
+| [valence labs](https://portal.valencelabs.com/logg) |
+| [Nanorooms](https://www.youtube.com/@Nanorooms) |
+| [Machine Learning in Computational Biology](https://www.youtube.com/@mlcbconf/featured) |
+| [topicos nucleicos 4499](https://www.youtube.com/@topicosnucleicos4499) |
+| [Bioinformatics insights](https://www.youtube.com/@Bioinformaticsinsights) |
+| [Computational Intelligence Group](https://www.youtube.com/@ComputationalIntelligenceGroup/videos) |
+| [Omixium_ai](https://www.youtube.com/@Omixium_ai) |
+
 # Youtube channels for Machine/Deep learning 
 | Video |
 |-----------|
-| [3blue1brown](https://www.youtube.com/@3blue1brown) |
-| [CodigoMaquina](https://www.youtube.com/@CodigoMaquina) |
-| [Clockworkbio](https://www.youtube.com/@Clockworkbio) |
+| [Codigo Maquina (in Spanish)](https://www.youtube.com/@CodigoMaquina) |
 | [Mutual_Information](https://www.youtube.com/@Mutual_Information) |
-| [ArtemKirsanov](https://www.youtube.com/@ArtemKirsanov) |
-| [DotCSV](https://www.youtube.com/@DotCSV) |
-| [codificandobits](https://www.youtube.com/@codificandobits) |
-| [phylumchannel](https://www.youtube.com/@phylumchannel) |
-| [valencelabs](https://portal.valencelabs.com/logg) |
-| [Nanorooms](https://www.youtube.com/@Nanorooms) |
-| [Mutual_Information](https://www.youtube.com/@Mutual_Information) |
-| [vcubingx](https://www.youtube.com/@vcubingx) |
+| [DotCSV (in Spanish)](https://www.youtube.com/@DotCSV) |
+| [codificando bits (in Spanish)](https://www.youtube.com/@codificandobits) |
 | [underfitted](https://www.youtube.com/@underfitted) |
-| [WelchLabs](https://www.youtube.com/@WelchLabsVideo) |
-| [jbhuang0604](https://www.youtube.com/@jbhuang0604) |
-| [umarjamilai](https://www.youtube.com/@umarjamilai) |
-| [juliaturc1](https://www.youtube.com/@juliaturc1) |
-| [Eigensteve](https://www.youtube.com/@Eigensteve) |
+| [Welch Labs](https://www.youtube.com/@WelchLabsVideo) |
 | [Jia-Bin Huang](https://www.youtube.com/@jbhuang0604) |
-| [Eigensteve](https://www.youtube.com/@Eigensteve) | 
+| [Umar Jamil](https://www.youtube.com/@umarjamilai) |
+| [Julia Turc1](https://www.youtube.com/@juliaturc1) |
+| [Eigen Steve](https://www.youtube.com/@Eigensteve) |
 | [Data with Baraa](https://www.youtube.com/@DataWithBaraa/) |
-| [BranchEducation](https://www.youtube.com/@BranchEducation) |
-| []() |
-
+| [Branch Education](https://www.youtube.com/@BranchEducation) |
 
 # Youtube channels for Mathematics 
 | Video |
 |-----------|
+| [3blue 1brown](https://www.youtube.com/@3blue1brown) |
 | [dibeos](https://www.youtube.com/@dibeos) |
+| [vcubingx](https://www.youtube.com/@vcubingx) |
 | []() |
 
-
-# Youtube channels for biology
-| Video |
-|-----------|
-| [CodigoMaquina](https://www.youtube.com/@CodigoMaquina) |
-| [Clockworkbio](https://www.youtube.com/@Clockworkbio) |
-| [Mutual_Information](https://www.youtube.com/@Mutual_Information) |
-| [ArtemKirsanov](https://www.youtube.com/@ArtemKirsanov) |
-| [DotCSV](https://www.youtube.com/@DotCSV) |
-| [codificandobits](https://www.youtube.com/@codificandobits) |
-| [phylumchannel](https://www.youtube.com/@phylumchannel) |
-| [valencelabs](https://portal.valencelabs.com/logg) |
-| [Nanorooms](https://www.youtube.com/@Nanorooms) |
-| [Mutual_Information](https://www.youtube.com/@Mutual_Information) |
-| [vcubingx](https://www.youtube.com/@vcubingx) |
-| [Machine Learning in Computational Biology](https://www.youtube.com/@mlcbconf/featured) |
-| [topicosnucleicos4499](https://www.youtube.com/@topicosnucleicos4499) |
-| [Bioinformaticsinsights](https://www.youtube.com/@Bioinformaticsinsights) |
-| [ComputationalIntelligenceGroup](https://www.youtube.com/@ComputationalIntelligenceGroup/videos) |
-| [Omixium_ai](https://www.youtube.com/@Omixium_ai) |
 
 # Videos recomendados
 | Tema | Descripcion | Link a Youtube|
