@@ -24,7 +24,7 @@ I want more people to learn how to design proteins using Artificial Intelligence
 
 <ol>
   <li><a href="https://www.youtube.com/@miangoar_bio">The 10 lectures on YouTube</a></li>
-  <li><a href="https://github.com/miangoar/AI-driven-protein-design">A GitHub repository</a> with the following resources:
+  <li><a href="https://github.com/miangoar/AI-driven-protein-design">This GitHub repository</a> with the following resources:
     <ol type="a">
       <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/tools/readme.md">Tools</a>: libraries organized into 25 categories</li>
       <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/learning_resources/readme.md">Learning resources</a>: courses, tutorials and useful publications organized into nine categories</li>
