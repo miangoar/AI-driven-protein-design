@@ -1,5 +1,6 @@
 # Learning resources
 - [Protein science](#protein-science)
+- [Biological data visualization](#biological-data-visualization)
 - [Bioinformatics](#bioinformatics)
 - [Machine Learning, Deep Learning, and Data Science](#machine-learning-deep-learning-and-data-science)
 - [Transformers, LLMs, Diffusion Models and Generative AI](#transformers-llms-diffusion-models-and-generative-ai)
@@ -26,11 +27,8 @@ Note: resources marked with ⭐ are highly recommended
 | | [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202) | 12 Tutorials on protein folding, function, structure, dynamics and evolution using Google Colab (Check out the [reference paper](https://pubs.acs.org/doi/10.1021/acs.jchemed.1c00022)) |
 | | [Algoritmos en Bioinformática Estructural](https://eead-csic-compbio.github.io/bioinformatica_estructural/) | Biochemical fundamentals and algorithms used in protein science (in Spanish) |
 | ⭐ | [Structural Bioinformatics Course 2023](https://structural-bioinformatics.netlify.app/)|  Structural bioinformatics and tools you can use it to visualize, analyze and design proteins |
-| | [Modeling proteins using AlphaFold and ColabFold](https://docs.google.com/document/d/1_g1_M-I40CqOQc5obwAt08YntC5D2Z_WNz6mYuUQtyc/edit?tab=t.0#heading=h.m7ei2f72v2ig)| How to predict protein structures using ColabFold and analyze them with ChimeraX |
-| | [Introduction to Molecular Animation with ChimeraX](https://pdb101.rcsb.org/train/training-events/animation) | How to use ChimeraX to create animations | 
 | |[Practical Simulations for Molecules and Materials](https://www.erastova.xyz/teaching/practical-simulations-for-molecules-and-materials/)| molecular modeling |
 | |[DeepChem Step-by-Step Tutorial](https://deepchem.io/tutorials/the-basic-tools-of-the-deep-life-sciences/)| Modeling Proteins with deep learning, Protein ligand modeling, Bioinformatics, Molecular ML and more with DeepChem|
-| ⭐ |[Teaching protein structure and function through molecular visualization](https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.21860)| tutorials that introduce students to molecular graphics with ChimeraX (Download the Supporting Information)|
 | | [Moving Beyond Memorization](https://github.com/plinder-org/moving_beyond_memorisation) | training and evaluating deep learning methods to predict protein-protein and protein-ligand complex |
 
 ## Useful publications
@@ -53,7 +51,6 @@ Note: resources marked with ⭐ are highly recommended
 | |[A tutorial on predicting various protein-substrate complexes using AlphaFold3 and alphafold3_tools](https://qiita.com/Ag_smith/items/0a2cae3e3125e6895a23)| modeling protein-substrate complexes |
 | |[Protein Simulations](https://www.erastova.xyz/teaching/practical-simulations-for-molecules-and-materials/protein-simulations/)|basics of Molecular Dynamics (MD) simulations with GROMACS and VMD, xmgrace, gedit|
 | |[Colab notebooks on Biology. Chemistry. Machine Learning.](https://colab-db.github.io/)| 24 Notebooks about molecular analysis |
-| |[Structure Analysis and Comparison](https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-structures/index.html#/)| Structure Analysis with ChimeraX |
 | ⭐ | [Introductory Tutorials for Simulating Protein Dynamics with GROMACS](https://pubs.acs.org/doi/10.1021/acs.jpcb.4c04901) | Simulating a monomer, a complex, and the unfolding of a short polypeptide with GROMACS| 
 | ⭐ | [ColabFold protocol](https://github.com/steineggerlab/colabfold-protocol) | predicting protein mono-, multi-mer structures and conformations using ColabFold (check out the [reference paper](https://www.nature.com/articles/s41596-024-01060-5))|
 | | [autodock-vina tutorials](https://autodock-vina.readthedocs.io/en/latest/colab_examples.html) | how to run Autodock Vina, and the associated protein and ligand setup utilities on Google Colab | 
@@ -61,11 +58,23 @@ Note: resources marked with ⭐ are highly recommended
 | | [peptidy tutorials](https://github.com/molML/peptidy/tree/main/examples) | classification and generation of antimicrobial peptides xgboost, CNN, LSTM using keras and pytorch | 
 | | [Protein Folding with AlphaFold2 Using a Single Sequence](https://colab.research.google.com/drive/1m8mMC4fBg3oSE2PeDjeWGUSqDyCPkf80) | iterative AlphaFold2 predictions to model protein folding pathways and identify potential folding intermediates |
 |⭐| [Building Transformer Models for Proteins From Scratch](https://github.com/naity/protein-transformer) | Implement, train, tune, and evaluate a transformer model for antibody classification |
+| | [ESMBind (ESMB): Low Rank Adaptation of ESM-2 for Protein Binding Site Prediction](https://huggingface.co/blog/AmelieSchreiber/esmbind) | Fine-tuning ESM2 usgin LoRA for Protein Binding Site Prediction|
+
+# Biological data visualization
+## Courses
+|  | Name | Description |
+|-----------|-----------|-----------|
+| ⭐ |[Teaching protein structure and function through molecular visualization](https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.21860)| tutorials that introduce students to molecular graphics with ChimeraX (Download the Supporting Information)|
+| | [Modeling proteins using AlphaFold and ColabFold](https://docs.google.com/document/d/1_g1_M-I40CqOQc5obwAt08YntC5D2Z_WNz6mYuUQtyc/edit?tab=t.0#heading=h.m7ei2f72v2ig)| How to predict protein structures using ColabFold and analyze them with ChimeraX |
+| | [Introduction to Molecular Animation with ChimeraX](https://pdb101.rcsb.org/train/training-events/animation) | How to use ChimeraX to create animations | 
+
+## Useful publications
+| | Name | Description |
+|-----------|-----------|-----------|
 | | [ChimeraX Tutorial](https://dasher.wustl.edu/bio5357/software/chimerax/tutorial.pdf) | ChimeraX basics | 
 | | [ChimeraX_overview](https://static-bcrf.biochem.wisc.edu/tutorials/chimerax/Chimera_X_overview_document.html) | ChimeraX overview | 
 | | [UCSF ChimeraX Tutorials ChimeraX](https://www.rbvi.ucsf.edu/chimerax/tutorials.html)| visualization, analysis, and animation of molecular structures using ChimeraX  |
-| | [ESMBind (ESMB): Low Rank Adaptation of ESM-2 for Protein Binding Site Prediction](https://huggingface.co/blog/AmelieSchreiber/esmbind) | Fine-tuning ESM2 usgin LoRA for Protein Binding Site Prediction|
-
+| |[Structure Analysis and Comparison](https://rbvi.github.io/chimera-tutorials/presentations/modules/chimerax-comp-structures/index.html#/)| Structure Analysis with ChimeraX |
 
 # Bioinformatics
 ## Courses
