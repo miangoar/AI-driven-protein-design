@@ -24,9 +24,6 @@ Note: resources marked with ⭐ are highly recommended
 | [Parsing_MSA_conservation](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/ESMFold_batch.ipynb) | En este cuaderno aprenderas como añadir informacion de la conservacion de residuos a una estructura .pdb | v1 [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/github/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/notebooks/Parsing_MSA_conservation.ipynb) v2 [![Open In Colab](https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA/blob/main/img/colab_logo.svg)](https://colab.research.google.com/drive/1Og5xK7gwSaMjzykLqJnzCZ0rNGMJMIle?usp=sharing#scrollTo=Oaqb4SPmXbvP) |
 | [Easy and accurate protein structure prediction using ColabFold](https://www.nature.com/articles/s41596-024-01060-5) | how to predict mono-, multi-mers and conformations with the ColabFold-AlphaFold2 protocol | N/A |
 | [Moving Beyond Memorization](https://github.com/plinder-org/moving_beyond_memorisation) | compare prote structures with plinder | N/A |
-| [olding process](https://colab.research.google.com/drive/1m8mMC4fBg3oSE2PeDjeWGUSqDyCPkf80) | watch the proces of "protein folding" by AF2 | N/A |
-| [colab-db](https://colab-db.github.io/) | Public notebooks hosted on Binder, Colab or Huggingface | N/A  |
-| [peptidy tutorials](https://github.com/molML/peptidy/tree/main/examples) | classification and generation examples using xgboost, keras, and pytorch | N/A  |
 
 
 
@@ -77,6 +74,8 @@ Note: resources marked with ⭐ are highly recommended
 | ⭐ | [ColabFold protocol](https://github.com/steineggerlab/colabfold-protocol) | predicting protein mono-, multi-mer structures and conformations using ColabFold (check out the [reference paper](https://www.nature.com/articles/s41596-024-01060-5))|
 | | [autodock-vina tutorials](https://autodock-vina.readthedocs.io/en/latest/colab_examples.html) | how to run Autodock Vina, and the associated protein and ligand setup utilities on Google Colab | 
 | | [Amelie Schreiber Articles](https://huggingface.co/AmelieSchreiber) | use language models and difussion models to analyze proteins | use Generative AI and Protein Language Models to design novel enzymes, predict mutations and binding sites, and analyze protein structures  |
+| | [peptidy tutorials](https://github.com/molML/peptidy/tree/main/examples) | classification and generation of antimicrobial peptides xgboost, CNN, LSTM using keras and pytorch | 
+| | [Protein Folding with AlphaFold2 Using a Single Sequence](https://colab.research.google.com/drive/1m8mMC4fBg3oSE2PeDjeWGUSqDyCPkf80) | iterative AlphaFold2 predictions to model protein folding pathways and identify potential folding intermediates |
 
 # Bioinformatics
 ## Courses
