@@ -1,6 +1,4 @@
-⚠️ Warning: section under construction ⚠️
-
-
+# Youtube Channels
 # Biology
 | Channel | Description | 
 |-----------|-----------|
@@ -17,7 +15,6 @@
 | [Boston Protein Design and Modeling Club](https://www.youtube.com/@bpdmc) | computational protein engineering | 
 | [ML for protein engineering seminar series](https://www.youtube.com/@mlforproteinengineeringsem6420) | machine learning for protein engineering | 
 | []() | | 
-
 
 # Machine & Deep learning 
 | Channel | Description | 
@@ -44,45 +41,52 @@
 
 
 
-# Videos recomendados
-| Tema | Descripcion | Link a Youtube|
-|-----------|-----------|-----------|  
-|Introduccion a la metagenomica |Reconstruccion de genomas a partir de metagenomas|https://youtu.be/ckIbT93Qhjc| 
-|AlphaFold y el Gran Desafío para resolver el plegamiento de proteínas |Breve revision de los algoritmos implementados en AlphaFold y AlphaFold2|https://youtu.be/nGVFbPKrRWQ| 
-|Schrödinger y la biología: 75 años del libro ¿Qué es la vida? |Serie de conferencias para comprender el fenomeno d continguencia en evolucion asi como las contribuciones de varios cientificos a la consolidacion de la biologia molecular |Parte 1) https://www.youtube.com/live/XSWqcksA5vg?feature=share&t=711 <br> Parte 2) https://www.youtube.com/live/x35aQO8ifzM?feature=share&t=675 <br> Parte 3) https://www.youtube.com/live/PgbLyOYHEm4?feature=share&t=751| 
-|Simbiosis y evolución | Serie de conferencias sobre los niveles de organizacion en biologia con especial enfasis en la simbiosis | Parte 1) https://www.youtube.com/watch?v=dF2GXGcTer8&ab_channel=elcolegionacionalmx <br> Parte 2) https://www.youtube.com/live/PfiZZaa_7BA?feature=share <br> Parte 3) https://www.youtube.com/watch?v=AZT7rf0KNeo&ab_channel=elcolegionacionalmx| 
-|La evolución de las proteínas | Charla de introduccion respecto a la evolucion de proteinas|https://youtu.be/HFQqB27Uvbg| 
-|Emile Zuckerkandl y el nacimiento de la evolución molecular | Charla de introduccion a la evolucion molecular |[https://youtu.be/ckIbT93Qhjc](https://www.youtube.com/watch?v=qCLgEnSUUmc&ab_channel=elcolegionacionalmx)| 
-|Boston Protein Design and Modeling Club | Serie de seminarios sobre los trabajos mas actuales en ingenieria de proteinas |https://www.bpdmc.org/| 
-|ML Protein Engineering Seminar Series |Serie de seminarios sobre los trabajos mas actuales en ingenieria de proteinas basado en machine learning |https://www.ml4proteinengineering.com/| 
-| Cómo Entender cualquier DIMENSIÓN | Comprender datos de alta dimensionalidad |[https://youtu.be/kAjTrAUFIdQ](https://youtu.be/kAjTrAUFIdQ)| 
-|¿Qué es tener INFINITAS DIMENSIONES? | Comprender datos de alta dimensionalidad |[https://www.youtube.com/watch?v=yCX8rW-8X2I&ab_channel=MatesMike)| 
-| Algoritmo backpropagation | Comprender el algoritmo base de toda IA moderna |[https://www.youtube.com/watch?v=SmZmBKc7Lrs](https://www.youtube.com/watch?v=SmZmBKc7Lrs)| 
-| Que es un GPT? | Comprender como funciona la arquitectura transformer |[https://www.youtube.com/watch?v=wjZofJX0v4Ms](https://www.youtube.com/watch?v=wjZofJX0v4M)| 
-| Watching Neural Networks Learn | Como funcionan las funciones de activacion |[https://youtu.be/TkwXa7Cvfr8?si=VI38wPQhouvCLZdC](https://youtu.be/TkwXa7Cvfr8?si=VI38wPQhouvCLZdC)| 
-| What Is AlphaFold?  | Breve resumen sobre la arquitectura de AlphaFold2 |[https://youtu.be/7q8Uw3rmXyE?si=eAaHDPuZw5Cc7gKB](https://youtu.be/7q8Uw3rmXyE?si=eAaHDPuZw5Cc7gKB)| 
-| Origin: Probability of a Single Protein Forming by Chance  | Resumen sobre la evolucion y biofisica de las proteinas |[https://youtu.be/W1_KEVaCyaA?si=kLbw7PH7YqsZK9pG](https://youtu.be/W1_KEVaCyaA?si=kLbw7PH7YqsZK9pG)| 
-| Cómo trabajan las enzimas  | Resumen sobre biocatalisis|[https://youtu.be/yk14dOOvwMk?si=SoIA4IogZ9tgmKCb](https://youtu.be/yk14dOOvwMk?si=SoIA4IogZ9tgmKCb)| 
-| A History of Bioinformatics (in the Year 2039)  | Resumen sobre los logros y retos de la bioinformatica|[https://www.youtube.com/watch?v=uwsjwMO-TEA&ab_channel=NextDayVideo](https://www.youtube.com/watch?v=uwsjwMO-TEA&ab_channel=NextDayVideo)| 
-| Attention is all you need (Transformer) - Model explanation (including math), Inference and Training  | Explicacion paso a paso de la arquitectura transformer |[https://www.youtube.com/watch?v=bCz4OMemCcA&t=925s&ab_channel=UmarJamil](https://www.youtube.com/watch?v=bCz4OMemCcA&t=925s&ab_channel=UmarJamil)| 
-| Special Lectures on Machine Learning and Protein Folding | Discusión sobre ls arquitectura de AlphaFold2 |[https://www.youtube.com/playlist?list=PL0NRmB0fnLJQPDZh-6utVnRpF1-beEr4T](https://www.youtube.com/playlist?list=PL0NRmB0fnLJQPDZh-6utVnRpF1-beEr4T)| 
-| Review and discussion of AlphaFold3 | Discusión sobre las arquitecturas de AlphaFold |[https://www.youtube.com/watch?v=qjFgthkKxcA](https://www.youtube.com/watch?v=qjFgthkKxcA)| 
-| ¿Qué son y cómo se unen los aminoácidos? Al fin entendí: Biología Molecular | introduccion a la formacion de polimeros |[https://www.youtube.com/watch?v=5Ps3QTqo3cM&ab_channel=Alfinentend%C3%AD](https://www.youtube.com/watch?v=5Ps3QTqo3cM&ab_channel=Alfinentend%C3%AD)|
-| How do Graphics Cards Work? Exploring GPU Architecture | Como funcionan las GPUs |[https://www.youtube.com/watch?v=h9Z4oGN89MU&ab_channel=BranchEducation](https://www.youtube.com/watch?v=h9Z4oGN89MU&ab_channel=BranchEducation)| 
-| Venga va... ¿Qué es un TENSOR? | intro a tensores|https://www.youtube.com/watch?v=s4USUVBuFi0&ab_channel=MatesMike| 
-| Transformers - Lucas Beyer |  a good introduction to the transformer architecture [(see also the slides)]( http://lucasb.eyer.be/transformer) | <https://www.youtube.com/watch?v=bMXqnLiVgLk> | 
-| Let's build GPT: from scratch, in code, spelled out | introduction to GPT models   | https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy | 
-|  |    |  | 
+# Recommended videos
 
-https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
-https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
-https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-https://www.youtube.com/watch?v=vWiIAZB1UDY&ab_channel=NanoRooms
-https://www.youtube.com/watch?v=smjYJSudwr0&ab_channel=BostonProteinDesignandModelingClub
-https://www.youtube.com/watch?v=bMXqnLiVgLk
-https://nazimbouatta.scholars.harvard.edu/lectures
-https://www.youtube.com/watch?v=e9-0BxyKG10&ab_channel=ProfessorBryce
-https://www.youtube.com/watch?v=9-Jl0dxWQs8&list=PLy6oQaTOlboDq71p3d3OjOByGD-08xLHf&ab_channel=3Blue1Brown
-https://www.youtube.com/watch?v=oMc9StPVzOU&ab_channel=InfiniteCodes
+## Biology
+| Video | Description |
+|-----------|-----------|
+| [Reconstrucción y análisis de genomas a partir de metagenomas](https://youtu.be/ckIbT93Qhjc) | Reconstruction and analysis of genomes from metagenomes |
+| [AlphaFold and the Grand Challenge to Solve Protein Folding](https://youtu.be/nGVFbPKrRWQ) | Overview of the AlphaFold2 architecture |
+| Schrödinger y la biología: 75 años del libro *¿Qué es la vida?* <br> [Parte 1](https://www.youtube.com/live/XSWqcksA5vg?feature=share&t=711) / [Parte 2](https://www.youtube.com/live/x35aQO8ifzM?feature=share&t=675) / [Parte 3](https://www.youtube.com/live/PgbLyOYHEm4?feature=share&t=751) | Analysis of the contribution of Schrödinger’s book to the emergence of molecular biology |
+| Simbiosis y evolución <br> [Parte 1](https://www.youtube.com/watch?v=dF2GXGcTer8&ab_channel=elcolegionacionalmx) / [Parte 2](https://www.youtube.com/live/PfiZZaa_7BA?feature=share) / [Parte 3](https://www.youtube.com/watch?v=AZT7rf0KNeo&ab_channel=elcolegionacionalmx) | Levels of biological organization, with special emphasis on symbiosis |
+| [La evolución de las proteínas](https://youtu.be/HFQqB27Uvbg) | Protein evolution |
+| [Emile Zuckerkandl y el nacimiento de la evolución molecular](https://www.youtube.com/watch?v=qCLgEnSUUmc&ab_channel=elcolegionacionalmx) | Molecular evolution |
+| [How Enzymes Work](https://youtu.be/yk14dOOvwMk?si=SoIA4IogZ9tgmKCb) | Basics of enzyme biology |
+| [¿Qué son y cómo se unen los aminoácidos?](https://www.youtube.com/watch?v=5Ps3QTqo3cM) | Amino acid structure, classification, and peptide bond formation |
+| [What Is AlphaFold?](https://youtu.be/7q8Uw3rmXyE?si=eAaHDPuZw5Cc7gKB) | Short explanation of AlphaFold2 |
+| [Origin: Probability of a Single Protein Forming by Chance](https://youtu.be/W1_KEVaCyaA?si=kLbw7PH7YqsZK9pG) | Design, chance, and the origin of the first life on Earth |
+| [A History of Bioinformatics (in the Year 2039)](https://www.youtube.com/watch?v=uwsjwMO-TEA&ab_channel=NextDayVideo) | Overview of achievements and challenges in bioinformatics |
+| [Review and Discussion of AlphaFold3](https://www.youtube.com/watch?v=qjFgthkKxcA) | Overview of AlphaFold3 |
+| [This Equation Transformed How We Fight COVID](https://www.youtube.com/watch?v=vWiIAZB1UDY&ab_channel=NanoRooms) | Fourier transform applied to protein biology |
+| [Recent Methods for Protein Structure Generation and Design](https://www.youtube.com/watch?v=smjYJSudwr0&ab_channel=BostonProteinDesignandModelingClub) | From hallucination to diffusion models, including a short tutorial |
+| [Special Lectures on Machine Learning and Protein Folding](https://nazimbouatta.scholars.harvard.edu/lectures) | Detailed discussion of the AlphaFold2 architecture, its limitations, and applications by Nazim Bouatta |
+
+
+## Machine Learning
+| Video | Description |
+|-----------|-----------|
+| [Watching Neural Networks Learn](https://youtu.be/TkwXa7Cvfr8?si=VI38wPQhouvCLZdC) | Neural networks, function approximation, machine learning, and mathematical building blocks |
+| [The Most Important Algorithm in Machine Learning](https://www.youtube.com/watch?v=SmZmBKc7Lrs) | Backpropagation from first principles |
+| [Pero, ¿qué es un GPT? Introducción visual a los Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M) | Visual explanation of the Transformer architecture |
+| [Attention Is All You Need (Transformer) – Model Explanation (Including Math), Inference and Training](https://www.youtube.com/watch?v=bCz4OMemCcA&t=925s&ab_channel=UmarJamil) | Complete explanation of all layers of a Transformer model |
+| [How Do Graphics Cards Work? Exploring GPU Architecture](https://www.youtube.com/watch?v=h9Z4oGN89MU&ab_channel=BranchEducation) | How GPUs work |
+| [Transformers – Lucas Beyer](https://www.youtube.com/watch?v=bMXqnLiVgLk) | Clear introduction to the Transformer architecture (see slides) |
+| [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | Build a neural network from scratch and then a GPT, by Andrej Karpathy |
+| [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | Learn the basics of neural networks and backpropagation |
+| [Transformers and Self-Attention](https://www.youtube.com/watch?v=e9-0BxyKG10&ab_channel=ProfessorBryce) | Explanation of the Transformer architecture |
+| [¿Cómo podrían los LLM almacenar hechos?](https://www.youtube.com/watch?v=9-Jl0dxWQs8&list=PLy6oQaTOlboDq71p3d3OjOByGD-08xLHf&ab_channel=3Blue1Brown) | Decomposition of multilayer perceptrons in Transformers and how they can store facts |
+| [All Machine Learning Beginner Mistakes Explained in 17 Minutes](https://www.youtube.com/watch?v=oMc9StPVzOU&ab_channel=InfiniteCodes) | Common machine learning pitfalls |
+
+
+## Math
+| Video | Description |
+|-----------|-----------|
+| [Cómo entender cualquier DIMENSIÓN](https://youtu.be/kAjTrAUFIdQ) | Vector spaces and dimensionality |
+| [¿Qué es tener INFINITAS DIMENSIONES?](https://www.youtube.com/watch?v=yCX8rW-8X2I&ab_channel=MatesMike) | Understanding high-dimensional data |
+| [Venga va… ¿Qué es un TENSOR?](https://www.youtube.com/watch?v=s4USUVBuFi0&ab_channel=MatesMike) | Introduction to tensors |
+| [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Linear algebra with a visuals-first approach |
+| []() | |
+
 
 
