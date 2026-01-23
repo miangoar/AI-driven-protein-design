@@ -22,7 +22,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [AlphaFold Education Summit](https://www.ebi.ac.uk/training/materials/alphafold-education-summit-materials/)| Learn how to integrate AlphaFold into scientific research and education |
 | | [Rosetta Workshop 2024](https://meilerlab.org/rosetta-workshop-2024/) | Protein design with Rosetta and associated tools (check out the [2023 version](https://meilerlab.org/rosetta-workshop-2023/)) |
 | | [How to Create a Protein](https://github.com/universvm/how_to_create_a_protein) | Basics of biology and protein design for early-career students | 
-| | [Protein Modeling and Design with PyRosetta and Machine Learning](https://rosettacommons.github.io/PyRosetta.notebooks/) | Introduction to the fundmamental principles and tools for using PyRosetta (Check out the [Youtube playlist](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) and the [Reference paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8813091/)) |
+| | [Protein Modeling and Design with PyRosetta and Machine Learning](https://rosettacommons.github.io/PyRosetta.notebooks/) | Introduction to the fundamental principles and tools for using PyRosetta (Check out the [Youtube playlist](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) and the [Reference paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8813091/)) |
 | | [Estefanía Tarifeño](https://www.youtube.com/@prof.estefaniatarifeno1108/playlists) | Introduction to protein science and bioinformatics (in Spanish) |
 | | [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202) | 12 Tutorials on protein folding, function, structure, dynamics and evolution using Google Colab (Check out the [reference paper](https://pubs.acs.org/doi/10.1021/acs.jchemed.1c00022)) |
 | | [Algoritmos en Bioinformática Estructural](https://eead-csic-compbio.github.io/bioinformatica_estructural/) | Biochemical fundamentals and algorithms used in protein science (in Spanish) |
@@ -41,7 +41,7 @@ Note: resources marked with ⭐ are highly recommended
 | ⭐| [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/) | A visual walkthrough of the AlphaFold3 architecture with detailed diagrams |
 | | [An Opinionated AlphaFold3 Field Guide](https://research.dimensioncap.com/p/an-opinionated-alphafold3-field-guide)| An explanation of the architecture of Alphafold3 in simple-to-understand terms |
 | | [A Complete Guide to Protein Folding Prediction with RoseTTAFold](https://alchemybio.substack.com/p/a-complete-guide-to-protein-folding) | Theory and implementation of RoseTTAFold algorithms and architecture |
-| | [Guide to undestanding PDB data](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/introduction) |  Guide to Understanding PDB Data (Also, check this video for [understanding PDB structure metrics](https://www.youtube.com/watch?v=I64r5DXiLN0&ab_channel=BioinformaticsInsights) as well as [Assessing the Quality of 3D Structures](https://www.rcsb.org/docs/general-help/assessing-the-quality-of-3d-structures)) |
+| | [Guide to understanding PDB data](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/introduction) |  Guide to Understanding PDB Data (Also, check this video for [understanding PDB structure metrics](https://www.youtube.com/watch?v=I64r5DXiLN0&ab_channel=BioinformaticsInsights) as well as [Assessing the Quality of 3D Structures](https://www.rcsb.org/docs/general-help/assessing-the-quality-of-3d-structures)) |
 | | [PDB learn](https://pdb101.rcsb.org/learn/exploring-the-structural-biology-of-evolution)| Educational content created by the PDB about structure, function and evolution of proteins |
 | | [Comprehensive Overview of Bottom-Up Proteomics using Mass Spectrometry](https://pubs.acs.org/doi/10.1021/acsmeasuresciau.3c00068)| Overview of different proteomics methods |
 | | [Preparing for successful protein crystallization experiments](https://journals.iucr.org/f/issues/2025/07/00/oq5003/index.html)|  Strategies to optimize factors that can impact crystallization (Check out the talk on [Youtube](https://www.youtube.com/watch?v=m34RI500OFU&ab_channel=InternationalUnionofCrystallography))|
@@ -58,7 +58,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [peptidy tutorials](https://github.com/molML/peptidy/tree/main/examples) | classification and generation of antimicrobial peptides xgboost, CNN, LSTM using keras and pytorch | 
 | | [Protein Folding with AlphaFold2 Using a Single Sequence](https://colab.research.google.com/drive/1m8mMC4fBg3oSE2PeDjeWGUSqDyCPkf80) | iterative AlphaFold2 predictions to model protein folding pathways and identify potential folding intermediates |
 |⭐| [Building Transformer Models for Proteins From Scratch](https://github.com/naity/protein-transformer) | Implement, train, tune, and evaluate a transformer model for antibody classification |
-| | [ESMBind (ESMB): Low Rank Adaptation of ESM-2 for Protein Binding Site Prediction](https://huggingface.co/blog/AmelieSchreiber/esmbind) | Fine-tuning ESM2 usgin LoRA for Protein Binding Site Prediction|
+| | [ESMBind (ESMB): Low Rank Adaptation of ESM-2 for Protein Binding Site Prediction](https://huggingface.co/blog/AmelieSchreiber/esmbind) | Fine-tuning ESM2 using LoRA for Protein Binding Site Prediction|
 
 # Biological data visualization
 ## Courses
@@ -91,10 +91,10 @@ Note: resources marked with ⭐ are highly recommended
 | | [NEJM Illustrated-glossary](https://illustrated-glossary.nejm.org/)| Glossary for biomedical research |
 | | [Glittr](https://glittr.org/) | GitHub repositories with educational material for the computational life sciences |
 | ⭐ | [Sandbox BIO](https://sandbox.bio/) | Interactive bioinformatics tutorials |
-| | [TomoGuide ](https://tomoguide.github.io/)| Cryo-electron tomography overview adn and a step-by-step tutorial for data processing |
+| | [TomoGuide ](https://tomoguide.github.io/)| Cryo-electron tomography overview and a step-by-step tutorial for data processing |
 | | [Bio Data Zoo](https://github.com/omgenomics/bio-data-zoo)| Example data in various genomics file formats |
 | | [PCR Primer Design](https://binomicalabs.notion.site/PCR-Primer-Design-8f1f888f50a0403a87bdce20e37840f2)| How to design PCR Primers using Primer3 |
-| | [Using BLAST on the command line](https://jvanheld.github.io/using_IFB_NNCR/practicals/blast_proteome/blast_proteome.html)| How to search and analyze protein sequnces with BLAST |
+| | [Using BLAST on the command line](https://jvanheld.github.io/using_IFB_NNCR/practicals/blast_proteome/blast_proteome.html)| How to search and analyze protein sequences with BLAST |
 | | [LifeMap](https://lifemap.cnrs.fr/)| An interactive tree of life based on NCBI data | 
 | | [A-microbiologist-wants-to-compute](https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute) | learning resources related to microbiome computational science and tools |
 | | [Bioinformática Microbiana](https://bioinformatica.ciad.mx/home)  | Analysis of microbial genomes (in Spanish) |
@@ -113,7 +113,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [Dive into Deep Learning](https://d2l.ai/index.html) | Interactive deep learning book implemented with PyTorch, NumPy/MXNet, JAX, and TensorFlow |
 | | [Foundations of Computer Vision](https://visionbook.mit.edu/)| Computer vision, with an image processing and machine learning perspective |
 | | [Understanding Deep Learning](https://udlbook.github.io/udlbook/)| Introduction to deep learning |
-| ⭐ | [Deep Learning with Python 3th ed](https://deeplearningwithpython.io/)| Introduction to deep learning and main frameworks |
+| ⭐ | [Deep Learning with Python](https://deeplearningwithpython.io/)| Introduction to deep learning and main frameworks |
 | | [Data Science Fundamentals](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVEdjHo41QS0bLWJi5KMk5m)| data preprocessing, statistical analysis, machine learning, and big data techniques |
 | | [Machine Learning For Beginners with python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) | 42 tutorials to get started in ML |
 
@@ -139,7 +139,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [IA generativa](https://microsoft.github.io/generative-ai-for-beginners/#/) | |
 | | [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)| Scaling language models |
 | | [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)| How to train LLMs on GPU Clusters (Check out this [video for an overview](https://www.youtube.com/watch?v=1E8GDR8QXKw) as well as this notes [notes](https://damek.github.io/STAT-4830/section/12/notes.html))|
-| | [ Flow Matching Guide and Code](https://arxiv.org/abs/2412.06264)| Comprehensive and self-contained review of Flow Matching (i.e. the basis for difussion models)|
+| | [ Flow Matching Guide and Code](https://arxiv.org/abs/2412.06264)| Comprehensive and self-contained review of Flow Matching (i.e. the basis for diffusion models)|
 | | [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)| Overview of the field of reinforcement learning and sequential decision making |
 | | [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs](https://arxiv.org/abs/2408.13296)| Fine-tuning LLMs, from data and optimization to deployment and alignment |
 | | [LLM Inference Handbook](https://bentoml.com/llm/)| LLM inference |
@@ -161,7 +161,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [Dummy's Guide to Modern LLM Sampling](https://rentry.org/samplers)| Tokenizers and LLM inference |
 | | [LoRA Hyperparameters Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide/lora-hyperparameters-guide)| Best practices for LoRA hyperparameters and how they affect the fine-tuning process |
 | | [LLM Embeddings Explained](https://huggingface.co/spaces/hesamation/primer-llm-embedding)| f}Fundamentals of embeddings |
-| | [Transformers from Scratch](https://e2eml.school/transformers.html)| Overwiew of the Transformer architecture  |
+| | [Transformers from Scratch](https://e2eml.school/transformers.html)| overview of the Transformer architecture  |
 || [From Random Forests to RLVR: A Short History of ML/AI Hello Worlds](https://sebastianraschka.com/blog/2025/hello-world-ai.html) | Timeline of ML/DL/GenAI “Hello World” examples, from Random Forests to RL-trained LLMs |
 
 # Python and computer science  
@@ -169,7 +169,7 @@ Note: resources marked with ⭐ are highly recommended
 |  | Name | Description |
 |-----------|-----------|-----------|
 | | [cpu.land](https://cpu.land/) | How multiprocessing works, what system calls really are, how computers manage memory|
-| | [Fundamentos de ciencia de datos](https://github.com/thatcsharpguy/df) | Introduction to data sceince (in spanish)|
+| | [Fundamentos de ciencia de datos](https://github.com/thatcsharpguy/df) | Introduction to data science (in spanish)|
 | | [Python for Data Analysis](https://wesmckinney.com/book/)| Data Wrangling with pandas, NumPy, and Jupyter |
 | | [Algorithmica](https://en.algorithmica.org/)| Introduction to high performance computing |
 | | [The Open-Source Project](https://digital-work-lab.github.io/open-source-project/)| Python package development (Check out the reference [paper](https://github.com/openjournals/jose-reviews/issues/292#issuecomment-3057699562)) |
