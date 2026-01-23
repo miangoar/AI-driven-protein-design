@@ -19,7 +19,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [AlphaFold. A practical guide](https://www.ebi.ac.uk/training/online/courses/alphafold/) | Understanding confidence scores, strengths, limitations, and basic theory about AlphaFold2  | 
 | ⭐ | [AlphaFold Decoded](https://2024.igem.wiki/aachen/education ) | An explanation of the AlphaFold2 architecture, starting from the basics of tensors, deep learning, and geometry (Check out the [Youtube channel](youtube.com/@KilianMandon)) | 
 | | [AlphaFold Education Summit](https://www.ebi.ac.uk/training/materials/alphafold-education-summit-materials/)| Learn how to integrate AlphaFold into scientific research and education |
-| | [Rosetta Workshop 2024](https://meilerlab.org/rosetta-workshop-2024/) | Protein design with Rosetta and associated tools |
+| | [Rosetta Workshop 2024](https://meilerlab.org/rosetta-workshop-2024/) | Protein design with Rosetta and associated tools (check out the [2023 version](https://meilerlab.org/rosetta-workshop-2023/)) |
 | | [How to Create a Protein](https://github.com/universvm/how_to_create_a_protein) | Basics of biology and protein design for early-career students | 
 | | [Protein Modeling and Design with PyRosetta and Machine Learning](https://rosettacommons.github.io/PyRosetta.notebooks/) | Introduction to the fundmamental principles and tools for using PyRosetta (Check out the [Youtube playlist](https://www.youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC) and the [Reference paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8813091/)) |
 | | [Estefanía Tarifeño](https://www.youtube.com/@prof.estefaniatarifeno1108/playlists) | Introduction to protein science and bioinformatics (in Spanish) |
