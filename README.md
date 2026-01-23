@@ -15,8 +15,6 @@ Curso gratuito de 10 clases (37 horas y +800 diapositivas) sobre diseño de prot
 
 I created this <a href="https://miangoaren.github.io/teaching/proteins">free course</a> consisting of 10 lectures to introduce you to AI-driven protein design.
 
-![webinar](https://github.com/miangoar/AI-driven-protein-design/raw/main/img/roadmap.jpg)
-
 # Contents
 - [General description](#general-description)
 - [Course organization](#course-organization)
