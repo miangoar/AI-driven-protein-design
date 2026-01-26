@@ -2,7 +2,7 @@
 
 | Topic | Slides | YouTube |
 |------|--------|---------|
-| Basic computing concepts | Drive, Zenodo | Video |
+| Basic computing concepts | [Drive](https://drive.google.com/file/d/1uDweEDt8-dIaQ1_IFNSNIHehblBNBSGW/view), Zenodo | [Video](https://youtu.be/uMkZzKbnoJI) |
 | Machine learning | Drive, Zenodo | Video |
 | Deep learning | Drive, Zenodo | Video |
 | Transformers and language models | Drive, Zenodo | Video |
