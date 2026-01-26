@@ -405,6 +405,9 @@ Tools for building, training, and deploying deep learning models
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 100+ PyTorch metrics implementations |
 | [skorch](https://github.com/skorch-dev/skorch) | train PyTorch models in a way similar to Scikit-learn (eg. No need to manually write a training loop, just using fit(), predict(), score()) |
 | [Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage) | estimates the GPU vRAM required to train and run inference based on model size, largest layer, training setup, and numerical precision. Use `facebook/esm2_t33_650M_UR50D` as an example for ESM2 650M parameters (check out this other [gpu_poor calculator](https://github.com/RahulSChand/gpu_poor)) |
+| [hf-mem](https://github.com/alvarobartt/hf-mem) | CLI to estimate inference memory requirements for Hugging Face models |
+
+
 
 # Tabular data
 Tools for tabular data
