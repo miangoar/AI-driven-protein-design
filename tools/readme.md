@@ -389,8 +389,10 @@ Tools for text analysis, information extraction, topic modeling, and semantic cl
 | [BERTopic](https://github.com/MaartenGr/BERTopic) | create clusters for easily interpretable topics |
 | [KeyBERT](https://github.com/MaartenGr/KeyBERT) | Minimal keyword extraction with BERT |
 | [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) | Fuzzy string matching, grouping, and evaluation |
+| [Sentence Transformers](https://github.com/huggingface/sentence-transformers) | accessing, using, and training embedding and reranker models | 
 | [setfit](https://github.com/huggingface/setfit) | Efficient few-shot learning with Sentence Transformers |
 | [langextract](https://github.com/google/langextract) | extracting structured information from unstructured text using LLMs |
+
 
 # Deep learning frameworks 
 Tools for building, training, and deploying deep learning models
