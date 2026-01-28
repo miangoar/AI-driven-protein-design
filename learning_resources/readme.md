@@ -177,6 +177,7 @@ Note: resources marked with ⭐ are highly recommended
 |⭐| [MIT 6.100L Introduction to computer science and Programming using Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB) | Introduction to computer science and Programming | 
 | | [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting/) | Basics of Bash scripting |
 | | [Dan Kornas courses](https://www.youtube.com/@dankornas/playlists) | Fundamentals of python, numpy, pandas, matplotlib, machine learning and pytorch |
+||[Python from scratch](https://open.cs.uwaterloo.ca/python-from-scratch/)| Learn Python from scratch|
 ## Useful publications
 | | Name | Description |
 |-----------|-----------|-----------|
