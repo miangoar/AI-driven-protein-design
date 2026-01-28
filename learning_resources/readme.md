@@ -163,6 +163,8 @@ Note: resources marked with ⭐ are highly recommended
 | | [LLM Embeddings Explained](https://huggingface.co/spaces/hesamation/primer-llm-embedding)| f}Fundamentals of embeddings |
 | | [Transformers from Scratch](https://e2eml.school/transformers.html)| overview of the Transformer architecture  |
 || [From Random Forests to RLVR: A Short History of ML/AI Hello Worlds](https://sebastianraschka.com/blog/2025/hello-world-ai.html) | Timeline of ML/DL/GenAI “Hello World” examples, from Random Forests to RL-trained LLMs |
+| | [Diffusion Explorer](https://github.com/helblazer811/Diffusion-Explorer)| Interactive visualizations of the geometric intuition behind diffusion models |
+
 
 # Python and computer science  
 ## Courses
@@ -232,4 +234,5 @@ Note: resources marked with ⭐ are highly recommended
 | [James Lingford](https://www.jameslingford.com/blog/) | Bioinformatics |
 | [Boolean Biotech](https://blog.booleanbiotech.com/archives) | Protein science |
 | [XGblog](https://www.xgblog.ai/) | AI |
+| [Alec Helbling](https://alechelbling.com/blog.html) | AI |
 
