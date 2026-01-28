@@ -14,7 +14,7 @@
 | [valence labs](https://portal.valencelabs.com/logg) | Academic seminars on AI + Bio | 
 | [Boston Protein Design and Modeling Club](https://www.youtube.com/@bpdmc) | computational protein engineering | 
 | [ML for protein engineering seminar series](https://www.youtube.com/@mlforproteinengineeringsem6420) | machine learning for protein engineering | 
-| []() | | 
+| [Owl Posting](https://www.youtube.com/@owl_posting) |videos about biology, machine learning, and the intersection of the two| 
 
 # Machine & Deep learning 
 | Channel | Description | 
