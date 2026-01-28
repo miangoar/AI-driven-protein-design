@@ -470,7 +470,7 @@ Tools for creating static and interactive plots
 | [torchvista](https://github.com/sachinhosmani/torchvista) | visualize the forward pass of a PyTorch model directly in the notebook |
 | [Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) | set of tools (like [NN-SVG](https://alexlenail.me/NN-SVG/LeNet.html)) to plot neural nets |
 | [How to Vectorize Plots from R/Python in PowerPoint](https://nalinan.medium.com/how-to-vectorize-plots-from-r-in-powerpoint-bad7c238e86a) | import a vectorized image into PowerPoint for easy manipulation (check out this [tutorial](https://www.youtube.com/watch?v=hoHkc7N6FZA&ab_channel=GenomicsBootCamp)) |
-
+| [pylustrator](https://github.com/rgerum/pylustrator) | interactive interface to find the best way to present your data in a figure for publication |
 
 # chatbots and agents
 Tools for scientific reasoning, literature review, and biological data exploration
