@@ -113,6 +113,7 @@ Tools for analysis, manipulation, validation, and characterization of protein st
 | [InterfaceAnalyzerMover](https://docs.rosettacommons.org/docs/latest/scripting_documentation/RosettaScripts/Movers/movers_pages/analysis/InterfaceAnalyzerMover) | Calculate binding energies, buried interface surface areas, packing statistics, and other useful interface metrics for the evaluation of protein interfaces |
 | [Relax your structure using OpenMM/Amber](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/relax_amber.ipynb) | Relax your structure |
 | [ProteinsPlus](https://proteins.plus/) | structure mining and modeling, focussing on protein-ligand interactions |
+| [CoEVFold](https://github.com/MishterBluesky/CoEVFold) | analyze protein co-evolution e.g. generating contact maps, gene networks, identifying homomeric and heteromeric interfaces |
 
 
 # Data access
@@ -178,7 +179,7 @@ Tools for protein structure prediction and biomolecular complexes
 | [CombFold](https://github.com/dina-lab3D/CombFold) | structure predictions of large complexes |
 | [Cfold](https://github.com/patrickbryant1/Cfold) | structure prediction of alternative protein conformations |
 | [AF_unmasked](https://github.com/clami66/AF_unmasked) | structure prediction for huge protein complexes (~27 chains and ~8400aa) |
-| [ConservFold](https://www.rodrigueslab.com/resources) | map residue conservation into structures with AF2  |
+| [ConservFold](https://www.rodrigueslab.com/resources) | map residue conservation into structures with AF2 (check out the notebook for [multimers](https://colab.research.google.com/drive/1Lv-akfLE7kTCFCWaEyHAtsPCeXYD3xvH?usp=sharing)) |
 | [IPSAE](https://github.com/DunbrackLab/IPSAE) | Scoring function for interprotein interactions in AlphaFold2 and AlphaFold3 |
 | [peppr](https://github.com/aivant/peppr) | a package for evaluation of predicted poses like RMSD, TM-score, lDDT, lDDT-PLI, fnat, iRMSD, LRMSD, DockQ  |
 
