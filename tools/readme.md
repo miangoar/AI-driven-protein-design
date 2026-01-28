@@ -386,13 +386,13 @@ Tools for the visualization of high-dimensional data
 Tools for text analysis, information extraction, topic modeling, and semantic clustering
 | Name | Description | 
 |-----------|-----------|
+| [unsloth](https://github.com/unslothai/unsloth) | Fine-tuning & Reinforcement Learning for LLM | 
 | [BERTopic](https://github.com/MaartenGr/BERTopic) | create clusters for easily interpretable topics |
 | [KeyBERT](https://github.com/MaartenGr/KeyBERT) | Minimal keyword extraction with BERT |
 | [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) | Fuzzy string matching, grouping, and evaluation |
-| [Sentence Transformers](https://github.com/huggingface/sentence-transformers) | accessing, using, and training embedding and reranker models | 
+| [Sentence Transformers](https://github.com/huggingface/sentence-transformers) | accessing, using, and training embedding and reranker models (check out the guide to [Fine-tuning Embedding Models with Unsloth](https://unsloth.ai/docs/new/embedding-finetuning))| 
 | [setfit](https://github.com/huggingface/setfit) | Efficient few-shot learning with Sentence Transformers |
 | [langextract](https://github.com/google/langextract) | extracting structured information from unstructured text using LLMs |
-
 
 # Deep learning frameworks 
 Tools for building, training, and deploying deep learning models
