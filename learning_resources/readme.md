@@ -164,7 +164,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [Transformers from Scratch](https://e2eml.school/transformers.html)| overview of the Transformer architecture  |
 || [From Random Forests to RLVR: A Short History of ML/AI Hello Worlds](https://sebastianraschka.com/blog/2025/hello-world-ai.html) | Timeline of ML/DL/GenAI “Hello World” examples, from Random Forests to RL-trained LLMs |
 | | [Diffusion Explorer](https://github.com/helblazer811/Diffusion-Explorer)| Interactive visualizations of the geometric intuition behind diffusion models |
-| | [tensortonic](https://www.tensortonic.com/)| Implement 100+ ML algorithms from scratch. From gradients to transformers, learn the math with interactive visualizations |
+| ⭐ | [tensortonic](https://www.tensortonic.com/)| Implement 100+ ML algorithms from scratch. From gradients to transformers, learn the math with interactive visualizations |
 
 # Python and computer science  
 ## Courses
