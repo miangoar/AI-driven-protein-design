@@ -149,6 +149,8 @@ Note: resources marked with ⭐ are highly recommended
 | ⭐ | [Huggingface Courses](https://huggingface.co/learn) | Learn to use the Huggingface ecosystem (Check out the [lm-course](https://huggingface.co/learn/llm-course/chapter1/1) and [smol-course](https://huggingface.co/learn/smol-course/unit0/1) for LLMs training and fine-tuning as well as the [Diffusion Models Course](https://huggingface.co/learn/diffusion-course/unit0/1)|)|
 | | [The Principles of Diffusion Models](https://www.arxiv.org/abs/2510.21890)|  Introduction to diffusion modeling  |
 | | [Interpretability of Large Language Models](https://github.com/mega002/llm-interp-tau)| interpretability of LLMs |
+| | [Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092)| primer on diffusion unifying continuous domains and discrete/categorical structures |
+
 
 ## Useful publications
 |  | Name | Description |
