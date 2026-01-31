@@ -31,6 +31,7 @@ Note: resources marked with ⭐ are highly recommended
 | |[DeepChem Step-by-Step Tutorial](https://deepchem.io/tutorials/the-basic-tools-of-the-deep-life-sciences/)| Modeling Proteins with deep learning, Protein ligand modeling, Bioinformatics, Molecular ML and more with DeepChem|
 | | [Moving Beyond Memorization](https://github.com/plinder-org/moving_beyond_memorisation) | training and evaluating deep learning methods to predict protein-protein and protein-ligand complex |
 
+
 ## Useful publications
 |  | Name | Description |
 |-----------|-----------|-----------|
@@ -208,7 +209,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [Stats illustrations](https://github.com/allisonhorst/stats-illustrations) | R & stats illustrations |
 | | [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) | Matrix calculus for deep learning, no math background assumed |
 | | [Matrix Calculus (for Machine Learning and Beyond)](https://arxiv.org/abs/2501.14787)| Differential calculus to functions on more general vector spaces |
-
+| |[Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)| Common statistical tests are linear models |
 
 # Data visualization 
 | Web | 
