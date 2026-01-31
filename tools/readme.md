@@ -382,6 +382,8 @@ Tools for the visualization of high-dimensional data
 | [DADApy](https://github.com/sissa-data-science/DADApy) | characterization of manifolds in high-dimensional spaces |
 | [tmap](https://github.com/reymond-group/tmap) | tree-like and fast visualization library for large, high-dimensional data set |
 | [umap](https://github.com/lmcinnes/umap) | Uniform Manifold Approximation and Projection | 
+| [tsne-cuda](https://github.com/CannyLab/tsne-cuda) | GPU Accelerated t-SNE for CUDA with Python bindings | 
+
 
 # Natural Language Processing
 Tools for text analysis, information extraction, topic modeling, and semantic clustering
