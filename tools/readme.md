@@ -278,6 +278,9 @@ Tools for designing protein sequences given protein backbone or structure
 | [ThermoMPNN](https://github.com/Kuhlman-Lab/ThermoMPNN) | predict changes in thermodynamic stability for protein point mutants |
 | [ByProt](https://github.com/BytedProtein/ByProt) | Efficient non-autoregressive ProteinMPNN variant |
 | [Caliby](https://github.com/ProteinDesignLab/caliby) | Potts model-based protein sequence design method that can condition on structural ensembles |
+| [PottsMPNN](https://github.com/KeatingLab/PottsMPNN) | generate sequences and predict energies of mutations |
+
+
 
 # Function prediction
 Tools for functional annotation, active-site detection, ligand binding prediction, and  other properties
