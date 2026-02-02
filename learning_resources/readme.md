@@ -186,7 +186,7 @@ Note: resources marked with ⭐ are highly recommended
 ## Useful publications
 | | Name | Description |
 |-----------|-----------|-----------|
-| | [Developer Roadmaps](https://roadmap.sh/) | Roadmaps to help developers choose a learning path |
+|⭐ | [Developer Roadmaps](https://roadmap.sh/) | Roadmaps to help developers choose a learning path |
 | | [Python Tutor](https://pythontutor.com/)| Step-by-step visual debugger and AI tutor to help you understand and debug code |
 | | [Introduction to Python](https://carpentries-incubator.github.io/pangenomics-python/) | Introduction to Python |
 | | [pandas-cookbook](https://github.com/jvns/pandas-cookbook/) | Recipes for using Python's pandas library |
