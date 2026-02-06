@@ -38,8 +38,7 @@
 | [3blue 1brown](https://www.youtube.com/@3blue1brown) | math,  physics and computer science | 
 | [dibeos](https://www.youtube.com/@dibeos) | Mathematics & Mathematical Physics | 
 | [vcubingx](https://www.youtube.com/@vcubingx) | math | 
-
-
+| [The Palindrome](https://www.youtube.com/@drawocoward) | math and machine learning accessible to everyone | 
 
 # Recommended videos
 
