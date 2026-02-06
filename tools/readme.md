@@ -490,6 +490,6 @@ Tools for scientific reasoning, literature review, and biological data explorati
 | [HuggingChat](https://huggingface.co/chat/) | General-purpose conversational AI (checkout the [Spaces](https://huggingface.co/spaces) for more models as well as [AI in Biology Demos](https://huggingface.co/collections/hf4h/ai-in-biology-demos-65007d936a230e55a66cd31e) for models used in biology) | 
 | [Futurehouse](https://platform.futurehouse.org/) |  agents for literature review and scientific reasoning |
 | [biomni](https://github.com/snap-stanford/biomni) | Multimodal AI system for biological data analysis  |
-| []() |  |
+| [OpenScholar](https://openscilm.allen.ai/) | retrieval-augmented LM that answers scientific queries |
 
 
