@@ -221,6 +221,7 @@ Tools for AI-driven protein design, including binders, stability optimization, a
 | [ovo](https://github.com/MSDLLCpapers/ovo) | ecosystem for de novo protein design |
 | [bagel](https://github.com/softnanolab/bagel) | model-agnostic and gradient-free exploration of an energy landscape in the sequence space |
 | [Protein Design Skills](https://proteinbase.com/protein-design-skills) | Claude Code skills for protein design |
+| [ProtFlow](https://github.com/mabr3112/ProtFlow) | automate protein design workflows with a python wrapper around common protein design tools (check out this [tutorial](https://www.youtube.com/watch?v=Rji1WPt_gig)) |
 
 # Representation learning
 Tools for computing vectorial representations of protein sequences and structures for downstream tasks
