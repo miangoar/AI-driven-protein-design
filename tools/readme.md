@@ -399,6 +399,9 @@ Tools for text analysis, information extraction, topic modeling, and semantic cl
 | [Sentence Transformers](https://github.com/huggingface/sentence-transformers) | accessing, using, and training embedding and reranker models (check out the guide to [Fine-tuning Embedding Models with Unsloth](https://unsloth.ai/docs/new/embedding-finetuning))| 
 | [setfit](https://github.com/huggingface/setfit) | Efficient few-shot learning with Sentence Transformers |
 | [langextract](https://github.com/google/langextract) | extracting structured information from unstructured text using LLMs |
+| [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) | mechanistic interpretability of GPT-style language models (check out this [Mech. Interp. cheatsheet](https://jrosser.co.uk/assets/TransformerLens___PyTorch_Quick_Reference.pdf)) |
+
+
 
 # Deep learning frameworks 
 Tools for building, training, and deploying deep learning models
