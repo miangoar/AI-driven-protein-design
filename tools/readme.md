@@ -409,7 +409,7 @@ Tools for building, training, and deploying deep learning models
 | Name | Description | 
 |-----------|-----------|
 | [pytorch](https://github.com/pytorch/pytorch) | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 
-| [keras](https://github.com/keras-team/keras) | multi-backend deep learning framework, with support for JAX, TensorFlow, PyTorch, and OpenVINO | 
+| [keras](https://github.com/keras-team/keras) | multi-backend deep learning framework, with support for JAX, TensorFlow, PyTorch, and OpenVINO (check out the [code examples](https://keras.io/examples/) computer Vision, language modeling, generative AI, reinforcement learning, etc.)| 
 | [jax](https://github.com/jax-ml/jax) | high-performance numerical computing and large-scale machine learning | 
 | [pytorch lightning](https://github.com/Lightning-AI/pytorch-lightning) | Finetune and pretrain any AI model with PyTorch - or build your own | 
 | [Kerasify](https://github.com/moof2k/kerasify) | running trained Keras models from a C++ application |
