@@ -368,7 +368,6 @@ Tools for machine learning
 | [Google colab](https://colab.google/) | cloud computing with free GPUs. Check out this [post](https://colab.research.google.com/notebooks/forms.ipynb) to convert a notebook into a user interface as well as this [VScode extension](https://developers.googleblog.com/google-colab-is-coming-to-vs-code/)| 
 | [Best-of Machine Learning](https://github.com/ml-tooling/best-of-ml-python) | list of awesome machine learning Python libraries |
 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | machine learning built on top of SciPy |
-| [Colab forms](https://colab.research.google.com/notebooks/forms.ipynb) | How to convert a Colab notebook into a user interface |
 | [LazyPredict](https://github.com/shankarpandala/lazypredict) | build a lot of basic models without much code |
 | [PySR](https://github.com/MilesCranmer/PySR) | High-Performance Symbolic Regression |
 | [pyod](https://github.com/yzhao062/pyod) | Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques |
