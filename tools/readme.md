@@ -360,6 +360,8 @@ Tools for small-molecule representation, analysis, docking, and computational ch
 | [molli](https://github.com/SEDenmarkLab/molli) | general purpose molecule library generation and handling  |
 | [deepchem](https://github.com/deepchem/deepchem) | toolkit for drug discovery, materials science, quantum chemistry, and biology |
 | [nvMolKit](https://github.com/NVIDIA-Digital-Bio/nvMolKit) | GPU-accelerated library for key computational chemistry (e.g. molecular similarity, conformer generation, and geometry relaxation) |
+| [atomic-datasets](https://github.com/atomicarchitects/datasets) | an easy (and fast) API for popular 3D molecular datasets |
+
 
 # Machine learning 
 Tools for machine learning
