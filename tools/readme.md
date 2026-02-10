@@ -365,6 +365,7 @@ Tools for small-molecule representation, analysis, docking, and computational ch
 Tools for machine learning
 | Name | Description | 
 |-----------|-----------|
+| [Google colab](https://colab.google/) | cloud computing with free GPUs. Check out this [post](https://colab.research.google.com/notebooks/forms.ipynb) to convert a notebook into a user interface as well as this [VScode extension](https://developers.googleblog.com/google-colab-is-coming-to-vs-code/)| 
 | [Best-of Machine Learning](https://github.com/ml-tooling/best-of-ml-python) | list of awesome machine learning Python libraries |
 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | machine learning built on top of SciPy |
 | [Colab forms](https://colab.research.google.com/notebooks/forms.ipynb) | How to convert a Colab notebook into a user interface |
@@ -375,6 +376,9 @@ Tools for machine learning
 | [xgboost](https://github.com/dmlc/xgboost) | all you need | 
 | [LightGBM](https://github.com/microsoft/LightGBM) | high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithm  | 
 | [catboost](https://github.com/catboost/catboost) | high performance Gradient Boosting on Decision Trees | 
+
+
+https://developers.googleblog.com/google-colab-is-coming-to-vs-code/
 
 # Dimensionality Reduction
 Tools for the visualization of high-dimensional data
