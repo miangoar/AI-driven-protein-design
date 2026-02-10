@@ -195,7 +195,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [Bash scripting quirks & safety tips](https://jvns.ca/blog/2017/03/26/bash-quirks/) | Bash basics and best practices for scripting | 
 | | [Interactive Map of All Pandas Operations](https://blog.dailydoseofds.com/p/interactive-mind-map-of-all-pandas) | Pandas methods grouped by operation |
 | | [deep wiki](https://deepwiki.com/) | provides documentation you can talk to, for every repo in the world (i.e. Deep Research for GitHub. e.g. [AlphaFold2 repo](https://deepwiki.com/google-deepmind/alphafold)) |
-
+| | [How Terminals Work](https://how-terminals-work.vercel.app/) | interactive guide to understanding terminals|
 
 # Math
 ## Courses
