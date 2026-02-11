@@ -152,4 +152,4 @@ Tools, models, labs, companies, and literature in protein science and AI
 | [Papers for protein design](https://github.com/Peldom/papers_for_protein_design_using_DL) | Curated collection of research papers on deep learning–based protein design |
 | [biomodes](https://abeebyekeen.com/biomodes-biomolecular-design/) | Curated list of biomolecular design models, including protein-focused AI methods |
 | [Awesome Bio-Foundation Models](https://github.com/apeterswu/Awesome-Bio-Foundation-Models) | Curated collection of bio-foundation models covering proteins, RNA, DNA, genes, single-cell data, and related domains |
-
+| [Awesome Drug Discovery Awesome](https://github.com/yboulaamane/awesome-drug-discovery) | computational methods for drug discovery | 
