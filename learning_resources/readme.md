@@ -60,6 +60,8 @@ Note: resources marked with ⭐ are highly recommended
 | | [Protein Folding with AlphaFold2 Using a Single Sequence](https://colab.research.google.com/drive/1m8mMC4fBg3oSE2PeDjeWGUSqDyCPkf80) | iterative AlphaFold2 predictions to model protein folding pathways and identify potential folding intermediates |
 |⭐| [Building Transformer Models for Proteins From Scratch](https://github.com/naity/protein-transformer) | Implement, train, tune, and evaluate a transformer model for antibody classification |
 | | [ESMBind (ESMB): Low Rank Adaptation of ESM-2 for Protein Binding Site Prediction](https://huggingface.co/blog/AmelieSchreiber/esmbind) | Fine-tuning ESM2 using LoRA for Protein Binding Site Prediction|
+| | [chumby tutorials](https://github.com/esbgkannan/chumby) | visualization methods for the classification of protein families using embeddings derived from protein language models (i.e. ESM1b) | 
+
 
 # Biological data visualization
 ## Courses
