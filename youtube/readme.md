@@ -76,7 +76,7 @@
 | [Transformers and Self-Attention](https://www.youtube.com/watch?v=e9-0BxyKG10&ab_channel=ProfessorBryce) | Explanation of the Transformer architecture |
 | [¿Cómo podrían los LLM almacenar hechos?](https://www.youtube.com/watch?v=9-Jl0dxWQs8&list=PLy6oQaTOlboDq71p3d3OjOByGD-08xLHf&ab_channel=3Blue1Brown) | Decomposition of multilayer perceptrons in Transformers and how they can store facts |
 | [All Machine Learning Beginner Mistakes Explained in 17 Minutes](https://www.youtube.com/watch?v=oMc9StPVzOU&ab_channel=InfiniteCodes) | Common machine learning pitfalls |
-
+| [Mixture of Experts: Scaling LLMs Without Slowing Down](https://www.youtube.com/watch?v=0QQlYR1r6pQ) | key ideas behind Mixture of Experts (MoE) from the first principles |
 
 ## Math
 | Video | Description |
