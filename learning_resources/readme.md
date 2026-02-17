@@ -152,6 +152,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [The Principles of Diffusion Models](https://www.arxiv.org/abs/2510.21890)|  Introduction to diffusion modeling  |
 | | [Interpretability of Large Language Models](https://github.com/mega002/llm-interp-tau)| interpretability of LLMs |
 | | [Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092)| primer on diffusion unifying continuous domains and discrete/categorical structures |
+| | [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)| Train and inference GPT in 243 lines of pure, dependency-free Python (check out the [original post](https://x.com/karpathy/status/2021694437152157847) for other language implementations)|
 
 
 ## Useful publications
