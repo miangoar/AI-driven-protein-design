@@ -119,6 +119,7 @@ Note: resources marked with ⭐ are highly recommended
 | ⭐ | [Deep Learning with Python](https://deeplearningwithpython.io/)| Introduction to deep learning and main frameworks |
 | | [Data Science Fundamentals](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVEdjHo41QS0bLWJi5KMk5m)| data preprocessing, statistical analysis, machine learning, and big data techniques |
 | | [Machine Learning For Beginners with python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) | 42 tutorials to get started in ML |
+| | [Deep learning for molecules and materials](https://dmol.pub/)| apply deep learning to molecular structures and materials science |
 
 ## Useful publications
 |  | Name | Description |
