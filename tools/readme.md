@@ -182,6 +182,8 @@ Tools for protein structure prediction and biomolecular complexes
 | [ConservFold](https://www.rodrigueslab.com/resources) | map residue conservation into structures with AF2 (check out the notebook for [multimers](https://colab.research.google.com/drive/1Lv-akfLE7kTCFCWaEyHAtsPCeXYD3xvH?usp=sharing)) |
 | [IPSAE](https://github.com/DunbrackLab/IPSAE) | Scoring function for interprotein interactions in AlphaFold2 and AlphaFold3 |
 | [peppr](https://github.com/aivant/peppr) | a package for evaluation of predicted poses like RMSD, TM-score, lDDT, lDDT-PLI, fnat, iRMSD, LRMSD, DockQ  |
+| [alphafast](https://github.com/RomeroLab/alphafast) | high-throughput AlphaFold3 inference with MMSeqs2-GPU |
+
 
 # Structure generation 
 Tools for creating novel protein structures or complexes, with or without functional or structural conditioning
