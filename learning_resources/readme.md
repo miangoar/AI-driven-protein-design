@@ -140,7 +140,6 @@ Note: resources marked with ⭐ are highly recommended
 | | [Large Language Model Course](https://github.com/mlabonne/llm-course) | Get into LLMs with roadmaps and Colab notebooks |
 | | [Machine Learning Engineering](https://github.com/stas00/ml-engineering) | Training and fine-tuning of LLMs and multi-modal models and their inference | 
 | | [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch) | Implement a ChatGPT-like LLM in PyTorch from scratch |
-| | [IA generativa](https://microsoft.github.io/generative-ai-for-beginners/#/) | |
 | | [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)| Scaling language models |
 | | [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)| How to train LLMs on GPU Clusters (Check out this [video for an overview](https://www.youtube.com/watch?v=1E8GDR8QXKw) as well as this notes [notes](https://damek.github.io/STAT-4830/section/12/notes.html))|
 | | [ Flow Matching Guide and Code](https://arxiv.org/abs/2412.06264)| Comprehensive and self-contained review of Flow Matching (i.e. the basis for diffusion models)|
@@ -153,8 +152,6 @@ Note: resources marked with ⭐ are highly recommended
 | | [The Principles of Diffusion Models](https://www.arxiv.org/abs/2510.21890)|  Introduction to diffusion modeling  |
 | | [Interpretability of Large Language Models](https://github.com/mega002/llm-interp-tau)| interpretability of LLMs |
 | | [Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092)| primer on diffusion unifying continuous domains and discrete/categorical structures |
-| | [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)| Train and inference GPT in 243 lines of pure, dependency-free Python (check out the [original post](https://x.com/karpathy/status/2021694437152157847) for other language implementations)|
-
 
 ## Useful publications
 |  | Name | Description |
@@ -173,7 +170,9 @@ Note: resources marked with ⭐ are highly recommended
 | | [Diffusion Explorer](https://github.com/helblazer811/Diffusion-Explorer)| Interactive visualizations of the geometric intuition behind diffusion models |
 | ⭐ | [tensortonic](https://www.tensortonic.com/)| Implement 100+ ML algorithms from scratch. From gradients to transformers, learn the math with interactive visualizations |
 | | [ Understanding and Coding the Self-Attention Mechanism of LLMs From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)| understand how self-attention works from scratch  | 
-| | [ ]( )|   | 
+| | [A Developer's Guide to Finetuning and Distilling Language Models ](https://awesomeagents.ai/guides/finetuning-and-distillation-guide/ )| Guide to Finetuning covering techniques, tools, datasets, and cloud GPU options| 
+| | [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)| Train and inference GPT in 243 lines of pure, dependency-free Python (check out the [original post](https://x.com/karpathy/status/2021694437152157847) for other language implementations)|
+
 
 # Python and computer science  
 ## Courses
