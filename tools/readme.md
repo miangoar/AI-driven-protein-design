@@ -316,6 +316,7 @@ Tools for molecular dynamics, physical modeling, and analysis of trajectories
 | [VMD-2](https://www.ks.uiuc.edu/Research/vmd/vmd2intro/index.html) | Visual Molecular Dynamics |
 | [gromacs_copilot](https://github.com/ChatMol/gromacs_copilot) | AI-powered assistant for Molecular Dynamics simulations |
 | [moleculatio](https://moleculatio.yamlab.app) | chemoinformatics, quantum chemistry and molecular dynamics simulations or small molecules |
+| [pdb2pqr](https://github.com/Electrostatics/pdb2pqr) | automates the common tasks of preparing structures for continuum solvation calculations and biomolecular structure modeling, analysis, and simulation |
 
 
 # Biological data visualization
