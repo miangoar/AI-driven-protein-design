@@ -61,6 +61,7 @@ Note: resources marked with ⭐ are highly recommended
 |⭐| [Building Transformer Models for Proteins From Scratch](https://github.com/naity/protein-transformer) | Implement, train, tune, and evaluate a transformer model for antibody classification |
 | | [ESMBind (ESMB): Low Rank Adaptation of ESM-2 for Protein Binding Site Prediction](https://huggingface.co/blog/AmelieSchreiber/esmbind) | Fine-tuning ESM2 using LoRA for Protein Binding Site Prediction|
 | | [chumby tutorials](https://github.com/esbgkannan/chumby) | visualization methods for the classification of protein families using embeddings derived from protein language models (i.e. ESM1b) | 
+| | [minAlphaFold2](https://github.com/ChrisHayduk/minAlphaFold2) | A minimal PyTorch re-implementation of AlphaFold2's model & training | 
 
 
 # Biological data visualization
