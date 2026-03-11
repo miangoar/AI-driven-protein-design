@@ -348,6 +348,9 @@ Tools for visualization of proteins, structures, alignments, phylogenies, and mo
 | [Protein Viewer](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer) | visualization of protein structures and molecular data in VScode |
 | [molview](https://github.com/54yyyu/molview) | IPython/Jupyter widget for interactive molecular visualization, based on Molstar |
 | [ProteinCHAOS](https://dzyla.github.io/ProteinCHAOS/) | an artistic tool inspired by molecular dynamics to capture protein flexibility over time |
+| [ProteinView](https://github.com/001TMF/ProteinView) | Terminal protein structure viewer: load, rotate, and explore PDB/CIF structures right in your terminal |
+
+
 
 # Molecules & cheminformatics
 Tools for small-molecule representation, analysis, docking, and computational chemistry
