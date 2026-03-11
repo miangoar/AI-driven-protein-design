@@ -401,7 +401,7 @@ Tools for the visualization of high-dimensional data
 Tools for text analysis, information extraction, topic modeling, and semantic clustering
 | Name | Description | 
 |-----------|-----------|
-| [unsloth](https://github.com/unslothai/unsloth) | Fine-tuning & Reinforcement Learning for LLM | 
+| [unsloth](https://github.com/unslothai/unsloth) | Fine-tuning & Reinforcement Learning for LLM (check out their collection of [+250 notebooks](https://github.com/unslothai/notebooks/))| 
 | [BERTopic](https://github.com/MaartenGr/BERTopic) | create clusters for easily interpretable topics |
 | [KeyBERT](https://github.com/MaartenGr/KeyBERT) | Minimal keyword extraction with BERT |
 | [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) | Fuzzy string matching, grouping, and evaluation |
