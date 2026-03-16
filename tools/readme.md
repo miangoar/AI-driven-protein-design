@@ -152,7 +152,7 @@ Tools for protein structure search, alignment, and comparison using geometric, t
 | [gtalign](https://bioinformatics.lt/comer/gtalign/) | High-performance search and alignment for protein structures |
 | [Muscle-3D](https://github.com/rcedgar/muscle) | multiple protein structure alignment |
 | [PAthreader](http://zhanglab-bioinf.com/PAthreader/) | remote homologous template recognition |
-| [alphafind](https://alphafind.fi.muni.cz/search) | structure-based search of the entire AFDB using Uniprot ID, PDB ID, or Gene Symbol |
+| [alphafind](https://alphafind.ics.muni.cz/) | structure-based search of the entire AFDB and TED using Uniprot ID, PDB ID, or Gene Symbol |
 
 # Structure prediction
 Tools for protein structure prediction and biomolecular complexes
