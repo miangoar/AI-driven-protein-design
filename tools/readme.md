@@ -457,6 +457,9 @@ Tools that use the GPU for scientific computing, machine learning, and large-sca
 | [Faiss](https://github.com/facebookresearch/faiss) | efficient similarity search and clustering of dense vectors |
 | [einops](https://github.com/arogozhnikov/einops) | tensor operations for readable and reliable code |
 | [numba](https://github.com/numba/numba) | NumPy aware dynamic Python compiler  |
+| [flash-kmeans](https://github.com/svg-project/flash-kmeans) | Fast and memory-efficient exact kmeans |
+
+ 
 
 # Statistics
 Tools for statistics 
