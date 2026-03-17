@@ -226,6 +226,8 @@ Tools for AI-driven protein design, including binders, stability optimization, a
 | [bagel](https://github.com/softnanolab/bagel) | model-agnostic and gradient-free exploration of an energy landscape in the sequence space |
 | [Protein Design Skills](https://proteinbase.com/protein-design-skills) | Claude Code skills for protein design |
 | [ProtFlow](https://github.com/mabr3112/ProtFlow) | automate protein design workflows with a python wrapper around common protein design tools (check out this [tutorial](https://www.youtube.com/watch?v=Rji1WPt_gig)) |
+| [biopipelines](https://github.com/locbp-uzh/biopipelines) | protein design workflows that can run in Jupyter notebooks and SLURM-based clusters |
+
 
 # Representation learning
 Tools for computing vectorial representations of protein sequences and structures for downstream tasks
