@@ -329,6 +329,7 @@ Tools for visualization of proteins, structures, alignments, phylogenies, and mo
 | Name | Description | 
 |-----------|-----------| 
 | [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) | Toolbox for molecular animations in Blender |
+| [ProteinBlender](https://github.com/Animation-Lab/ProteinBlender) | create molecular animations with Blender |
 | [prettymol](https://github.com/zachcp/prettymol) | automatic protein structure plots with MolecularNodes  |
 | [CellScape](https://github.com/jordisr/cellscape) | Vector graphics cartoons from protein structure |
 | [chimerax](https://www.rbvi.ucsf.edu/chimerax/)| molecular visualization program (check out the [ChimeraX apps](https://cxtoolshed.rbvi.ucsf.edu/apps/all) as well as this [Color Palettes](https://github.com/smsaladi/chimerax_viridis) and this config to set-up a [Baker lab palette](https://bsky.app/profile/jameslingford.bsky.social/post/3lmw5h3xxec2n))|
