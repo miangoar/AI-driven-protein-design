@@ -354,7 +354,8 @@ Tools for visualization of proteins, structures, alignments, phylogenies, and mo
 | [molview](https://github.com/54yyyu/molview) | IPython/Jupyter widget for interactive molecular visualization, based on Molstar |
 | [ProteinCHAOS](https://dzyla.github.io/ProteinCHAOS/) | an artistic tool inspired by molecular dynamics to capture protein flexibility over time |
 | [ProteinView](https://github.com/001TMF/ProteinView) | Terminal protein structure viewer: load, rotate, and explore PDB/CIF structures right in your terminal |
-
+| [PyMolAI](https://github.com/ravishar313/PyMolAI) | integrated AI assistant panel for PyMOL |
+ 
 
 
 # Molecules & cheminformatics
@@ -390,7 +391,7 @@ Tools for machine learning
 | [catboost](https://github.com/catboost/catboost) | high performance Gradient Boosting on Decision Trees | 
 
 
-https://developers.googleblog.com/google-colab-is-coming-to-vs-code/
+
 
 # Dimensionality Reduction
 Tools for the visualization of high-dimensional data
