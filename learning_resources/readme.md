@@ -103,6 +103,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [A-microbiologist-wants-to-compute](https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute) | learning resources related to microbiome computational science and tools |
 | | [Bioinformática Microbiana](https://bioinformatica.ciad.mx/home)  | Analysis of microbial genomes (in Spanish) |
 | |[Some Thoughts on Splitting Chemical Datasets](https://practicalcheminformatics.blogspot.com/2024/11/some-thoughts-on-splitting-chemical.html)| Splitting Chemical Datasets |
+| | [A Visual Guide to DNA Sequencing](https://press.asimov.com/articles/dna-sequencing) | overview of Sanger, 454, SbyS, PacBio and Nanopore sequencing methods   |
 
 
 # Machine Learning, Deep Learning, and Data Science
