@@ -166,7 +166,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [Guide to Spherical Equivariant Graph Transformers](https://alchemybio.substack.com/p/spherical-equivariant-graph-transformer)| Spherical equivariant GNNs and SE(3)-Transformers explained with protein and molecular examples |
 | | [Dummy's Guide to Modern LLM Sampling](https://rentry.org/samplers)| Tokenizers and LLM inference |
 | | [LoRA Hyperparameters Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide/lora-hyperparameters-guide)| Best practices for LoRA hyperparameters and how they affect the fine-tuning process |
-| | [LLM Embeddings Explained](https://huggingface.co/spaces/hesamation/primer-llm-embedding)| f}Fundamentals of embeddings |
+| | [LLM Embeddings Explained](https://huggingface.co/spaces/hesamation/primer-llm-embedding)|  Fundamentals of embeddings |
 | | [Transformers from Scratch](https://e2eml.school/transformers.html)| overview of the Transformer architecture  |
 || [From Random Forests to RLVR: A Short History of ML/AI Hello Worlds](https://sebastianraschka.com/blog/2025/hello-world-ai.html) | Timeline of ML/DL/GenAI “Hello World” examples, from Random Forests to RL-trained LLMs |
 | | [Diffusion Explorer](https://github.com/helblazer811/Diffusion-Explorer)| Interactive visualizations of the geometric intuition behind diffusion models |
@@ -174,7 +174,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [ Understanding and Coding the Self-Attention Mechanism of LLMs From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)| understand how self-attention works from scratch  | 
 | | [A Developer's Guide to Finetuning and Distilling Language Models ](https://awesomeagents.ai/guides/finetuning-and-distillation-guide/ )| Guide to Finetuning covering techniques, tools, datasets, and cloud GPU options| 
 | | [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)| Train and inference GPT in 243 lines of pure, dependency-free Python (check out the [original post](https://x.com/karpathy/status/2021694437152157847) for other language implementations)|
-
+| | [TorchCode](https://github.com/duoan/TorchCode)|  Practice pytorch implementing operators and architectures from scratch |
 
 # Python and computer science  
 ## Courses
