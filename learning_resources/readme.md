@@ -62,7 +62,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [ESMBind (ESMB): Low Rank Adaptation of ESM-2 for Protein Binding Site Prediction](https://huggingface.co/blog/AmelieSchreiber/esmbind) | Fine-tuning ESM2 using LoRA for Protein Binding Site Prediction|
 | | [chumby tutorials](https://github.com/esbgkannan/chumby) | visualization methods for the classification of protein families using embeddings derived from protein language models (i.e. ESM1b) | 
 | | [minAlphaFold2](https://github.com/ChrisHayduk/minAlphaFold2) | A minimal PyTorch re-implementation of AlphaFold2's model & training | 
-
+| | [The ML Engineer's Guide to Protein AI]https://huggingface.co/blog/MaziyarPanahi/protein-ai-landscape) |  protein AI landscape: key architectures, the open-source ecosyste and tool selection |
 
 # Biological data visualization
 ## Courses
