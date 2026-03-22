@@ -58,7 +58,7 @@ Databases for sequence and structures derived from viruses
 Databases with experimental and computationally predicted protein structures
 | Name | Description | 
 |-----------|-----------| 
-| [alphafold DB](https://alphafold.ebi.ac.uk/) | predicted structures for 200M proteins from the uniprot  |
+| [alphafold Database](https://alphafold.ebi.ac.uk/) | predicted structures for 200M proteins from the uniprot (check out the [FTP](https://ftp.ebi.ac.uk/pub/databases/alphafold/)) |
 | [esmatlas](https://esmatlas.com/) | predicted structures for 600M proteins from MGnify  |
 | [PDB](https://www.rcsb.org/stats/) | 250k protein structures |
 | [ModelArchive](https://modelarchive.org/) | ~620k structure models that are not based on experimental data  |
