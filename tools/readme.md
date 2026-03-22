@@ -163,7 +163,7 @@ Tools for protein structure prediction and biomolecular complexes
 | [ColabFold](https://github.com/sokrypton/ColabFold)| protein structure prediction on Google colab with a graphical user interface|
 | [localcolabfold](https://github.com/YoshitakaMo/localcolabfold) | ColabFold on your local PC | 
 | [ESMFold](https://github.com/facebookresearch/esm?tab=readme-ov-file#esmfold) | structure prediction with protein language models (check out the [webserver](https://esmatlas.com/resources?action=fold)) |
-| [openfold](https://github.com/aqlaboratory/openfold)| Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2 (check out some optimizations for [massive structure prediction](https://www.biorxiv.org/content/10.64898/2026.03.11.711233v1))|
+| [openfold](https://github.com/aqlaboratory/openfold)| Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2 (check out some optimizations using [TensorRT and cuEquivariance](https://openfold.readthedocs.io/en/latest/Inference.html#speeding-up-inference-with-tensorrt) for structure prediction at scale)|
 | [openfold3](https://github.com/aqlaboratory/openfold-3) | A fully open source biomolecular structure prediction model based on AlphaFold3 | 
 | [Boltz](https://github.com/jwohlwend/boltz)| biomolecular interaction prediction |
 | [flashfold](https://github.com/chayan7/flashfold) | command-line tool for faster protein structure prediction |
