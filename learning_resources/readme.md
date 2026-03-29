@@ -174,7 +174,8 @@ Note: resources marked with ⭐ are highly recommended
 | | [ Understanding and Coding the Self-Attention Mechanism of LLMs From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)| understand how self-attention works from scratch  | 
 | | [A Developer's Guide to Finetuning and Distilling Language Models ](https://awesomeagents.ai/guides/finetuning-and-distillation-guide/ )| Guide to Finetuning covering techniques, tools, datasets, and cloud GPU options| 
 | | [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)| Train and inference GPT in 243 lines of pure, dependency-free Python (check out the [original post](https://x.com/karpathy/status/2021694437152157847) for other language implementations)|
-| | [TorchCode](https://github.com/duoan/TorchCode)|  Practice pytorch implementing operators and architectures from scratch |
+| | [JAX-LM](https://www.chuyishang.com/blog/2026/jax-lm/)| implement a language model from scratch in JAX, then scale it up with distributed training across multiple GPUs |
+
 
 # Python and computer science  
 ## Courses
@@ -190,6 +191,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting/) | Basics of Bash scripting |
 | | [Dan Kornas courses](https://www.youtube.com/@dankornas/playlists) | Fundamentals of python, numpy, pandas, matplotlib, machine learning and pytorch |
 ||[Python from scratch](https://open.cs.uwaterloo.ca/python-from-scratch/)| Learn Python from scratch|
+
 ## Useful publications
 | | Name | Description |
 |-----------|-----------|-----------|
@@ -204,6 +206,7 @@ Note: resources marked with ⭐ are highly recommended
 | | [deep wiki](https://deepwiki.com/) | provides documentation you can talk to, for every repo in the world (i.e. Deep Research for GitHub. e.g. [AlphaFold2 repo](https://deepwiki.com/google-deepmind/alphafold)) |
 | ⭐ | [Code Wiki](https://codewiki.google/) | transforms any GitHub repo into a guide, diagrams, technical walkthroughs and a code-expert chatbot |
 | | [How Terminals Work](https://how-terminals-work.vercel.app/) |interactive guide to understanding terminals |
+| | [TorchCode](https://github.com/duoan/TorchCode)|  Practice pytorch implementing operators and architectures from scratch |
 
 
 # Math
