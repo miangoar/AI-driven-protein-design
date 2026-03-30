@@ -175,6 +175,9 @@ Note: resources marked with ⭐ are highly recommended
 | | [A Developer's Guide to Finetuning and Distilling Language Models ](https://awesomeagents.ai/guides/finetuning-and-distillation-guide/ )| Guide to Finetuning covering techniques, tools, datasets, and cloud GPU options| 
 | | [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)| Train and inference GPT in 243 lines of pure, dependency-free Python (check out the [original post](https://x.com/karpathy/status/2021694437152157847) for other language implementations)|
 | | [JAX-LM](https://www.chuyishang.com/blog/2026/jax-lm/)| implement a language model from scratch in JAX, then scale it up with distributed training across multiple GPUs |
+| | [A Visual Guide to Attention Variants in Modern LLMs](https://magazine.sebastianraschka.com/p/visual-attention-variants)| recent attention variants (check out the [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/) for a detailed description of 45 LLM architectures) |
+
+
 
 
 # Python and computer science  
@@ -218,7 +221,8 @@ Note: resources marked with ⭐ are highly recommended
 | | [Immersive linear algebra](https://immersivemath.com/ila/index.html)| Introduction to linear algebra with interactive visualizations |
 | | [Interactive Linear Algebra](https://personal.math.ubc.ca/~tbjw/ila/index.html)| Interactive Linear Algebra |
 | ⭐ | [Essence of linear algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Core concept of linear algebra with a visuals-first approach (Check out the [spanish version of this channel](https://www.youtube.com/playlist?list=PLIb_io8a5NB2DddFf-PwvZDCOUNT1GZoA))|
-
+| | [Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdMD5hEU5uinyBYFFPXMYBfn) | R & stats illustrations |
+ 
 ## Useful publications
 |  | Name | Description |
 |-----------|-----------|-----------|
