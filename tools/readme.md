@@ -356,7 +356,8 @@ Tools for visualization of proteins, structures, alignments, phylogenies, and mo
 | [ProteinCHAOS](https://dzyla.github.io/ProteinCHAOS/) | an artistic tool inspired by molecular dynamics to capture protein flexibility over time |
 | [ProteinView](https://github.com/001TMF/ProteinView) | Terminal protein structure viewer: load, rotate, and explore PDB/CIF structures right in your terminal |
 | [PyMolAI](https://github.com/ravishar313/PyMolAI) | integrated AI assistant panel for PyMOL |
- 
+| [PyMOL-RS](https://github.com/zmactep/pymol-rs) | A Rust reimplementation of PyMOL |
+
 
 
 # Molecules & cheminformatics
