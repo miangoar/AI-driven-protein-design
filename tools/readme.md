@@ -186,6 +186,8 @@ Tools for protein structure prediction and biomolecular complexes
 | [IPSAE](https://github.com/DunbrackLab/IPSAE) | Scoring function for interprotein interactions in AlphaFold2 and AlphaFold3 |
 | [peppr](https://github.com/aivant/peppr) | a package for evaluation of predicted poses like RMSD, TM-score, lDDT, lDDT-PLI, fnat, iRMSD, LRMSD, DockQ  |
 | [alphafast](https://github.com/RomeroLab/alphafast) | high-throughput AlphaFold3 inference with MMSeqs2-GPU |
+| [Protenix](https://github.com/bytedance/Protenix) | High-Accuracy Open-Source Biomolecular Structure Prediction |
+| []() |  |
 
 
 # Structure generation 
