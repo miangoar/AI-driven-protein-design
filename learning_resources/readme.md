@@ -210,6 +210,7 @@ Note: resources marked with ⭐ are highly recommended
 | ⭐ | [Code Wiki](https://codewiki.google/) | transforms any GitHub repo into a guide, diagrams, technical walkthroughs and a code-expert chatbot |
 | | [How Terminals Work](https://how-terminals-work.vercel.app/) |interactive guide to understanding terminals |
 | | [TorchCode](https://github.com/duoan/TorchCode)|  Practice pytorch implementing operators and architectures from scratch |
+| | [Floating point from scratch: Hard Mode](https://essenceia.github.io/projects/floating_dragon/)|  mechanics, pitfalls, and hardware implementation of floating-point arithmetic |
 
 
 # Math
