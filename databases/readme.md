@@ -28,6 +28,9 @@ Databases of protein sequences with functional, taxonomic, or evolutionary annot
 | [ColabFold Downloads](https://colabfold.mmseqs.com/) | databases to generate diverse MSAs to predict protein structures  |
 | [Clustering NCBI's nr database](https://github.com/Arcadia-Science/2023-nr-clustering) | clustered nr at 90% length, 90% identity |
 | [TEDLH: TED Library of HMMs](https://figshare.com/articles/dataset/TED-to-CATH_HHM_database/28531754) | 765,248 HMMs were created from high-quality domain annotations from the Encyclopedia of Domains that match CATH domains |
+| [DIAMOND DeepClust database](https://objectstore.hpccloud.mpcdf.mpg.de/deepclust/index.html) | 19B sequences clustered into 544M non-singleton clusters (check out the DeepClust DB adapted to run with [colabfold](https://github.com/drostlab/deepclust_colabfold))|
+| []() |  |
+
 
 # Genome & metagenome databases
 Databases of assembled genomes and metagenomic data from diverse organisms and environments
