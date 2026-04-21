@@ -325,6 +325,8 @@ Tools for molecular dynamics, physical modeling, and analysis of trajectories
 | [gromacs_copilot](https://github.com/ChatMol/gromacs_copilot) | AI-powered assistant for Molecular Dynamics simulations |
 | [moleculatio](https://moleculatio.yamlab.app) | chemoinformatics, quantum chemistry and molecular dynamics simulations or small molecules |
 | [pdb2pqr](https://github.com/Electrostatics/pdb2pqr) | automates the common tasks of preparing structures for continuum solvation calculations and biomolecular structure modeling, analysis, and simulation |
+| [CALVADOS](https://github.com/KULL-Centre/CALVADOS) | molecular dynamics simulations of intrinsically disordered proteins and proteins (check out [AF-CALVADOS](https://github.com/KULL-Centre/_2025_buelow_AF-CALVADOS) to run a simulation for any protein in the AFDB)   |
+
 
 
 # Biological data visualization
