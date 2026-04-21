@@ -172,6 +172,7 @@ Tools for protein structure prediction and biomolecular complexes
 | [AFsample2](https://github.com/iamysk/AFsample2/) |  induce significant conformational diversity for a given protein |
 | [alphafold3 tools](https://github.com/cddlab/alphafold3_tools) | Toolkit for input generation and output analysis |
 | [af3cli](https://github.com/SLx64/af3cli) | generating AlphaFold3 input files |
+| [af_pipeline](https://github.com/isblab/af_pipeline) | toolbox for Alphafold-related workflows | 
 | [RareFold](https://github.com/patrickbryant1/RareFold) | Structure prediction and design of proteins with 29 noncanonical amino acids |
 | [AFusion](https://github.com/Hanziwww/AlphaFold3-GUI) | AlphaFold 3 GUI & Toolkit with Visualization |
 | [Hackable AlphaFold 3](https://github.com/chaitjo/alphafold3/) | a lightweight, hackable way to run AF3 to experiment without the massive MSA databases or Docker overhead |
