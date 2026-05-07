@@ -396,6 +396,7 @@ Tools for machine learning
 | [xgboost](https://github.com/dmlc/xgboost) | all you need | 
 | [LightGBM](https://github.com/microsoft/LightGBM) | high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithm  | 
 | [catboost](https://github.com/catboost/catboost) | high performance Gradient Boosting on Decision Trees | 
+| [optuna](https://github.com/optuna/optuna) | a hyperparameter optimization framework | 
 
 
 
