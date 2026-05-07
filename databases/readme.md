@@ -75,6 +75,11 @@ Databases with experimental and computationally predicted protein structures
 | [pdbtm](https://pdbtm.unitmp.org/) | transmembrane protein selection of the PDB  |
 | [The Insect Protein Structure (TIPS) database](https://tips.shenxlab.com/) | 13.29M structures from 824 insects across all 28 orders (1.66M from the AFDB and 11.63M newly predicted structures)  |
 | [The Consistency Distilled Synthetic Protein Database](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/resources/proteina-atomistica_data?version=release) | 455,473 high-quality structures from Synthetic sequences  |
+| [NanoFold Public](https://huggingface.co/datasets/ChrisHayduk/nanofold-public) | a huggingface dataset with 11k structures to train AF-Like models  |
+
+
+NanoFold Public
+
 
 # Domain & fold databases
 Databases that classify protein domains and folds
