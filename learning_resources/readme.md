@@ -71,6 +71,8 @@ Note: resources marked with ⭐ are highly recommended
 | ⭐ |[Teaching protein structure and function through molecular visualization](https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.21860)| tutorials that introduce students to molecular graphics with ChimeraX (Download the Supporting Information)|
 | | [Modeling proteins using AlphaFold and ColabFold](https://docs.google.com/document/d/1_g1_M-I40CqOQc5obwAt08YntC5D2Z_WNz6mYuUQtyc/edit?tab=t.0#heading=h.m7ei2f72v2ig)| How to predict protein structures using ColabFold and analyze them with ChimeraX |
 | | [Introduction to Molecular Animation with ChimeraX](https://pdb101.rcsb.org/train/training-events/animation) | How to use ChimeraX to create animations | 
+| | [Seeing the Invisible: Learning to Teach with Biomolecular Visualization](https://utexas.pressbooks.pub/molviz-education/) | biomolecular visualization using tools like ChimeraX, iCn3D, Mol*, and PyMOL | 
+| | []() |  | 
 
 ## Useful publications
 | | Name | Description |
