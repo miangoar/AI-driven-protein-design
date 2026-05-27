@@ -45,7 +45,7 @@ Databases of assembled genomes and metagenomic data from diverse organisms and e
 | [annoview](http://annoview.uwaterloo.ca/annoview/) | genome visualization and exploration of gene neighborhoods  |
 | [PlasmidScope](https://plasmid.deepomics.org/) |   852,600 plasmid sequences with annotations and structures |
 | [Life at the extremes](https://zenodo.org/records/17148767) | 693 high-quality extremophile microbial genomes (check out the [paper](https://academic.oup.com/nargab/article/7/4/lqaf189/8402370))|
-
+| [Sandpiper](https://sandpiper.qut.edu.au/) | interrogating ~910k metagenome datasets |
 
 # Viral databases
 Databases for sequence and structures derived from viruses
