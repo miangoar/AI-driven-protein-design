@@ -470,8 +470,8 @@ Tools that use the GPU for scientific computing, machine learning, and large-sca
 | [einops](https://github.com/arogozhnikov/einops) | tensor operations for readable and reliable code |
 | [numba](https://github.com/numba/numba) | NumPy aware dynamic Python compiler  |
 | [flash-kmeans](https://github.com/svg-project/flash-kmeans) | Fast and memory-efficient exact kmeans |
+| [flashlib](https://github.com/FlashML-org/flashlib) | Fast and memory-efficient classical machine learning (kmeans, knn, pca, svd, dbscan, hdbscan, umap, t-sne, regression, GEMM, and more) |
 
- 
 
 # Statistics
 Tools for statistics 
