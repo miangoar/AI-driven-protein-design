@@ -46,6 +46,8 @@ Databases of assembled genomes and metagenomic data from diverse organisms and e
 | [PlasmidScope](https://plasmid.deepomics.org/) |   852,600 plasmid sequences with annotations and structures |
 | [Life at the extremes](https://zenodo.org/records/17148767) | 693 high-quality extremophile microbial genomes (check out the [paper](https://academic.oup.com/nargab/article/7/4/lqaf189/8402370))|
 | [Sandpiper](https://sandpiper.qut.edu.au/) | interrogating ~910k metagenome datasets |
+| [ArchaeaHQ](https://figshare.com/articles/dataset/ArchaeaHQ_v_1_00_2026/32266599) | 21,644 archaeal genomes curated from from 35,993 assemblies from NCBI |
+
 
 # Viral databases
 Databases for sequence and structures derived from viruses
