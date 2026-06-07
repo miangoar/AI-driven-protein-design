@@ -133,6 +133,7 @@ Tools for downloading and mapping biological data from public databases like NCB
 | [RCSB API](https://github.com/rcsb/py-rcsb-api) | Python interface for RCSB PDB API services (check out the [guidelines and tutorials](https://pdb101.rcsb.org/news/684078fe300817f1b5de793a)) |
 | [AFDB Structure Extractor](https://project.iith.ac.in/sharmaglab/alphafoldextractor/index.html) | download structures using AF IDs, Uniprot IDs, Locus tags, RefSeq Protein IDs and NCBI TaxIDs |
 | [PDBe MCP Servers](https://github.com/PDBeurope/PDBe-MCP-Servers) | Model Context Protocol (MCP) servers that provides seamless access to the PDB and AFDB |
+| [genome-metadata-toolkit](https://github.com/Pedrolleao/genome-metadata-toolkit) | NCBI genome assembly metadata, taxonomy lineage, and unified pipeline tools |
 
 
 
