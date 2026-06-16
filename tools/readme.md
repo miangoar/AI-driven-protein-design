@@ -366,7 +366,7 @@ Tools for visualization of proteins, structures, alignments, phylogenies, and mo
 | [ProteinView](https://github.com/001TMF/ProteinView) | Terminal protein structure viewer: load, rotate, and explore PDB/CIF structures right in your terminal |
 | [PyMolAI](https://github.com/ravishar313/PyMolAI) | integrated AI assistant panel for PyMOL |
 | [Patinae (AKA PyMOL-RS)](https://github.com/zmactep/pymol-rs) | A Rust reimplementation of PyMOL |
-
+| [co-pymol](https://github.com/soo-jeongkim/co-pymol) | PyMOL plugin to drive PyMOL from Claude Code, Cursor, or any MCP client |
 
 
 # Molecules & cheminformatics
