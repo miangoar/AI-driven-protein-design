@@ -30,6 +30,8 @@ Note: resources marked with ⭐ are highly recommended
 | |[Practical Simulations for Molecules and Materials](https://www.erastova.xyz/teaching/practical-simulations-for-molecules-and-materials/)| molecular modeling |
 | |[DeepChem Step-by-Step Tutorial](https://deepchem.io/tutorials/the-basic-tools-of-the-deep-life-sciences/)| Modeling Proteins with deep learning, Protein ligand modeling, Bioinformatics, Molecular ML and more with DeepChem|
 | | [Moving Beyond Memorization](https://github.com/plinder-org/moving_beyond_memorisation) | training and evaluating deep learning methods to predict protein-protein and protein-ligand complex |
+| | [Protein Engineering](https://www.betterenzyme.com/) | Introduction to Protein engineering |
+| | []() | |
 
 
 ## Useful publications
