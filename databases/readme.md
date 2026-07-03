@@ -155,7 +155,7 @@ Standardized datasets for comparing ML methods
 Tools, models, labs, companies, and literature in protein science and AI
 | Name | Description | 
 |-----------|-----------| 
-| [ProteinDesignLabs](https://github.com/Zuricho/ProteinDesignLabs) | List of computational protein design research labs |
+| [ProteinDesignLabs](https://github.com/Zuricho/ProteinDesignLabs) | List of computational protein design research labs. Check out this other page for a better visualization of [Protein Design Labs](https://ullahsamee.github.io/proteindesigngroups/) and curren academic positions |
 | [TechBio Company Database](https://harrisbio.substack.com/p/the-techbio-company-database) |  50+ TechBio companies |
 | [biolists/folding_tools](https://github.com/biolists/folding_tools) | Curated list of AI-based tools for protein structure prediction and analysis |
 | [hefeda/design_tools](https://github.com/hefeda/design_tools) | Curated list of AI-based tools for protein analysis and design |
