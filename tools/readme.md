@@ -459,6 +459,8 @@ Tools for tabular data
 | [tabicl](https://github.com/soda-inria/tabicl) | tabular model for classification |
 | [skrub](https://github.com/skrub-data/skrub) | preprocessing and feature engineering for tabular machine learning (check out the [learning materials](https://skrub-data.org/skrub-materials/index.html) |
 | [dtype_diet](https://github.com/noklam/dtype_diet) | Optimize your memory consumption when using pandas by changing dtypes without data loss  |
+| [tabfm](https://github.com/google-research/tabfm) | perform zero-shot classification and regression on tabular datasets with mixed column types out-of-the-box|
+
 
 # Hardware-accelerated computation
 Tools that use the GPU for scientific computing, machine learning, and large-scale similarity search
