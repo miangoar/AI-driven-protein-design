@@ -192,7 +192,9 @@ Tools for protein structure prediction and biomolecular complexes
 | [peppr](https://github.com/aivant/peppr) | a package for evaluation of predicted poses like RMSD, TM-score, lDDT, lDDT-PLI, fnat, iRMSD, LRMSD, DockQ  |
 | [alphafast](https://github.com/RomeroLab/alphafast) | high-throughput AlphaFold3 inference with MMSeqs2-GPU |
 | [Protenix](https://github.com/bytedance/Protenix) | High-Accuracy Open-Source Biomolecular Structure Prediction |
-| []() |  |
+| [esmfold2](https://github.com/Biohub/esm#esmfold2) | structure prediction model that combines ESMC 6b language model embeddings with a diffusion-based structure prediction architecture |
+| [OpenDDE](https://github.com/aurekaresearch/OpenDDE) | all-atom biomolecular foundation model that turns co-folding into a scalable engine for structure prediction, design, and optimization in drug discovery |
+
 
 
 # Structure generation 
@@ -235,7 +237,7 @@ Tools for AI-driven protein design, including binders, stability optimization, a
 | [Protein Design Skills](https://proteinbase.com/protein-design-skills) | Claude Code skills for protein design |
 | [ProtFlow](https://github.com/mabr3112/ProtFlow) | automate protein design workflows with a python wrapper around common protein design tools (check out this [tutorial](https://www.youtube.com/watch?v=Rji1WPt_gig)) |
 | [biopipelines](https://github.com/locbp-uzh/biopipelines) | protein design workflows that can run in Jupyter notebooks and SLURM-based clusters |
-| [SplitSeek-Pro]([https://github.com/MSDLLCpapers/ovo](https://github.com/alwaysniu/SplitSeek-Pro)) | evaluate the feasibility of protein engineering strategies involving residue-level splitting, such as circular permutation or split–reconstitutions (check out the [webserver](https://splitseek.topo.bio/)) |
+| [SplitSeek-Pro](https://github.com/alwaysniu/SplitSeek-Pro) | evaluate the feasibility of protein engineering strategies involving residue-level splitting, such as circular permutation or split–reconstitutions (check out the [webserver](https://splitseek.topo.bio/)) |
 
 
 # Representation learning
@@ -265,6 +267,8 @@ Tools for computing vectorial representations of protein sequences and structure
 | [pypropel](https://github.com/2003100127/pypropel) | sequence and structural data preprocessing, feature generation, and post-processing for model performance evaluation and visualisation |
 | [atomworks](https://github.com/RosettaCommons/atomworks) | A generalized computational framework for biomolecular modeling |
 | [mini3di](https://github.com/althonos/mini3di) | NumPy port of the foldseek code for encoding protein structures to 3di |
+| [ESM-C](https://github.com/Biohub/esm#esmc) | protein language model that has learned representations of protein biology |
+
 
 # Sequence generation
 Tools for designing protein sequences 
