@@ -60,6 +60,8 @@
 | [This Equation Transformed How We Fight COVID](https://www.youtube.com/watch?v=vWiIAZB1UDY&ab_channel=NanoRooms) | Fourier transform applied to protein biology |
 | [Recent Methods for Protein Structure Generation and Design](https://www.youtube.com/watch?v=smjYJSudwr0&ab_channel=BostonProteinDesignandModelingClub) | From hallucination to diffusion models, including a short tutorial |
 | [Special Lectures on Machine Learning and Protein Folding](https://nazimbouatta.scholars.harvard.edu/lectures) | Detailed discussion of the AlphaFold2 architecture, its limitations, and applications by Nazim Bouatta |
+| [Similarity Metrics & Confidence Scores in Protein Structure Prediction](https://www.youtube.com/watch?v=dVFHr0ZV4-0) | guide to the metrics used to evaluate and compare protein structures |
+
 
 
 ## Machine Learning
