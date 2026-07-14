@@ -157,6 +157,10 @@ Tools for protein structure search, alignment, and comparison using geometric, t
 | [Muscle-3D](https://github.com/rcedgar/muscle) | multiple protein structure alignment |
 | [PAthreader](http://zhanglab-bioinf.com/PAthreader/) | remote homologous template recognition |
 | [alphafind](https://alphafind.ics.muni.cz/) | structure-based search of the entire AFDB and TED using Uniprot ID, PDB ID, or Gene Symbol |
+| [IPSAE](https://github.com/DunbrackLab/IPSAE) | Scoring function for interprotein interactions in AlphaFold2 and AlphaFold3 |
+| [LIVIA](https://github.com/flyark/LIVIA) | Scripts and Browser-based tools for analyzing protein-protein interactions |
+
+
 
 # Structure prediction
 Tools for protein structure prediction and biomolecular complexes
@@ -188,7 +192,6 @@ Tools for protein structure prediction and biomolecular complexes
 | [Cfold](https://github.com/patrickbryant1/Cfold) | structure prediction of alternative protein conformations |
 | [AF_unmasked](https://github.com/clami66/AF_unmasked) | structure prediction for huge protein complexes (~27 chains and ~8400aa) |
 | [ConservFold](https://www.rodrigueslab.com/resources) | map residue conservation into structures with AF2 (check out the notebook for [multimers](https://colab.research.google.com/drive/1Lv-akfLE7kTCFCWaEyHAtsPCeXYD3xvH?usp=sharing)) |
-| [IPSAE](https://github.com/DunbrackLab/IPSAE) | Scoring function for interprotein interactions in AlphaFold2 and AlphaFold3 |
 | [peppr](https://github.com/aivant/peppr) | a package for evaluation of predicted poses like RMSD, TM-score, lDDT, lDDT-PLI, fnat, iRMSD, LRMSD, DockQ  |
 | [alphafast](https://github.com/RomeroLab/alphafast) | high-throughput AlphaFold3 inference with MMSeqs2-GPU |
 | [Protenix](https://github.com/bytedance/Protenix) | High-Accuracy Open-Source Biomolecular Structure Prediction |
