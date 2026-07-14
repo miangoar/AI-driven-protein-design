@@ -198,6 +198,7 @@ Tools for protein structure prediction and biomolecular complexes
 | [esmfold2](https://github.com/Biohub/esm#esmfold2) | structure prediction model that combines ESMC 6b language model embeddings with a diffusion-based structure prediction architecture |
 | [OpenDDE](https://github.com/aurekaresearch/OpenDDE) | all-atom biomolecular foundation model that turns co-folding into a scalable engine for structure prediction, design, and optimization in drug discovery |
 | [AF_cache](https://github.com/clami66/AF_cache) | Nextflow pipeline for accelerating protein-protein interaction prediction using AF2 and AF3 |
+| [boltzyml](https://github.com/Ayushmania2002/boltzyml) | scripts and webserver to automate Boltz-2 input prep for ternary (Protein + Ligand + Protein) binding prediction |
 
 
 
