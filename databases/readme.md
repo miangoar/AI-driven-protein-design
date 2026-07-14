@@ -30,7 +30,7 @@ Databases of protein sequences with functional, taxonomic, or evolutionary annot
 | [TEDLH: TED Library of HMMs](https://figshare.com/articles/dataset/TED-to-CATH_HHM_database/28531754) | 765,248 HMMs were created from high-quality domain annotations from the Encyclopedia of Domains that match CATH domains |
 | [DIAMOND DeepClust database](https://objectstore.hpccloud.mpcdf.mpg.de/deepclust/index.html) | 19B sequences clustered into 544M non-singleton clusters (check out the DeepClust DB adapted to run with [colabfold](https://github.com/drostlab/deepclust_colabfold))|
 | [PZLAST-MAG](https://pzlast.nig.ac.jp/pzlast/mag) | Search homologs between 0.4 billion MAG-derived protein sequences |
-| []() |  |
+| [aminoweb](https://www.litefold.ai/blog/aminoweb) | 29 cleaned, standardized, ML-ready protein datasets with sequences, experimental/predicted structures, functional annotations, alignments, variant-effect assays, stability measurements, binding datasets and specialized peptide or ligand resources |
 
 
 # Genome & metagenome databases
