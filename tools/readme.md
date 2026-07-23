@@ -304,6 +304,7 @@ Tools for designing protein sequences given protein backbone or structure
 | [ByProt](https://github.com/BytedProtein/ByProt) | Efficient non-autoregressive ProteinMPNN variant |
 | [Caliby](https://github.com/ProteinDesignLab/caliby) | Potts model-based protein sequence design method that can condition on structural ensembles |
 | [PottsMPNN](https://github.com/KeatingLab/PottsMPNN) | generate sequences and predict energies of mutations |
+| [DynamicMPNN](https://github.com/Alex-Abrudan/DynamicMPNN) | generates protein sequences compatible with multiple conformational states|
 
 
 
