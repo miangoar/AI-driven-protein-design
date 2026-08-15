@@ -181,8 +181,8 @@ Note: resources marked with ⭐ are highly recommended
 | | [JAX-LM](https://www.chuyishang.com/blog/2026/jax-lm/)| implement a language model from scratch in JAX, then scale it up with distributed training across multiple GPUs |
 | | [A Visual Guide to Attention Variants in Modern LLMs](https://magazine.sebastianraschka.com/p/visual-attention-variants)| recent attention variants (check out the [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/) for a detailed description of 45 LLM architectures) |
 | | [You could have designed state of the art positional encoding](https://huggingface.co/blog/designing-positional-encoding) | step-by-step discovery of state-of-the-art positional encoding in transformer models |
+| | [Is It Better to Rent or Buy a GPU?](https://www.gpu-rent-or-buy.com/) | a calculator to estimate whether it's better to rent or buy a specific GPU  |
 | | []() |  |
-
 
 
 # Python and computer science  
