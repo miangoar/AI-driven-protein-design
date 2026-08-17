@@ -49,6 +49,8 @@ Tools for sequence manipulation, search, comparison, and analysis of DNA, RNA, a
 | [BuddySuite](https://github.com/biologyguy/BuddySuite) | manipulating sequence, alignment, and phylogenetic tree files |
 | [biotite](https://www.biotite-python.org/latest/) | sequence and structure manipulation and analysis |
 | [MPI Bioinformatics Toolkit!](https://toolkit.tuebingen.mpg.de/) | multiple bioinformatics tools |
+| [riboseek](https://github.com/steineggerlab/riboseek) | fast and sensitive search of large RNA sequence sets |
+
 
 # Multiple sequence alignment
 Tools for building, trimming, evaluating, and manipulating multiple sequence alignments, from traditional algorithms to embedding-based methods
