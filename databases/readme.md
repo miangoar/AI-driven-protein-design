@@ -80,6 +80,7 @@ Databases with experimental and computationally predicted protein structures
 | [The Consistency Distilled Synthetic Protein Database](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/resources/proteina-atomistica_data?version=release) | 455,473 high-quality structures from Synthetic sequences  |
 | [NanoFold](https://huggingface.co/datasets/ChrisHayduk/nanofold-public) | a huggingface dataset with 11k structures to train AF-Like models (more info in their repo in [github](https://github.com/ChrisHayduk/nanoFold-Competition)) |
 | [Bindome](https://github.com/wejulius/Bindome) |  306,151 in silico binder candidates for 8,296 human proteins |
+| [OpenFold datasets](https://portal.openfold.io/datasets) |  Training and evaluation datasets used in OpenFold3 |
 
 
 
