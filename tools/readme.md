@@ -542,5 +542,6 @@ Tools for scientific reasoning, literature review, and biological data explorati
 | [Futurehouse](https://platform.futurehouse.org/) |  agents for literature review and scientific reasoning |
 | [biomni](https://github.com/snap-stanford/biomni) | Multimodal AI system for biological data analysis  |
 | [OpenScholar](https://openscilm.allen.ai/) | retrieval-augmented LM that answers scientific queries |
-
+| [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Turn any AI agent into an AI Scientist with 166 scientific and research skills  |
+| []() |  |
 
