@@ -158,6 +158,8 @@ Note: resources marked with ⭐ are highly recommended
 | | [The Principles of Diffusion Models](https://www.arxiv.org/abs/2510.21890)|  Introduction to diffusion modeling  |
 | | [Interpretability of Large Language Models](https://github.com/mega002/llm-interp-tau)| interpretability of LLMs |
 | | [Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092)| primer on diffusion unifying continuous domains and discrete/categorical structures |
+| | [The Principles of Diffusion Models](https://arxiv.org/abs/2510.21890)| the principles that have shaped the development of diffusion models, tracing their origins and showing how different formulations arise |
+
 
 ## Useful publications
 |  | Name | Description |
