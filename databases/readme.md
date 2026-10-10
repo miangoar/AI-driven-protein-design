@@ -31,7 +31,9 @@ Databases of protein sequences with functional, taxonomic, or evolutionary annot
 | [DIAMOND DeepClust database](https://objectstore.hpccloud.mpcdf.mpg.de/deepclust/index.html) | 19B sequences clustered into 544M non-singleton clusters (check out the DeepClust DB adapted to run with [colabfold](https://github.com/drostlab/deepclust_colabfold))|
 | [PZLAST-MAG](https://pzlast.nig.ac.jp/pzlast/mag) | Search homologs between 0.4 billion MAG-derived protein sequences |
 | [aminoweb](https://www.litefold.ai/blog/aminoweb) | 29 cleaned, standardized, ML-ready protein datasets with sequences, experimental/predicted structures, functional annotations, alignments, variant-effect assays, stability measurements, binding datasets and specialized peptide or ligand resources |
+| [Quadrupling the protein family space with global metagenomics](https://zenodo.org/records/22253220) | 6.5M protein sequences from putative novel families and 75K AlphaFold2-predicted structures with pTM ≥ 0.5 containing putative novel folds |
 | []() |   |
+
 
 # Genome & metagenome databases
 Databases of assembled genomes and metagenomic data from diverse organisms and environments
