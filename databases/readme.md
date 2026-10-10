@@ -31,7 +31,7 @@ Databases of protein sequences with functional, taxonomic, or evolutionary annot
 | [DIAMOND DeepClust database](https://objectstore.hpccloud.mpcdf.mpg.de/deepclust/index.html) | 19B sequences clustered into 544M non-singleton clusters (check out the DeepClust DB adapted to run with [colabfold](https://github.com/drostlab/deepclust_colabfold))|
 | [PZLAST-MAG](https://pzlast.nig.ac.jp/pzlast/mag) | Search homologs between 0.4 billion MAG-derived protein sequences |
 | [aminoweb](https://www.litefold.ai/blog/aminoweb) | 29 cleaned, standardized, ML-ready protein datasets with sequences, experimental/predicted structures, functional annotations, alignments, variant-effect assays, stability measurements, binding datasets and specialized peptide or ligand resources |
-
+| []() |   |
 
 # Genome & metagenome databases
 Databases of assembled genomes and metagenomic data from diverse organisms and environments
@@ -47,7 +47,7 @@ Databases of assembled genomes and metagenomic data from diverse organisms and e
 | [Life at the extremes](https://zenodo.org/records/17148767) | 693 high-quality extremophile microbial genomes (check out the [paper](https://academic.oup.com/nargab/article/7/4/lqaf189/8402370))|
 | [Sandpiper](https://sandpiper.qut.edu.au/) | interrogating ~910k metagenome datasets |
 | [ArchaeaHQ](https://figshare.com/articles/dataset/ArchaeaHQ_v_1_00_2026/32266599) | 21,644 archaeal genomes curated from from 35,993 assemblies from NCBI |
-
+| []() |   |
 
 # Viral databases
 Databases for sequence and structures derived from viruses
@@ -59,6 +59,8 @@ Databases for sequence and structures derived from viruses
 | [ViralZone](https://www.nature.com/articles/s41586-024-07809-y#data-availability) | 67,715 eukaryotic virus proteins modeled with AlphaFold2 |
 | [vire](https://spire.embl.de/vire/) | 1.7M viral genomes recovered from >100k metagenomes from diverse ecosystems that contains >89M proteins |
 | [Unified Human Gut Virome Catalog](https://uhgv.jgi.doe.gov/) | 870k genomes, 1M protein sequence clusters and 56k representative predicted structures of viruses |
+| []() |   |
+
 
 # Protein structure databases
 Databases with experimental and computationally predicted protein structures
@@ -81,7 +83,8 @@ Databases with experimental and computationally predicted protein structures
 | [NanoFold](https://huggingface.co/datasets/ChrisHayduk/nanofold-public) | a huggingface dataset with 11k structures to train AF-Like models (more info in their repo in [github](https://github.com/ChrisHayduk/nanoFold-Competition)) |
 | [Bindome](https://github.com/wejulius/Bindome) |  306,151 in silico binder candidates for 8,296 human proteins |
 | [OpenFold datasets](https://portal.openfold.io/datasets) |  Training and evaluation datasets used in OpenFold3 |
-
+| [idiom db](https://github.com/rotskoff-group/idiom) |  54M intrinsically disordered protein regions curated from the AlphaFold Database |
+| []() |   |
 
 
 
@@ -93,6 +96,7 @@ Databases that classify protein domains and folds
 | [ECOD](http://prodata.swmed.edu/ecod/) | a hierarchical classification of protein domains according to their evolutionary relationship |
 | [cath DB](https://www.cathdb.info/version/v4_3_0/superfamily/3.40.710.10) | Database of protein folds, illustrated with the serine beta-lactamase superfamily |
 | [RepeatsDB](https://repeatsdb.org/home) |  annotation and classification of structural tandem repeat proteins  |
+| []() |   |
 
 # Designed & synthetic proteins
 Databases of engineered proteins
