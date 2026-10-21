@@ -116,6 +116,7 @@ Tools for analysis, manipulation, validation, and characterization of protein st
 | [Relax your structure using OpenMM/Amber](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/relax_amber.ipynb) | Relax your structure |
 | [ProteinsPlus](https://proteins.plus/) | structure mining and modeling, focussing on protein-ligand interactions |
 | [CoEVFold](https://github.com/MishterBluesky/CoEVFold) | analyze protein co-evolution e.g. generating contact maps, gene networks, identifying homomeric and heteromeric interfaces |
+| [ProteinsPlus](https://github.com/uw-ipd/tmol) | all-atom scoring, packing, minimization, and FastRelax in PyTorch. It batches proteins, nucleic acids, ligands, and complexes on CPU or gpu |
 
 
 # Data access
