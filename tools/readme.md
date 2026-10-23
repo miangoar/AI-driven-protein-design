@@ -246,7 +246,7 @@ Tools for AI-driven protein design, including binders, stability optimization, a
 | [ProtFlow](https://github.com/mabr3112/ProtFlow) | automate protein design workflows with a python wrapper around common protein design tools (check out this [tutorial](https://www.youtube.com/watch?v=Rji1WPt_gig)) |
 | [biopipelines](https://github.com/locbp-uzh/biopipelines) | protein design workflows that can run in Jupyter notebooks and SLURM-based clusters |
 | [SplitSeek-Pro](https://github.com/alwaysniu/SplitSeek-Pro) | evaluate the feasibility of protein engineering strategies involving residue-level splitting, such as circular permutation or split–reconstitutions (check out the [webserver](https://splitseek.topo.bio/)) |
-
+| [atomworks](https://github.com/RosettaCommons/atomworks) | A generalized computational framework for biomolecular modeling |
 
 # Representation learning
 Tools for computing vectorial representations of protein sequences and structures for downstream tasks
@@ -273,7 +273,6 @@ Tools for computing vectorial representations of protein sequences and structure
 | [masif](https://github.com/LPDI-EPFL/masif) | molecular surface interaction fingerprints |
 | [peptidy](https://github.com/molML/peptidy) | vectorize proteins for machine learning applications |
 | [pypropel](https://github.com/2003100127/pypropel) | sequence and structural data preprocessing, feature generation, and post-processing for model performance evaluation and visualisation |
-| [atomworks](https://github.com/RosettaCommons/atomworks) | A generalized computational framework for biomolecular modeling |
 | [mini3di](https://github.com/althonos/mini3di) | NumPy port of the foldseek code for encoding protein structures to 3di |
 | [ESM-C](https://github.com/Biohub/esm#esmc) | protein language model that has learned representations of protein biology |
 
