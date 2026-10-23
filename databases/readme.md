@@ -156,6 +156,7 @@ Standardized datasets for comparing ML methods
 | [posebusters](https://github.com/maabuu/posebusters) |  checks for generated molecule poses |
 | [PDBench](https://github.com/wells-wood-research/PDBench) | evaluating fixed-backbone sequence design algorithms  |
 | [RNAGym](https://github.com/MarksLab-DasLab/RNAGym) | suite for RNA fitness and structure prediction  |
+| [cofoldarena](https://cofoldarena.ai/) | a PDB-synced leaderboard of open models, updated weekly |
 
 
 # Interesting repositories
