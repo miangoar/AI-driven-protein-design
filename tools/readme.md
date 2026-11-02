@@ -248,6 +248,8 @@ Tools for AI-driven protein design, including binders, stability optimization, a
 | [SplitSeek-Pro](https://github.com/alwaysniu/SplitSeek-Pro) | evaluate the feasibility of protein engineering strategies involving residue-level splitting, such as circular permutation or split–reconstitutions (check out the [webserver](https://splitseek.topo.bio/)) |
 | [atomworks](https://github.com/RosettaCommons/atomworks) | A generalized computational framework for biomolecular modeling |
 | [RFD4-Proteina](https://github.com/RosettaCommons/RFD4-Proteina) | Generative biopolymer design with rich conditioning |
+| [TorchX](https://github.com/Mingchenchen/TorchX) | Framework for Predicting, Designing, and Scoring Biomolecular Interactions |
+
 
 
 
