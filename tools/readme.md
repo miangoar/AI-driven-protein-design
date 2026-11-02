@@ -26,7 +26,7 @@ Tool categories:
 - [Statistics](#statistics)
 - [Data visualization](#data-visualization)
 - [Chatbots and agents](#chatbots-and-agents)
-
+- [skills](#skills)
 
 
 # Sequence-level analysis
@@ -247,6 +247,9 @@ Tools for AI-driven protein design, including binders, stability optimization, a
 | [biopipelines](https://github.com/locbp-uzh/biopipelines) | protein design workflows that can run in Jupyter notebooks and SLURM-based clusters |
 | [SplitSeek-Pro](https://github.com/alwaysniu/SplitSeek-Pro) | evaluate the feasibility of protein engineering strategies involving residue-level splitting, such as circular permutation or split–reconstitutions (check out the [webserver](https://splitseek.topo.bio/)) |
 | [atomworks](https://github.com/RosettaCommons/atomworks) | A generalized computational framework for biomolecular modeling |
+| [RFD4-Proteina](https://github.com/RosettaCommons/RFD4-Proteina) | Generative biopolymer design with rich conditioning |
+
+
 
 # Representation learning
 Tools for computing vectorial representations of protein sequences and structures for downstream tasks
@@ -542,6 +545,14 @@ Tools for scientific reasoning, literature review, and biological data explorati
 | [Futurehouse](https://platform.futurehouse.org/) |  agents for literature review and scientific reasoning |
 | [biomni](https://github.com/snap-stanford/biomni) | Multimodal AI system for biological data analysis  |
 | [OpenScholar](https://openscilm.allen.ai/) | retrieval-augmented LM that answers scientific queries |
-| [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Turn any AI agent into an AI Scientist with 166 scientific and research skills  |
 | []() |  |
+
+# skills
+Skills for agents
+| Name | Description | 
+|-----------|-----------| 
+| [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Turn any AI agent into an AI Scientist with 166 scientific and research skills  |
+| [schematic-figure](https://github.com/lgwrightlab/schematic-figure) | draws publication-quality scientific schematic figures as vector code |
+| [RFD4-Proteina Agent Skills](https://github.com/RosettaCommons/RFD4-Proteina/tree/main/skills) | skills for RFD4-Proteina |
+
 
