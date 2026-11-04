@@ -161,6 +161,7 @@ Tools for protein structure search, alignment, and comparison using geometric, t
 | [PAthreader](http://zhanglab-bioinf.com/PAthreader/) | remote homologous template recognition |
 | [alphafind](https://alphafind.ics.muni.cz/) | structure-based search of the entire AFDB and TED using Uniprot ID, PDB ID, or Gene Symbol |
 | [IPSAE](https://github.com/DunbrackLab/IPSAE) | Scoring function for interprotein interactions in AlphaFold2 and AlphaFold3 |
+| [IPSAE2](https://github.com/DunbrackLab/IPSAE2) | ipSAE scores for protein/protein, protein/ligand, protein/nucleic-acid complexes, etc. |
 | [LIVIA](https://github.com/flyark/LIVIA) | Scripts and Browser-based tools for analyzing protein-protein interactions |
 
 
