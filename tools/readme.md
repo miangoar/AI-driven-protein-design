@@ -313,6 +313,7 @@ Tools for designing protein sequences given protein backbone or structure
 | [Caliby](https://github.com/ProteinDesignLab/caliby) | Potts model-based protein sequence design method that can condition on structural ensembles |
 | [PottsMPNN](https://github.com/KeatingLab/PottsMPNN) | generate sequences and predict energies of mutations |
 | [DynamicMPNN](https://github.com/Alex-Abrudan/DynamicMPNN) | generates protein sequences compatible with multiple conformational states|
+| [ProtonPottsMPNN](https://github.com/christian-creator/ProtonPottsMPNN) |  designing pH-switchable binders |
 
 
 
