@@ -220,6 +220,8 @@ Tools for creating novel protein structures or complexes, with or without functi
 | [GENzyme](https://github.com/WillHua127/GENzyme) | design of catalytic pockets, enzymes, and enzyme-substrate complexes for any reaction |
 | [BoltzDesign1](https://github.com/yehlincho/BoltzDesign1) |  designing protein-protein interactions and biomolecular complexes |
 
+
+
 # Protein design
 Tools for AI-driven protein design, including binders, stability optimization, and functional engineering
 | Name | Description | 
@@ -250,6 +252,7 @@ Tools for AI-driven protein design, including binders, stability optimization, a
 | [atomworks](https://github.com/RosettaCommons/atomworks) | A generalized computational framework for biomolecular modeling |
 | [RFD4-Proteina](https://github.com/RosettaCommons/RFD4-Proteina) | Generative biopolymer design with rich conditioning |
 | [TorchX](https://github.com/Mingchenchen/TorchX) | Framework for Predicting, Designing, and Scoring Biomolecular Interactions |
+| [rgi_toolkit](https://github.com/cddlab/rgi_toolkit) | Restraint-Guided Inference applied to diffusion-based biomolecular structure predictors to control distances, angles, diehedrals, geometry, custom energies, etc |
 
 
 
