@@ -117,6 +117,7 @@ Tools for analysis, manipulation, validation, and characterization of protein st
 | [ProteinsPlus](https://proteins.plus/) | structure mining and modeling, focussing on protein-ligand interactions |
 | [CoEVFold](https://github.com/MishterBluesky/CoEVFold) | analyze protein co-evolution e.g. generating contact maps, gene networks, identifying homomeric and heteromeric interfaces |
 | [tmol](https://github.com/uw-ipd/tmol) | all-atom scoring, packing, minimization, and FastRelax in PyTorch. It batches proteins, nucleic acids, ligands, and complexes on CPU or gpu |
+| [pdb2reaction](https://github.com/t-0hmura/pdb2reaction) | analyzing reaction mechanisms in enzyme complexes and small molecules with machine-learning interatomic potentials |
 
 
 # Data access
