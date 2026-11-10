@@ -498,6 +498,7 @@ Tools that use the GPU for scientific computing, machine learning, and large-sca
 | [numba](https://github.com/numba/numba) | NumPy aware dynamic Python compiler  |
 | [flash-kmeans](https://github.com/svg-project/flash-kmeans) | Fast and memory-efficient exact kmeans |
 | [flashlib](https://github.com/FlashML-org/flashlib) | Fast and memory-efficient classical machine learning (kmeans, knn, pca, svd, dbscan, hdbscan, umap, t-sne, regression, GEMM, and more) |
+| [e-means](https://github.com/facebookresearch/faiss/tree/main/contrib/e_means) A modern, robust replacement for k-means implemented in FAISS |
 
 
 # Statistics
