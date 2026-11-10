@@ -118,6 +118,7 @@ Tools for analysis, manipulation, validation, and characterization of protein st
 | [CoEVFold](https://github.com/MishterBluesky/CoEVFold) | analyze protein co-evolution e.g. generating contact maps, gene networks, identifying homomeric and heteromeric interfaces |
 | [tmol](https://github.com/uw-ipd/tmol) | all-atom scoring, packing, minimization, and FastRelax in PyTorch. It batches proteins, nucleic acids, ligands, and complexes on CPU or gpu |
 | [pdb2reaction](https://github.com/t-0hmura/pdb2reaction) | analyzing reaction mechanisms in enzyme complexes and small molecules with machine-learning interatomic potentials |
+| [cms-cuda](https://github.com/ullahsamee/cms-cuda) | calculate the contact molecular surface shape complementarity between proteins/binders using a GPU |
 
 
 # Data access
