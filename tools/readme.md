@@ -393,6 +393,9 @@ Tools for visualization of proteins, structures, alignments, phylogenies, and mo
 | [Patinae (AKA PyMOL-RS)](https://github.com/zmactep/pymol-rs) | A Rust reimplementation of PyMOL |
 | [co-pymol](https://github.com/soo-jeongkim/co-pymol) | PyMOL plugin to drive PyMOL from Claude Code, Cursor, or any MCP client |
 | [pymol-chat](https://github.com/RomeroLab/pymol-chat) | Natural-language and voice control for PyMOL, integrated directly into the native interface.|
+| [molart](https://github.com/martin-steinegger/molart) | Artist-inspired renderings of real protein, DNA and RNA structures, in the browser |
+
+
 
 
 # Molecules & cheminformatics
