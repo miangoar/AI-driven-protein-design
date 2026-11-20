@@ -394,7 +394,7 @@ Tools for visualization of proteins, structures, alignments, phylogenies, and mo
 | [co-pymol](https://github.com/soo-jeongkim/co-pymol) | PyMOL plugin to drive PyMOL from Claude Code, Cursor, or any MCP client |
 | [pymol-chat](https://github.com/RomeroLab/pymol-chat) | Natural-language and voice control for PyMOL, integrated directly into the native interface.|
 | [molart](https://github.com/martin-steinegger/molart) | Artist-inspired renderings of real protein, DNA and RNA structures, in the browser |
-| [vitrify viewer](https://viewer.vitrify.ai/) | A molecule viewer in the style of Molecular Nodes, drawn live in your browser with WebGPU (See this [page](https://vitrify.ai/viewer)) for more details |
+| [vitrify viewer](https://viewer.vitrify.ai/) | A molecule viewer in the style of Molecular Nodes, drawn live in your browser with WebGPU (See this [page](https://vitrify.ai/viewer) for more details) |
 
 
 
