@@ -185,7 +185,9 @@ Note: resources marked with ⭐ are highly recommended
 | | [You could have designed state of the art positional encoding](https://huggingface.co/blog/designing-positional-encoding) | step-by-step discovery of state-of-the-art positional encoding in transformer models |
 | | [Is It Better to Rent or Buy a GPU?](https://www.gpu-rent-or-buy.com/) | a calculator to estimate whether it's better to rent or buy a specific GPU  |
 | | [The Ultimate MoE Training Handbook](https://huggingface.co/spaces/huggingface/moe-blogpost) | How to train a Mixture-of-Experts model at scale, setting by setting, with the runs that back each choice |
+| | [model barometer](https://modelbarometer.com/) | A ranking built from public posts. It measures what people say about a model, not how the model does on tests. |
 | | []() |  |
+
 
 # Python and computer science  
 ## Courses
