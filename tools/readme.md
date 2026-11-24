@@ -119,6 +119,7 @@ Tools for analysis, manipulation, validation, and characterization of protein st
 | [tmol](https://github.com/uw-ipd/tmol) | all-atom scoring, packing, minimization, and FastRelax in PyTorch. It batches proteins, nucleic acids, ligands, and complexes on CPU or gpu |
 | [pdb2reaction](https://github.com/t-0hmura/pdb2reaction) | analyzing reaction mechanisms in enzyme complexes and small molecules with machine-learning interatomic potentials |
 | [cms-cuda](https://github.com/ullahsamee/cms-cuda) | calculate the contact molecular surface shape complementarity between proteins/binders using a GPU |
+| [Residue Interaction Network Generator (RING)](https://ring.biocomputingup.it/) | generates residue interaction networks from protein structures considering distances, angles, and chemical properties to assign contacts |
 
 
 # Data access
