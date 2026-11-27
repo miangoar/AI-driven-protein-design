@@ -397,7 +397,7 @@ Tools for visualization of proteins, structures, alignments, phylogenies, and mo
 | [molart](https://github.com/martin-steinegger/molart) | Artist-inspired renderings of real protein, DNA and RNA structures, in the browser |
 | [vitrify viewer](https://viewer.vitrify.ai/) | A molecule viewer in the style of Molecular Nodes, drawn live in your browser with WebGPU (See this [page](https://vitrify.ai/viewer) for more details) |
 | [chimenodes](https://github.com/anirudhbhashyam/chimenodes) | A ChimeraX bundle that emulates the look of MolecularNodes |
-
+| [PyMOL-Wasm](https://pdbms.altervista.org/pymol-wasm/v3/) | PyMOL running in your browser |
 
 
 
